@@ -1,0 +1,8 @@
+<map id="sqlite3VtabCallConnect" name="sqlite3VtabCallConnect">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a85465ef27057193295e321f0caf488ed" title="sqlite3GetVTable" alt="" coords="217,5,339,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1bb83282c04c104ba033c3f5eb9556d2" title="sqlite3HashFind" alt="" coords="221,56,335,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="393,132,501,159"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="221,208,335,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="396,208,499,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#acae1b4d5d02b25f4cac29993dae7f983" title="vtabCallConstructor" alt="" coords="211,157,345,184"/>
+</map>

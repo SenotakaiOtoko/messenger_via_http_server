@@ -1,0 +1,13 @@
+<map id="sqlite3VdbeHalt" name="sqlite3VdbeHalt">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af1ac189735864dd6989a8c5af4557547" title="closeAllCursors" alt="" coords="209,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9e2be2ea94b096630913241be7a7c99f" title="sqlite3VdbeEnter" alt="" coords="205,56,327,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad902dd388d73208539f557962e3fe6bb" title="sqlite3RollbackAll" alt="" coords="203,107,329,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab5403c6b2dae2f11e74116b8535cf82b" title="sqlite3CloseSavepoints" alt="" coords="188,157,344,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="413,208,516,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7734bae391da8cc517e518fb1eddcac7" title="sqlite3VdbeCheckFk" alt="" coords="195,259,337,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#acb859cd67daac2af35cabdb7b5b706f5" title="sqlite3VdbeLeave" alt="" coords="205,309,327,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="219,360,313,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a1c26fb995a23591a1f6592d008e3e237" title="sqlite3CommitInternalChanges" alt="" coords="167,411,365,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a4c26892e24ee00a0b5ba3bdeaf2d36fa" title="sqlite3VdbeCloseStatement" alt="" coords="175,461,357,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#aed080bc0208a1ea602e625d9381f25c0" title="sqlite3VdbeSetChanges" alt="" coords="185,512,347,539"/>
+</map>

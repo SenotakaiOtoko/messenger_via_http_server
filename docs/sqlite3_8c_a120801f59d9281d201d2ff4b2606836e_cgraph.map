@@ -1,0 +1,14 @@
+<map id="codeTriggerProgram" name="codeTriggerProgram">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="205,38,306,65"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0aefd237fc1d629f3a3d3d454ced408a" title="sqlite3VdbeAddOp0" alt="" coords="369,38,506,65"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac6d5dbd67ce267b4bbee4c03f050ef69" title="targetSrcList" alt="" coords="207,342,303,369"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#abfb0903f2fc516fcceec37b3489d528c" title="sqlite3ExprListDup" alt="" coords="372,190,503,217"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a509095508224c9f99698d86205234209" title="sqlite3ExprDup" alt="" coords="556,190,667,217"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="209,444,301,470"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="370,418,505,445"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#af8a7f75590dced000c27784d90b57b87" title="sqlite3SelectDup" alt="" coords="195,241,315,268"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ac93854367d6e355c60ac6f40f3fe69a1" title="sqlite3IdListDup" alt="" coords="198,494,313,521"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="192,545,319,572"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a6459da5181d51d54ae4ac790c381ac2c" title="sqlite3SelectDestInit" alt="" coords="367,292,508,318"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a2465ee8c956209ba4b272477b7c21a45" title="sqlite3Select" alt="" coords="207,140,304,166"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pager_lookup" name="pager_lookup">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="163,5,317,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#adfca1dee9939482792fe2b4ed982d00e" title="pager_playback_one_page" alt="" coords="152,56,328,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="177,107,303,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8cdedc7a185709301f12c4d7b305aa1e" title="sqlite3PagerMovepage" alt="" coords="376,132,528,159"/>
+</map>

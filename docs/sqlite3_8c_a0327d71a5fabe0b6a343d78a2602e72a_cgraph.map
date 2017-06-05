@@ -1,0 +1,10 @@
+<map id="sqlite3Parser" name="sqlite3Parser">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa86923ecccad4f6d79295f099b46f67a" title="yyStackOverflow" alt="" coords="535,91,653,118"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa142fdd91628fd550751c6ef4e29b603" title="yy_pop_parser_stack" alt="" coords="701,123,848,150"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afca0f0d2a9c0e0ca0625382394fa060e" title="yy_destructor" alt="" coords="896,208,997,235"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae94e08f5e995194c50f04c64a7aa659c" title="yy_find_shift_action" alt="" coords="152,142,288,168"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a49026332b2b85d2ae13efa4d955b7a94" title="yy_shift" alt="" coords="378,91,445,118"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="179,192,261,219"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a913a1adf7c0f47e794123d9daf284d1c" title="yy_find_reduce_action" alt="" coords="336,218,487,244"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a9cb4087abc3aaed2095d574857968d1d" title="yy_syntax_error" alt="" coords="163,344,277,371"/>
+</map>

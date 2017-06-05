@@ -1,0 +1,11 @@
+<map id="sqlite3DefaultMutex" name="sqlite3DefaultMutex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9b56fdbde7f0727defee410d73c40016" title="pthreadMutexInit" alt="" coords="197,5,316,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afcfa342e4b8a9b4debd150577fa7dd8d" title="pthreadMutexEnd" alt="" coords="195,56,319,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a42290854458de8191cc8762a838e3092" title="pthreadMutexAlloc" alt="" coords="191,107,322,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="372,145,495,172"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac2abf0acf925b9e3feecb4c0f3e10003" title="pthreadMutexFree" alt="" coords="193,208,320,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="389,221,477,248"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a16e99241f37f67ad7659d347dedc6eba" title="pthreadMutexEnter" alt="" coords="191,309,323,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a3179009778d803b8bbdfbcdcb8b9e0c5" title="pthreadMutexTry" alt="" coords="197,360,316,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#aff5e74cc87a074eb386c1049425b7595" title="pthreadMutexLeave" alt="" coords="189,411,324,437"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mg_parse_http" name="mg_parse_http">
+<area shape="rect" id="node2" href="$mongoose_8c.html#ab156d0f1a0a22c92ba395cac3f54051a" title="mg_http_get_request_len" alt="" coords="161,5,329,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a34ce53b012baf95a3dcb32c70b2a6171" title="mg_skip" alt="" coords="377,81,448,108"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a860ba345900d21b0682b574f9925d050" title="mg_http_parse_headers" alt="" coords="165,107,326,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#aac047aac9e37140462c7722dbe77e92f" title="mg_vcasecmp" alt="" coords="193,157,298,184"/>
+</map>

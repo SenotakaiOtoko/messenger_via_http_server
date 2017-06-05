@@ -1,0 +1,8 @@
+<map id="pager_open_journal" name="pager_open_journal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="219,5,319,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0a60c2422cf28790767f5bc7598514ee" title="sqlite3BitvecCreate" alt="" coords="202,56,335,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad464be0cdcbcfad82c33db47ba916bf4" title="sqlite3MemJournalOpen" alt="" coords="188,107,349,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a12a1f3451e28f9cecd19cf0bb4f8f416" title="sqlite3OsOpen" alt="" coords="215,157,323,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a0b0a4fa9c3fe997aaa565b1e438acca7" title="writeJournalHdr" alt="" coords="213,208,324,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="199,259,339,285"/>
+</map>

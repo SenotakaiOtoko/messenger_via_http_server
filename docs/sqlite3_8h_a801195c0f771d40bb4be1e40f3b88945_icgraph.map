@@ -1,0 +1,12 @@
+<map id="sqlite3_finalize" name="sqlite3_finalize">
+<area shape="rect" id="node2" href="$db__plugin__sqlite_8c.html#abf59574b5a02f704fc678fdb16677ab3" title="Функция выполняет проверку авторизации " alt="" coords="205,47,294,74"/>
+<area shape="rect" id="node3" href="$db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="392,22,492,48"/>
+<area shape="rect" id="node4" href="$db__plugin__sqlite_8c.html#a6674451cff020de5748bdc298a212207" title="Функция api отправки сообщения " alt="" coords="387,84,497,111"/>
+<area shape="rect" id="node5" href="$db__plugin__sqlite_8c.html#acd5ff53565d4383be27bff6f8309db01" title="Функция достаёт данные о пользователе из базы данных " alt="" coords="187,148,312,175"/>
+<area shape="rect" id="node6" href="$db__plugin__sqlite_8c.html#aac058d44b78ba7f125d172c1f8152bc4" title="Функция api регистрации нового пользователя " alt="" coords="201,199,298,226"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#afff57e13332b98c8a44a7cebe38962ab" title="blobSeekToRow" alt="" coords="192,250,307,276"/>
+<area shape="rect" id="node8" href="$sqlite3_8h.html#a8885ae884821e14e1e4501183c5833d6" title="sqlite3_blob_close" alt="" coords="185,300,314,327"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aaeda0302fbf61397ec009f65bed047ef" title="sqlite3DeleteIndexSamples" alt="" coords="160,351,339,378"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5183ff3c8b5311c7332250013ee018b3" title="sqlite3InitCallback" alt="" coords="186,402,313,428"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a5db1ec5589aa2b02c6d979211a8789bd" title="sqlite3LockAndPrepare" alt="" coords="171,452,327,479"/>
+</map>

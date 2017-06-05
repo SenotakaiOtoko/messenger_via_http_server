@@ -1,0 +1,7 @@
+<map id="sqlite3ValueText" name="sqlite3ValueText">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="669,98,804,125"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa7cf8e488bf8cf9ec18528f52a40de31" title="sqlite3VdbeChangeEncoding" alt="" coords="424,98,612,125"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afabdd8032205a36c69ad191c6bbb6a34" title="sqlite3VdbeMemMakeWriteable" alt="" coords="415,48,621,74"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad72ffa8a87fad7797ceeca0682df6aa3" title="sqlite3VdbeMemNulTerminate" alt="" coords="172,200,367,226"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad78aa19c2a115f277a15a3ce8fc54306" title="sqlite3VdbeMemStringify" alt="" coords="186,149,353,176"/>
+</map>

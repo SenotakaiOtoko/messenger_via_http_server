@@ -1,0 +1,6 @@
+<map id="journalHdrOffset" name="journalHdrOffset">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0b0a4fa9c3fe997aaa565b1e438acca7" title="writeJournalHdr" alt="" coords="178,5,289,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a53f9f2b680d397f110a892f8931623c6" title="syncJournal" alt="" coords="347,31,437,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4367a6db0dfbaacd476aeecccc99904b" title="readJournalHdr" alt="" coords="179,107,287,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6df09ec3e85ec74c6ee0bbbbe72a8cf3" title="writeMasterJournal" alt="" coords="168,157,299,184"/>
+</map>

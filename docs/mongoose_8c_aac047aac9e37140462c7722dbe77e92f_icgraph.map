@@ -1,0 +1,8 @@
+<map id="mg_vcasecmp" name="mg_vcasecmp">
+<area shape="rect" id="node2" href="$mongoose_8h.html#ae0607c1237c089d738025538b95c3318" title="mg_vcmp" alt="" coords="205,80,282,107"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="376,29,513,56"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a38631bcf9f50213200764415341c59b0" title="mg_parse_http_basic_auth" alt="" coords="561,80,740,107"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a43b2f46117fcba6107a1efa573d2b496" title="mg_http_conn_destructor" alt="" coords="159,181,328,208"/>
+<area shape="rect" id="node6" href="$mongoose_8h.html#a491a8389c337a0b86153dfabfde2930c" title="mg_parse_http" alt="" coords="189,232,297,259"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#ae182a242c35980983fd9f64fbefdd6d9" title="mg_http_handler" alt="" coords="385,257,504,284"/>
+</map>

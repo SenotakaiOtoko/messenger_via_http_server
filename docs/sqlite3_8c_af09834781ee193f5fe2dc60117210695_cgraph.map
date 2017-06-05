@@ -1,0 +1,6 @@
+<map id="sqlite3OpenMasterTable" name="sqlite3OpenMasterTable">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="236,5,347,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a13be5e81f379c515f270f6f2a3bb63a7" title="sqlite3TableLock" alt="" coords="232,56,351,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a29b4560b019211a73e1478cec7468345" title="sqlite3VdbeAddOp3" alt="" coords="223,107,360,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#add0d891a062d044a0c7e6fc072702830" title="sqlite3VdbeChangeP4" alt="" coords="216,157,367,184"/>
+</map>

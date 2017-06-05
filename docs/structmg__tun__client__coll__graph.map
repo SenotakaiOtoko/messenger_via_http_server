@@ -1,0 +1,6 @@
+<map id="mg_tun_client" name="mg_tun_client">
+<area shape="rect" id="node2" href="$structmg__mgr.html" title="{mg_mgr\n|+ user_data\l+ num_ifaces\l|}" alt="" coords="123,5,223,97"/>
+<area shape="rect" id="node3" href="$structmg__connection.html" title="{mg_connection\n|+ sock\l+ err\l+ recv_mbuf_limit\l+ last_io_time\l+ ev_timer_time\l+ proto_data\l+ proto_data_destructor\l+ user_data\l+ v\l+ priv_1\l+ priv_2\l+ mgr_data\l+ flags\l|}" alt="" coords="66,300,226,553"/>
+<area shape="rect" id="node4" href="$structmg__iface.html" title="{mg_iface\n|+ data\l|}" alt="" coords="319,160,394,237"/>
+<area shape="rect" id="node5" href="$structmg__tun__ssl__opts.html" title="{mg_tun_ssl_opts\n|+ dummy\l|}" alt="" coords="449,388,571,465"/>
+</map>

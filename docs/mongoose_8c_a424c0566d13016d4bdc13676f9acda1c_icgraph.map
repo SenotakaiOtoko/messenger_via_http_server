@@ -1,0 +1,7 @@
+<map id="mg_asprintf" name="mg_asprintf">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a629bf8d53c4ed29e29574933681a2bd4" title="mg_casecmp" alt="" coords="170,5,270,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a38631bcf9f50213200764415341c59b0" title="mg_parse_http_basic_auth" alt="" coords="345,31,524,57"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a984773b80f958b983265208dd054b500" title="mg_http_send_redirect" alt="" coords="143,107,297,133"/>
+<area shape="rect" id="node5" href="$mongoose_8h.html#a0e2c21fb32382c57e15c60b05c4a13a6" title="mg_mqtt_disconnect" alt="" coords="149,157,291,184"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a2466b34f0cd9529a3fd31b1757937f49" title="mg_tun_send_frame" alt="" coords="151,208,289,235"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mg_avprintf" name="mg_avprintf">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a02baa6e213509fe13515d82681d6f2d9" title="mg_asprintf" alt="" coords="173,5,263,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a361ad3a39d0a8304514c5cc8074fb3c3" title="mg_vprintf" alt="" coords="178,56,258,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#ad6216276f7a0b334ad97aafcc95f677f" title="mg_printf_http_chunk" alt="" coords="145,107,291,133"/>
+<area shape="rect" id="node5" href="$mongoose_8h.html#a565a83b815183775e6788c032cabcb4e" title="mg_printf_html_escape" alt="" coords="140,157,296,184"/>
+<area shape="rect" id="node6" href="$mongoose_8h.html#a8ba0ed8d1d0901fcba91c0615ad50f21" title="mg_printf_websocket\l_frame" alt="" coords="146,209,290,250"/>
+</map>

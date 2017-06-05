@@ -1,0 +1,9 @@
+<map id="sqlite3LockAndPrepare" name="sqlite3LockAndPrepare">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab15308423296d719d75dca4c0ef182a7" title="sqlite3SafetyCheckOk" alt="" coords="209,5,360,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="408,132,547,159"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7e8c5e623a61d322d3622c3e6202d735" title="sqlite3BtreeEnterAll" alt="" coords="216,107,353,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acb25890858d0bf4b12eb7aae569f0c7b" title="sqlite3Prepare" alt="" coords="232,157,337,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="231,208,338,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a282e5f429eee8e0aebc7d18068ebccd2" title="sqlite3BtreeLeaveAll" alt="" coords="215,259,354,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="215,309,354,336"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sqlite3BtreeClose" name="sqlite3BtreeClose">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0f9084083e1d0639708934630f33d6ef" title="sqlite3VdbeFreeCursor" alt="" coords="193,5,347,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="227,56,313,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a2b3dd04cb87abd088926ab0082a60b77" title="detachFunc" alt="" coords="225,107,315,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a759777a1eb3c3e96a5af94932b39e69a" title="invalidateTempStorage" alt="" coords="194,157,346,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5e83ddc7b3e7e8e79ad5d1fc92de1d2f" title="sqlite3RunVacuum" alt="" coords="205,208,335,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#afe3a37c29dcb0fe9fc15fe07a3976f59" title="sqlite3LeaveMutexAndClose\lZombie" alt="" coords="177,259,363,301"/>
+</map>

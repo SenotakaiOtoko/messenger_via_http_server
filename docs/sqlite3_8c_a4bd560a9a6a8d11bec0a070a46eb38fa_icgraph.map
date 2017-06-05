@@ -1,0 +1,8 @@
+<map id="sqlite3CompareAffinity" name="sqlite3CompareAffinity">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a288a61b5d72d6974ed9b0bb4f57f45ac" title="comparisonAffinity" alt="" coords="227,5,355,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5f42574a5d9dbf7676234b08f17dcb23" title="binaryCompareP5" alt="" coords="228,56,353,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a28a19a72e49dbeaaed8a38c573d906ef" title="selectInnerLoop" alt="" coords="234,107,347,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1ec443eff11af02d52a193c4bfa3591c" title="generateOutputSubroutine" alt="" coords="204,157,377,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a626be710f5fa4c06c5a4b4480b951e9f" title="codeAllEqualityTerms" alt="" coords="217,208,365,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7b24987855c8f506fce74b71506dd3c4" title="codeOneLoopStart" alt="" coords="425,233,556,260"/>
+</map>

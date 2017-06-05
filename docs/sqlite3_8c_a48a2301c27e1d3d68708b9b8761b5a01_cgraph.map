@@ -1,0 +1,9 @@
+<map id="sqlite3AnalysisLoad" name="sqlite3AnalysisLoad">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a990da271cc28536b6d63cd17521497c0" title="sqlite3DefaultRowEst" alt="" coords="209,5,354,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aaeda0302fbf61397ec009f65bed047ef" title="sqlite3DeleteIndexSamples" alt="" coords="192,208,371,235"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="425,107,528,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#afa51dbee6173bf3a8a3df76b07cea789" title="sqlite3FindTable" alt="" coords="419,259,535,285"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="426,183,527,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a97487ec8150e0bcc8fa392ab8f0e24db" title="sqlite3_exec" alt="" coords="234,56,329,83"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#abb38e5b97f93c8a9775233bb28cb1e17" title="analysisLoader" alt="" coords="227,259,336,285"/>
+</map>

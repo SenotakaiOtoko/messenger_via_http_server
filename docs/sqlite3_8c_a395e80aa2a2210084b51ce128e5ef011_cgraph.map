@@ -1,0 +1,6 @@
+<map id="bestIndex" name="bestIndex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab7c738c15aa046885689946645ad38ab" title="bestVirtualIndex" alt="" coords="132,5,247,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="445,56,533,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="295,56,397,83"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad32063b4fbc822986766588a51ffff64" title="bestBtreeIndex" alt="" coords="135,157,244,184"/>
+</map>

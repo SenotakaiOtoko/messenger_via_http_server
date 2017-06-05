@@ -1,0 +1,20 @@
+<map id="sqlite3_value_type" name="sqlite3_value_type">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a88586fabfb5a2ee248ccf6f5dfb90904" title="isDate" alt="" coords="223,5,281,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a384086b220821bc71e9a3f900773a25d" title="sqlite3_column_type" alt="" coords="181,56,323,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="209,107,295,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4d00f48b948fd73cb70bcfd1efc0bfb0" title="minmaxFunc" alt="" coords="203,157,301,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aba6c564ff0d6b017de448469d0fb243f" title="typeofFunc" alt="" coords="209,208,295,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#affdabf006c37c26a1c3e325badb83546" title="lengthFunc" alt="" coords="209,259,295,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#af271994a34f441432d50d7095e0ed23d" title="absFunc" alt="" coords="216,309,288,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a8f86ca540b92ac28aaefaa126170cf8c" title="instrFunc" alt="" coords="214,360,290,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a8a8739d9af5589338113371e440b2734" title="substrFunc" alt="" coords="209,411,295,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a8c444ba254edc27891111b76e7ba85e7" title="roundFunc" alt="" coords="211,461,293,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a8e64c0ef376144dfad6a4a3d499056b8" title="quoteFunc" alt="" coords="211,512,293,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a752b98a7c55d204c397a4902b49b1ce4" title="replaceFunc" alt="" coords="205,563,299,589"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#afad56dbe7f08139a630156e644b14704" title="trimFunc" alt="" coords="215,613,289,640"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a6122bfe2272913c3e43f0a06184e135e" title="countStep" alt="" coords="211,664,293,691"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a5b4c0da0f3b61d7ff25ebd30aa22cca4" title="minmaxStep" alt="" coords="205,715,299,741"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a5267fc47d0a0d9a8f128c59d100e645d" title="groupConcatStep" alt="" coords="191,765,313,792"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a6c38e495198bf8976f68d1a6ebd74a50" title="isLikeOrGlob" alt="" coords="203,816,301,843"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#ab7c738c15aa046885689946645ad38ab" title="bestVirtualIndex" alt="" coords="195,867,309,893"/>
+</map>

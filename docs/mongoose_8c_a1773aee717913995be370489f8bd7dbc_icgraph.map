@@ -1,0 +1,5 @@
+<map id="mg_open_listening_socket" name="mg_open_listening_socket">
+<area shape="rect" id="node2" href="$mongoose_8h.html#ae07fb4118f72fef257b9d22bc2c805bf" title="mg_find_iface" alt="" coords="261,5,363,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ac4a735bfb285d9df62abeacf50f6abfc" title="mg_socket_if_listen_tcp" alt="" coords="231,56,393,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2ffc501e05653f5edd30caaf7c57284c" title="mg_socket_if_listen_udp" alt="" coords="229,107,395,133"/>
+</map>

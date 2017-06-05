@@ -1,0 +1,5 @@
+<map id="sqlite3PagerCommitPhaseTwo" name="sqlite3PagerCommitPhaseTwo">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="453,5,553,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="252,31,405,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac15e13c61047b37098e21115614ddd22" title="pager_error" alt="" coords="285,81,372,108"/>
+</map>

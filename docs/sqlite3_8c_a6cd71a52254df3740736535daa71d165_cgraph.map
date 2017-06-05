@@ -1,0 +1,9 @@
+<map id="vdbeSorterListToPMA" name="vdbeSorterListToPMA">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a57b64850b3785800d12283c4527250b4" title="vdbeSorterSort" alt="" coords="230,5,337,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a62fa77a126f24c8156bb3945cb559f50" title="vdbeSorterOpenTempFile" alt="" coords="200,56,367,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6ceffd1f2b94c5823e9f07354f4bcd3e" title="fileWriterInit" alt="" coords="238,107,329,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a738d55beb6fd12bed8c8ccbf733bf698" title="fileWriterWriteVarint" alt="" coords="214,157,353,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa2ddf3a62c42c04e75d519b9c3e8566c" title="fileWriterWrite" alt="" coords="415,196,519,223"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="415,272,518,299"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#afdcee17c852513565555cf863f98b729" title="fileWriterFinish" alt="" coords="229,309,337,336"/>
+</map>

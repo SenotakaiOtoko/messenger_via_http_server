@@ -1,0 +1,9 @@
+<map id="sqlite3_value_double" name="sqlite3_value_double">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a88586fabfb5a2ee248ccf6f5dfb90904" title="isDate" alt="" coords="243,5,301,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a368632d32e55eaa325cb7272effffaba" title="sqlite3_column_double" alt="" coords="195,56,349,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af271994a34f441432d50d7095e0ed23d" title="absFunc" alt="" coords="236,107,308,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8c444ba254edc27891111b76e7ba85e7" title="roundFunc" alt="" coords="231,157,313,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8e64c0ef376144dfad6a4a3d499056b8" title="quoteFunc" alt="" coords="231,208,313,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a357caed2b7201c57a80525a53e3c7487" title="sumStep" alt="" coords="235,259,309,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ab7c738c15aa046885689946645ad38ab" title="bestVirtualIndex" alt="" coords="215,309,329,336"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="sqlite3VdbeUsesBtree" name="sqlite3VdbeUsesBtree">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a52c71cba3d53e0eb5c0c785ef9a7ec8f" title="sqlite3VdbeAddParseSchemaOp" alt="" coords="204,5,416,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#adb8ad839a5bdd62a43785132bc7dd518" title="sqlite3_blob_open" alt="" coords="247,56,373,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afda39106451b0eb062fa54d5b9d36aec" title="sqlite3MinimumFileFormat" alt="" coords="223,107,397,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a651bc5b446c276c092705856d995b278" title="sqlite3FinishCoding" alt="" coords="243,157,377,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af49b4395f39d9078a0dda2484c183012" title="sqlite3StartTable" alt="" coords="251,208,369,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#abfb93cfc61e03b96fc07c5bb4a42c51d" title="sqlite3BeginTransaction" alt="" coords="230,259,390,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="257,309,363,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a159c3c7dc3c5964ea3f83a45f995b6a8" title="sqlite3Vacuum" alt="" coords="256,360,364,387"/>
+</map>

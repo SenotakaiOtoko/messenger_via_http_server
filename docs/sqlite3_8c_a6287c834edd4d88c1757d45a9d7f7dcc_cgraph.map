@@ -1,0 +1,8 @@
+<map id="pager_write_pagelist" name="pager_write_pagelist">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="233,5,333,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aebcb4ac28e13fcb66454bb555327c331" title="pagerOpentemp" alt="" coords="226,56,341,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a63d0693fc056b088572daedace58e82f" title="sqlite3OsFileControlHint" alt="" coords="202,107,365,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#afd08ca92c5087db71f9b3a7cd9343057" title="pager_write_changecounter" alt="" coords="193,157,373,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="229,208,337,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a928fd0b03c8d689beb3b81d73e9c713c" title="sqlite3BackupUpdate" alt="" coords="211,259,356,285"/>
+</map>

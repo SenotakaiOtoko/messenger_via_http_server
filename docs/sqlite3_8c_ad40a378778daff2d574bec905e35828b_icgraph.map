@@ -1,0 +1,9 @@
+<map id="sqlite3ValueNew" name="sqlite3ValueNew">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="203,5,291,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af103c812684544760641a1cd4d9745df" title="sqlite3ValueFromExpr" alt="" coords="172,56,323,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5d0e33f6d34abf28785bb1ca15bf7b66" title="sqlite3VdbeGetValue" alt="" coords="175,107,319,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4b69d70c8956d161ab4ec05d87ae1054" title="callCollNeeded" alt="" coords="193,157,301,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aef0653bbfc92355fa0328e75c7fcffaf" title="whereRangeScanEst" alt="" coords="176,208,319,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8h.html#a3260341c2ef82787acca48414a1d03a1" title="sqlite3_complete16" alt="" coords="180,259,315,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8h.html#adbc401bb96713f32e553db32f6f3ca33" title="sqlite3_open16" alt="" coords="193,309,302,336"/>
+</map>

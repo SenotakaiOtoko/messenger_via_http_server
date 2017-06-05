@@ -1,0 +1,6 @@
+<map id="sqlite3AlterFunctions" name="sqlite3AlterFunctions">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aad60fbd27dbc13ef0d06ac3f2d2fc594" title="renameTableFunc" alt="" coords="205,5,330,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad20a735ddb4907a5d46c017da75a3a12" title="renameTriggerFunc" alt="" coords="201,56,334,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8d4f2e761693277684d0a9b45812b73d" title="renameParentFunc" alt="" coords="201,107,333,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4792ef11f826665b64987bd051fa5a20" title="sqlite3FuncDefInsert" alt="" coords="197,157,337,184"/>
+</map>

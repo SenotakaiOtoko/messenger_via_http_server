@@ -1,0 +1,11 @@
+<map id="sqlite3FkDropTable" name="sqlite3FkDropTable">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="421,56,532,83"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2337ae2a0965bfde19e983555bb78c01" title="sqlite3FkReferences" alt="" coords="196,309,336,336"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acf57ce8fb6f3c634375c019f5ebe66f6" title="sqlite3VdbeMakeLabel" alt="" coords="400,132,553,159"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae87204d7b069da19e4db0404c6deaae5" title="sqlite3VdbeAddOp2" alt="" coords="408,208,545,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="203,157,329,184"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a0a86f82356e392d9a84a008559c1aeeb" title="sqlite3VdbeResolveLabel" alt="" coords="393,259,560,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a915ece76ebeede6852f63a447753ef9f" title="sqlite3SrcListDup" alt="" coords="204,360,328,387"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a5e2bf0933a091bdfd7f0acd86a894889" title="sqlite3VdbeCurrentAddr" alt="" coords="187,411,345,437"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#afdce3be98e8b53068dba42e8e785b45d" title="sqlite3HaltConstraint" alt="" coords="195,5,337,32"/>
+</map>

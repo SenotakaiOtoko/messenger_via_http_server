@@ -1,0 +1,11 @@
+<map id="sqlite3OsSync" name="sqlite3OsSync">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6e1592949a5e668f43f0ff5f5d08fe10" title="zeroJournalHdr" alt="" coords="195,5,303,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2cdd04fa2ecbee5b6ebb62403bc81cee" title="pagerSyncHotJournal" alt="" coords="176,56,321,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a53f9f2b680d397f110a892f8931623c6" title="syncJournal" alt="" coords="203,107,294,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a01cc8aae7334af5923c075cd3ba049e1" title="sqlite3PagerSync" alt="" coords="187,157,311,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab5245070ab67db40291c71c4991aa317" title="walCheckpoint" alt="" coords="195,208,302,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a82466bed614b85599272d77ed66efb64" title="walWriteToLog" alt="" coords="195,259,302,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#af9606aac275558d3b96c83b2bff2d717" title="sqlite3WalFrames" alt="" coords="185,309,312,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="202,360,295,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ab27c22e7c756912699880a12b4f262d3" title="sqlite3VdbeSorterCompare" alt="" coords="160,411,337,437"/>
+</map>

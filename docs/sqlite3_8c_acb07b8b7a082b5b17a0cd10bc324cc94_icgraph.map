@@ -1,0 +1,5 @@
+<map id="walCleanupHash" name="walCleanupHash">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a610585027d507a9b1c4a3d83bf01f517" title="walIndexAppend" alt="" coords="199,5,315,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9a106da99e04f3c34f90e9ca15678953" title="sqlite3WalUndo" alt="" coords="200,56,313,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acadd357868ee08e816276be2170e0904" title="sqlite3WalSavepointUndo" alt="" coords="172,107,341,133"/>
+</map>

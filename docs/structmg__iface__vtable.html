@@ -1,0 +1,347 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура mg_iface_vtable</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура mg_iface_vtable</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p><code>#include &lt;<a class="el" href="mongoose_8h_source.html">mongoose.h</a>&gt;</code></p>
+<div class="dynheader">
+Граф связей класса mg_iface_vtable:</div>
+<div class="dyncontent">
+<div class="center"><img src="structmg__iface__vtable__coll__graph.png" border="0" usemap="#mg__iface__vtable_coll__map" alt="Collaboration graph"/></div>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:a38012f25f563668d10f3009b0812082d"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#a38012f25f563668d10f3009b0812082d">init</a> )(struct <a class="el" href="structmg__iface.html">mg_iface</a> *iface)</td></tr>
+<tr class="separator:a38012f25f563668d10f3009b0812082d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa40c3dfe9956bdba08540cdb22f3eb2f"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#aa40c3dfe9956bdba08540cdb22f3eb2f">free</a> )(struct <a class="el" href="structmg__iface.html">mg_iface</a> *iface)</td></tr>
+<tr class="separator:aa40c3dfe9956bdba08540cdb22f3eb2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49c784dbcafa694a966c60721565eb82"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#a49c784dbcafa694a966c60721565eb82">add_conn</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td></tr>
+<tr class="separator:a49c784dbcafa694a966c60721565eb82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee353854e7ec7499b0a9bdc852e256f8"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#aee353854e7ec7499b0a9bdc852e256f8">remove_conn</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td></tr>
+<tr class="separator:aee353854e7ec7499b0a9bdc852e256f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad23933757546fff4cda17bed196e674e"><td class="memItemLeft" align="right" valign="top">time_t(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#ad23933757546fff4cda17bed196e674e">poll</a> )(struct <a class="el" href="structmg__iface.html">mg_iface</a> *iface, int timeout_ms)</td></tr>
+<tr class="separator:ad23933757546fff4cda17bed196e674e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace2ef4d361d5b98a018f81a3173fa5f1"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#ace2ef4d361d5b98a018f81a3173fa5f1">listen_tcp</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, union <a class="el" href="unionsocket__address.html">socket_address</a> *sa)</td></tr>
+<tr class="separator:ace2ef4d361d5b98a018f81a3173fa5f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2587ca773f8eb38aa05b766278b603eb"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#a2587ca773f8eb38aa05b766278b603eb">listen_udp</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, union <a class="el" href="unionsocket__address.html">socket_address</a> *sa)</td></tr>
+<tr class="separator:a2587ca773f8eb38aa05b766278b603eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b5fc24b6bc1da65b9315de3b31f1e41"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#a2b5fc24b6bc1da65b9315de3b31f1e41">connect_tcp</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const union <a class="el" href="unionsocket__address.html">socket_address</a> *sa)</td></tr>
+<tr class="separator:a2b5fc24b6bc1da65b9315de3b31f1e41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54ddd3243a51fc903bcb643cb2b26f6c"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#a54ddd3243a51fc903bcb643cb2b26f6c">connect_udp</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td></tr>
+<tr class="separator:a54ddd3243a51fc903bcb643cb2b26f6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0ef7bc3c01db17014521981b997f051"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#ad0ef7bc3c01db17014521981b997f051">tcp_send</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const void *buf, size_t len)</td></tr>
+<tr class="separator:ad0ef7bc3c01db17014521981b997f051"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8880f3cc035ec124c126cc813f593fc4"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#a8880f3cc035ec124c126cc813f593fc4">udp_send</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const void *buf, size_t len)</td></tr>
+<tr class="separator:a8880f3cc035ec124c126cc813f593fc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f745ce01888d260c0fb8eba7d20943c"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#a1f745ce01888d260c0fb8eba7d20943c">recved</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, size_t len)</td></tr>
+<tr class="separator:a1f745ce01888d260c0fb8eba7d20943c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a5e1ca02c0cd4f7905f45bf4f334dc2"><td class="memItemLeft" align="right" valign="top">int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#a8a5e1ca02c0cd4f7905f45bf4f334dc2">create_conn</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td></tr>
+<tr class="separator:a8a5e1ca02c0cd4f7905f45bf4f334dc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada327e23931b4d7169b04cb8bfed24e2"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#ada327e23931b4d7169b04cb8bfed24e2">destroy_conn</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td></tr>
+<tr class="separator:ada327e23931b4d7169b04cb8bfed24e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb2226b0d4a63b49c0a9dea24b55489b"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#aeb2226b0d4a63b49c0a9dea24b55489b">sock_set</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, sock_t sock)</td></tr>
+<tr class="separator:aeb2226b0d4a63b49c0a9dea24b55489b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc209201b3522e9fe9df312f12c6b787"><td class="memItemLeft" align="right" valign="top">void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__iface__vtable.html#abc209201b3522e9fe9df312f12c6b787">get_conn_addr</a> )(struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, int remote, union <a class="el" href="unionsocket__address.html">socket_address</a> *sa)</td></tr>
+<tr class="separator:abc209201b3522e9fe9df312f12c6b787"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="a49c784dbcafa694a966c60721565eb82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49c784dbcafa694a966c60721565eb82">&#9670;&nbsp;</a></span>add_conn</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* add_conn) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2b5fc24b6bc1da65b9315de3b31f1e41"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b5fc24b6bc1da65b9315de3b31f1e41">&#9670;&nbsp;</a></span>connect_tcp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* connect_tcp) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const union <a class="el" href="unionsocket__address.html">socket_address</a> *sa)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a54ddd3243a51fc903bcb643cb2b26f6c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54ddd3243a51fc903bcb643cb2b26f6c">&#9670;&nbsp;</a></span>connect_udp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* connect_udp) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8a5e1ca02c0cd4f7905f45bf4f334dc2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a5e1ca02c0cd4f7905f45bf4f334dc2">&#9670;&nbsp;</a></span>create_conn</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int(* create_conn) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ada327e23931b4d7169b04cb8bfed24e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada327e23931b4d7169b04cb8bfed24e2">&#9670;&nbsp;</a></span>destroy_conn</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* destroy_conn) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa40c3dfe9956bdba08540cdb22f3eb2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa40c3dfe9956bdba08540cdb22f3eb2f">&#9670;&nbsp;</a></span>free</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* free) (struct <a class="el" href="structmg__iface.html">mg_iface</a> *iface)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abc209201b3522e9fe9df312f12c6b787"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc209201b3522e9fe9df312f12c6b787">&#9670;&nbsp;</a></span>get_conn_addr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* get_conn_addr) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, int remote, union <a class="el" href="unionsocket__address.html">socket_address</a> *sa)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a38012f25f563668d10f3009b0812082d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a38012f25f563668d10f3009b0812082d">&#9670;&nbsp;</a></span>init</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* init) (struct <a class="el" href="structmg__iface.html">mg_iface</a> *iface)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ace2ef4d361d5b98a018f81a3173fa5f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace2ef4d361d5b98a018f81a3173fa5f1">&#9670;&nbsp;</a></span>listen_tcp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int(* listen_tcp) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, union <a class="el" href="unionsocket__address.html">socket_address</a> *sa)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2587ca773f8eb38aa05b766278b603eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2587ca773f8eb38aa05b766278b603eb">&#9670;&nbsp;</a></span>listen_udp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int(* listen_udp) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, union <a class="el" href="unionsocket__address.html">socket_address</a> *sa)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad23933757546fff4cda17bed196e674e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad23933757546fff4cda17bed196e674e">&#9670;&nbsp;</a></span>poll</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t(* poll) (struct <a class="el" href="structmg__iface.html">mg_iface</a> *iface, int timeout_ms)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1f745ce01888d260c0fb8eba7d20943c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f745ce01888d260c0fb8eba7d20943c">&#9670;&nbsp;</a></span>recved</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* recved) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, size_t len)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aee353854e7ec7499b0a9bdc852e256f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee353854e7ec7499b0a9bdc852e256f8">&#9670;&nbsp;</a></span>remove_conn</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* remove_conn) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aeb2226b0d4a63b49c0a9dea24b55489b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb2226b0d4a63b49c0a9dea24b55489b">&#9670;&nbsp;</a></span>sock_set</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* sock_set) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, sock_t sock)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad0ef7bc3c01db17014521981b997f051"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0ef7bc3c01db17014521981b997f051">&#9670;&nbsp;</a></span>tcp_send</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* tcp_send) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const void *buf, size_t len)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8880f3cc035ec124c126cc813f593fc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8880f3cc035ec124c126cc813f593fc4">&#9670;&nbsp;</a></span>udp_send</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void(* udp_send) (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const void *buf, size_t len)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="mongoose_8h_source.html">mongoose.h</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

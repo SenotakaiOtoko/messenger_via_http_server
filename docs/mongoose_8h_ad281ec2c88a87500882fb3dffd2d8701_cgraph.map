@@ -1,0 +1,8 @@
+<map id="mg_send_websocket_handshake3" name="mg_send_websocket_handshake3">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a7d0eb7d6e198c049376524cf697dd58f" title="mg_ws_random_mask" alt="" coords="277,5,429,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ac97e32affece7eff0d37c77555f97bcb" title="mg_base64_encode" alt="" coords="283,56,422,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a7cce45c1cf3f5b64f8b9a1887610e931" title="mbuf_init" alt="" coords="315,107,390,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#ac71d01be60bc53f0a01e0aaace8f3aed" title="mbuf_free" alt="" coords="479,107,557,133"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a77122e10e44bc5883e3c6d631e9e4e18" title="mg_basic_auth_header" alt="" coords="275,208,431,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="315,259,390,285"/>
+</map>

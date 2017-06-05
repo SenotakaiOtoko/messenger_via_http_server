@@ -1,0 +1,10 @@
+<map id="sqlite3ViewGetColumnNames" name="sqlite3ViewGetColumnNames">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="248,5,415,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9d85cb00ff71dee5cd9a019503a6982e" title="sqlite3CreateView" alt="" coords="268,56,395,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5534f77364b5568783c0e50db3c9defb" title="sqlite3DropTable" alt="" coords="272,107,391,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="268,157,395,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="285,208,377,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="279,259,384,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#abee977318fbf74531340c6e41b0ca953" title="selectExpander" alt="" coords="275,309,387,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="281,360,382,387"/>
+</map>

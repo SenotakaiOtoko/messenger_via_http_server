@@ -1,0 +1,7 @@
+<map id="sqlite3SrcListLookup" name="sqlite3SrcListLookup">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="197,5,327,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="199,56,325,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="216,107,308,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="196,157,328,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="211,208,313,235"/>
+</map>

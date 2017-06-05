@@ -1,0 +1,14 @@
+<map id="sqlite3Reindex" name="sqlite3Reindex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac41a97f30334f7d35b2b5713097eca90" title="sqlite3ReadSchema" alt="" coords="170,5,309,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a46f694db346b6a742a9874efff040a85" title="reindexDatabases" alt="" coords="176,157,303,184"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aaa297e36c19aa0d39c60bf95a03b04b6" title="reindexTable" alt="" coords="376,125,471,152"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a21b1b811bbe305f922244f8913c87f10" title="sqlite3BeginWriteOperation" alt="" coords="528,113,708,140"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a17be5b679d9181b961ea9ba4a18d4f80" title="sqlite3RefillIndex" alt="" coords="559,189,677,216"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6ba4248ee912d7f5a7a898c5ae46e808" title="sqlite3NameFromToken" alt="" coords="160,259,319,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac4f91d39f24a6435de12698fdb16bc14" title="sqlite3FindCollSeq" alt="" coords="174,309,305,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="567,436,669,463"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a49a9958462ebca9ad2acda672c8a6357" title="sqlite3TwoPartName" alt="" coords="169,360,310,387"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="367,411,480,437"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#afa51dbee6173bf3a8a3df76b07cea789" title="sqlite3FindTable" alt="" coords="181,512,297,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a79fb99db8d0f914bb72dd374ae088512" title="sqlite3FindIndex" alt="" coords="181,563,297,589"/>
+</map>

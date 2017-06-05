@@ -1,0 +1,7 @@
+<map id="pcache1FreePage" name="pcache1FreePage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a984a14dae7f8f146ca82b94f587a1389" title="pcache1EnforceMaxPage" alt="" coords="180,5,351,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a95d9a0e421b47a80bd282a8b68929210" title="pcache1TruncateUnsafe" alt="" coords="185,56,346,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a745bc37e2a945b10e6b23a6fe6c35411" title="pcache1Fetch" alt="" coords="213,107,317,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a91974afe7709a742451438556ee0c70c" title="sqlite3PCacheSetDefault" alt="" coords="399,157,565,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5f9a5ef3862388dc0b104f9efea3f8c5" title="pcache1Unpin" alt="" coords="213,208,317,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Index" name="Index">
+<area shape="rect" id="node3" href="$struct_table.html" title="{Table\n|+ zName\l+ zColAff\l+ nRowEst\l+ tnum\l+ iPKey\l+ nCol\l+ nRef\l+ tabFlags\l+ keyConf\l+ addColOffset\l+ nModuleArg\l+ azModuleArg\l|}" alt="" coords="5,292,116,531"/>
+<area shape="rect" id="node2" href="$struct_schema.html" title="{Schema\n|+ schema_cookie\l+ iGeneration\l+ file_format\l+ enc\l+ flags\l+ cache_size\l|}" alt="" coords="93,593,218,744"/>
+</map>

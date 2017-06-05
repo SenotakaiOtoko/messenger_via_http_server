@@ -1,0 +1,12 @@
+<map id="sqlite3TableLock" name="sqlite3TableLock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3d35646de8b51f0403d915d78bdaa42d" title="sqlite3FindInIndex" alt="" coords="385,5,511,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aea3da21ca87050c11c23e01f578cc5dc" title="openStatTable" alt="" coords="201,353,306,380"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a51cb5e47979cf50b4fc565830c63b712" title="analyzeOneTable" alt="" coords="387,68,509,95"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af09834781ee193f5fe2dc60117210695" title="sqlite3OpenMasterTable" alt="" coords="172,404,335,431"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a17be5b679d9181b961ea9ba4a18d4f80" title="sqlite3RefillIndex" alt="" coords="389,144,507,171"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac661fe7e14e40000d480063baa15333a" title="sqlite3FkCheck" alt="" coords="197,455,309,481"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aa935d8de28fb95e999736ef792d5a808" title="sqlite3OpenTable" alt="" coords="192,100,315,127"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="395,199,501,225"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#acad049f5c9a96a8118cffd5e5ce89f7c" title="sqlite3WhereBegin" alt="" coords="383,252,513,279"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a2465ee8c956209ba4b272477b7c21a45" title="sqlite3Select" alt="" coords="561,277,659,304"/>
+</map>

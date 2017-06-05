@@ -1,0 +1,8 @@
+<map id="btreeInitPage" name="btreeInitPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae85122d12808231a8d58459440a405ab" title="getAndInitPage" alt="" coords="162,5,273,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa27cac56390e92c5ef6d566ee7defb59" title="pageReinit" alt="" coords="176,56,259,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#adf2ff6d11495ca47f88ace93f5be9d91" title="setChildPtrmaps" alt="" coords="158,107,277,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad73085375c8b00ebc87bc75dba37ca7b" title="copyNodeContent" alt="" coords="331,132,456,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acc82754cf975b3a8033b396d86f1045a" title="modifyPagePointer" alt="" coords="152,208,283,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a833fe7b749860571772ef6b19b3c54df" title="checkTreePage" alt="" coords="161,259,273,285"/>
+</map>

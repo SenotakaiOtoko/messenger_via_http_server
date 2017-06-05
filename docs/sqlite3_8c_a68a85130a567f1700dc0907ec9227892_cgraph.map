@@ -1,0 +1,8 @@
+<map id="incrVacuumStep" name="incrVacuumStep">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="645,126,780,152"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae91bfd9c1bec807a52a384d2ed01934b" title="ptrmapGet" alt="" coords="505,50,587,76"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae84ce1103eabfe9455a6a59e6cec4a33" title="allocateBtreePage" alt="" coords="319,100,447,127"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="495,151,597,178"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="499,227,593,254"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#af8fb5934ff87b02845c89350c57fd2bc" title="relocatePage" alt="" coords="172,202,271,228"/>
+</map>

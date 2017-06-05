@@ -1,0 +1,7 @@
+<map id="pagerBeginReadTransaction" name="pagerBeginReadTransaction">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="294,5,394,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2d0ec4393370b11b4db7d9836d38eb40" title="sqlite3WalEndReadTransaction" alt="" coords="243,56,445,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4a23329d9a3206642b307e6d22635f95" title="sqlite3WalBeginReadTransaction" alt="" coords="237,107,451,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a80434ecc2e0b58eea05c79b1690be582" title="pager_reset" alt="" coords="299,157,389,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#abc0da72cb8b8989cf8708b572fe5fef4" title="sqlite3OsUnfetch" alt="" coords="283,208,405,235"/>
+</map>

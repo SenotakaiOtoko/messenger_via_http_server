@@ -1,0 +1,5 @@
+<map id="mg_http_get_request_len" name="mg_http_get_request_len">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a491a8389c337a0b86153dfabfde2930c" title="mg_parse_http" alt="" coords="255,5,363,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a29203c832b21ea3e7af11f374e2eccbd" title="mg_parse_multipart" alt="" coords="241,56,377,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a85308bde07e6c49e00d660553a8e3fd1" title="mg_register_http_endpoint" alt="" coords="221,107,396,133"/>
+</map>

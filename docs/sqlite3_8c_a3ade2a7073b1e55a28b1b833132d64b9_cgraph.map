@@ -1,0 +1,6 @@
+<map id="selectAddColumnTypeAndCollation" name="selectAddColumnTypeAndCollation">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="287,5,403,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a59a1ebd686c6717e335cceb7f77ca5ed" title="columnType" alt="" coords="299,56,391,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aca6a667380b05650f917422118d8b7d3" title="sqlite3ExprAffinity" alt="" coords="281,107,408,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af36e271ed5ce13d4f2d088a766529574" title="sqlite3ExprCollSeq" alt="" coords="279,157,411,184"/>
+</map>

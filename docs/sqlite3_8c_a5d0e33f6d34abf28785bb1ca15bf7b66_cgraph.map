@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeGetValue" name="sqlite3VdbeGetValue">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad40a378778daff2d574bec905e35828b" title="sqlite3ValueNew" alt="" coords="227,5,346,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3a04f985c3c7cac7c7958b872fb3f781" title="sqlite3VdbeMemCopy" alt="" coords="212,56,361,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a535535f08aaaba2ebdf49ada6aca6fac" title="sqlite3ValueApplyAffinity" alt="" coords="204,107,369,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae006c07e1555d9a7ad637261c13fb5e5" title="sqlite3VdbeMemStoreType" alt="" coords="197,157,376,184"/>
+</map>

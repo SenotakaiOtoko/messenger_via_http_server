@@ -1,0 +1,5 @@
+<map id="sqlite3MemJournalOpen" name="sqlite3MemJournalOpen">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a69f445a04e423a1eaf24a2b9f035b427" title="openSubJournal" alt="" coords="225,5,339,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9a5224f8941dc99ce19bb0eb24766d00" title="pager_open_journal" alt="" coords="215,56,349,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aee6d659143d04fd6d28e65e0c63c297d" title="memjrnlTruncate" alt="" coords="223,107,341,133"/>
+</map>

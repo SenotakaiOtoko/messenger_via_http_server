@@ -1,0 +1,5 @@
+<map id="unlockBtreeIfUnused" name="unlockBtreeIfUnused">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a52d6706df15c67c22aa7d0e290c16bf5" title="sqlite3BtreeBeginTrans" alt="" coords="198,5,354,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7dd8138404b55de8be9623636f25488b" title="btreeEndTransaction" alt="" coords="205,56,347,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7f494da0a512d247d690d6bc19397791" title="sqlite3BtreeCloseCursor" alt="" coords="195,107,357,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sqlite3VtabUnlockList" name="sqlite3VtabUnlockList">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="242,5,377,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af8baf566e769881b3d0bbdb0d2b4cdfe" title="sqlite3ExpirePreparedStatements" alt="" coords="201,56,417,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8b3341682c7724d767ebc8288b9063b4" title="sqlite3VtabUnlock" alt="" coords="246,107,373,133"/>
+</map>

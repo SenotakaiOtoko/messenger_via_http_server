@@ -1,0 +1,997 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Файл C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/db_plugin.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a class="el" href="dir_df3868c9055eeaee4b2b3d146f92d858.html">messenger_via_http_server</a></li><li class="navelem"><a class="el" href="dir_243da63c53d9f5c6ae68ea1127951fb5.html">messenger_via_http_server</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#define-members">Макросы</a> &#124;
+<a href="#enum-members">Перечисления</a> &#124;
+<a href="#func-members">Функции</a>  </div>
+  <div class="headertitle">
+<div class="title">Файл db_plugin.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p>Заголовочный файл, содержащий константы для прослойки и объявления некоторых функций.  
+<a href="#details">Подробнее...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="sqlite3_8h_source.html">sqlite3.h</a>&quot;</code><br />
+</div><div class="textblock"><div class="dynheader">
+Граф включаемых заголовочных файлов для db_plugin.h:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h__incl.png" border="0" usemap="#_c_1_2_users_2_user_2_documents_2_visual_01_studio_012012_2_projects_2messenger__via__http__server_2messenger__via__http__server_2db__plugin_8h" alt=""/></div>
+<map name="_c_1_2_users_2_user_2_documents_2_visual_01_studio_012012_2_projects_2messenger__via__http__server_2messenger__via__http__server_2db__plugin_8h" id="_c_1_2_users_2_user_2_documents_2_visual_01_studio_012012_2_projects_2messenger__via__http__server_2messenger__via__http__server_2db__plugin_8h">
+<area shape="rect" id="node2" href="sqlite3_8h.html" title="sqlite3.h" alt="" coords="63,139,134,165"/>
+</map>
+</div>
+</div><div class="textblock"><div class="dynheader">
+Граф файлов, в которые включается этот файл:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h__dep__incl.png" border="0" usemap="#_c_1_2_users_2_user_2_documents_2_visual_01_studio_012012_2_projects_2messenger__via__http__server_2messenger__via__http__server_2db__plugin_8hdep" alt=""/></div>
+<map name="_c_1_2_users_2_user_2_documents_2_visual_01_studio_012012_2_projects_2messenger__via__http__server_2messenger__via__http__server_2db__plugin_8hdep" id="_c_1_2_users_2_user_2_documents_2_visual_01_studio_012012_2_projects_2messenger__via__http__server_2messenger__via__http__server_2db__plugin_8hdep">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html" title="Прослойка между SQLite и mongoose. " alt="" coords="5,139,192,224"/>
+<area shape="rect" id="node3" href="messenger__via__http__server_8c.html" title="Файл определяет точку входа. " alt="" coords="217,139,410,224"/>
+</map>
+</div>
+</div>
+<p><a href="db__plugin_8h_source.html">См. исходные тексты.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
+Макросы</h2></td></tr>
+<tr class="memitem:ad9dcd73dd770affdc2097d8cd0aabaf7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#ad9dcd73dd770affdc2097d8cd0aabaf7">USERNAME_MAX_LENGTH</a>&#160;&#160;&#160;40</td></tr>
+<tr class="memdesc:ad9dcd73dd770affdc2097d8cd0aabaf7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Максимальная длина имени пользователя  <a href="#ad9dcd73dd770affdc2097d8cd0aabaf7">Подробнее...</a><br /></td></tr>
+<tr class="separator:ad9dcd73dd770affdc2097d8cd0aabaf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1def6dc24b39cee58b6a4289a7abc2a0"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a1def6dc24b39cee58b6a4289a7abc2a0">PASS_MAX_LENGTH</a>&#160;&#160;&#160;256</td></tr>
+<tr class="memdesc:a1def6dc24b39cee58b6a4289a7abc2a0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Максимальная длина пароля  <a href="#a1def6dc24b39cee58b6a4289a7abc2a0">Подробнее...</a><br /></td></tr>
+<tr class="separator:a1def6dc24b39cee58b6a4289a7abc2a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
+Перечисления</h2></td></tr>
+<tr class="memitem:a61546a902d931b5435998544dca48b80"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a61546a902d931b5435998544dca48b80">api_op</a> { <a class="el" href="db__plugin_8h.html#a61546a902d931b5435998544dca48b80af477b0f2b687fa3c7059612b8524af2d">API_OP_POST</a>, 
+<a class="el" href="db__plugin_8h.html#a61546a902d931b5435998544dca48b80acda0bbe65d56bb2eab925c561497172e">API_OP_GET</a>, 
+<a class="el" href="db__plugin_8h.html#a61546a902d931b5435998544dca48b80a1dce5aa02de0611be2d4e1d4b89a06f3">API_OP_SET</a>, 
+<a class="el" href="db__plugin_8h.html#a61546a902d931b5435998544dca48b80ac9d3cfcf1ff39612a0de867a95427778">API_OP_DEL</a>
+ }<tr class="memdesc:a61546a902d931b5435998544dca48b80"><td class="mdescLeft">&#160;</td><td class="mdescRight">Набор возможных типов запросов к api.  <a href="db__plugin_8h.html#a61546a902d931b5435998544dca48b80">Подробнее...</a><br /></td></tr>
+</td></tr>
+<tr class="separator:a61546a902d931b5435998544dca48b80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a551980bc22429252457fb9557c1e6449"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a551980bc22429252457fb9557c1e6449">api_action</a> { <br />
+&#160;&#160;<a class="el" href="db__plugin_8h.html#a551980bc22429252457fb9557c1e6449a914bbd479899e9b62da9fbb03f7c11ba">API_ACTION_NULL</a>, 
+<a class="el" href="db__plugin_8h.html#a551980bc22429252457fb9557c1e6449a8c14cdbd78969a622ec00f710fc7d4dd">API_ACTION_SEND_MESSAGE</a>, 
+<a class="el" href="db__plugin_8h.html#a551980bc22429252457fb9557c1e6449a9d70fc442089897d0b36cb180ed0d6eb">API_ACTION_GET_MESSAGE</a>, 
+<a class="el" href="db__plugin_8h.html#a551980bc22429252457fb9557c1e6449a41836433c20e5a269e9450ca9e6442fa">API_ACTION_REGISTER</a>, 
+<br />
+&#160;&#160;<a class="el" href="db__plugin_8h.html#a551980bc22429252457fb9557c1e6449a40777539a860c92585911d0cabf6358c">API_ACTION_GET_USER</a>
+<br />
+ }<tr class="memdesc:a551980bc22429252457fb9557c1e6449"><td class="mdescLeft">&#160;</td><td class="mdescRight">Набор возможных запросов-действий к api.  <a href="db__plugin_8h.html#a551980bc22429252457fb9557c1e6449">Подробнее...</a><br /></td></tr>
+</td></tr>
+<tr class="separator:a551980bc22429252457fb9557c1e6449"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Функции</h2></td></tr>
+<tr class="memitem:adba698817c2b7c30600114b89011478c"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#adba698817c2b7c30600114b89011478c">db_open</a> (const char *db_path)</td></tr>
+<tr class="memdesc:adba698817c2b7c30600114b89011478c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция открывает локальную базу данных, а если она не существует, то создаёт новую  <a href="#adba698817c2b7c30600114b89011478c">Подробнее...</a><br /></td></tr>
+<tr class="separator:adba698817c2b7c30600114b89011478c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8af420a801d0c28e0b60aa79db4a9c72"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a8af420a801d0c28e0b60aa79db4a9c72">db_close</a> (void **db_handle)</td></tr>
+<tr class="memdesc:a8af420a801d0c28e0b60aa79db4a9c72"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция закрывает базу данных  <a href="#a8af420a801d0c28e0b60aa79db4a9c72">Подробнее...</a><br /></td></tr>
+<tr class="separator:a8af420a801d0c28e0b60aa79db4a9c72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a485c8febc5fe24d5d697039415a096f5"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a485c8febc5fe24d5d697039415a096f5">build_message_json</a> (const char *message_id, const char *from, const char *to, const char *message, const char *time)</td></tr>
+<tr class="memdesc:a485c8febc5fe24d5d697039415a096f5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция формирует строку - JSON сообщение  <a href="#a485c8febc5fe24d5d697039415a096f5">Подробнее...</a><br /></td></tr>
+<tr class="separator:a485c8febc5fe24d5d697039415a096f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa53ebd8c256bca025b5d2a00e57c97d6"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#aa53ebd8c256bca025b5d2a00e57c97d6">switch_action</a> (const <a class="el" href="structmg__str.html">mg_str</a> *buf)</td></tr>
+<tr class="memdesc:aa53ebd8c256bca025b5d2a00e57c97d6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция парсит параметр action HTTP запроса  <a href="#aa53ebd8c256bca025b5d2a00e57c97d6">Подробнее...</a><br /></td></tr>
+<tr class="separator:aa53ebd8c256bca025b5d2a00e57c97d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf59574b5a02f704fc678fdb16677ab3"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#abf59574b5a02f704fc678fdb16677ab3">check_auth</a> (const <a class="el" href="structhttp__message.html">http_message</a> *hm, void *db)</td></tr>
+<tr class="memdesc:abf59574b5a02f704fc678fdb16677ab3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция выполняет проверку авторизации  <a href="#abf59574b5a02f704fc678fdb16677ab3">Подробнее...</a><br /></td></tr>
+<tr class="separator:abf59574b5a02f704fc678fdb16677ab3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaae0662d01bd93840c4e4d9778c5ce65"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#aaae0662d01bd93840c4e4d9778c5ce65">get_message</a> (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const struct <a class="el" href="structhttp__message.html">http_message</a> *hm, void *db)</td></tr>
+<tr class="memdesc:aaae0662d01bd93840c4e4d9778c5ce65"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция api получения сообщения  <a href="#aaae0662d01bd93840c4e4d9778c5ce65">Подробнее...</a><br /></td></tr>
+<tr class="separator:aaae0662d01bd93840c4e4d9778c5ce65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6674451cff020de5748bdc298a212207"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a6674451cff020de5748bdc298a212207">send_message</a> (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const struct <a class="el" href="structhttp__message.html">http_message</a> *hm, void *db)</td></tr>
+<tr class="memdesc:a6674451cff020de5748bdc298a212207"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция api отправки сообщения  <a href="#a6674451cff020de5748bdc298a212207">Подробнее...</a><br /></td></tr>
+<tr class="separator:a6674451cff020de5748bdc298a212207"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd5ff53565d4383be27bff6f8309db01"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#acd5ff53565d4383be27bff6f8309db01">get_user_from_db</a> (void *db, char *user)</td></tr>
+<tr class="memdesc:acd5ff53565d4383be27bff6f8309db01"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция достаёт данные о пользователе из базы данных  <a href="#acd5ff53565d4383be27bff6f8309db01">Подробнее...</a><br /></td></tr>
+<tr class="separator:acd5ff53565d4383be27bff6f8309db01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac058d44b78ba7f125d172c1f8152bc4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#aac058d44b78ba7f125d172c1f8152bc4">register_user</a> (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const struct <a class="el" href="structhttp__message.html">http_message</a> *hm, void *db)</td></tr>
+<tr class="memdesc:aac058d44b78ba7f125d172c1f8152bc4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция api регистрации нового пользователя  <a href="#aac058d44b78ba7f125d172c1f8152bc4">Подробнее...</a><br /></td></tr>
+<tr class="separator:aac058d44b78ba7f125d172c1f8152bc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29dc47a40acc94913c2372d989ee8eed"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a29dc47a40acc94913c2372d989ee8eed">get_user</a> (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const struct <a class="el" href="structhttp__message.html">http_message</a> *hm, void *db)</td></tr>
+<tr class="memdesc:a29dc47a40acc94913c2372d989ee8eed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция api получения данных о пользователе  <a href="#a29dc47a40acc94913c2372d989ee8eed">Подробнее...</a><br /></td></tr>
+<tr class="separator:a29dc47a40acc94913c2372d989ee8eed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36f0356eb331a8494756d4866a902ae8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a36f0356eb331a8494756d4866a902ae8">op_post</a> (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const struct <a class="el" href="structhttp__message.html">http_message</a> *hm, void *db)</td></tr>
+<tr class="memdesc:a36f0356eb331a8494756d4866a902ae8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция-обработчик POST запроса к api.  <a href="#a36f0356eb331a8494756d4866a902ae8">Подробнее...</a><br /></td></tr>
+<tr class="separator:a36f0356eb331a8494756d4866a902ae8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43abdad9581ce5776d3be74ee46577c9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="db__plugin_8h.html#a43abdad9581ce5776d3be74ee46577c9">db_op</a> (struct <a class="el" href="structmg__connection.html">mg_connection</a> *nc, const struct <a class="el" href="structhttp__message.html">http_message</a> *hm, void *db, int op)</td></tr>
+<tr class="memdesc:a43abdad9581ce5776d3be74ee46577c9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Функция-обработчик любого запроса к api.  <a href="#a43abdad9581ce5776d3be74ee46577c9">Подробнее...</a><br /></td></tr>
+<tr class="separator:a43abdad9581ce5776d3be74ee46577c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Подробное описание</h2>
+<div class="textblock"><p>Заголовочный файл, содержащий константы для прослойки и объявления некоторых функций. </p>
+</div><h2 class="groupheader">Макросы</h2>
+<a id="a1def6dc24b39cee58b6a4289a7abc2a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1def6dc24b39cee58b6a4289a7abc2a0">&#9670;&nbsp;</a></span>PASS_MAX_LENGTH</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define PASS_MAX_LENGTH&#160;&#160;&#160;256</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Максимальная длина пароля </p>
+
+</div>
+</div>
+<a id="ad9dcd73dd770affdc2097d8cd0aabaf7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9dcd73dd770affdc2097d8cd0aabaf7">&#9670;&nbsp;</a></span>USERNAME_MAX_LENGTH</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define USERNAME_MAX_LENGTH&#160;&#160;&#160;40</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Максимальная длина имени пользователя </p>
+
+</div>
+</div>
+<h2 class="groupheader">Перечисления</h2>
+<a id="a551980bc22429252457fb9557c1e6449"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a551980bc22429252457fb9557c1e6449">&#9670;&nbsp;</a></span>api_action</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="db__plugin_8h.html#a551980bc22429252457fb9557c1e6449">api_action</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Набор возможных запросов-действий к api. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Элементы перечислений</th></tr><tr><td class="fieldname"><a id="a551980bc22429252457fb9557c1e6449a914bbd479899e9b62da9fbb03f7c11ba"></a>API_ACTION_NULL&#160;</td><td class="fielddoc"><p>Указывает, что действие неизвестно api. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a551980bc22429252457fb9557c1e6449a8c14cdbd78969a622ec00f710fc7d4dd"></a>API_ACTION_SEND_MESSAGE&#160;</td><td class="fielddoc"><p>Отправка сообщения </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a551980bc22429252457fb9557c1e6449a9d70fc442089897d0b36cb180ed0d6eb"></a>API_ACTION_GET_MESSAGE&#160;</td><td class="fielddoc"><p>Получение сообщения </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a551980bc22429252457fb9557c1e6449a41836433c20e5a269e9450ca9e6442fa"></a>API_ACTION_REGISTER&#160;</td><td class="fielddoc"><p>Регистрация нового пользователя </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a551980bc22429252457fb9557c1e6449a40777539a860c92585911d0cabf6358c"></a>API_ACTION_GET_USER&#160;</td><td class="fielddoc"><p>Получение данных о пользователе </p>
+</td></tr>
+</table>
+
+</div>
+</div>
+<a id="a61546a902d931b5435998544dca48b80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61546a902d931b5435998544dca48b80">&#9670;&nbsp;</a></span>api_op</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="db__plugin_8h.html#a61546a902d931b5435998544dca48b80">api_op</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Набор возможных типов запросов к api. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Элементы перечислений</th></tr><tr><td class="fieldname"><a id="a61546a902d931b5435998544dca48b80af477b0f2b687fa3c7059612b8524af2d"></a>API_OP_POST&#160;</td><td class="fielddoc"><p>POST. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a61546a902d931b5435998544dca48b80acda0bbe65d56bb2eab925c561497172e"></a>API_OP_GET&#160;</td><td class="fielddoc"><p>GET. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a61546a902d931b5435998544dca48b80a1dce5aa02de0611be2d4e1d4b89a06f3"></a>API_OP_SET&#160;</td><td class="fielddoc"><p>SET. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a61546a902d931b5435998544dca48b80ac9d3cfcf1ff39612a0de867a95427778"></a>API_OP_DEL&#160;</td><td class="fielddoc"><p>DELETE. </p>
+</td></tr>
+</table>
+
+</div>
+</div>
+<h2 class="groupheader">Функции</h2>
+<a id="a485c8febc5fe24d5d697039415a096f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a485c8febc5fe24d5d697039415a096f5">&#9670;&nbsp;</a></span>build_message_json()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char* build_message_json </td>
+          <td>(</td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>message_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>from</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>to</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>message</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>time</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция формирует строку - JSON сообщение </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">message_id</td><td>Уникальный идентификатор сообщения </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">from</td><td>От кого адресовано сообщение </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">to</td><td>Кому адресовано сообщение </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">message</td><td>Текст сообщения </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">time</td><td>Время, в которое сообщение было получено сервером (UTC Unix) </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Возвращает</dt><dd>Указатель на строку, содержащую JSON сообщение </dd></dl>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a485c8febc5fe24d5d697039415a096f5_icgraph.png" border="0" usemap="#db__plugin_8h_a485c8febc5fe24d5d697039415a096f5_icgraph" alt=""/></div>
+<map name="db__plugin_8h_a485c8febc5fe24d5d697039415a096f5_icgraph" id="db__plugin_8h_a485c8febc5fe24d5d697039415a096f5_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="193,5,293,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="abf59574b5a02f704fc678fdb16677ab3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf59574b5a02f704fc678fdb16677ab3">&#9670;&nbsp;</a></span>check_auth()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char* check_auth </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structhttp__message.html">http_message</a> *&#160;</td>
+          <td class="paramname"><em>hm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>db</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция выполняет проверку авторизации </p>
+<dl class="todo"><dt><b><a class="el" href="todo.html#_todo000001">Необходимо сделать:</a></b></dt><dd>Переписать функцию, используя функцию get_user_from_db</dd></dl>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">hm</td><td>Тело HTTP запроса </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">db</td><td>Handler базы данных </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="retval"><dt>Возвращаемые значения</dt><dd>
+  <table class="retval">
+    <tr><td class="paramname">NULL</td><td>если пользователь не найден, или неправильный пароль </td></tr>
+    <tr><td class="paramname">Указатель</td><td>на строку, содержащую имя пользователя </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_abf59574b5a02f704fc678fdb16677ab3_cgraph.png" border="0" usemap="#db__plugin_8h_abf59574b5a02f704fc678fdb16677ab3_cgraph" alt=""/></div>
+<map name="db__plugin_8h_abf59574b5a02f704fc678fdb16677ab3_cgraph" id="db__plugin_8h_abf59574b5a02f704fc678fdb16677ab3_cgraph">
+<area shape="rect" id="node2" href="mongoose_8c.html#a3481a6b79218165d9332e7856f6916fa" title="mg_get_http_basic_auth" alt="" coords="143,5,307,32"/>
+<area shape="rect" id="node3" href="sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="171,56,278,83"/>
+<area shape="rect" id="node4" href="sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="160,107,289,133"/>
+<area shape="rect" id="node5" href="sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="165,157,285,184"/>
+<area shape="rect" id="node6" href="sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="179,208,271,235"/>
+<area shape="rect" id="node7" href="sqlite3_8c.html#aee36f5eaf67b425ddf6f9b7a2004d018" title="sqlite3_column_text" alt="" coords="155,259,294,285"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_abf59574b5a02f704fc678fdb16677ab3_icgraph.png" border="0" usemap="#db__plugin_8h_abf59574b5a02f704fc678fdb16677ab3_icgraph" alt=""/></div>
+<map name="db__plugin_8h_abf59574b5a02f704fc678fdb16677ab3_icgraph" id="db__plugin_8h_abf59574b5a02f704fc678fdb16677ab3_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="148,5,248,32"/>
+<area shape="rect" id="node3" href="db__plugin__sqlite_8c.html#a6674451cff020de5748bdc298a212207" title="Функция api отправки сообщения " alt="" coords="143,56,253,83"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a8af420a801d0c28e0b60aa79db4a9c72"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8af420a801d0c28e0b60aa79db4a9c72">&#9670;&nbsp;</a></span>db_close()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void db_close </td>
+          <td>(</td>
+          <td class="paramtype">void **&#160;</td>
+          <td class="paramname"><em>db_handle</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция закрывает базу данных </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">db_handle</td><td>указатель на handler базы данных, которую необходимо закрыть </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a8af420a801d0c28e0b60aa79db4a9c72_cgraph.png" border="0" usemap="#db__plugin_8h_a8af420a801d0c28e0b60aa79db4a9c72_cgraph" alt=""/></div>
+<map name="db__plugin_8h_a8af420a801d0c28e0b60aa79db4a9c72_cgraph" id="db__plugin_8h_a8af420a801d0c28e0b60aa79db4a9c72_cgraph">
+<area shape="rect" id="node2" href="sqlite3_8c.html#ac43c9032fc6ef3b2a231dc3a9fa44b2d" title="sqlite3_close" alt="" coords="128,5,227,32"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a8af420a801d0c28e0b60aa79db4a9c72_icgraph.png" border="0" usemap="#db__plugin_8h_a8af420a801d0c28e0b60aa79db4a9c72_icgraph" alt=""/></div>
+<map name="db__plugin_8h_a8af420a801d0c28e0b60aa79db4a9c72_icgraph" id="db__plugin_8h_a8af420a801d0c28e0b60aa79db4a9c72_icgraph">
+<area shape="rect" id="node2" href="messenger__via__http__server_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Точка входа " alt="" coords="128,5,179,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a43abdad9581ce5776d3be74ee46577c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43abdad9581ce5776d3be74ee46577c9">&#9670;&nbsp;</a></span>db_op()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void db_op </td>
+          <td>(</td>
+          <td class="paramtype">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td>
+          <td class="paramname"><em>nc</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const struct <a class="el" href="structhttp__message.html">http_message</a> *&#160;</td>
+          <td class="paramname"><em>hm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>db</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>op</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция-обработчик любого запроса к api. </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nc</td><td>Соединение, по которому нужно отправить ответ </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">hm</td><td>Тело HTTP запроса </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">db</td><td>Handler базы данных </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">op</td><td>Тип запроса к api </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a43abdad9581ce5776d3be74ee46577c9_cgraph.png" border="0" usemap="#db__plugin_8h_a43abdad9581ce5776d3be74ee46577c9_cgraph" alt=""/></div>
+<map name="db__plugin_8h_a43abdad9581ce5776d3be74ee46577c9_cgraph" id="db__plugin_8h_a43abdad9581ce5776d3be74ee46577c9_cgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#a36f0356eb331a8494756d4866a902ae8" title="Функция&#45;обработчик POST запроса к api. " alt="" coords="111,5,179,32"/>
+<area shape="rect" id="node3" href="mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="227,31,364,57"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a43abdad9581ce5776d3be74ee46577c9_icgraph.png" border="0" usemap="#db__plugin_8h_a43abdad9581ce5776d3be74ee46577c9_icgraph" alt=""/></div>
+<map name="db__plugin_8h_a43abdad9581ce5776d3be74ee46577c9_icgraph" id="db__plugin_8h_a43abdad9581ce5776d3be74ee46577c9_icgraph">
+<area shape="rect" id="node2" href="messenger__via__http__server_8c.html#a1649d4c8e3ef4f59226bba26da5a99e2" title="Функция&#45;обработчик событий " alt="" coords="111,5,193,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="adba698817c2b7c30600114b89011478c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adba698817c2b7c30600114b89011478c">&#9670;&nbsp;</a></span>db_open()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* db_open </td>
+          <td>(</td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>db_path</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция открывает локальную базу данных, а если она не существует, то создаёт новую </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">db_path</td><td>Путь к базе данных </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Возвращает</dt><dd>Указатель на handler базы данных </dd></dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_adba698817c2b7c30600114b89011478c_cgraph.png" border="0" usemap="#db__plugin_8h_adba698817c2b7c30600114b89011478c_cgraph" alt=""/></div>
+<map name="db__plugin_8h_adba698817c2b7c30600114b89011478c_cgraph" id="db__plugin_8h_adba698817c2b7c30600114b89011478c_cgraph">
+<area shape="rect" id="node2" href="sqlite3_8c.html#a140fe275b6975dc867cea50a65a217c4" title="sqlite3_open_v2" alt="" coords="124,5,239,32"/>
+<area shape="rect" id="node3" href="sqlite3_8c.html#a97487ec8150e0bcc8fa392ab8f0e24db" title="sqlite3_exec" alt="" coords="134,56,229,83"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_adba698817c2b7c30600114b89011478c_icgraph.png" border="0" usemap="#db__plugin_8h_adba698817c2b7c30600114b89011478c_icgraph" alt=""/></div>
+<map name="db__plugin_8h_adba698817c2b7c30600114b89011478c_icgraph" id="db__plugin_8h_adba698817c2b7c30600114b89011478c_icgraph">
+<area shape="rect" id="node2" href="messenger__via__http__server_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Точка входа " alt="" coords="124,5,175,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aaae0662d01bd93840c4e4d9778c5ce65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaae0662d01bd93840c4e4d9778c5ce65">&#9670;&nbsp;</a></span>get_message()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void get_message </td>
+          <td>(</td>
+          <td class="paramtype">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td>
+          <td class="paramname"><em>nc</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const struct <a class="el" href="structhttp__message.html">http_message</a> *&#160;</td>
+          <td class="paramname"><em>hm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>db</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция api получения сообщения </p>
+<p>Функция проверяет авторизацию, достаёт из базы данных первое сообщение, которое неизвестно клиенту и отправляет ответ. В случае, если сообщение не найдено, возвращает ответ об отвутствии новых сообщений.</p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nc</td><td>Соединение, по которому нужно отправить ответ </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">hm</td><td>Тело HTTP запроса </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">db</td><td>Handler базы данных </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_aaae0662d01bd93840c4e4d9778c5ce65_cgraph.png" border="0" usemap="#db__plugin_8h_aaae0662d01bd93840c4e4d9778c5ce65_cgraph" alt=""/></div>
+<map name="db__plugin_8h_aaae0662d01bd93840c4e4d9778c5ce65_cgraph" id="db__plugin_8h_aaae0662d01bd93840c4e4d9778c5ce65_cgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#abf59574b5a02f704fc678fdb16677ab3" title="Функция выполняет проверку авторизации " alt="" coords="179,153,268,180"/>
+<area shape="rect" id="node3" href="sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="357,5,464,32"/>
+<area shape="rect" id="node4" href="sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="346,63,475,89"/>
+<area shape="rect" id="node5" href="sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="351,125,471,152"/>
+<area shape="rect" id="node6" href="sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="365,201,457,228"/>
+<area shape="rect" id="node7" href="sqlite3_8c.html#aee36f5eaf67b425ddf6f9b7a2004d018" title="sqlite3_column_text" alt="" coords="341,253,480,280"/>
+<area shape="rect" id="node8" href="mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="155,329,292,356"/>
+<area shape="rect" id="node9" href="mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="373,355,448,381"/>
+<area shape="rect" id="node10" href="mongoose_8c.html#ad48bda7f453ecfd8ee745380ed247b9f" title="mg_get_http_var" alt="" coords="165,431,282,457"/>
+<area shape="rect" id="node11" href="sqlite3_8c.html#af77e2729923f2621852202e1c23788c6" title="sqlite3_bind_int64" alt="" coords="160,481,287,508"/>
+<area shape="rect" id="node12" href="db__plugin__sqlite_8c.html#a485c8febc5fe24d5d697039415a096f5" title="Функция формирует строку &#45; JSON сообщение " alt="" coords="153,532,293,559"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_aaae0662d01bd93840c4e4d9778c5ce65_icgraph.png" border="0" usemap="#db__plugin_8h_aaae0662d01bd93840c4e4d9778c5ce65_icgraph" alt=""/></div>
+<map name="db__plugin_8h_aaae0662d01bd93840c4e4d9778c5ce65_icgraph" id="db__plugin_8h_aaae0662d01bd93840c4e4d9778c5ce65_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#a36f0356eb331a8494756d4866a902ae8" title="Функция&#45;обработчик POST запроса к api. " alt="" coords="153,5,221,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a29dc47a40acc94913c2372d989ee8eed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29dc47a40acc94913c2372d989ee8eed">&#9670;&nbsp;</a></span>get_user()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void get_user </td>
+          <td>(</td>
+          <td class="paramtype">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td>
+          <td class="paramname"><em>nc</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const struct <a class="el" href="structhttp__message.html">http_message</a> *&#160;</td>
+          <td class="paramname"><em>hm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>db</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция api получения данных о пользователе </p>
+<p>Функция проверяет правильность запроса, отправляет по соединению данные о пользователе.</p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nc</td><td>Соединение, по которому нужно отправить ответ </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">hm</td><td>Тело HTTP запроса </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">db</td><td>Handler базы данных </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a29dc47a40acc94913c2372d989ee8eed_cgraph.png" border="0" usemap="#db__plugin_8h_a29dc47a40acc94913c2372d989ee8eed_cgraph" alt=""/></div>
+<map name="db__plugin_8h_a29dc47a40acc94913c2372d989ee8eed_cgraph" id="db__plugin_8h_a29dc47a40acc94913c2372d989ee8eed_cgraph">
+<area shape="rect" id="node2" href="mongoose_8c.html#ad48bda7f453ecfd8ee745380ed247b9f" title="mg_get_http_var" alt="" coords="135,5,253,32"/>
+<area shape="rect" id="node3" href="mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="125,80,263,107"/>
+<area shape="rect" id="node4" href="mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="311,105,385,132"/>
+<area shape="rect" id="node5" href="db__plugin__sqlite_8c.html#acd5ff53565d4383be27bff6f8309db01" title="Функция достаёт данные о пользователе из базы данных " alt="" coords="131,181,257,208"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a29dc47a40acc94913c2372d989ee8eed_icgraph.png" border="0" usemap="#db__plugin_8h_a29dc47a40acc94913c2372d989ee8eed_icgraph" alt=""/></div>
+<map name="db__plugin_8h_a29dc47a40acc94913c2372d989ee8eed_icgraph" id="db__plugin_8h_a29dc47a40acc94913c2372d989ee8eed_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#a36f0356eb331a8494756d4866a902ae8" title="Функция&#45;обработчик POST запроса к api. " alt="" coords="125,5,193,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="acd5ff53565d4383be27bff6f8309db01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd5ff53565d4383be27bff6f8309db01">&#9670;&nbsp;</a></span>get_user_from_db()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char* get_user_from_db </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>db</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>user</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция достаёт данные о пользователе из базы данных </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">db</td><td>Handler базы данных </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">user</td><td>Указатель на строку, содержащую имя пользователя </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="retval"><dt>Возвращаемые значения</dt><dd>
+  <table class="retval">
+    <tr><td class="paramname">NULL</td><td>если пользователь не найден в базе данных </td></tr>
+    <tr><td class="paramname">Указатель</td><td>на строку, содержащую имя пользователя </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_acd5ff53565d4383be27bff6f8309db01_cgraph.png" border="0" usemap="#db__plugin_8h_acd5ff53565d4383be27bff6f8309db01_cgraph" alt=""/></div>
+<map name="db__plugin_8h_acd5ff53565d4383be27bff6f8309db01_cgraph" id="db__plugin_8h_acd5ff53565d4383be27bff6f8309db01_cgraph">
+<area shape="rect" id="node2" href="sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="183,5,313,32"/>
+<area shape="rect" id="node3" href="sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="195,56,301,83"/>
+<area shape="rect" id="node4" href="sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="188,107,308,133"/>
+<area shape="rect" id="node5" href="sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="202,157,294,184"/>
+<area shape="rect" id="node6" href="sqlite3_8c.html#aee36f5eaf67b425ddf6f9b7a2004d018" title="sqlite3_column_text" alt="" coords="179,208,317,235"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_acd5ff53565d4383be27bff6f8309db01_icgraph.png" border="0" usemap="#db__plugin_8h_acd5ff53565d4383be27bff6f8309db01_icgraph" alt=""/></div>
+<map name="db__plugin_8h_acd5ff53565d4383be27bff6f8309db01_icgraph" id="db__plugin_8h_acd5ff53565d4383be27bff6f8309db01_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#a29dc47a40acc94913c2372d989ee8eed" title="Функция api получения данных о пользователе " alt="" coords="179,5,251,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a36f0356eb331a8494756d4866a902ae8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a36f0356eb331a8494756d4866a902ae8">&#9670;&nbsp;</a></span>op_post()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void op_post </td>
+          <td>(</td>
+          <td class="paramtype">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td>
+          <td class="paramname"><em>nc</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const struct <a class="el" href="structhttp__message.html">http_message</a> *&#160;</td>
+          <td class="paramname"><em>hm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>db</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция-обработчик POST запроса к api. </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nc</td><td>Соединение, по которому нужно отправить ответ </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">hm</td><td>Тело HTTP запроса </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">db</td><td>Handler базы данных </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a36f0356eb331a8494756d4866a902ae8_cgraph.png" border="0" usemap="#db__plugin_8h_a36f0356eb331a8494756d4866a902ae8_cgraph" alt=""/></div>
+<map name="db__plugin_8h_a36f0356eb331a8494756d4866a902ae8_cgraph" id="db__plugin_8h_a36f0356eb331a8494756d4866a902ae8_cgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#aa53ebd8c256bca025b5d2a00e57c97d6" title="Функция парсит параметр action HTTP запроса " alt="" coords="126,5,227,32"/>
+<area shape="rect" id="node3" href="db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="127,56,227,83"/>
+<area shape="rect" id="node4" href="mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="280,157,417,184"/>
+<area shape="rect" id="node5" href="db__plugin__sqlite_8c.html#a6674451cff020de5748bdc298a212207" title="Функция api отправки сообщения " alt="" coords="121,157,232,184"/>
+<area shape="rect" id="node6" href="db__plugin__sqlite_8c.html#a29dc47a40acc94913c2372d989ee8eed" title="Функция api получения данных о пользователе " alt="" coords="141,208,213,235"/>
+<area shape="rect" id="node7" href="db__plugin__sqlite_8c.html#aac058d44b78ba7f125d172c1f8152bc4" title="Функция api регистрации нового пользователя " alt="" coords="128,259,225,285"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a36f0356eb331a8494756d4866a902ae8_icgraph.png" border="0" usemap="#db__plugin_8h_a36f0356eb331a8494756d4866a902ae8_icgraph" alt=""/></div>
+<map name="db__plugin_8h_a36f0356eb331a8494756d4866a902ae8_icgraph" id="db__plugin_8h_a36f0356eb331a8494756d4866a902ae8_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#a43abdad9581ce5776d3be74ee46577c9" title="Функция&#45;обработчик любого запроса к api. " alt="" coords="121,5,179,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aac058d44b78ba7f125d172c1f8152bc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac058d44b78ba7f125d172c1f8152bc4">&#9670;&nbsp;</a></span>register_user()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void register_user </td>
+          <td>(</td>
+          <td class="paramtype">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td>
+          <td class="paramname"><em>nc</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const struct <a class="el" href="structhttp__message.html">http_message</a> *&#160;</td>
+          <td class="paramname"><em>hm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>db</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция api регистрации нового пользователя </p>
+<p>Функция проверяет правильность запроса, пытается добавить пользователя в базу данных. Результат попытки отправляет по открытому соединению.</p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nc</td><td>Соединение, по которому нужно отправить ответ </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">hm</td><td>Тело HTTP запроса </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">db</td><td>Handler базы данных </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_aac058d44b78ba7f125d172c1f8152bc4_cgraph.png" border="0" usemap="#db__plugin_8h_aac058d44b78ba7f125d172c1f8152bc4_cgraph" alt=""/></div>
+<map name="db__plugin_8h_aac058d44b78ba7f125d172c1f8152bc4_cgraph" id="db__plugin_8h_aac058d44b78ba7f125d172c1f8152bc4_cgraph">
+<area shape="rect" id="node2" href="mongoose_8c.html#ad48bda7f453ecfd8ee745380ed247b9f" title="mg_get_http_var" alt="" coords="161,5,278,32"/>
+<area shape="rect" id="node3" href="mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="151,80,288,107"/>
+<area shape="rect" id="node4" href="mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="336,105,411,132"/>
+<area shape="rect" id="node5" href="sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="155,181,284,208"/>
+<area shape="rect" id="node6" href="sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="166,232,273,259"/>
+<area shape="rect" id="node7" href="sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="159,283,279,309"/>
+<area shape="rect" id="node8" href="sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="173,333,265,360"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_aac058d44b78ba7f125d172c1f8152bc4_icgraph.png" border="0" usemap="#db__plugin_8h_aac058d44b78ba7f125d172c1f8152bc4_icgraph" alt=""/></div>
+<map name="db__plugin_8h_aac058d44b78ba7f125d172c1f8152bc4_icgraph" id="db__plugin_8h_aac058d44b78ba7f125d172c1f8152bc4_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#a36f0356eb331a8494756d4866a902ae8" title="Функция&#45;обработчик POST запроса к api. " alt="" coords="151,5,219,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a6674451cff020de5748bdc298a212207"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6674451cff020de5748bdc298a212207">&#9670;&nbsp;</a></span>send_message()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void send_message </td>
+          <td>(</td>
+          <td class="paramtype">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td>
+          <td class="paramname"><em>nc</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const struct <a class="el" href="structhttp__message.html">http_message</a> *&#160;</td>
+          <td class="paramname"><em>hm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>db</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция api отправки сообщения </p>
+<p>Функция проверяет авторизацию, правильность запроса, кладёт в базу данных новое сообщение.</p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">nc</td><td>Соединение, по которому нужно отправить ответ </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">hm</td><td>Тело HTTP запроса </td></tr>
+    <tr><td class="paramdir">[in]</td><td class="paramname">db</td><td>Handler базы данных </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a6674451cff020de5748bdc298a212207_cgraph.png" border="0" usemap="#db__plugin_8h_a6674451cff020de5748bdc298a212207_cgraph" alt=""/></div>
+<map name="db__plugin_8h_a6674451cff020de5748bdc298a212207_cgraph" id="db__plugin_8h_a6674451cff020de5748bdc298a212207_cgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#abf59574b5a02f704fc678fdb16677ab3" title="Функция выполняет проверку авторизации " alt="" coords="188,100,277,127"/>
+<area shape="rect" id="node3" href="sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="361,5,467,32"/>
+<area shape="rect" id="node4" href="sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="349,68,479,95"/>
+<area shape="rect" id="node5" href="sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="354,144,474,171"/>
+<area shape="rect" id="node6" href="sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="368,199,460,225"/>
+<area shape="rect" id="node7" href="mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="164,276,301,303"/>
+<area shape="rect" id="node8" href="mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="377,301,451,328"/>
+<area shape="rect" id="node9" href="mongoose_8c.html#ad48bda7f453ecfd8ee745380ed247b9f" title="mg_get_http_var" alt="" coords="174,377,291,404"/>
+<area shape="rect" id="node10" href="sqlite3_8c.html#af77e2729923f2621852202e1c23788c6" title="sqlite3_bind_int64" alt="" coords="169,428,296,455"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_a6674451cff020de5748bdc298a212207_icgraph.png" border="0" usemap="#db__plugin_8h_a6674451cff020de5748bdc298a212207_icgraph" alt=""/></div>
+<map name="db__plugin_8h_a6674451cff020de5748bdc298a212207_icgraph" id="db__plugin_8h_a6674451cff020de5748bdc298a212207_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#a36f0356eb331a8494756d4866a902ae8" title="Функция&#45;обработчик POST запроса к api. " alt="" coords="164,5,232,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aa53ebd8c256bca025b5d2a00e57c97d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa53ebd8c256bca025b5d2a00e57c97d6">&#9670;&nbsp;</a></span>switch_action()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int switch_action </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structmg__str.html">mg_str</a> *&#160;</td>
+          <td class="paramname"><em>buf</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Функция парсит параметр action HTTP запроса </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramdir">[in]</td><td class="paramname">buf</td><td>Тело HTTP запроса с параметрами </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Возвращает</dt><dd>enum api_action </dd></dl>
+<div class="dynheader">
+Граф вызовов:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_aa53ebd8c256bca025b5d2a00e57c97d6_cgraph.png" border="0" usemap="#db__plugin_8h_aa53ebd8c256bca025b5d2a00e57c97d6_cgraph" alt=""/></div>
+<map name="db__plugin_8h_aa53ebd8c256bca025b5d2a00e57c97d6_cgraph" id="db__plugin_8h_aa53ebd8c256bca025b5d2a00e57c97d6_cgraph">
+<area shape="rect" id="node2" href="mongoose_8c.html#ad48bda7f453ecfd8ee745380ed247b9f" title="mg_get_http_var" alt="" coords="155,5,272,32"/>
+</map>
+</div>
+<div class="dynheader">
+Граф вызова функции:</div>
+<div class="dyncontent">
+<div class="center"><img src="db__plugin_8h_aa53ebd8c256bca025b5d2a00e57c97d6_icgraph.png" border="0" usemap="#db__plugin_8h_aa53ebd8c256bca025b5d2a00e57c97d6_icgraph" alt=""/></div>
+<map name="db__plugin_8h_aa53ebd8c256bca025b5d2a00e57c97d6_icgraph" id="db__plugin_8h_aa53ebd8c256bca025b5d2a00e57c97d6_icgraph">
+<area shape="rect" id="node2" href="db__plugin__sqlite_8c.html#a36f0356eb331a8494756d4866a902ae8" title="Функция&#45;обработчик POST запроса к api. " alt="" coords="155,5,223,32"/>
+</map>
+</div>
+
+</div>
+</div>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

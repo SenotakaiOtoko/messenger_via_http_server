@@ -1,0 +1,7 @@
+<map id="sqlite3ExprCodeMove" name="sqlite3ExprCodeMove">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8c0b3b3b3f212bc6daf8ef6801dbc352" title="pushOntoSorter" alt="" coords="230,5,343,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a28a19a72e49dbeaaed8a38c573d906ef" title="selectInnerLoop" alt="" coords="423,56,536,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a2465ee8c956209ba4b272477b7c21a45" title="sqlite3Select" alt="" coords="585,107,683,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a52831a0f060778163f628731561bfc8a" title="generateSortTail" alt="" coords="421,157,537,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1ec443eff11af02d52a193c4bfa3591c" title="generateOutputSubroutine" alt="" coords="200,208,373,235"/>
+</map>

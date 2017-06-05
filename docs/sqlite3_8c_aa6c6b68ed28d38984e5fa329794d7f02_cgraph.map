@@ -1,0 +1,13 @@
+<map id="sqlite3BtreeInsert" name="sqlite3BtreeInsert">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#add0c7a5086792caf465148beaadb913d" title="saveAllCursors" alt="" coords="205,5,313,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a59c6be894f749d92143a828269b5015d" title="invalidateIncrblobCursors" alt="" coords="176,56,341,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a13481d732f5bb516f599d16a428034c4" title="btreeMoveto" alt="" coords="213,107,305,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a392335de1138023e2acc7d684caa9e66" title="allocateTempSpace" alt="" coords="191,157,327,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab66a77004cf93954f2aae7e52a4e51a7" title="fillInCell" alt="" coords="225,208,292,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6c95c9aac1c8a00490e36674f43e76ec" title="cellSizePtr" alt="" coords="409,284,495,311"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="389,461,515,488"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#acce36127359eb4baec99dac6d630bd9d" title="clearCell" alt="" coords="223,360,295,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a46eeeb6aebf363bd16265d696612b852" title="dropCell" alt="" coords="224,411,293,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a16d3a955fe59894c541d500ddf92d7c0" title="insertCell" alt="" coords="221,309,297,336"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a173f7c872fb68ccd3a20440d640b66c7" title="balance" alt="" coords="225,512,292,539"/>
+</map>

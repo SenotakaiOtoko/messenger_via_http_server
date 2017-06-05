@@ -1,0 +1,6 @@
+<map id="mg_connection" name="mg_connection">
+<area shape="rect" id="node2" href="$structmg__mgr.html" title="{mg_mgr\n|+ user_data\l+ num_ifaces\l|}" alt="" coords="55,505,155,597"/>
+<area shape="rect" id="node3" href="$structmg__iface.html" title="{mg_iface\n|+ data\l|}" alt="" coords="117,660,191,737"/>
+<area shape="rect" id="node4" href="$structmbuf.html" title="{mbuf\n|+ buf\l+ len\l+ size\l|}" alt="" coords="82,5,141,112"/>
+<area shape="rect" id="node5" href="$unionsocket__address.html" title="{socket_address\n|+ sa\l+ sin\l+ sin6\l|}" alt="" coords="165,5,279,112"/>
+</map>

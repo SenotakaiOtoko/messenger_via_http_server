@@ -1,0 +1,5 @@
+<map id="numberOfCachePages" name="numberOfCachePages">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afd193f1064d653b93326a6b4915a2867" title="sqlite3PcacheFetch" alt="" coords="229,5,367,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5d5e74b7acdd0ab46b5caaea93b9b8d4" title="sqlite3PcachePagecount" alt="" coords="215,56,381,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1aa2a91dc7a128d57245563f65fbe0d0" title="sqlite3PcacheSetCachesize" alt="" coords="205,107,391,133"/>
+</map>

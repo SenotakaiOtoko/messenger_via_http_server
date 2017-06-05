@@ -1,0 +1,8 @@
+<map id="createCollation" name="createCollation">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="215,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="202,56,337,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac4f91d39f24a6435de12698fdb16bc14" title="sqlite3FindCollSeq" alt="" coords="204,107,335,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="225,157,313,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af8baf566e769881b3d0bbdb0d2b4cdfe" title="sqlite3ExpirePreparedStatements" alt="" coords="161,208,377,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1bb83282c04c104ba033c3f5eb9556d2" title="sqlite3HashFind" alt="" coords="212,259,327,285"/>
+</map>

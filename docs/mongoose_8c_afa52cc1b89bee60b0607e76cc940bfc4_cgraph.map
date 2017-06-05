@@ -1,0 +1,4 @@
+<map id="mg_send_mqtt_short_command" name="mg_send_mqtt_short_command">
+<area shape="rect" id="node2" href="$mongoose_8c.html#ab0613b2aa565a9b4c3ecca1488dfacad" title="mg_send" alt="" coords="246,5,321,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ae499a420ebddf3de98c831649925e04d" title="mg_mqtt_prepend_header" alt="" coords="197,56,369,83"/>
+</map>

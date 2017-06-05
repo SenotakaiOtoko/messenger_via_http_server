@@ -1,0 +1,8 @@
+<map id="Vdbe" name="Vdbe">
+<area shape="rect" id="node3" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="327,579,437,803"/>
+<area shape="rect" id="node4" href="$struct_vdbe_frame.html" title="{VdbeFrame\n|+ aOnceFlag\l+ token\l+ lastRowid\l+ nCursor\l+ pc\l+ nOp\l+ nMem\l+ nOnceFlag\l+ nChildMem\l+ nChildCsr\l+ nChange\l|}" alt="" coords="319,1497,418,1721"/>
+<area shape="rect" id="node2" href="$struct_mem.html" title="{Mem\n|+ z\l+ r\l+ i\l+ nZero\l+ u\l+ n\l+ flags\l+ type\l+ enc\l+ xDel\l+ zMalloc\l|}" alt="" coords="391,865,469,1089"/>
+<area shape="rect" id="node6" href="$struct_vdbe_op.html" title="{VdbeOp\n|+ opcode\l+ p4type\l+ opflags\l+ p5\l+ p1\l+ p2\l+ p3\l+ i\l+ p\l+ z\l+ pI64\l+ pReal\l+ ai\l+ xAdvance\l+ p4\l|}" alt="" coords="118,1152,209,1435"/>
+<area shape="rect" id="node5" href="$struct_vdbe_cursor.html" title="{VdbeCursor\n|+ iDb\l+ pseudoTableReg\l+ nField\l+ zeroed\l+ rowidIsValid\l+ atFirst\l+ useRandomRowid\l+ nullRow\l+ deferredMoveto\l+ isTable\lи 13 больше...\l|}" alt="" coords="438,5,577,229"/>
+<area shape="rect" id="node7" href="$struct_sub_program.html" title="{SubProgram\n|+ nOp\l+ nMem\l+ nCsr\l+ nOnce\l+ token\l|}" alt="" coords="5,1541,100,1677"/>
+</map>

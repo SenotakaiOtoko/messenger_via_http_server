@@ -1,0 +1,8 @@
+<map id="destroyRootPage" name="destroyRootPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="202,5,313,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab58586b4abaefcc5df42af9d1e84d8fb" title="sqlite3GetTempReg" alt="" coords="189,56,325,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a29b4560b019211a73e1478cec7468345" title="sqlite3VdbeAddOp3" alt="" coords="189,107,326,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a700db222a53c596ad5a0aef2c07a12ef" title="sqlite3MayAbort" alt="" coords="199,157,315,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ae78bd6187a28892732af5428ec15b03f" title="sqlite3NestedParse" alt="" coords="190,208,325,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a48d55dce63ac590c3b0fc464abb67ad7" title="sqlite3ReleaseTempReg" alt="" coords="176,259,339,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeIntValue" name="sqlite3VdbeIntValue">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#abbe4d6d927b85b81fda952bce3b9b511" title="sqlite3VdbeMemIntegerify" alt="" coords="191,5,361,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="409,31,529,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#a5c6adf98772a341f3df5ccd5ff003245" title="sqlite3_value_int" alt="" coords="217,107,335,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#ab56c9a28c7607de9b00c75b27b8fadb1" title="sqlite3_value_int64" alt="" coords="211,157,341,184"/>
+</map>

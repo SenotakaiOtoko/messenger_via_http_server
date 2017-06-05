@@ -1,0 +1,6 @@
+<map id="sqlite3PagerOpenSavepoint" name="sqlite3PagerOpenSavepoint">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aaf1f3aa052a89ceffe0f55a526504785" title="sqlite3Realloc" alt="" coords="253,5,355,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0a60c2422cf28790767f5bc7598514ee" title="sqlite3BitvecCreate" alt="" coords="237,56,371,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="254,107,354,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ade4ab202b77ef14a81540a873b929013" title="sqlite3WalSavepoint" alt="" coords="235,157,373,184"/>
+</map>

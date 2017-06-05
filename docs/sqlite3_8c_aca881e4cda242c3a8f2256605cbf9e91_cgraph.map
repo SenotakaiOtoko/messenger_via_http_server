@@ -1,0 +1,6 @@
+<map id="timeFunc" name="timeFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a88586fabfb5a2ee248ccf6f5dfb90904" title="isDate" alt="" coords="164,5,223,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a13e9c62b28e0545b79e18f6c020ee51b" title="computeHMS" alt="" coords="143,56,244,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa2695a752e971577f5784122f2013c40" title="sqlite3_snprintf" alt="" coords="139,107,248,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2c06bc83045bd7986b89e5e8bd689bdf" title="sqlite3_result_text" alt="" coords="129,157,257,184"/>
+</map>

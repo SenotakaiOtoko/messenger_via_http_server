@@ -1,0 +1,6 @@
+<map id="sqlite3BtreeLockTable" name="sqlite3BtreeLockTable">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="231,5,354,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a248343a0d79235a90b955d801713d243" title="querySharedCacheTableLock" alt="" coords="429,81,620,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad254777f35a1b8a8f5128da2b636b7dd" title="setSharedCacheTableLock" alt="" coords="204,107,381,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="231,157,355,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mg_resolve_async_eh" name="mg_resolve_async_eh">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a844719a6a21476e5f173ef2101473153" title="mg_time" alt="" coords="239,5,311,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a080dc50cfd880656bc8e79513c62fc2d" title="mg_send_dns_query" alt="" coords="204,56,347,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#ab965bcfe8bc9e43a27ced4390301ea28" title="mg_parse_dns" alt="" coords="222,107,329,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a992684a720955bdc25108165e417ac5d" title="mbuf_remove" alt="" coords="226,157,325,184"/>
+</map>

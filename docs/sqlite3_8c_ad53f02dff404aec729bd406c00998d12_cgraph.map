@@ -1,0 +1,5 @@
+<map id="unixGetTempname" name="unixGetTempname">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac01d6bdb259b4aafddfc589d114614a4" title="unixTempFileDir" alt="" coords="196,5,311,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa2695a752e971577f5784122f2013c40" title="sqlite3_snprintf" alt="" coords="199,56,308,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa452ad88657d4606e137b09c4e9315c7" title="sqlite3_randomness" alt="" coords="184,107,323,133"/>
+</map>

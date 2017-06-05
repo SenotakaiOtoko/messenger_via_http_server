@@ -1,0 +1,4 @@
+<map id="MemPage" name="MemPage">
+<area shape="rect" id="node2" href="$struct_bt_shared.html" title="{BtShared\n|+ openFlags\l+ autoVacuum\l+ incrVacuum\l+ bDoTruncate\l+ inTransaction\l+ max1bytePayload\l+ btsFlags\l+ maxLocal\l+ minLocal\l+ maxLeaf\lи 9 больше...\l|}" alt="" coords="5,491,144,715"/>
+<area shape="rect" id="node3" href="$struct_pg_hdr.html" title="{PgHdr\n|+ pData\l+ pExtra\l+ pgno\l+ flags\l+ nRef\l|}" alt="" coords="39,5,111,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sqlite3BtreeSchema" name="sqlite3BtreeSchema">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="200,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="192,56,331,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="199,107,323,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="PgHdr1" name="PgHdr1">
+<area shape="rect" id="node3" href="$struct_p_cache1.html" title="{PCache1\n|+ szPage\l+ szExtra\l+ bPurgeable\l+ nMin\l+ nMax\l+ n90pct\l+ iMaxKey\l+ nRecyclable\l+ nPage\l+ nHash\l|}" alt="" coords="25,300,130,509"/>
+<area shape="rect" id="node2" href="$structsqlite3__pcache__page.html" title="{sqlite3_pcache_page\n|+ pBuf\l+ pExtra\l|}" alt="" coords="5,5,149,97"/>
+</map>

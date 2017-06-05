@@ -1,0 +1,8 @@
+<map id="schemaIsValid" name="schemaIsValid">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="381,14,516,41"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a042d03b5e23a171bdb511e326a06b663" title="sqlite3BtreeIsInReadTrans" alt="" coords="160,40,333,66"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a52d6706df15c67c22aa7d0e290c16bf5" title="sqlite3BtreeBeginTrans" alt="" coords="169,90,325,117"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa1124ad3e3ee4dada2aa96eebd4e9c9a" title="sqlite3BtreeGetMeta" alt="" coords="176,141,317,168"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aae32656cb46c5449ae7c53fc8aa27887" title="sqlite3ResetOneSchema" alt="" coords="163,192,330,218"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a8e56ab314556935f9f73080147d26419" title="sqlite3BtreeCommit" alt="" coords="179,242,315,269"/>
+</map>

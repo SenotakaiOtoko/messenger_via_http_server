@@ -1,0 +1,5 @@
+<map id="sqlite3VdbeRecordCompare" name="sqlite3VdbeRecordCompare">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6d0b5aed55d5e85a0a6bfcae169fe579" title="sqlite3BtreeMovetoUnpacked" alt="" coords="236,5,427,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a82934368a1fe5a6609cdec184a5e25a8" title="sqlite3VdbeIdxKeyCompare" alt="" coords="240,56,423,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aeccf1dcf230847cd7df5ab62cc319980" title="vdbeSorterCompare" alt="" coords="264,107,399,133"/>
+</map>

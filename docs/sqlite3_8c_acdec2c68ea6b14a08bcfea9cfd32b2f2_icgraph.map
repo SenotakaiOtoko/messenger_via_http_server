@@ -1,0 +1,6 @@
+<map id="bindText" name="bindText">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#a6c41c2b6f82188283a846a98d5367885" title="sqlite3_bind_blob" alt="" coords="130,5,253,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a962df8800a9e412161fee0add5f7267e" title="sqlite3_bind_value" alt="" coords="307,31,433,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="131,107,251,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a7d78ae53b3dc77824595fa3a1abb5c79" title="sqlite3_bind_text16" alt="" coords="124,157,259,184"/>
+</map>

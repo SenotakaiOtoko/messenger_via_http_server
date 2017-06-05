@@ -1,0 +1,7 @@
+<map id="loadExt" name="loadExt">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="135,5,260,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="132,57,263,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9ddf80e7265851b2d79e85aa1f4087b2" title="sqlite3_load_extension" alt="" coords="120,123,275,149"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a577161e1b67908b94f47007aaa6ae4c4" title="sqlite3_result_error" alt="" coords="131,173,263,200"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="153,224,241,251"/>
+</map>

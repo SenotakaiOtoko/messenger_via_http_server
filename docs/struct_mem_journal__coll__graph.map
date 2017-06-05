@@ -1,0 +1,5 @@
+<map id="MemJournal" name="MemJournal">
+<area shape="rect" id="node2" href="$struct_file_point.html" title="{FilePoint\n|+ iOffset\l|}" alt="" coords="81,219,154,296"/>
+<area shape="rect" id="node3" href="$struct_file_chunk.html" title="{FileChunk\n|+ zChunk\l|}" alt="" coords="8,5,88,83"/>
+<area shape="rect" id="node4" href="$structsqlite3__io__methods.html" title="{sqlite3_io_methods\n|+ iVersion\l+ xClose\l+ xRead\l+ xWrite\l+ xTruncate\l+ xSync\l+ xFileSize\l+ xLock\l+ xUnlock\l+ xCheckReservedLock\lи 9 больше...\l|}" alt="" coords="178,145,337,369"/>
+</map>

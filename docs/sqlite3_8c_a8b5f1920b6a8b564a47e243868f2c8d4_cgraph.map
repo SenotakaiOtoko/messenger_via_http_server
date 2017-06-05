@@ -1,0 +1,7 @@
+<map id="sqlite3PagerSavepoint" name="sqlite3PagerSavepoint">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="416,111,556,137"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a237bb8682b84ed24be164d4c57465182" title="sqlite3IsMemJournal" alt="" coords="216,35,356,61"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab14e17fc93b09d52b42c433c47eb3b68" title="sqlite3OsTruncate" alt="" coords="223,85,349,112"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="436,173,536,200"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aedf76c3b6661c4244cc3e2c5464fd12e" title="pagerPlaybackSavepoint" alt="" coords="204,136,368,163"/>
+</map>

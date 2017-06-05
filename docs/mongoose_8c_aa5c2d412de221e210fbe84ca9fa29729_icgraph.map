@@ -1,0 +1,5 @@
+<map id="mg_create_connection_base" name="mg_create_connection_base">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a26c811fbdf862c4744743b58de60ca99" title="mg_create_connection" alt="" coords="241,5,395,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a3b7cf668d0412cd37c5bba8ba5938ee0" title="mg_if_recv_udp_cb" alt="" coords="252,56,384,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a53f66888c601df62f7bfd9cf19d79c6e" title="mg_add_sock_opt" alt="" coords="254,107,382,133"/>
+</map>

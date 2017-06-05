@@ -1,0 +1,5 @@
+<map id="walIndexWriteHdr" name="walIndexWriteHdr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aab2cbd233e7f954c7a260578027bb0ca" title="walIndexHdr" alt="" coords="199,5,291,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a19c69852e7fdedf0dac08453403f7487" title="walChecksumBytes" alt="" coords="176,56,313,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad2521f6deb16bf6c132c44687dd5fd4b" title="walShmBarrier" alt="" coords="191,107,298,133"/>
+</map>

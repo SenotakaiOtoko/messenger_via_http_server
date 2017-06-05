@@ -1,0 +1,6 @@
+<map id="sqlite3BtreeSyncDisabled" name="sqlite3BtreeSyncDisabled">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="411,25,545,51"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="232,25,355,51"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aef253468a97f22fbec26bf8e3f52c1a4" title="sqlite3PagerNosync" alt="" coords="224,75,363,102"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="231,126,355,153"/>
+</map>

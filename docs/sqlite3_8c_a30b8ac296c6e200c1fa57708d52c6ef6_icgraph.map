@@ -1,0 +1,6 @@
+<map id="sqlite3StatusValue" name="sqlite3StatusValue">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3a9566583a79c184600082b3d3a50938" title="sqlite3MemoryAlarm" alt="" coords="184,5,325,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ada66988e8471d1198f3219c062377508" title="sqlite3MallocAlarm" alt="" coords="189,107,321,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="373,81,495,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aaf1f3aa052a89ceffe0f55a526504785" title="sqlite3Realloc" alt="" coords="383,144,485,171"/>
+</map>

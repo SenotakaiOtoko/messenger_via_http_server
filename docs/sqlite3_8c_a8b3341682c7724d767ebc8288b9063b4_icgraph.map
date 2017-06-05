@@ -1,0 +1,8 @@
+<map id="sqlite3VtabUnlock" name="sqlite3VtabUnlock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa1ec8debef2a9be5fe36a3082fd3e0f9" title="freeP4" alt="" coords="228,5,287,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a27389b43aaf0bfa61d7f4ae78863ef2a" title="sqlite3VtabDisconnect" alt="" coords="181,56,333,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a266b6e5487ec403a27fc6c6f852ff249" title="sqlite3VtabUnlockList" alt="" coords="183,107,331,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acae1b4d5d02b25f4cac29993dae7f983" title="vtabCallConstructor" alt="" coords="190,157,325,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a4e4b63fbee70eb546889a86f2efa014a" title="sqlite3VtabCallDestroy" alt="" coords="180,208,335,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a22316908cc65af3d391ba12ab103edb9" title="callFinaliser" alt="" coords="212,259,303,285"/>
+</map>

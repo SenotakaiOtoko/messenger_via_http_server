@@ -1,0 +1,12 @@
+<map id="sqlite3CreateView" name="sqlite3CreateView">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="624,107,737,133"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="432,107,567,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af49b4395f39d9078a0dda2484c183012" title="sqlite3StartTable" alt="" coords="218,5,337,32"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a49a9958462ebca9ad2acda672c8a6357" title="sqlite3TwoPartName" alt="" coords="429,56,570,83"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad9ef77a42022f1f8c8ab71b5761f5134" title="sqlite3SchemaToIndex" alt="" coords="423,385,576,412"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a95345ae6d992689df4a392592985100a" title="sqlite3FixInit" alt="" coords="230,259,325,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a359eecf223c2eaa665ef8bc3f2687d4c" title="sqlite3FixSelect" alt="" coords="220,309,335,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#af8a7f75590dced000c27784d90b57b87" title="sqlite3SelectDup" alt="" coords="439,208,559,235"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#aebc7cd8d9e2bd174ae0a60363d3f6ce8" title="sqlite3ViewGetColumnNames" alt="" coords="180,157,375,184"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a9088a34ee719704b8dae10f5cbbad5ca" title="sqlite3EndTable" alt="" coords="220,360,335,387"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="checkList" name="checkList">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a126e5fde53e03508de62ccf66f6c1762" title="checkAppendMsg" alt="" coords="323,31,449,58"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a348aeb1c247d08595ec80c998d2efacd" title="checkRef" alt="" coords="165,31,241,58"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9dd340e56fb4b7fad4df339595b8d8a2" title="sqlite3PagerGetData" alt="" coords="132,82,275,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1a0b6cfc7b15f6f3f9ba963067bf699a" title="checkPtrmap" alt="" coords="154,132,253,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="141,183,265,210"/>
+</map>

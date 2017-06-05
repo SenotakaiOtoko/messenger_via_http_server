@@ -1,0 +1,6 @@
+<map id="get_user" name="get_user">
+<area shape="rect" id="node2" href="$mongoose_8c.html#ad48bda7f453ecfd8ee745380ed247b9f" title="mg_get_http_var" alt="" coords="135,5,253,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="125,80,263,107"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="311,105,385,132"/>
+<area shape="rect" id="node5" href="$db__plugin__sqlite_8c.html#acd5ff53565d4383be27bff6f8309db01" title="Функция достаёт данные о пользователе из базы данных " alt="" coords="131,181,257,208"/>
+</map>

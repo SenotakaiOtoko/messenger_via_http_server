@@ -1,0 +1,6 @@
+<map id="mg_write_to_socket" name="mg_write_to_socket">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a8c3f17edab445264dbf2a764739669cf" title="mg_get_errno" alt="" coords="347,51,448,77"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a992684a720955bdc25108165e417ac5d" title="mbuf_remove" alt="" coords="196,25,295,52"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a5ac0c1c762a5839f16c7e68dfb571cf5" title="mg_if_sent_cb" alt="" coords="192,76,299,103"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#aff7b7bf70d850df7d77386b30d4301c0" title="mg_is_error" alt="" coords="200,127,291,153"/>
+</map>

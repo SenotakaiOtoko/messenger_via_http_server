@@ -1,0 +1,11 @@
+<map id="bestBtreeIndex" name="bestBtreeIndex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af26eb1eed85001fcf29fa189b631ac4b" title="findTerm" alt="" coords="354,107,425,133"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aef0653bbfc92355fa0328e75c7fcffaf" title="whereRangeScanEst" alt="" coords="163,56,305,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9b9195175498c993152fe0a0667a9d75" title="isSortingIndex" alt="" coords="182,157,286,184"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aff9554a4790fc9c0b4f80378505c45dc" title="getMask" alt="" coords="353,208,425,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad5153a3866978ad25914d8219c37cb21" title="isDistinctIndex" alt="" coords="181,5,287,32"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aa4287e4538a263b5de0ea252afee1609" title="estLog" alt="" coords="359,360,420,387"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a3e4159d778b92e3017c6544fb4733cd7" title="compareCost" alt="" coords="185,309,283,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aad1f6c60342737928f0dc03944a6ce2e" title="bestOrClauseIndex" alt="" coords="168,259,300,285"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a0b810b3c6952c4f14c7d487383885843" title="bestAutomaticIndex" alt="" coords="165,411,303,437"/>
+</map>

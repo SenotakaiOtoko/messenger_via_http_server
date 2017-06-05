@@ -1,0 +1,8 @@
+<map id="sqlite3DbReallocOrFree" name="sqlite3DbReallocOrFree">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad26fb054dcce926a1d2b8d981b630333" title="sqlite3VdbeMemGrow" alt="" coords="223,5,372,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#acf57ce8fb6f3c634375c019f5ebe66f6" title="sqlite3VdbeMakeLabel" alt="" coords="221,56,374,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#abc260083e4aecdad48eee61819b94a2a" title="codeEqualityTerm" alt="" coords="431,81,557,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1b9289e501b3d6f3cdc0a25f97445c6d" title="sqlite3VdbeRunOnlyOnce" alt="" coords="212,157,383,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af67841c00a8f3e19e5ad395e9e52f021" title="vdbeSorterIterRead" alt="" coords="232,208,363,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a13be5e81f379c515f270f6f2a3bb63a7" title="sqlite3TableLock" alt="" coords="238,259,357,285"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SrcList::SrcList_item" name="SrcList::SrcList_item">
+<area shape="rect" id="node2" href="$struct_schema.html" title="{Schema\n|+ schema_cookie\l+ iGeneration\l+ file_format\l+ enc\l+ flags\l+ cache_size\l|}" alt="" coords="232,5,357,156"/>
+<area shape="rect" id="node3" href="$struct_table.html" title="{Table\n|+ zName\l+ zColAff\l+ nRowEst\l+ tnum\l+ iPKey\l+ nCol\l+ nRef\l+ tabFlags\l+ keyConf\l+ addColOffset\l+ nModuleArg\l+ azModuleArg\l|}" alt="" coords="239,219,350,457"/>
+<area shape="rect" id="node6" href="$struct_index.html" title="{Index\n|+ zName\l+ aiColumn\l+ aiRowEst\l+ zColAff\l+ aSortOrder\l+ azColl\l+ tnum\l+ nColumn\l+ onError\l+ autoIndex\l+ bUnordered\l|}" alt="" coords="469,542,569,766"/>
+<area shape="rect" id="node5" href="$struct_expr.html" title="{Expr\n|+ op\l+ affinity\l+ flags\l+ zToken\l+ iValue\l+ u\l+ x\l+ nHeight\l+ iTable\l+ iColumn\l+ iAgg\l+ iRightJoinTable\l+ flags2\l+ op2\l|}" alt="" coords="254,520,375,788"/>
+<area shape="rect" id="node4" href="$struct_select.html" title="{Select\n|+ op\l+ selFlags\l+ iLimit\l+ iOffset\l+ addrOpenEphm\l+ nSelectRow\l|}" alt="" coords="149,895,273,1045"/>
+<area shape="rect" id="node7" href="$struct_id_list.html" title="{IdList\n|+ nId\l|}" alt="" coords="580,931,633,1009"/>
+</map>

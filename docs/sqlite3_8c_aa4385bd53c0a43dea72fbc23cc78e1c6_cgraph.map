@@ -1,0 +1,5 @@
+<map id="sqlite3SelectPrep" name="sqlite3SelectPrep">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae55acd1d8219505e629c2148950fa3de" title="sqlite3SelectExpand" alt="" coords="198,5,339,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0cf10c480643b1ab9eaa02056a400734" title="sqlite3ResolveSelectNames" alt="" coords="177,56,360,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7d22b0625164daa7f99dcce132ef7b4d" title="sqlite3SelectAddTypeInfo" alt="" coords="185,107,353,133"/>
+</map>

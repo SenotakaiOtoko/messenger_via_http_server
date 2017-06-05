@@ -1,0 +1,9 @@
+<map id="sqlite3AutoincrementBegin" name="sqlite3AutoincrementBegin">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa935d8de28fb95e999736ef792d5a808" title="sqlite3OpenTable" alt="" coords="249,5,371,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a29b4560b019211a73e1478cec7468345" title="sqlite3VdbeAddOp3" alt="" coords="437,157,575,184"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5e2bf0933a091bdfd7f0acd86a894889" title="sqlite3VdbeCurrentAddr" alt="" coords="231,107,389,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a739d7a47b1c11779283b7797ea7e1d4d" title="sqlite3VdbeAddOp4" alt="" coords="241,157,379,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ae87204d7b069da19e4db0404c6deaae5" title="sqlite3VdbeAddOp2" alt="" coords="241,208,379,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a4dde2e4087eda945511b05d667050740" title="sqlite3VdbeChangeP5" alt="" coords="235,259,385,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a0aefd237fc1d629f3a3d3d454ced408a" title="sqlite3VdbeAddOp0" alt="" coords="241,309,379,336"/>
+</map>

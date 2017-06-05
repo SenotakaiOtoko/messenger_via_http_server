@@ -1,0 +1,9 @@
+<map id="pager_reset" name="pager_reset">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a5b54bd09bd76fa68eb6310fbf9bbaf20" title="pager_unlock" alt="" coords="187,46,285,72"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af94b1f96b60689fd09422cce2c85f53f" title="sqlite3PagerClose" alt="" coords="394,20,521,47"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="376,122,539,148"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9d9a750a9fc76eb4b668c8a16b164a65" title="pager_playback" alt="" coords="179,147,293,174"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a4a484b6c404f96050418d965e3cc17a1" title="pagerBeginReadTransaction" alt="" coords="144,198,328,224"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab668348d5dcc0382c247c74b6358f16e" title="sqlite3PagerSetPagesize" alt="" coords="152,248,320,275"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a4a63ac64849ad46ad5a539332c43f494" title="sqlite3PagerClearCache" alt="" coords="155,299,317,326"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sqlite3BtreeSharable" name="sqlite3BtreeSharable">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="583,54,717,80"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad9ef77a42022f1f8c8ab71b5761f5134" title="sqlite3SchemaToIndex" alt="" coords="381,28,535,55"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="397,79,519,106"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7e8c5e623a61d322d3622c3e6202d735" title="sqlite3BtreeEnterAll" alt="" coords="196,130,333,156"/>
+</map>

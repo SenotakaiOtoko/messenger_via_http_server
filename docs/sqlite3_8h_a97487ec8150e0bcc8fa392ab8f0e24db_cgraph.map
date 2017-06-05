@@ -1,0 +1,20 @@
+<map id="sqlite3_exec" name="sqlite3_exec">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab15308423296d719d75dca4c0ef182a7" title="sqlite3SafetyCheckOk" alt="" coords="148,5,299,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="347,132,485,159"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="533,385,621,412"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="159,461,288,488"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a326cbde878820fd108f5961d5318f585" title="sqlite3_column_count" alt="" coords="149,512,297,539"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="177,259,269,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="365,284,467,311"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ae5a967ec6172298db98b6090bbd1dd9b" title="sqlite3ApiExit" alt="" coords="365,360,467,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="347,196,485,223"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="154,563,293,589"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#ae028927f18835d477095b23d53fc02d7" title="sqlite3_column_name" alt="" coords="149,613,297,640"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#aee36f5eaf67b425ddf6f9b7a2004d018" title="sqlite3_column_text" alt="" coords="154,664,293,691"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a384086b220821bc71e9a3f900773a25d" title="sqlite3_column_type" alt="" coords="153,715,294,741"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#af81e0c8d03b71610d3a826469f67bbd4" title="sqlite3VdbeFinalize" alt="" coords="156,765,291,792"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a79bd13f5c8b7a6ccc6fd76fc7fc2104c" title="sqlite3_errcode" alt="" coords="168,816,279,843"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="169,867,277,893"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#ae0d58565fa198e724fc2bb5381b3299f" title="sqlite3_errmsg" alt="" coords="170,157,277,184"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="174,107,273,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="vdbeUnbind" name="vdbeUnbind">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acdec2c68ea6b14a08bcfea9cfd32b2f2" title="bindText" alt="" coords="179,5,250,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a8dc6f4de797850398e12e5022cae8915" title="sqlite3_bind_double" alt="" coords="147,56,283,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#af77e2729923f2621852202e1c23788c6" title="sqlite3_bind_int64" alt="" coords="151,107,278,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a6649c57d2c7b13ba6b506f6f79da85aa" title="sqlite3_bind_null" alt="" coords="155,157,274,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8h.html#afd35a95aa65e816b43cc2dc03abd118b" title="sqlite3_bind_zeroblob" alt="" coords="141,208,288,235"/>
+</map>

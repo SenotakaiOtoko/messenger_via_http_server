@@ -1,0 +1,11 @@
+<map id="ptrmapPut" name="ptrmapPut">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a5b7cb112db531e0498aaddcbadb4985b" title="ptrmapPutOvflPtr" alt="" coords="136,157,256,184"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#adf2ff6d11495ca47f88ace93f5be9d91" title="setChildPtrmaps" alt="" coords="304,106,423,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af8fb5934ff87b02845c89350c57fd2bc" title="relocatePage" alt="" coords="471,56,569,82"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a48e09eaac366a6b585edd02553872954" title="btreeCreateTable" alt="" coords="617,30,737,57"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a92f1869a02b8b9196e5ea7ed2e61c328" title="balance_quick" alt="" coords="311,182,416,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="305,233,422,260"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a625a2c2bdaf95cdb3a7cb945201f7efb" title="freePage2" alt="" coords="156,309,236,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ab66a77004cf93954f2aae7e52a4e51a7" title="fillInCell" alt="" coords="163,360,229,386"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#af8eafba12a6ebc987cf6ae89f4cce1a8" title="balance_deeper" alt="" coords="139,410,253,437"/>
+</map>

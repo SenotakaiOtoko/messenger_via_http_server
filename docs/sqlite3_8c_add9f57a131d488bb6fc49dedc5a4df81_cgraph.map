@@ -1,0 +1,6 @@
+<map id="pager_incr_changecounter" name="pager_incr_changecounter">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="255,5,381,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="456,31,580,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afd08ca92c5087db71f9b3a7cd9343057" title="pager_write_changecounter" alt="" coords="228,107,408,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="264,157,372,184"/>
+</map>

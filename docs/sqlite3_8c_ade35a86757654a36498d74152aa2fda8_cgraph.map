@@ -1,0 +1,7 @@
+<map id="sqlite3ResultSetOfSelect" name="sqlite3ResultSetOfSelect">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa4385bd53c0a43dea72fbc23cc78e1c6" title="sqlite3SelectPrep" alt="" coords="271,5,395,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="493,81,632,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8ee79348729b2c9134f2c1fd407302e3" title="selectColumnsFromExprList" alt="" coords="239,107,426,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a3ade2a7073b1e55a28b1b833132d64b9" title="selectAddColumnTypeAndCollation" alt="" coords="220,157,445,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7fd3d507375a381a3807f92735318973" title="sqlite3DeleteTable" alt="" coords="269,208,397,235"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="sqlite3ResolveExprNames" name="sqlite3ResolveExprNames">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac7f7eabdc769257622ad90aac3e02fe6" title="resolveOrderByTermToExprList" alt="" coords="227,5,428,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4dc8ed6177a5de887eae1010992e3d00" title="resolveOrderGroupBy" alt="" coords="255,56,400,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0b9015a9e505c63fd104dcbad672c814" title="resolveSelectStep" alt="" coords="476,119,603,145"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2b0ae2ee3fae38ccc805f582a9ce38f5" title="resolveAttachExpr" alt="" coords="264,181,391,208"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a9088a34ee719704b8dae10f5cbbad5ca" title="sqlite3EndTable" alt="" coords="270,232,385,259"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="264,283,391,309"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a67c9dcb484336b3155e7a82a037d4691" title="fkScanChildren" alt="" coords="273,333,382,360"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="281,384,373,411"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a463cea5aaaf388b560b206570a0022fc" title="codeRowTrigger" alt="" coords="270,435,385,461"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="277,485,378,512"/>
+</map>

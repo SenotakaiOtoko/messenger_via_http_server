@@ -1,0 +1,8 @@
+<map id="freeP4" name="freeP4">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="337,73,440,100"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="488,23,576,49"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ace0a45aad803937290f5495906773bc4" title="freeEphemeralFunction" alt="" coords="123,73,278,100"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae42776677343887d7e421240f2f8b2be" title="sqlite3VdbeDeleteAuxData" alt="" coords="112,124,289,151"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#afeed84c3f344a833d15c7209265dc520" title="sqlite3ValueFree" alt="" coords="141,175,260,201"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a8b3341682c7724d767ebc8288b9063b4" title="sqlite3VtabUnlock" alt="" coords="137,225,264,252"/>
+</map>

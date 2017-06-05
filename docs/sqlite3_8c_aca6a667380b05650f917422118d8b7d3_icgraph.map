@@ -1,0 +1,9 @@
+<map id="sqlite3ExprAffinity" name="sqlite3ExprAffinity">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4bd560a9a6a8d11bec0a070a46eb38fa" title="sqlite3CompareAffinity" alt="" coords="217,45,368,72"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a288a61b5d72d6974ed9b0bb4f57f45ac" title="comparisonAffinity" alt="" coords="453,20,581,46"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5f42574a5d9dbf7676234b08f17dcb23" title="binaryCompareP5" alt="" coords="455,82,580,109"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa69b46d2204a1d1b110107a1be12ee0c" title="sqlite3CodeSubselect" alt="" coords="219,146,367,173"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a3ade2a7073b1e55a28b1b833132d64b9" title="selectAddColumnTypeAndCollation" alt="" coords="180,197,405,224"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6c38e495198bf8976f68d1a6ebd74a50" title="isLikeOrGlob" alt="" coords="244,248,341,274"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ab95cabd8b51cb2291b5bef0c4a3776d2" title="exprAnalyzeOrTerm" alt="" coords="224,298,361,325"/>
+</map>

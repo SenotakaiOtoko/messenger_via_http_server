@@ -1,0 +1,10 @@
+<map id="unixOpen" name="unixOpen">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab0ecaa459e88856a9cceb9786019ed8d" title="findReusableFd" alt="" coords="142,5,253,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac79dba55fc32b6a840cf5a9769bce7cd" title="sqlite3_malloc" alt="" coords="145,56,250,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad53f02dff404aec729bd406c00998d12" title="unixGetTempname" alt="" coords="132,107,263,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae1414716ffa56d56bfde1f6ef35d9acf" title="findCreateFileMode" alt="" coords="131,157,264,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a0eb989e531821c6a1deb85a3ba0021c0" title="robust_open" alt="" coords="151,208,244,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#abc25d22670649c241bee8c46921988ab" title="robust_close" alt="" coords="149,259,245,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a84cdb6e4ff75f085e8c05dfdec178927" title="unixClose" alt="" coords="158,309,237,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="153,360,241,387"/>
+</map>

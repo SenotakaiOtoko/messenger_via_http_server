@@ -1,0 +1,6 @@
+<map id="sqlite3_context" name="sqlite3_context">
+<area shape="rect" id="node2" href="$struct_mem.html" title="{Mem\n|+ z\l+ r\l+ i\l+ nZero\l+ u\l+ n\l+ flags\l+ type\l+ enc\l+ xDel\l+ zMalloc\l|}" alt="" coords="95,248,174,472"/>
+<area shape="rect" id="node3" href="$struct_func_def.html" title="{FuncDef\n|+ nArg\l+ iPrefEnc\l+ flags\l+ pUserData\l+ xFunc\l+ xStep\l+ xFinalize\l+ zName\l|}" alt="" coords="87,5,182,185"/>
+<area shape="rect" id="node5" href="$struct_vdbe_func.html" title="{VdbeFunc\n|+ nAux\l|}" alt="" coords="198,321,279,399"/>
+<area shape="rect" id="node4" href="$struct_coll_seq.html" title="{CollSeq\n|+ zName\l+ enc\l+ pUser\l+ xCmp\l+ xDel\l|}" alt="" coords="304,292,378,428"/>
+</map>

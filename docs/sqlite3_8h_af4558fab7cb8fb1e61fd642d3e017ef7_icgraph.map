@@ -1,0 +1,27 @@
+<map id="sqlite3_snprintf" name="sqlite3_snprintf">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9755493e1c5c377b5ea7078b4029c24a" title="datetimeFunc" alt="" coords="195,5,297,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aca881e4cda242c3a8f2256605cbf9e91" title="timeFunc" alt="" coords="208,56,284,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0895a9abec96efb62b3c986a3c14ee32" title="dateFunc" alt="" coords="208,107,284,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af531defbf93ba3aef96decedeafb344f" title="strftimeFunc" alt="" coords="199,157,293,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a34c67a19bf6632f4c0f362ec5f2d2a1b" title="openDirectory" alt="" coords="195,208,297,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a30775afa2e08ca6ddc7853326afed7c7" title="unixOpenSharedMemory" alt="" coords="163,259,329,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ad53f02dff404aec729bd406c00998d12" title="unixGetTempname" alt="" coords="181,309,311,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a129b22de988456c437b033551f7cd7af" title="unixFullPathname" alt="" coords="183,360,309,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ad04af94e02dde278ad32c9c94d109a6c" title="unixDlError" alt="" coords="203,411,289,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#aed1e42f49d74b419c3c85b559dd61240" title="unixGetLastError" alt="" coords="186,461,306,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="191,536,301,563"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="196,587,296,613"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#aaa163f26bf1e56df2fb274bf7e6bc5b9" title="walDecodeFrame" alt="" coords="185,637,307,664"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a833fe7b749860571772ef6b19b3c54df" title="checkTreePage" alt="" coords="190,688,302,715"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#ad78aa19c2a115f277a15a3ce8fc54306" title="sqlite3VdbeMemStringify" alt="" coords="163,739,329,765"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a213d2242690998ca991f734ee4d4dce9" title="displayP4" alt="" coords="207,789,285,816"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a61f5dfb765135a9982025bab8944f7fd" title="sqlite3VdbeList" alt="" coords="377,815,488,841"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="199,891,293,917"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#a535535f08aaaba2ebdf49ada6aca6fac" title="sqlite3ValueApplyAffinity" alt="" coords="163,941,329,968"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#a2b3dd04cb87abd088926ab0082a60b77" title="detachFunc" alt="" coords="201,992,291,1019"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#a6b8d7a56b28f8ddeaaa1638a1347a930" title="createTableStmt" alt="" coords="187,1043,305,1069"/>
+<area shape="rect" id="node23" href="$sqlite3_8c.html#a3a6659fbbc07f5bd5d327d88e6660702" title="sqlite3ClearStatTables" alt="" coords="170,1093,322,1120"/>
+<area shape="rect" id="node24" href="$sqlite3_8c.html#a8e64c0ef376144dfad6a4a3d499056b8" title="quoteFunc" alt="" coords="205,1144,287,1171"/>
+<area shape="rect" id="node25" href="$sqlite3_8c.html#a3b46232455de4779a67c63b2c9004245" title="sqlite3LoadExtension" alt="" coords="173,1195,319,1221"/>
+<area shape="rect" id="node26" href="$sqlite3_8c.html#ad902dd388d73208539f557962e3fe6bb" title="sqlite3RollbackAll" alt="" coords="183,1245,309,1272"/>
+</map>

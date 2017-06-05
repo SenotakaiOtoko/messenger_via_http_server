@@ -1,0 +1,4 @@
+<map id="VtabCtx" name="VtabCtx">
+<area shape="rect" id="node2" href="$struct_v_table.html" title="{VTable\n|+ nRef\l+ bConstraint\l+ iSavepoint\l|}" alt="" coords="14,5,114,112"/>
+<area shape="rect" id="node3" href="$struct_table.html" title="{Table\n|+ zName\l+ zColAff\l+ nRowEst\l+ tnum\l+ iPKey\l+ nCol\l+ nRef\l+ tabFlags\l+ keyConf\l+ addColOffset\l+ nModuleArg\l+ azModuleArg\l|}" alt="" coords="103,175,214,413"/>
+</map>

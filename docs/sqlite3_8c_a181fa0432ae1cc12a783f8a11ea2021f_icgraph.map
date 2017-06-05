@@ -1,0 +1,5 @@
+<map id="pager_wait_on_lock" name="pager_wait_on_lock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="197,5,359,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a693d0ab5cecd4a8001da6fa21f44d99e" title="sqlite3PagerBegin" alt="" coords="215,56,341,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8fe341ad82f247586f5a357fdbdb2a11" title="sqlite3PagerExclusiveLock" alt="" coords="189,107,367,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="saveAllCursors" name="saveAllCursors">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="161,5,296,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1fd19e15f7d2a03087f0c1f287dda917" title="saveCursorPosition" alt="" coords="162,56,295,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8535e63c9127b9f6b5b136cab41cbdd7" title="btreeReleaseAllCursorPages" alt="" coords="344,81,532,108"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="clearDatabasePage" name="clearDatabasePage">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="523,107,657,133"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9cc4ac11752c088db89d551ec1495a15" title="btreePagecount" alt="" coords="361,157,475,184"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae85122d12808231a8d58459440a405ab" title="getAndInitPage" alt="" coords="195,208,306,235"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="371,259,465,285"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acce36127359eb4baec99dac6d630bd9d" title="clearCell" alt="" coords="215,107,287,133"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ad98f5006fdec390948dd2966cf0cf12f" title="freePage" alt="" coords="214,259,287,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="188,309,313,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a1c974ee71f86cb74370ca21e5e6cdb14" title="zeroPage" alt="" coords="379,5,457,32"/>
+</map>

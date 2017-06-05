@@ -1,0 +1,5 @@
+<map id="applyNumericAffinity" name="applyNumericAffinity">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9ed2c1bcefa8734a1c341ba28a785486" title="applyAffinity" alt="" coords="238,5,330,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="423,31,543,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#a27ddcc00adc41cc2b4c30a88958acd9a" title="sqlite3_value_numeric_type" alt="" coords="193,107,375,133"/>
+</map>

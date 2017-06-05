@@ -1,0 +1,4 @@
+<map id="pagerUnlockIfUnused" name="pagerUnlockIfUnused">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#adee2536d23ec9628e0883ccab03b3429" title="sqlite3PcacheRefCount" alt="" coords="202,5,359,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a02d96b7bf62c3b13ba905d168914518c" title="pagerUnlockAndRollback" alt="" coords="197,56,364,83"/>
+</map>

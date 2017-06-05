@@ -1,0 +1,6 @@
+<map id="ptrmapPut" name="ptrmapPut">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="140,5,275,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9dd340e56fb4b7fad4df339595b8d8a2" title="sqlite3PagerGetData" alt="" coords="136,56,279,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="145,107,270,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="327,132,451,159"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="sqlite3MallocZero" name="sqlite3MallocZero">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4dc767ca46426d6ffc5fa54d96a80cd2" title="sqlite3OsOpenMalloc" alt="" coords="191,5,338,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a42290854458de8191cc8762a838e3092" title="pthreadMutexAlloc" alt="" coords="199,56,330,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac895a71e325f9b2f9b862f737c17aca8" title="sqlite3DefaultMutex" alt="" coords="411,81,547,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="210,181,319,208"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a0a60c2422cf28790767f5bc7598514ee" title="sqlite3BitvecCreate" alt="" coords="198,232,331,259"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a9b4e3e921ce1ede6f10a9106c034ff9b" title="sqlite3BitvecBuiltinTest" alt="" coords="401,257,557,284"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a18b66b030fc2d966ba9dd3bd8132e4cd" title="pcache1ResizeHash" alt="" coords="194,333,335,360"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a44cfeb7ecaf2b6aa54934d3deaee8919" title="pcache1Create" alt="" coords="210,384,319,411"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a940bc2e6650e613dc69243119683c221" title="pager_delmaster" alt="" coords="205,435,324,461"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#affc12640bbd7572ae41f1943f3b8bb3b" title="pagerAcquireMapPage" alt="" coords="188,485,341,512"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a5b4a74e8a1754922c482b7af19b30611" title="sqlite3PagerOpen" alt="" coords="202,536,327,563"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a13dcb44dc34af6ce9d38de9c5aa975f9" title="sqlite3BtreeOpen" alt="" coords="418,587,541,613"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a6a9c3bc3a64234e863413f41db473758" title="openDatabase" alt="" coords="605,612,711,639"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#affd3251fd1aa1218170d421177256e24" title="walIndexPage" alt="" coords="213,688,316,715"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#adf4d97849e76f154717956aa9ea0e138" title="sqlite3WalOpen" alt="" coords="207,739,322,765"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#ad254777f35a1b8a8f5128da2b636b7dd" title="setSharedCacheTableLock" alt="" coords="176,789,353,816"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#acf70e6d3cb6afd54d677b3dffb6959d2" title="accessPayload" alt="" coords="209,840,320,867"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#aa00011902d9e5ba26452d147c43fa1d8" title="sqlite3BtreeIntegrityCheck" alt="" coords="177,891,352,917"/>
+<area shape="rect" id="node20" href="$sqlite3_8h.html#a9c9aa9e8edeb9910d93148a6621c1097" title="sqlite3_backup_init" alt="" coords="198,941,331,968"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#a5a497837d5d69b92e7bca23673589c69" title="sqlite3VdbeExpandSql" alt="" coords="188,992,341,1019"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#a57b64850b3785800d12283c4527250b4" title="vdbeSorterSort" alt="" coords="211,1043,318,1069"/>
+<area shape="rect" id="node23" href="$sqlite3_8c.html#ab27c22e7c756912699880a12b4f262d3" title="sqlite3VdbeSorterCompare" alt="" coords="176,1093,353,1120"/>
+</map>

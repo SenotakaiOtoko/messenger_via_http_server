@@ -1,0 +1,11 @@
+<map id="sqlite3Analyze" name="sqlite3Analyze">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac41a97f30334f7d35b2b5713097eca90" title="sqlite3ReadSchema" alt="" coords="349,111,488,138"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a19f2a630f42aaa010d1b47b81f8cea18" title="analyzeDatabase" alt="" coords="169,35,292,62"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa24a00ff02dcb0883436718a1226d295" title="sqlite3FindDb" alt="" coords="368,226,469,252"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6ba4248ee912d7f5a7a898c5ae46e808" title="sqlite3NameFromToken" alt="" coords="536,226,695,252"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="564,352,667,379"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a79fb99db8d0f914bb72dd374ae088512" title="sqlite3FindIndex" alt="" coords="173,238,289,264"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a85f18bcf2d42d5d6ae3033b0c49144b6" title="analyzeTable" alt="" coords="181,288,280,315"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#adfeea5b18971250d4ff7f5a44e134d75" title="sqlite3LocateTable" alt="" coords="165,136,296,163"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a49a9958462ebca9ad2acda672c8a6357" title="sqlite3TwoPartName" alt="" coords="160,339,301,366"/>
+</map>

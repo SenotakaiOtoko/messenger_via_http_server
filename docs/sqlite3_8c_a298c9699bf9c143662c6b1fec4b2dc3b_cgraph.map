@@ -1,0 +1,6 @@
+<map id="sqlite3_log" name="sqlite3_log">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7a02b43ce0a27bb52085c7f446d115af" title="renderLogMsg" alt="" coords="137,43,241,69"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aabf95e113b9d54d519cd15a56215f560" title="sqlite3StrAccumInit" alt="" coords="299,5,433,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a938357467304c746ded208ff78a3d12f" title="sqlite3VXPrintf" alt="" coords="313,81,419,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#adb7f26b10ac1b847db6f000ef4c2e2ba" title="sqlite3StrAccumFinish" alt="" coords="289,132,443,159"/>
+</map>

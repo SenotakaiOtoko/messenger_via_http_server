@@ -1,0 +1,10 @@
+<map id="sqlite3Close" name="sqlite3Close">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac1fff729aec147d9825a4930042a626b" title="sqlite3SafetyCheckSickOrOk" alt="" coords="147,5,337,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="173,56,311,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1ac4084324211c352cb91da6cc84c5e4" title="disconnectAllVtab" alt="" coords="179,107,305,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8584200fbaad7da0253df51fb453c5dc" title="sqlite3VtabRollback" alt="" coords="173,157,311,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a72f2a5a996a153234aa539319752f896" title="connectionIsBusy" alt="" coords="392,240,517,267"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="411,295,499,321"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="385,360,524,387"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#afe3a37c29dcb0fe9fc15fe07a3976f59" title="sqlite3LeaveMutexAndClose\lZombie" alt="" coords="149,259,335,301"/>
+</map>

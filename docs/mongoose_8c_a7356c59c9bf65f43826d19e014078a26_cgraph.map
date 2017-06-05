@@ -1,0 +1,9 @@
+<map id="mg_bind_opt" name="mg_bind_opt">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a4f863b00f13ba0b98b212ed80b438a81" title="mg_strncmp" alt="" coords="179,5,273,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a48a2f989fee7e2c17a603145db9fa363" title="mg_mk_str" alt="" coords="183,56,269,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a6712169fb5b4660ca564c7cc1625ceae" title="mg_tun_bind_opt" alt="" coords="165,107,287,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a825f4679bc738b5f21c9cf961a41a346" title="mg_parse_address" alt="" coords="160,157,292,184"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a26c811fbdf862c4744743b58de60ca99" title="mg_create_connection" alt="" coords="149,208,303,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#aa6b6ccb4e60eef226d37631b6edf08c7" title="mg_destroy_conn" alt="" coords="163,259,289,285"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#acdc2c5b7c56b847eab748d5a911f4b9d" title="mg_add_conn" alt="" coords="175,309,277,336"/>
+</map>

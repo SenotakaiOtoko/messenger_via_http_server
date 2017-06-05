@@ -1,0 +1,5 @@
+<map id="last_insert_rowid" name="last_insert_rowid">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="174,5,305,47"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9cb3b68d2411f2c50419b05613b426e1" title="sqlite3_result_int64" alt="" coords="172,71,307,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#adb98868f8066d408f51db8bf8f6be192" title="sqlite3_last_insert\l_rowid" alt="" coords="176,123,303,164"/>
+</map>

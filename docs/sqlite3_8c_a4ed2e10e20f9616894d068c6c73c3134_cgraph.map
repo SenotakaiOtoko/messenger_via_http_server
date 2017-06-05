@@ -1,0 +1,6 @@
+<map id="sqlite3GetCollSeq" name="sqlite3GetCollSeq">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac4f91d39f24a6435de12698fdb16bc14" title="sqlite3FindCollSeq" alt="" coords="341,23,472,50"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4b69d70c8956d161ab4ec05d87ae1054" title="callCollNeeded" alt="" coords="183,23,291,50"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac89143f2b98a9efb9f18bb326e271063" title="synthCollSeq" alt="" coords="187,74,286,101"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="180,125,293,151"/>
+</map>

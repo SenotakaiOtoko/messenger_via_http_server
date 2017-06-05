@@ -1,0 +1,4 @@
+<map id="WalWriter" name="WalWriter">
+<area shape="rect" id="node2" href="$structsqlite3__file.html" title="{sqlite3_file\n||}" alt="" coords="31,5,114,83"/>
+<area shape="rect" id="node3" href="$struct_wal.html" title="{Wal\n|+ iCallback\l+ mxWalSize\l+ nWiData\l+ szFirstBlock\l+ apWiData\l+ szPage\l+ readLock\l+ syncFlags\l+ exclusiveMode\l+ writeLock\lи 7 больше...\l|}" alt="" coords="92,160,211,384"/>
+</map>

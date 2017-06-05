@@ -1,0 +1,8 @@
+<map id="sqlite3ExprAlloc" name="sqlite3ExprAlloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab01e61416294075609e08257fe347875" title="sqlite3CreateColumnExpr" alt="" coords="177,5,347,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a395b9b0b949147f81aa511e0d6d4664d" title="sqlite3ExprAddCollateToken" alt="" coords="169,56,355,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a790d28ff2bd0d13725c692e0c4ed7105" title="sqlite3Expr" alt="" coords="219,107,305,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a56670a96a4ad8449466fea3449f71c57" title="sqlite3PExpr" alt="" coords="403,183,499,209"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#adb7ce3f2fe4bc4cb22dbb82aed2b6c32" title="sqlite3ExprAnd" alt="" coords="207,208,317,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5b2b92c48e6cc86ac8f648d87e228fc7" title="sqlite3ExprFunction" alt="" coords="193,259,331,285"/>
+</map>

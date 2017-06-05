@@ -1,0 +1,6 @@
+<map id="WhereTerm" name="WhereTerm">
+<area shape="rect" id="node3" href="$struct_where_clause.html" title="{WhereClause\n|+ op\l+ wctrlFlags\l+ nTerm\l+ nSlot\l|}" alt="" coords="103,608,203,729"/>
+<area shape="rect" id="node2" href="$struct_where_and_info.html" title="{WhereAndInfo\n||}" alt="" coords="5,792,108,869"/>
+<area shape="rect" id="node4" href="$struct_where_or_info.html" title="{WhereOrInfo\n|+ indexable\l|}" alt="" coords="173,792,268,869"/>
+<area shape="rect" id="node5" href="$struct_expr.html" title="{Expr\n|+ op\l+ affinity\l+ flags\l+ zToken\l+ iValue\l+ u\l+ x\l+ nHeight\l+ iTable\l+ iColumn\l+ iAgg\l+ iRightJoinTable\l+ flags2\l+ op2\l|}" alt="" coords="92,5,213,273"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="analyzeDatabase" name="analyzeDatabase">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a21b1b811bbe305f922244f8913c87f10" title="sqlite3BeginWriteOperation" alt="" coords="176,5,356,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aea3da21ca87050c11c23e01f578cc5dc" title="openStatTable" alt="" coords="213,56,319,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a51cb5e47979cf50b4fc565830c63b712" title="analyzeOneTable" alt="" coords="205,107,327,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7bc3ff25db7075bef4102ed7b5d65e20" title="loadAnalysis" alt="" coords="218,157,314,184"/>
+</map>

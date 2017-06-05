@@ -1,0 +1,10 @@
+<map id="getMask" name="getMask">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#adc74a03d7e143fc3158a9f530fa35919" title="exprTableUsage" alt="" coords="134,91,249,117"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#acb10e48c9a4184a4edd9bfd5b14ad0b7" title="exprAnalyze" alt="" coords="310,40,405,67"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab95cabd8b51cb2291b5bef0c4a3776d2" title="exprAnalyzeOrTerm" alt="" coords="457,40,595,67"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9b9195175498c993152fe0a0667a9d75" title="isSortingIndex" alt="" coords="305,141,409,168"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad32063b4fbc822986766588a51ffff64" title="bestBtreeIndex" alt="" coords="471,217,581,244"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#acad049f5c9a96a8118cffd5e5ce89f7c" title="sqlite3WhereBegin" alt="" coords="643,293,773,320"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a7b24987855c8f506fce74b71506dd3c4" title="codeOneLoopStart" alt="" coords="821,293,952,320"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aad1f6c60342737928f0dc03944a6ce2e" title="bestOrClauseIndex" alt="" coords="125,192,257,219"/>
+</map>

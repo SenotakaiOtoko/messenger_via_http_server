@@ -1,0 +1,8 @@
+<map id="sqlite3PagerSetJournalMode" name="sqlite3PagerSetJournalMode">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="597,22,708,48"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a576c2e542e46ddee19d10e75337039c0" title="sqlite3OsDelete" alt="" coords="264,275,379,302"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="240,123,403,150"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a667bdac69bf20203e45cd8e899790bcc" title="pagerLockDb" alt="" coords="451,174,549,200"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8ac54f19421c76b5045a40b42d282c32" title="pagerUnlockDb" alt="" coords="597,123,708,150"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5b54bd09bd76fa68eb6310fbf9bbaf20" title="pager_unlock" alt="" coords="451,22,549,48"/>
+</map>

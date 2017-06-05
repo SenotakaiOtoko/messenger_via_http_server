@@ -1,0 +1,12 @@
+<map id="sqlite3BtreeClose" name="sqlite3BtreeClose">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="560,101,695,128"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="389,76,511,103"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7f494da0a512d247d690d6bc19397791" title="sqlite3BtreeCloseCursor" alt="" coords="177,76,340,103"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="388,127,512,153"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a317473acdafdd688385c8954f09de186" title="sqlite3BtreeRollback" alt="" coords="188,127,329,153"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7b1a8df3e1fcfc9e69c19633f0d08af3" title="removeFromSharingList" alt="" coords="179,380,338,407"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#af94b1f96b60689fd09422cce2c85f53f" title="sqlite3PagerClose" alt="" coords="195,329,322,356"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="406,279,494,305"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="207,228,310,255"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#aec277d601edd310860ca5a81c99ed411" title="freeTempSpace" alt="" coords="203,431,315,457"/>
+</map>

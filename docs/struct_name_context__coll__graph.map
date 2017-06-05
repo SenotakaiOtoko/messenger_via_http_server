@@ -1,0 +1,6 @@
+<map id="NameContext" name="NameContext">
+<area shape="rect" id="node2" href="$struct_agg_info.html" title="{AggInfo\n|+ directMode\l+ useSortingIdx\l+ sortingIdx\l+ sortingIdxPTab\l+ nSortingColumn\l+ nColumn\l+ nAccumulator\l+ nFunc\l|}" alt="" coords="94,182,220,362"/>
+<area shape="rect" id="node3" href="$struct_expr_list.html" title="{ExprList\n|+ nExpr\l+ iECursor\l|}" alt="" coords="23,5,107,97"/>
+<area shape="rect" id="node4" href="$struct_src_list.html" title="{SrcList\n|+ nSrc\l+ nAlloc\l|}" alt="" coords="244,226,315,318"/>
+<area shape="rect" id="node5" href="$struct_parse.html" title="{Parse\n|+ zErrMsg\l+ rc\l+ colNamesSet\l+ checkSchema\l+ nested\l+ nTempReg\l+ nTempInUse\l+ nColCache\l+ iColCache\l+ isMultiWrite\lи 39 больше...\l|}" alt="" coords="340,160,457,384"/>
+</map>

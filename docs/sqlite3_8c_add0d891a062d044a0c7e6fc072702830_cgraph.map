@@ -1,0 +1,10 @@
+<map id="sqlite3VdbeChangeP4" name="sqlite3VdbeChangeP4">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa1ec8debef2a9be5fe36a3082fd3e0f9" title="freeP4" alt="" coords="243,5,302,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="407,31,510,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="389,157,528,184"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa2b6bcc2ba2b313da4b72e6b0d83dea6" title="sqlite3VtabLock" alt="" coords="215,157,330,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="219,208,327,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ad68ab1bd16b9220b68734b069c6c8093" title="sqlite3DbStrNDup" alt="" coords="210,259,335,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a05535d0982ef06fbc2ee8195ebbae689" title="sqlite3VMPrintf" alt="" coords="217,309,328,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a0aefd237fc1d629f3a3d3d454ced408a" title="sqlite3VdbeAddOp0" alt="" coords="204,360,341,387"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ValueList" name="ValueList">
+<area shape="rect" id="node2" href="$struct_select.html" title="{Select\n|+ op\l+ selFlags\l+ iLimit\l+ iOffset\l+ addrOpenEphm\l+ nSelectRow\l|}" alt="" coords="71,189,195,340"/>
+<area shape="rect" id="node3" href="$struct_expr_list.html" title="{ExprList\n|+ nExpr\l+ iECursor\l|}" alt="" coords="5,5,89,97"/>
+</map>

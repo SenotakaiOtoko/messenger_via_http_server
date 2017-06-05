@@ -1,0 +1,10 @@
+<map id="Table" name="Table">
+<area shape="rect" id="node2" href="$struct_schema.html" title="{Schema\n|+ schema_cookie\l+ iGeneration\l+ file_format\l+ enc\l+ flags\l+ cache_size\l|}" alt="" coords="180,719,305,869"/>
+<area shape="rect" id="node4" href="$struct_f_key.html" title="{FKey\n|+ zTo\l+ nCol\l+ isDeferred\l+ aAction\l|}" alt="" coords="77,1233,169,1355"/>
+<area shape="rect" id="node9" href="$struct_index.html" title="{Index\n|+ zName\l+ aiColumn\l+ aiRowEst\l+ zColAff\l+ aSortOrder\l+ azColl\l+ tnum\l+ nColumn\l+ onError\l+ autoIndex\l+ bUnordered\l|}" alt="" coords="303,947,403,1171"/>
+<area shape="rect" id="node5" href="$struct_trigger.html" title="{Trigger\n|+ zName\l+ table\l+ op\l+ tr_tm\l|}" alt="" coords="85,998,160,1119"/>
+<area shape="rect" id="node3" href="$struct_column.html" title="{Column\n|+ zName\l+ zDflt\l+ zType\l+ zColl\l+ notNull\l+ affinity\l+ colFlags\l|}" alt="" coords="5,189,88,355"/>
+<area shape="rect" id="node6" href="$struct_v_table.html" title="{VTable\n|+ nRef\l+ bConstraint\l+ iSavepoint\l|}" alt="" coords="113,219,213,325"/>
+<area shape="rect" id="node7" href="$struct_select.html" title="{Select\n|+ op\l+ selFlags\l+ iLimit\l+ iOffset\l+ addrOpenEphm\l+ nSelectRow\l|}" alt="" coords="414,197,538,347"/>
+<area shape="rect" id="node8" href="$struct_expr_list.html" title="{ExprList\n|+ nExpr\l+ iECursor\l|}" alt="" coords="337,5,421,97"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sqlite3_set_authorizer" name="sqlite3_set_authorizer">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="241,5,380,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af8baf566e769881b3d0bbdb0d2b4cdfe" title="sqlite3ExpirePreparedStatements" alt="" coords="203,56,419,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="241,107,380,133"/>
+</map>

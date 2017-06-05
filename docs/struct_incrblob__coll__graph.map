@@ -1,0 +1,4 @@
+<map id="Incrblob" name="Incrblob">
+<area shape="rect" id="node2" href="$struct_bt_cursor.html" title="{BtCursor\n|+ aOverflow\l+ pgnoRoot\l+ cachedRowid\l+ nKey\l+ pKey\l+ skipNext\l+ wrFlag\l+ atLast\l+ validNKey\l+ eState\l+ isIncrblobHandle\l+ hints\l+ iPage\l+ aiIdx\l|}" alt="" coords="5,5,135,273"/>
+<area shape="rect" id="node3" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="229,27,338,251"/>
+</map>

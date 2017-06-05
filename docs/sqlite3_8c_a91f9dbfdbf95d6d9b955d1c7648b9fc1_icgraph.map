@@ -1,0 +1,11 @@
+<map id="sqlite3BtreeGetPageSize" name="sqlite3BtreeGetPageSize">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acd3459ec2257f990aaea330d998fe0a6" title="setDestPgsz" alt="" coords="244,5,341,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7efb6a8380d746b14e73db99ad3428a2" title="backupOnePage" alt="" coords="233,56,352,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="412,107,553,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4d9e19a79f0d5c1dfcef0bd137ae83f9" title="sqlite3BtreeCopyFile" alt="" coords="601,157,744,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5e83ddc7b3e7e8e79ad5d1fc92de1d2f" title="sqlite3RunVacuum" alt="" coords="792,183,923,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a2663d67ad8888fc2f126db341cf6e781" title="vdbeSorterIterInit" alt="" coords="233,259,352,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a24e61858a4cd630b15aa47bed174fcd1" title="sqlite3VdbeSorterInit" alt="" coords="221,309,364,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a6ceffd1f2b94c5823e9f07354f4bcd3e" title="fileWriterInit" alt="" coords="247,360,338,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="240,411,345,437"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sqlite3PagerBegin" name="sqlite3PagerBegin">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="237,5,337,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1ca342ad565c5ae8dd3685e3aa0b731e" title="sqlite3WalExclusiveMode" alt="" coords="202,56,373,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a667bdac69bf20203e45cd8e899790bcc" title="pagerLockDb" alt="" coords="443,157,541,184"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a20c2ba1dcfe4c635dd2946f25af7a9f8" title="sqlite3WalBeginWriteTransaction" alt="" coords="180,157,395,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a181fa0432ae1cc12a783f8a11ea2021f" title="pager_wait_on_lock" alt="" coords="219,208,355,235"/>
+</map>

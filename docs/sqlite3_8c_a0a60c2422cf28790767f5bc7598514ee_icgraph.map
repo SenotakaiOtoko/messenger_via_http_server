@@ -1,0 +1,8 @@
+<map id="sqlite3BitvecCreate" name="sqlite3BitvecCreate">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1f3c6d64d5d889e451d6725b1eb458be" title="sqlite3BitvecSet" alt="" coords="220,39,335,66"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9b4e3e921ce1ede6f10a9106c034ff9b" title="sqlite3BitvecBuiltinTest" alt="" coords="416,14,572,40"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9c32f4ce75d2c55cea30118702e7141c" title="btreeSetHasContent" alt="" coords="425,76,563,103"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aedf76c3b6661c4244cc3e2c5464fd12e" title="pagerPlaybackSavepoint" alt="" coords="195,140,359,167"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a9a5224f8941dc99ce19bb0eb24766d00" title="pager_open_journal" alt="" coords="210,191,345,218"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5b4b3aed3fa0147c327fa7497e25be98" title="sqlite3PagerOpenSavepoint" alt="" coords="187,242,368,268"/>
+</map>

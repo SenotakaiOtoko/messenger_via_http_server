@@ -1,0 +1,10 @@
+<map id="mg_tun_send_frame" name="mg_tun_send_frame">
+<area shape="rect" id="node2" href="$mongoose_8c.html#af78262f0935f907a9a9e05b92a7b901f" title="mg_send_websocket_framev" alt="" coords="192,5,380,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ab0613b2aa565a9b4c3ecca1488dfacad" title="mg_send" alt="" coords="428,56,503,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a844719a6a21476e5f173ef2101473153" title="mg_time" alt="" coords="551,81,623,108"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a992684a720955bdc25108165e417ac5d" title="mbuf_remove" alt="" coords="237,157,335,184"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a424c0566d13016d4bdc13676f9acda1c" title="mg_asprintf" alt="" coords="241,208,331,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#a41a418714eebba772b62e1a0051a59c3" title="mg_connect" alt="" coords="239,259,333,285"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#a2ca0faa3cfd1b007fc807e997d256aac" title="mg_call" alt="" coords="253,309,319,336"/>
+<area shape="rect" id="node9" href="$mongoose_8c.html#a45031ed3fb7ce9757f2cd543ac379c13" title="mg_set_timer" alt="" coords="235,360,337,387"/>
+</map>

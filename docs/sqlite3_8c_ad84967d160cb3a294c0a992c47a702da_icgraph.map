@@ -1,0 +1,7 @@
+<map id="walCkptInfo" name="walCkptInfo">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab4ee99f3710323acbeb6c495dd18d205" title="walIndexRecover" alt="" coords="143,5,262,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab5245070ab67db40291c71c4991aa317" title="walCheckpoint" alt="" coords="149,56,256,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a58bec6523fa854142169cdff1fbb8e5f" title="sqlite3WalCheckpoint" alt="" coords="312,95,460,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7145b08b2ade973da4b1f5882e2fa21f" title="walTryBeginRead" alt="" coords="141,157,264,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a12a2a8718a33ce32fc99f83239a4d491" title="walRestartLog" alt="" coords="334,171,438,197"/>
+</map>

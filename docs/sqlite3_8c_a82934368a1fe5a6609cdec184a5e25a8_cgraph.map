@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeIdxKeyCompare" name="sqlite3VdbeIdxKeyCompare">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a73b33a51e4be80535ca4357abe181d2b" title="sqlite3BtreeKeySize" alt="" coords="257,5,397,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a103f869461b716ea4b78a75d4e5510b8" title="sqlite3VdbeMemFromBtree" alt="" coords="237,56,417,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="467,81,633,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a58c98706c7f8dd49c401c05bfe4932da" title="sqlite3VdbeRecordCompare" alt="" coords="236,157,419,184"/>
+</map>

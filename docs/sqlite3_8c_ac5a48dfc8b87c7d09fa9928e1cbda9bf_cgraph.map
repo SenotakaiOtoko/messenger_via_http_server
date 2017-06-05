@@ -1,0 +1,8 @@
+<map id="sqlite3SrcListAppendFromTerm" name="sqlite3SrcListAppendFromTerm">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="273,5,387,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2d72a77bc508ef9a3e4a7f9af34d4fce" title="sqlite3SrcListAppend" alt="" coords="257,56,403,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6ba4248ee912d7f5a7a898c5ae46e808" title="sqlite3NameFromToken" alt="" coords="451,95,609,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae4e21ab5918e0428fbaa9e615dceb309" title="sqlite3ExprDelete" alt="" coords="268,157,392,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="463,171,597,197"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a38bea53ea789e86289ca600ff6010f73" title="sqlite3IdListDelete" alt="" coords="266,259,394,285"/>
+</map>

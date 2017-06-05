@@ -1,0 +1,6 @@
+<map id="moveToRoot" name="moveToRoot">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad53903979a58184b0d15593e6f98d9c5" title="sqlite3BtreeClearCursor" alt="" coords="147,5,305,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="512,81,607,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae85122d12808231a8d58459440a405ab" title="getAndInitPage" alt="" coords="353,107,464,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1dbea539dd841af085ba1e1390922237" title="moveToChild" alt="" coords="179,157,273,184"/>
+</map>

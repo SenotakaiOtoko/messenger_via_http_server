@@ -1,0 +1,9 @@
+<map id="sqlite3_soft_heap_limit64" name="sqlite3_soft_heap_limit64">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab0c0ee2d5d4cf8b28e9572296a8861df" title="sqlite3_initialize" alt="" coords="239,84,353,111"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="431,34,569,60"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="431,84,569,111"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a3a9566583a79c184600082b3d3a50938" title="sqlite3MemoryAlarm" alt="" coords="225,34,367,60"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ada3bf458edd3be7a9c03693e50a8c264" title="softHeapLimitEnforcer" alt="" coords="221,186,371,212"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a91037e7ef182e008677dae146e15cf92" title="sqlite3_release_memory" alt="" coords="419,211,581,238"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#abedb79a850df1979a693632736616f3f" title="sqlite3_memory_used" alt="" coords="221,287,371,314"/>
+</map>

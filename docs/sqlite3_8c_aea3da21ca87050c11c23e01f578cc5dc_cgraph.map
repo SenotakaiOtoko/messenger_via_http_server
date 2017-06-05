@@ -1,0 +1,11 @@
+<map id="openStatTable" name="openStatTable">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="179,5,289,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6cb1b36e2823fc3eff25dc162f71f28b" title="sqlite3VdbeDb" alt="" coords="181,56,287,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afa51dbee6173bf3a8a3df76b07cea789" title="sqlite3FindTable" alt="" coords="176,107,292,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae78bd6187a28892732af5428ec15b03f" title="sqlite3NestedParse" alt="" coords="167,157,301,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a13be5e81f379c515f270f6f2a3bb63a7" title="sqlite3TableLock" alt="" coords="175,208,293,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae87204d7b069da19e4db0404c6deaae5" title="sqlite3VdbeAddOp2" alt="" coords="165,259,303,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a29b4560b019211a73e1478cec7468345" title="sqlite3VdbeAddOp3" alt="" coords="357,284,495,311"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#add0d891a062d044a0c7e6fc072702830" title="sqlite3VdbeChangeP4" alt="" coords="159,360,309,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a4dde2e4087eda945511b05d667050740" title="sqlite3VdbeChangeP5" alt="" coords="159,411,309,437"/>
+</map>

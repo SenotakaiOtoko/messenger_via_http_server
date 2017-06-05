@@ -1,0 +1,6 @@
+<map id="mg_destroy_conn" name="mg_destroy_conn">
+<area shape="rect" id="node2" href="$mongoose_8c.html#aa8329404bac06e97c7eb18ded5dd650a" title="mg_close_conn" alt="" coords="179,5,292,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a4c939be20504501a7f029a4f3881f919" title="resolve_cb" alt="" coords="194,56,277,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a7ab8fee21a1e5c838b16a09250733306" title="mg_connect_opt" alt="" coords="340,81,459,108"/>
+<area shape="rect" id="node5" href="$mongoose_8h.html#af5f485c81dd9f1803ed15afd35380527" title="mg_bind_opt" alt="" coords="187,157,283,184"/>
+</map>

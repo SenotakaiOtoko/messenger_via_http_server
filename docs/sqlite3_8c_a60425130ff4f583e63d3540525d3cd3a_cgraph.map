@@ -1,0 +1,9 @@
+<map id="sqlite3CreateForeignKey" name="sqlite3CreateForeignKey">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="233,5,347,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="411,56,513,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="236,107,344,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="221,157,359,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7b0ccb71d60de662cbb09755454dee5d" title="sqlite3Dequote" alt="" coords="236,208,344,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a975226bf21bcede2ce287418e479d145" title="sqlite3HashInsert" alt="" coords="229,259,351,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ae9cd46eac81e86a04ed8c09b99fc3c10" title="sqlite3ExprListDelete" alt="" coords="217,309,363,336"/>
+</map>

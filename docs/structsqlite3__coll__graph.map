@@ -1,0 +1,16 @@
+<map id="sqlite3" name="sqlite3">
+<area shape="rect" id="node2" href="$struct_mem.html" title="{Mem\n|+ z\l+ r\l+ i\l+ nZero\l+ u\l+ n\l+ flags\l+ type\l+ enc\l+ xDel\l+ zMalloc\l|}" alt="" coords="577,608,656,832"/>
+<area shape="rect" id="node3" href="$struct_vdbe.html" title="{Vdbe\n|+ nMem\l+ nOp\l+ nOpAlloc\l+ nLabel\l+ aLabel\l+ nResColumn\l+ nCursor\l+ magic\l+ zErrMsg\l+ azVar\lи 30 больше...\l|}" alt="" coords="655,953,765,1177"/>
+<area shape="rect" id="node12" href="$struct_v_table.html" title="{VTable\n|+ nRef\l+ bConstraint\l+ iSavepoint\l|}" alt="" coords="973,667,1073,773"/>
+<area shape="rect" id="node4" href="$struct_savepoint.html" title="{Savepoint\n|+ zName\l+ nDeferredCons\l|}" alt="" coords="5,71,124,163"/>
+<area shape="rect" id="node5" href="$struct_func_def_hash.html" title="{FuncDefHash\n||}" alt="" coords="219,79,319,156"/>
+<area shape="rect" id="node6" href="$struct_lookaside.html" title="{Lookaside\n|+ sz\l+ bEnabled\l+ bMalloced\l+ nOut\l+ mxOut\l+ anStat\l+ pStart\l+ pEnd\l|}" alt="" coords="343,27,437,207"/>
+<area shape="rect" id="node7" href="$structsqlite3__mutex.html" title="{sqlite3_mutex\n|+ mutex\l|}" alt="" coords="461,79,564,156"/>
+<area shape="rect" id="node8" href="$structsqlite3__vfs.html" title="{sqlite3_vfs\n|+ iVersion\l+ szOsFile\l+ mxPathname\l+ zName\l+ pAppData\l+ xOpen\l+ xDelete\l+ xAccess\l+ xFullPathname\l+ xDlOpen\lи 11 больше...\l|}" alt="" coords="588,5,709,229"/>
+<area shape="rect" id="node9" href="$structsqlite3_1_1sqlite3_init_info.html" title="{sqlite3InitInfo\n|+ newTnum\l+ iDb\l+ busy\l+ orphanTrigger\l|}" alt="" coords="805,57,917,178"/>
+<area shape="rect" id="node10" href="$struct_busy_handler.html" title="{BusyHandler\n|+ xFunc\l+ pArg\l+ nBusy\l|}" alt="" coords="941,64,1037,171"/>
+<area shape="rect" id="node11" href="$struct_vtab_ctx.html" title="{VtabCtx\n||}" alt="" coords="898,1027,967,1104"/>
+<area shape="rect" id="node13" href="$struct_coll_seq.html" title="{CollSeq\n|+ zName\l+ enc\l+ pUser\l+ xCmp\l+ xDel\l|}" alt="" coords="1061,49,1135,185"/>
+<area shape="rect" id="node14" href="$struct_db.html" title="{Db\n|+ zName\l+ inTrans\l+ safety_level\l|}" alt="" coords="1159,64,1261,171"/>
+<area shape="rect" id="node15" href="$struct_hash.html" title="{Hash\n|+ htsize\l+ count\l|}" alt="" coords="1285,71,1354,163"/>
+</map>

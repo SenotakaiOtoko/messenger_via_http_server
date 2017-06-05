@@ -1,0 +1,8 @@
+<map id="sqlite3_value_int64" name="sqlite3_value_int64">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#a39f0c222a27bd9c4cb73d07e9e48ffe6" title="sqlite3_column_int64" alt="" coords="184,5,328,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af271994a34f441432d50d7095e0ed23d" title="absFunc" alt="" coords="220,56,292,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab9b72ce47fcea3c3b92e816435a0fd91" title="charFunc" alt="" coords="218,107,294,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a3b48be674f93ee89664ee4552afd3248" title="zeroblobFunc" alt="" coords="206,157,306,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a357caed2b7201c57a80525a53e3c7487" title="sumStep" alt="" coords="219,208,293,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab7c738c15aa046885689946645ad38ab" title="bestVirtualIndex" alt="" coords="199,259,313,285"/>
+</map>

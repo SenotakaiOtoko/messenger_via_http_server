@@ -1,0 +1,10 @@
+<map id="clearCell" name="clearCell">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="520,130,655,157"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1eba22ca0ddf563de0b29c64551c759f" title="btreeParseCellPtr" alt="" coords="348,29,472,55"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9cc4ac11752c088db89d551ec1495a15" title="btreePagecount" alt="" coords="353,79,467,106"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af907f898e049d621e2c9dc1ed1d63cf4" title="getOverflowPage" alt="" coords="153,130,272,157"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aae4e59cf09dae89f6e28511a5ac35527" title="btreePageLookup" alt="" coords="349,181,471,207"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a02362e6744d4431e328d760bef635a19" title="sqlite3PagerPageRefcount" alt="" coords="125,231,300,258"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a625a2c2bdaf95cdb3a7cb945201f7efb" title="freePage2" alt="" coords="173,282,253,309"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="151,333,275,359"/>
+</map>

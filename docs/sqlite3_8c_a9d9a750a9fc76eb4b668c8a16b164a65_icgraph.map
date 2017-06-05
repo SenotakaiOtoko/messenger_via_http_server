@@ -1,0 +1,4 @@
+<map id="pager_playback" name="pager_playback">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="167,5,329,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afdd2ecbb97b7a716892ff6bd10c7dfd0" title="sqlite3PagerRollback" alt="" coords="176,56,320,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sqlite3_bind_text" name="sqlite3_bind_text">
+<area shape="rect" id="node2" href="$db__plugin__sqlite_8c.html#abf59574b5a02f704fc678fdb16677ab3" title="Функция выполняет проверку авторизации " alt="" coords="191,31,281,58"/>
+<area shape="rect" id="node3" href="$db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="352,6,452,33"/>
+<area shape="rect" id="node4" href="$db__plugin__sqlite_8c.html#a6674451cff020de5748bdc298a212207" title="Функция api отправки сообщения " alt="" coords="347,69,457,95"/>
+<area shape="rect" id="node5" href="$db__plugin__sqlite_8c.html#acd5ff53565d4383be27bff6f8309db01" title="Функция достаёт данные о пользователе из базы данных " alt="" coords="173,133,299,159"/>
+<area shape="rect" id="node6" href="$db__plugin__sqlite_8c.html#aac058d44b78ba7f125d172c1f8152bc4" title="Функция api регистрации нового пользователя " alt="" coords="187,183,285,210"/>
+</map>

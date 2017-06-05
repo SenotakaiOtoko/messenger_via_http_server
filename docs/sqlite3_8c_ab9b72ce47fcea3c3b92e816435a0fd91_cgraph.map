@@ -1,0 +1,7 @@
+<map id="charFunc" name="charFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac79dba55fc32b6a840cf5a9769bce7cd" title="sqlite3_malloc" alt="" coords="143,5,248,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa3c1191fb83e4e8bdde15f13d05bd82a" title="sqlite3_result_error\l_nomem" alt="" coords="129,57,261,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab38d8627f4750672e72712df0b709e0d" title="sqlite3_value_int64" alt="" coords="130,123,261,149"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2c06bc83045bd7986b89e5e8bd689bdf" title="sqlite3_result_text" alt="" coords="131,173,259,200"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="151,224,239,251"/>
+</map>

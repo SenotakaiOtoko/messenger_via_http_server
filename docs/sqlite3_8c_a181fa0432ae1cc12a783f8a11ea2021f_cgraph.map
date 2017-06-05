@@ -1,0 +1,4 @@
+<map id="pager_wait_on_lock" name="pager_wait_on_lock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a667bdac69bf20203e45cd8e899790bcc" title="pagerLockDb" alt="" coords="203,5,302,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8c8d460aa8cc7cb907b2e04844aaba86" title="subjRequiresPage" alt="" coords="189,56,316,83"/>
+</map>

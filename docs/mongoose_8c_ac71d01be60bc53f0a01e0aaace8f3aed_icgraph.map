@@ -1,0 +1,9 @@
+<map id="mbuf_free" name="mbuf_free">
+<area shape="rect" id="node2" href="$mongoose_8h.html#ac13b929593fe45bd22487365951b28d0" title="mbuf_init" alt="" coords="158,100,233,127"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a1b6f42a4c07dac32c1e08836ef5f3147" title="mg_connect_http_opt" alt="" coords="344,5,491,32"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#ad281ec2c88a87500882fb3dffd2d8701" title="mg_send_websocket_handshake3" alt="" coords="307,68,528,95"/>
+<area shape="rect" id="node5" href="$mongoose_8h.html#a080dc50cfd880656bc8e79513c62fc2d" title="mg_send_dns_query" alt="" coords="346,144,489,171"/>
+<area shape="rect" id="node6" href="$mongoose_8h.html#a1db131b77c3d3046fc7aa7577b52dfae" title="mg_resolve_async_opt" alt="" coords="340,195,495,221"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#aa6b6ccb4e60eef226d37631b6edf08c7" title="mg_destroy_conn" alt="" coords="133,252,258,279"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#a5bd73493386996c55d7ca0b8e67a22f6" title="mg_recv_common" alt="" coords="132,303,259,329"/>
+</map>

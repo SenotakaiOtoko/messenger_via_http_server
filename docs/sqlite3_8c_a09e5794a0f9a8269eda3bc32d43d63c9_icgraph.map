@@ -1,0 +1,9 @@
+<map id="contextMalloc" name="contextMalloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8f26e491f9fd893cdb476c577f39f260" title="upperFunc" alt="" coords="161,5,244,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a37a07e2d7c0cb4c521e9c334596c89a7" title="lowerFunc" alt="" coords="162,56,243,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a2b058708f7f26feb80fce84c3e375d64" title="randomBlob" alt="" coords="157,107,248,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8e64c0ef376144dfad6a4a3d499056b8" title="quoteFunc" alt="" coords="161,157,244,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a2e2cd151b75b794723d7c4f30fe57c8b" title="hexFunc" alt="" coords="167,208,239,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a752b98a7c55d204c397a4902b49b1ce4" title="replaceFunc" alt="" coords="156,259,249,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#afad56dbe7f08139a630156e644b14704" title="trimFunc" alt="" coords="166,309,239,336"/>
+</map>

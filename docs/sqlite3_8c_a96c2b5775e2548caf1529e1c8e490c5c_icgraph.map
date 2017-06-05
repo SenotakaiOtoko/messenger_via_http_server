@@ -1,0 +1,12 @@
+<map id="sqlite3_aggregate_context" name="sqlite3_aggregate_context">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a357caed2b7201c57a80525a53e3c7487" title="sumStep" alt="" coords="261,5,335,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a09f66b45d4b3b0e332744766a4f944fb" title="sumFinalize" alt="" coords="252,56,344,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ace3a4c9f975a2bd5097c13bf8530f043" title="avgFinalize" alt="" coords="255,107,341,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae114661e6db16baf0f523e5d0f0f82e3" title="totalFinalize" alt="" coords="252,157,344,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6122bfe2272913c3e43f0a06184e135e" title="countStep" alt="" coords="257,208,339,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a53dd71b6f9f839773f941d229f2bf0c0" title="countFinalize" alt="" coords="249,259,347,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5b4c0da0f3b61d7ff25ebd30aa22cca4" title="minmaxStep" alt="" coords="251,309,345,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a0439dd90934a2dee93517c50884d5924" title="minMaxFinalize" alt="" coords="241,360,355,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5267fc47d0a0d9a8f128c59d100e645d" title="groupConcatStep" alt="" coords="237,411,359,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#afb7efd138b3092aa6a3e92e7f54b0f6a" title="groupConcatFinalize" alt="" coords="228,461,368,488"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="sqlite3DeleteTable" name="sqlite3DeleteTable">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a975226bf21bcede2ce287418e479d145" title="sqlite3HashInsert" alt="" coords="404,5,527,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="411,81,519,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a00907c99c18d5bcb9d0b38c077146c31" title="freeIndex" alt="" coords="231,347,306,373"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="414,245,517,272"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a59a33da6c4e11d3f99b15eafdc01f013" title="sqlite3FkDelete" alt="" coords="213,93,325,120"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a30fd46bd85a745b908f382e5dd74c38a" title="sqliteDeleteColumnNames" alt="" coords="181,397,356,424"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="201,144,336,171"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ae9cd46eac81e86a04ed8c09b99fc3c10" title="sqlite3ExprListDelete" alt="" coords="196,195,341,221"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a0690ffd2d2e58bd4ed1ce4f1e35c1ef1" title="sqlite3VtabClear" alt="" coords="210,245,327,272"/>
+</map>

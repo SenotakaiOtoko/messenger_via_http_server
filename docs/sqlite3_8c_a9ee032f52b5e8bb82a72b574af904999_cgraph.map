@@ -1,0 +1,9 @@
+<map id="lookupName" name="lookupName">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6ea6653a82e76ee27e41e67c75f169f5" title="sqlite3MatchSpanName" alt="" coords="148,5,308,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae79de0337d1031519f1a1f9c2108ea58" title="nameInUsingClause" alt="" coords="159,56,297,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3cbcc1bde1c3573ba6a7712dda14009e" title="sqlite3IsRowid" alt="" coords="175,107,281,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="171,157,285,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af5aa683bef5c0eff80a792aa8a968167" title="resolveAlias" alt="" coords="183,208,273,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae4e21ab5918e0428fbaa9e615dceb309" title="sqlite3ExprDelete" alt="" coords="356,233,480,260"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a7d35cc77f551289127785c9fd85298a5" title="sqlite3AuthRead" alt="" coords="169,309,287,336"/>
+</map>

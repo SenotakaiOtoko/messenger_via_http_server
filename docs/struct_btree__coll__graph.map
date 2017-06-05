@@ -1,0 +1,5 @@
+<map id="Btree" name="Btree">
+<area shape="rect" id="node2" href="$struct_bt_shared.html" title="{BtShared\n|+ openFlags\l+ autoVacuum\l+ incrVacuum\l+ bDoTruncate\l+ inTransaction\l+ max1bytePayload\l+ btsFlags\l+ maxLocal\l+ minLocal\l+ maxLeaf\lи 9 больше...\l|}" alt="" coords="148,645,286,869"/>
+<area shape="rect" id="node4" href="$struct_bt_lock.html" title="{BtLock\n|+ iTable\l+ eLock\l|}" alt="" coords="85,491,154,583"/>
+<area shape="rect" id="node3" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="237,5,346,229"/>
+</map>

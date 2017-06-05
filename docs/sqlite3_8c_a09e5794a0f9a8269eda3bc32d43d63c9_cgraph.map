@@ -1,0 +1,6 @@
+<map id="contextMalloc" name="contextMalloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="157,5,287,47"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad4f0c5e8c9421d0c4550c1a108221abe" title="sqlite3_result_error\l_toobig" alt="" coords="156,71,288,112"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="173,137,271,163"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa3c1191fb83e4e8bdde15f13d05bd82a" title="sqlite3_result_error\l_nomem" alt="" coords="156,188,288,229"/>
+</map>

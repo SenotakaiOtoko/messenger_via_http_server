@@ -1,0 +1,6 @@
+<map id="sqlite3_blob_close" name="sqlite3_blob_close">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="369,5,508,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="199,31,305,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="201,81,303,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="183,132,321,159"/>
+</map>

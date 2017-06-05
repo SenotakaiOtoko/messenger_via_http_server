@@ -1,0 +1,8 @@
+<map id="isDate" name="isDate">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a18009d23009369ca192dbbc98f7b9e2e" title="setDateTimeToCurrent" alt="" coords="301,86,452,112"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac5e91a982065a1ab220a43bbd18cfa60" title="sqlite3_value_type" alt="" coords="119,35,247,62"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3e50c1a2dd484a8b6911c9d163816b88" title="sqlite3_value_double" alt="" coords="112,86,253,112"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="120,136,245,163"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a86a0ea000a0479eb6de44cbeb82acef9" title="parseDateOrTime" alt="" coords="121,187,244,214"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#af27e39a2d2026d0f51799a9c254c4f06" title="parseModifier" alt="" coords="133,238,232,264"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="mg_accept_conn" name="mg_accept_conn">
+<area shape="rect" id="node2" href="$mongoose_8c.html#aff7b7bf70d850df7d77386b30d4301c0" title="mg_is_error" alt="" coords="211,5,302,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a8c3f17edab445264dbf2a764739669cf" title="mg_get_errno" alt="" coords="387,31,488,57"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a5a65e3a3235b6ab764af7f5090233c52" title="mg_if_accept_new_conn" alt="" coords="175,107,339,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a7a6908590e9ee9cda54780133d1645c1" title="mg_sock_set" alt="" coords="207,157,307,184"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#aa8329404bac06e97c7eb18ded5dd650a" title="mg_close_conn" alt="" coords="200,208,313,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#a34951229fad1d145805f5bb7a29ace67" title="mg_if_accept_tcp_cb" alt="" coords="184,259,329,285"/>
+</map>

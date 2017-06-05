@@ -1,0 +1,6 @@
+<map id="mbuf_resize" name="mbuf_resize">
+<area shape="rect" id="node2" href="$mongoose_8h.html#ac13b929593fe45bd22487365951b28d0" title="mbuf_init" alt="" coords="200,5,275,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a3c92c6beae4ba6f769d3525c687e13c9" title="mbuf_free" alt="" coords="377,5,456,32"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#adb813dc930103a8ee7208fe700e1af59" title="mbuf_trim" alt="" coords="198,107,277,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#acd45a802bd42c85a7783e2bc1c7b5cfe" title="mg_deliver_websocket_data" alt="" coords="145,157,329,184"/>
+</map>

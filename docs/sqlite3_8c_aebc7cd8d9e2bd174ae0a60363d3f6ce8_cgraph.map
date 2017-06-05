@@ -1,0 +1,9 @@
+<map id="sqlite3ViewGetColumnNames" name="sqlite3ViewGetColumnNames">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9642d55303e8d284d096fabc53460e28" title="sqlite3VtabCallConnect" alt="" coords="263,5,420,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="490,31,603,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af8a7f75590dced000c27784d90b57b87" title="sqlite3SelectDup" alt="" coords="281,107,401,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a30fb47cdcb938aac958fe5da10c72821" title="sqlite3SrcListAssignCursors" alt="" coords="248,157,435,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ade35a86757654a36498d74152aa2fda8" title="sqlite3ResultSetOfSelect" alt="" coords="258,208,425,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7fd3d507375a381a3807f92735318973" title="sqlite3DeleteTable" alt="" coords="483,259,611,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="659,284,793,311"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sqlite3_mutex_notheld" name="sqlite3_mutex_notheld">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="219,43,358,69"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9b883a0e42e20c9f0cd19bd87059c383" title="sqlite3ScratchMalloc" alt="" coords="428,5,571,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad80f2390e3fdf5c2feab3ea212d4e9a8" title="pcache1Alloc" alt="" coords="449,81,549,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7b1a8df3e1fcfc9e69c19633f0d08af3" title="removeFromSharingList" alt="" coords="420,132,579,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a91974afe7709a742451438556ee0c70c" title="sqlite3PCacheSetDefault" alt="" coords="205,195,372,221"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab1714bc62ac8a451c7b17bc53053ca53" title="lockBtreeMutex" alt="" coords="232,245,345,272"/>
+</map>

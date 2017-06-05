@@ -1,0 +1,9 @@
+<map id="allocateBtreePage" name="allocateBtreePage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af8fb5934ff87b02845c89350c57fd2bc" title="relocatePage" alt="" coords="191,36,289,63"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a68a85130a567f1700dc0907ec9227892" title="incrVacuumStep" alt="" coords="347,11,466,37"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a48e09eaac366a6b585edd02553872954" title="btreeCreateTable" alt="" coords="347,73,467,100"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab66a77004cf93954f2aae7e52a4e51a7" title="fillInCell" alt="" coords="207,137,273,164"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a92f1869a02b8b9196e5ea7ed2e61c328" title="balance_quick" alt="" coords="187,188,293,215"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="181,239,299,265"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#af8eafba12a6ebc987cf6ae89f4cce1a8" title="balance_deeper" alt="" coords="183,289,297,316"/>
+</map>

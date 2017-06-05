@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура WalWriter</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура WalWriter</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="dynheader">
+Граф связей класса WalWriter:</div>
+<div class="dyncontent">
+<div class="center"><img src="struct_wal_writer__coll__graph.png" border="0" usemap="#_wal_writer_coll__map" alt="Collaboration graph"/></div>
+<map name="_wal_writer_coll__map" id="_wal_writer_coll__map">
+<area shape="rect" id="node2" href="structsqlite3__file.html" title="{sqlite3_file\n||}" alt="" coords="31,5,114,83"/>
+<area shape="rect" id="node3" href="struct_wal.html" title="{Wal\n|+ iCallback\l+ mxWalSize\l+ nWiData\l+ szFirstBlock\l+ apWiData\l+ szPage\l+ readLock\l+ syncFlags\l+ exclusiveMode\l+ writeLock\lи 7 больше...\l|}" alt="" coords="92,160,211,384"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:ac5f3cfd978474a39e7462844ec1a6fe1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_wal.html">Wal</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_wal_writer.html#ac5f3cfd978474a39e7462844ec1a6fe1">pWal</a></td></tr>
+<tr class="separator:ac5f3cfd978474a39e7462844ec1a6fe1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae44362cf35caac454319be8c145e374e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structsqlite3__file.html">sqlite3_file</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_wal_writer.html#ae44362cf35caac454319be8c145e374e">pFd</a></td></tr>
+<tr class="separator:ae44362cf35caac454319be8c145e374e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acdb124ba6cd2b23fde69c6e27a98e0c4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a0a4d3e6c1ad46f90e746b920ab6ca0d2">sqlite3_int64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_wal_writer.html#acdb124ba6cd2b23fde69c6e27a98e0c4">iSyncPoint</a></td></tr>
+<tr class="separator:acdb124ba6cd2b23fde69c6e27a98e0c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a81127b799c852f4dd1758b0390d48d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_wal_writer.html#a3a81127b799c852f4dd1758b0390d48d">syncFlags</a></td></tr>
+<tr class="separator:a3a81127b799c852f4dd1758b0390d48d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ead96b04a1cc6dc6ec781782e82d052"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_wal_writer.html#a0ead96b04a1cc6dc6ec781782e82d052">szPage</a></td></tr>
+<tr class="separator:a0ead96b04a1cc6dc6ec781782e82d052"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="acdb124ba6cd2b23fde69c6e27a98e0c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acdb124ba6cd2b23fde69c6e27a98e0c4">&#9670;&nbsp;</a></span>iSyncPoint</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a0a4d3e6c1ad46f90e746b920ab6ca0d2">sqlite3_int64</a> iSyncPoint</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae44362cf35caac454319be8c145e374e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae44362cf35caac454319be8c145e374e">&#9670;&nbsp;</a></span>pFd</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structsqlite3__file.html">sqlite3_file</a>* pFd</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac5f3cfd978474a39e7462844ec1a6fe1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5f3cfd978474a39e7462844ec1a6fe1">&#9670;&nbsp;</a></span>pWal</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_wal.html">Wal</a>* pWal</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3a81127b799c852f4dd1758b0390d48d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a81127b799c852f4dd1758b0390d48d">&#9670;&nbsp;</a></span>syncFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int syncFlags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0ead96b04a1cc6dc6ec781782e82d052"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ead96b04a1cc6dc6ec781782e82d052">&#9670;&nbsp;</a></span>szPage</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int szPage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="sqlite3_8c.html">sqlite3.c</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

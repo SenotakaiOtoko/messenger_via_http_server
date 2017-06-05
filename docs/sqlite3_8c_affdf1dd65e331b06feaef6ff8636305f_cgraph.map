@@ -1,0 +1,9 @@
+<map id="sqlite3DropTrigger" name="sqlite3DropTrigger">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac41a97f30334f7d35b2b5713097eca90" title="sqlite3ReadSchema" alt="" coords="217,5,355,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="232,56,340,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1bb83282c04c104ba033c3f5eb9556d2" title="sqlite3HashFind" alt="" coords="229,107,343,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="229,157,343,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a30331e33b8e462cbe3aa83c8bddb8c0e" title="sqlite3CodeVerifyNamedSchema" alt="" coords="180,208,392,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aa3a84617bfc76be1c61c27fc2b6d0b17" title="sqlite3DropTriggerPtr" alt="" coords="215,259,357,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#acc250a3e5e7fd8889a16a9f28e3e7312" title="sqlite3SrcListDelete" alt="" coords="217,309,355,336"/>
+</map>

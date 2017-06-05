@@ -1,0 +1,11 @@
+<map id="sqlite3OsOpen" name="sqlite3OsOpen">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4dc767ca46426d6ffc5fa54d96a80cd2" title="sqlite3OsOpenMalloc" alt="" coords="177,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a940bc2e6650e613dc69243119683c221" title="pager_delmaster" alt="" coords="191,56,309,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aebcb4ac28e13fcb66454bb555327c331" title="pagerOpentemp" alt="" coords="193,107,307,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5b4a74e8a1754922c482b7af19b30611" title="sqlite3PagerOpen" alt="" coords="187,157,313,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a875dc699b7a0e8ab6ba19170e5096d5e" title="hasHotJournal" alt="" coords="198,208,302,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="387,233,549,260"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a9a5224f8941dc99ce19bb0eb24766d00" title="pager_open_journal" alt="" coords="183,309,317,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#adf4d97849e76f154717956aa9ea0e138" title="sqlite3WalOpen" alt="" coords="193,360,307,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ab27c22e7c756912699880a12b4f262d3" title="sqlite3VdbeSorterCompare" alt="" coords="161,411,339,437"/>
+</map>

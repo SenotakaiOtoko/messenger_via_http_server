@@ -1,0 +1,13 @@
+<map id="sqlite3_initialize" name="sqlite3_initialize">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7906afcdd1cdb3d0007eb932398a1158" title="sqlite3MutexInit" alt="" coords="213,5,326,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0e3f432ee581f6876b590e7ad7e84e19" title="sqlite3MutexAlloc" alt="" coords="419,107,544,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="200,107,339,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9e06f9e7cad0d83ce80ab493c9533552" title="sqlite3MallocInit" alt="" coords="212,157,327,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="200,208,339,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a9f75bd111010f29e1b8d74344473c4ec" title="sqlite3RegisterGlobalFunctions" alt="" coords="168,259,371,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a2902c61ddc88bea002c4d69fe4052b1f" title="sqlite3PcacheInitialize" alt="" coords="194,309,345,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#afeaa886fe1ca086a30fd278b1d069762" title="sqlite3OsInit" alt="" coords="222,360,317,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ad18a1eebefdfbc4254f473f7b0101937" title="sqlite3PCacheBufferSetup" alt="" coords="183,411,356,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a2db2e72e08f6873afa9c61b0ec726fec" title="sqlite3_mutex_free" alt="" coords="204,461,335,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#aed4d78203877c3486765ccbc7feebb50" title="sqlite3IsNaN" alt="" coords="222,512,317,539"/>
+</map>

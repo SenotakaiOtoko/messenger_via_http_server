@@ -1,0 +1,7 @@
+<map id="mg_get_http_var" name="mg_get_http_var">
+<area shape="rect" id="node2" href="$db__plugin__sqlite_8c.html#aa53ebd8c256bca025b5d2a00e57c97d6" title="Функция парсит параметр action HTTP запроса " alt="" coords="175,5,277,32"/>
+<area shape="rect" id="node3" href="$db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="176,56,276,83"/>
+<area shape="rect" id="node4" href="$db__plugin__sqlite_8c.html#a6674451cff020de5748bdc298a212207" title="Функция api отправки сообщения " alt="" coords="171,107,281,133"/>
+<area shape="rect" id="node5" href="$db__plugin__sqlite_8c.html#aac058d44b78ba7f125d172c1f8152bc4" title="Функция api регистрации нового пользователя " alt="" coords="177,157,275,184"/>
+<area shape="rect" id="node6" href="$db__plugin__sqlite_8c.html#a29dc47a40acc94913c2372d989ee8eed" title="Функция api получения данных о пользователе " alt="" coords="190,208,262,235"/>
+</map>

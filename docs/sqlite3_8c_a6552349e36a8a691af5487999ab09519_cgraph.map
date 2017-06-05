@@ -1,0 +1,6 @@
+<map id="sqlite3_free" name="sqlite3_free">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="141,5,280,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="150,56,271,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="149,107,273,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="141,157,280,184"/>
+</map>

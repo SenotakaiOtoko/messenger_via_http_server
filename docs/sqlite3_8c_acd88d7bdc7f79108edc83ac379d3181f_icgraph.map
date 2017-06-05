@@ -1,0 +1,12 @@
+<map id="unixEnterMutex" name="unixEnterMutex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac56c26ce18878ed5357de493678969fc" title="unixCheckReservedLock" alt="" coords="167,5,331,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a17c6c9164321b4c2a65289e259abf409" title="unixLock" alt="" coords="212,56,287,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a90bcc6164aa2d367ff91d4c32b549be6" title="posixUnlock" alt="" coords="203,107,296,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa72eaafaa850f2889e15af7cfb08fa1b" title="dotlockClose" alt="" coords="380,132,477,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a84cdb6e4ff75f085e8c05dfdec178927" title="unixClose" alt="" coords="210,208,289,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a30775afa2e08ca6ddc7853326afed7c7" title="unixOpenSharedMemory" alt="" coords="167,259,332,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a610499a8b65e767cfdc8a2c7283616b3" title="unixShmBarrier" alt="" coords="194,309,305,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#acf439c8bef9c866a47714db2c776213f" title="unixShmUnmap" alt="" coords="192,360,307,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ab0ecaa459e88856a9cceb9786019ed8d" title="findReusableFd" alt="" coords="194,411,305,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ad04af94e02dde278ad32c9c94d109a6c" title="unixDlError" alt="" coords="206,461,293,488"/>
+</map>

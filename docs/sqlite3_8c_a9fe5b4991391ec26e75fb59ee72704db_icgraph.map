@@ -1,0 +1,5 @@
+<map id="sqlite3PcacheDirtyList" name="sqlite3PcacheDirtyList">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a80911cae8e3a137646b54d4e3e52147b" title="pagerRollbackWal" alt="" coords="205,5,332,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1675dba6bfeb50d8aa8a0509103fd004" title="pagerWalFrames" alt="" coords="208,56,329,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a2baf986bff9120486e9acc5951494ea7" title="sqlite3PagerCommitPhaseOne" alt="" coords="380,81,580,108"/>
+</map>

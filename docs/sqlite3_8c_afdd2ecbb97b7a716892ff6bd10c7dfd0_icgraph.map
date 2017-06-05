@@ -1,0 +1,5 @@
+<map id="sqlite3PagerRollback" name="sqlite3PagerRollback">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a02d96b7bf62c3b13ba905d168914518c" title="pagerUnlockAndRollback" alt="" coords="197,5,364,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a809d22c6311135ae3048adf41febaef0" title="autoVacuumCommit" alt="" coords="211,56,351,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a317473acdafdd688385c8954f09de186" title="sqlite3BtreeRollback" alt="" coords="210,107,351,133"/>
+</map>

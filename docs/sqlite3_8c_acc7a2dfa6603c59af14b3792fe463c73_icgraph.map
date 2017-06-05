@@ -1,0 +1,5 @@
+<map id="sqlite3HashClear" name="sqlite3HashClear">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a97ff4ac3846af0f8caf5426adfa2808a" title="removeElementGivenHash" alt="" coords="173,5,347,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a927c603430267e42c56ab38ca221322a" title="sqlite3SchemaClear" alt="" coords="191,56,329,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afe3a37c29dcb0fe9fc15fe07a3976f59" title="sqlite3LeaveMutexAndClose\lZombie" alt="" coords="395,74,580,115"/>
+</map>

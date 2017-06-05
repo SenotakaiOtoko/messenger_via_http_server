@@ -1,0 +1,10 @@
+<map id="sqlite3Reprepare" name="sqlite3Reprepare">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="199,5,333,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6cb1b36e2823fc3eff25dc162f71f28b" title="sqlite3VdbeDb" alt="" coords="213,56,319,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5a8d6a88cd06c29ea28bfbdf85f2d4dc" title="sqlite3_sql" alt="" coords="224,107,308,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5db1ec5589aa2b02c6d979211a8789bd" title="sqlite3LockAndPrepare" alt="" coords="188,157,344,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ae65b43cc845b600cd9c8bdead9843b28" title="sqlite3VdbeSwap" alt="" coords="205,208,327,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a9158a497436de1e5aa7067e4daf18d8e" title="sqlite3TransferBindings" alt="" coords="188,259,344,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ad24b39129d843f753039e272999669a6" title="sqlite3VdbeResetStepResult" alt="" coords="172,309,360,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#af81e0c8d03b71610d3a826469f67bbd4" title="sqlite3VdbeFinalize" alt="" coords="199,360,333,387"/>
+</map>

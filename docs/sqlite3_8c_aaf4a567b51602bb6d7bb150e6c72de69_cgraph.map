@@ -1,0 +1,8 @@
+<map id="sqlite3VdbeTransferError" name="sqlite3VdbeTransferError">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="419,100,589,127"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1fd40749f47941ee97ff6d798e2bc67e" title="sqlite3ValueSetStr" alt="" coords="439,11,569,37"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="423,176,585,203"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="250,36,338,63"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5a497837d5d69b92e7bca23673589c69" title="sqlite3VdbeExpandSql" alt="" coords="217,137,371,164"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="243,239,345,265"/>
+</map>

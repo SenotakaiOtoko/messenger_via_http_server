@@ -1,0 +1,16 @@
+<map id="sqlite3VdbeAddOp0" name="sqlite3VdbeAddOp0">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#add0d891a062d044a0c7e6fc072702830" title="sqlite3VdbeChangeP4" alt="" coords="204,5,355,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2465ee8c956209ba4b272477b7c21a45" title="sqlite3Select" alt="" coords="441,107,539,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afcdb8488c6f4dfdadaf9f04bca35b808" title="multiSelectOrderBy" alt="" coords="614,81,749,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a120801f59d9281d201d2ff4b2606836e" title="codeTriggerProgram" alt="" coords="612,208,751,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a463cea5aaaf388b560b206570a0022fc" title="codeRowTrigger" alt="" coords="799,183,913,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a51cb5e47979cf50b4fc565830c63b712" title="analyzeOneTable" alt="" coords="429,360,551,387"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a651bc5b446c276c092705856d995b278" title="sqlite3FinishCoding" alt="" coords="423,563,557,589"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#af49b4395f39d9078a0dda2484c183012" title="sqlite3StartTable" alt="" coords="431,461,549,488"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#aaf9a8d65346dc15bfcd60bc48e885f46" title="sqlite3CodeDropTable" alt="" coords="416,512,564,539"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a62a5d5880763dac53a4110157e094ebd" title="sqlite3AutoincrementBegin" alt="" coords="191,613,368,640"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#ad8f51f6ea684367030cd9c09234374e7" title="sqlite3AutoincrementEnd" alt="" coords="196,309,363,336"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="439,284,541,311"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a8c0b3b3b3f212bc6daf8ef6801dbc352" title="pushOntoSorter" alt="" coords="223,664,336,691"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="224,411,335,437"/>
+</map>

@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура mg_http_proto_data</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура mg_http_proto_data</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="dynheader">
+Граф связей класса mg_http_proto_data:</div>
+<div class="dyncontent">
+<div class="center"><img src="structmg__http__proto__data__coll__graph.png" border="0" usemap="#mg__http__proto__data_coll__map" alt="Collaboration graph"/></div>
+<map name="mg__http__proto__data_coll__map" id="mg__http__proto__data_coll__map">
+<area shape="rect" id="node2" href="structmg__reverse__proxy__data.html" title="{mg_reverse_proxy_data\n||}" alt="" coords="146,329,305,406"/>
+<area shape="rect" id="node3" href="structmg__connection.html" title="{mg_connection\n|+ sock\l+ err\l+ recv_mbuf_limit\l+ last_io_time\l+ ev_timer_time\l+ proto_data\l+ proto_data_destructor\l+ user_data\l+ v\l+ priv_1\l+ priv_2\l+ mgr_data\l+ flags\l|}" alt="" coords="145,5,305,259"/>
+<area shape="rect" id="node4" href="structmg__http__endpoint.html" title="{mg_http_endpoint\n|+ name\l+ name_len\l|}" alt="" coords="329,321,455,413"/>
+<area shape="rect" id="node5" href="structmg__http__proto__data__chuncked.html" title="{mg_http_proto_data\l_chuncked\n|+ body_len\l|}" alt="" coords="541,321,678,413"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:ae9ebd3145d3ea162e1045f7583572f90"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__http__proto__data__chuncked.html">mg_http_proto_data_chuncked</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__http__proto__data.html#ae9ebd3145d3ea162e1045f7583572f90">chunk</a></td></tr>
+<tr class="separator:ae9ebd3145d3ea162e1045f7583572f90"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1040350a3101ba51b4b5342a8c65e7a"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__http__endpoint.html">mg_http_endpoint</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__http__proto__data.html#ab1040350a3101ba51b4b5342a8c65e7a">endpoints</a></td></tr>
+<tr class="separator:ab1040350a3101ba51b4b5342a8c65e7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad88a0d65b8858c7e4ca8f09637aaccc1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="mongoose_8h.html#a01ab000e5c353a414a6c4e8b1bee5916">mg_event_handler_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__http__proto__data.html#ad88a0d65b8858c7e4ca8f09637aaccc1">endpoint_handler</a></td></tr>
+<tr class="separator:ad88a0d65b8858c7e4ca8f09637aaccc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78a102bf6e8e169e82f13cad00640a9d"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__reverse__proxy__data.html">mg_reverse_proxy_data</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__http__proto__data.html#a78a102bf6e8e169e82f13cad00640a9d">reverse_proxy_data</a></td></tr>
+<tr class="separator:a78a102bf6e8e169e82f13cad00640a9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="ae9ebd3145d3ea162e1045f7583572f90"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9ebd3145d3ea162e1045f7583572f90">&#9670;&nbsp;</a></span>chunk</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__http__proto__data__chuncked.html">mg_http_proto_data_chuncked</a> chunk</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad88a0d65b8858c7e4ca8f09637aaccc1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad88a0d65b8858c7e4ca8f09637aaccc1">&#9670;&nbsp;</a></span>endpoint_handler</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="mongoose_8h.html#a01ab000e5c353a414a6c4e8b1bee5916">mg_event_handler_t</a> endpoint_handler</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab1040350a3101ba51b4b5342a8c65e7a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1040350a3101ba51b4b5342a8c65e7a">&#9670;&nbsp;</a></span>endpoints</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__http__endpoint.html">mg_http_endpoint</a>* endpoints</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a78a102bf6e8e169e82f13cad00640a9d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78a102bf6e8e169e82f13cad00640a9d">&#9670;&nbsp;</a></span>reverse_proxy_data</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__reverse__proxy__data.html">mg_reverse_proxy_data</a> reverse_proxy_data</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="mongoose_8c.html">mongoose.c</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

@@ -1,0 +1,6 @@
+<map id="unixUnmapfile" name="unixUnmapfile">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad78004d74bd51bdf7ac43d20999a1208" title="unixUnlock" alt="" coords="304,23,391,49"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac11bfe29d9353ee80f95a520e83f997f" title="closeUnixFile" alt="" coords="156,23,256,49"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a171fcb2ed5ce6274b7d5cca446ca2973" title="unixMapfile" alt="" coords="163,73,249,100"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a218a63e9e24251110c4bfacac72f8254" title="unixUnfetch" alt="" coords="161,124,251,151"/>
+</map>

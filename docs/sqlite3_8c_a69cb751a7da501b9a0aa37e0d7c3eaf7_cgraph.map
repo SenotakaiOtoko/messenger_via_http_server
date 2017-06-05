@@ -1,0 +1,27 @@
+<map id="attachFunc" name="attachFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="163,5,294,47"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="372,97,497,123"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="178,173,279,199"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="365,274,504,301"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a169974d5f47a6e7e80f0f67799d5b292" title="sqlite3DbRealloc" alt="" coords="169,325,288,351"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="383,375,486,402"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="552,477,640,503"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aaa912f29a67460d8b2186c97056e8767" title="sqlite3ParseUri" alt="" coords="379,477,490,503"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a577161e1b67908b94f47007aaa6ae4c4" title="sqlite3_result_error" alt="" coords="163,629,295,655"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a13dcb44dc34af6ce9d38de9c5aa975f9" title="sqlite3BtreeOpen" alt="" coords="373,527,496,554"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#aea657029436ec374cbd09f8cc2747169" title="sqlite3SchemaGet" alt="" coords="164,679,293,706"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#aa0b1925984c0d8606d760b8fa27a4d7c" title="sqlite3BtreePager" alt="" coords="166,730,291,757"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a169a4fb259aab3f9681d51c17026eebb" title="sqlite3PagerLockingMode" alt="" coords="143,781,314,807"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a0ba475c4ebefd8b4efae643a5fdec364" title="sqlite3BtreeSecureDelete" alt="" coords="144,831,313,858"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="171,223,287,250"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#ac5e91a982065a1ab220a43bbd18cfa60" title="sqlite3_value_type" alt="" coords="165,882,293,909"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#aee6da873358a81b4bbbe1284f157b146" title="sqlite3_value_bytes" alt="" coords="161,933,296,959"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#af2d4d12032718e4d9a929bcf561370c8" title="sqlite3_value_blob" alt="" coords="165,71,292,98"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#a68011b8563328468149157a52e70e984" title="sqlite3BtreeGetReserve" alt="" coords="149,983,308,1010"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#a7e8c5e623a61d322d3622c3e6202d735" title="sqlite3BtreeEnterAll" alt="" coords="366,1066,503,1093"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#aed74e3dc765631a833f522f425ff5a48" title="sqlite3Init" alt="" coords="190,1202,267,1229"/>
+<area shape="rect" id="node23" href="$sqlite3_8c.html#a282e5f429eee8e0aebc7d18068ebccd2" title="sqlite3BtreeLeaveAll" alt="" coords="365,1121,504,1147"/>
+<area shape="rect" id="node24" href="$sqlite3_8c.html#a729b65009b66a99200496b09c124df01" title="sqlite3BtreeClose" alt="" coords="167,426,291,453"/>
+<area shape="rect" id="node25" href="$sqlite3_8c.html#a2fc0d7e9d7e688a2a81ea4775dd12e33" title="sqlite3ResetAllSchemasOf\lConnection" alt="" coords="140,1085,317,1127"/>
+<area shape="rect" id="node26" href="$sqlite3_8c.html#ac7ad2457fb9a1b7b772caf8e48deb8bc" title="sqlite3_result_error_code" alt="" coords="145,1253,312,1279"/>
+</map>

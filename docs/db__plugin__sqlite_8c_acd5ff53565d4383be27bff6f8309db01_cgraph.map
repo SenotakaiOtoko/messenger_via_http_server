@@ -1,0 +1,7 @@
+<map id="get_user_from_db" name="get_user_from_db">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="183,5,313,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="195,56,301,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="188,107,308,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="202,157,294,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aee36f5eaf67b425ddf6f9b7a2004d018" title="sqlite3_column_text" alt="" coords="179,208,317,235"/>
+</map>

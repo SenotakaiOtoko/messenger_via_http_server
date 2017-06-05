@@ -1,0 +1,6 @@
+<map id="sqlite3_prepare" name="sqlite3_prepare">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aaeda0302fbf61397ec009f65bed047ef" title="sqlite3DeleteIndexSamples" alt="" coords="164,5,343,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5183ff3c8b5311c7332250013ee018b3" title="sqlite3InitCallback" alt="" coords="190,56,317,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7d16651b98a110662f4c265eff0246cb" title="execSql" alt="" coords="219,107,288,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac1be09a6c047f21133d16378d301e0d4" title="execExecSql" alt="" coords="391,132,489,159"/>
+</map>

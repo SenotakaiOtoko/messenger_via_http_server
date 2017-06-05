@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура mg_tun_client</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура mg_tun_client</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="dynheader">
+Граф связей класса mg_tun_client:</div>
+<div class="dyncontent">
+<div class="center"><img src="structmg__tun__client__coll__graph.png" border="0" usemap="#mg__tun__client_coll__map" alt="Collaboration graph"/></div>
+<map name="mg__tun__client_coll__map" id="mg__tun__client_coll__map">
+<area shape="rect" id="node2" href="structmg__mgr.html" title="{mg_mgr\n|+ user_data\l+ num_ifaces\l|}" alt="" coords="123,5,223,97"/>
+<area shape="rect" id="node3" href="structmg__connection.html" title="{mg_connection\n|+ sock\l+ err\l+ recv_mbuf_limit\l+ last_io_time\l+ ev_timer_time\l+ proto_data\l+ proto_data_destructor\l+ user_data\l+ v\l+ priv_1\l+ priv_2\l+ mgr_data\l+ flags\l|}" alt="" coords="66,300,226,553"/>
+<area shape="rect" id="node4" href="structmg__iface.html" title="{mg_iface\n|+ data\l|}" alt="" coords="319,160,394,237"/>
+<area shape="rect" id="node5" href="structmg__tun__ssl__opts.html" title="{mg_tun_ssl_opts\n|+ dummy\l|}" alt="" coords="449,388,571,465"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:adbcfc2885cb20c58e0b2f5e0c4433f67"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__mgr.html">mg_mgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__tun__client.html#adbcfc2885cb20c58e0b2f5e0c4433f67">mgr</a></td></tr>
+<tr class="separator:adbcfc2885cb20c58e0b2f5e0c4433f67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7540a8268c274998c610c1f5801463a"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__iface.html">mg_iface</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__tun__client.html#af7540a8268c274998c610c1f5801463a">iface</a></td></tr>
+<tr class="separator:af7540a8268c274998c610c1f5801463a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0724ad8b836dea22b24ef17bec845899"><td class="memItemLeft" align="right" valign="top">const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__tun__client.html#a0724ad8b836dea22b24ef17bec845899">disp_url</a></td></tr>
+<tr class="separator:a0724ad8b836dea22b24ef17bec845899"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d7d018fb1d524a2f37e0e3dec5faf31"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__tun__ssl__opts.html">mg_tun_ssl_opts</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__tun__client.html#a7d7d018fb1d524a2f37e0e3dec5faf31">ssl</a></td></tr>
+<tr class="separator:a7d7d018fb1d524a2f37e0e3dec5faf31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea3b8f5268be1cf179c85727b822e44f"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__tun__client.html#aea3b8f5268be1cf179c85727b822e44f">last_stream_id</a></td></tr>
+<tr class="separator:aea3b8f5268be1cf179c85727b822e44f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0e80f18db55153b4421c4bc2de319de"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__tun__client.html#aa0e80f18db55153b4421c4bc2de319de">disp</a></td></tr>
+<tr class="separator:aa0e80f18db55153b4421c4bc2de319de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa14e42a512266267d8c50ef78957805f"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__tun__client.html#aa14e42a512266267d8c50ef78957805f">listener</a></td></tr>
+<tr class="separator:aa14e42a512266267d8c50ef78957805f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9bf8e1acff9b1dc282b14a2e8837d727"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__connection.html">mg_connection</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__tun__client.html#a9bf8e1acff9b1dc282b14a2e8837d727">reconnect</a></td></tr>
+<tr class="separator:a9bf8e1acff9b1dc282b14a2e8837d727"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="aa0e80f18db55153b4421c4bc2de319de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa0e80f18db55153b4421c4bc2de319de">&#9670;&nbsp;</a></span>disp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__connection.html">mg_connection</a>* disp</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0724ad8b836dea22b24ef17bec845899"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0724ad8b836dea22b24ef17bec845899">&#9670;&nbsp;</a></span>disp_url</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const char* disp_url</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af7540a8268c274998c610c1f5801463a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af7540a8268c274998c610c1f5801463a">&#9670;&nbsp;</a></span>iface</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__iface.html">mg_iface</a>* iface</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aea3b8f5268be1cf179c85727b822e44f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea3b8f5268be1cf179c85727b822e44f">&#9670;&nbsp;</a></span>last_stream_id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t last_stream_id</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa14e42a512266267d8c50ef78957805f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa14e42a512266267d8c50ef78957805f">&#9670;&nbsp;</a></span>listener</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__connection.html">mg_connection</a>* listener</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adbcfc2885cb20c58e0b2f5e0c4433f67"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbcfc2885cb20c58e0b2f5e0c4433f67">&#9670;&nbsp;</a></span>mgr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__mgr.html">mg_mgr</a>* mgr</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9bf8e1acff9b1dc282b14a2e8837d727"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9bf8e1acff9b1dc282b14a2e8837d727">&#9670;&nbsp;</a></span>reconnect</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__connection.html">mg_connection</a>* reconnect</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7d7d018fb1d524a2f37e0e3dec5faf31"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d7d018fb1d524a2f37e0e3dec5faf31">&#9670;&nbsp;</a></span>ssl</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__tun__ssl__opts.html">mg_tun_ssl_opts</a> ssl</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="mongoose_8c.html">mongoose.c</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

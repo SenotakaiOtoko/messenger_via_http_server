@@ -1,0 +1,11 @@
+<map id="autoVacuumCommit" name="autoVacuumCommit">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a865a3e27288083a9cdfd8de2ba365d80" title="sqlite3PagerRefcount" alt="" coords="208,5,353,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="416,183,551,209"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae54a9c06fff6f71d61f77b1f08f3e09c" title="invalidateAllOverflowCache" alt="" coords="193,107,368,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9cc4ac11752c088db89d551ec1495a15" title="btreePagecount" alt="" coords="224,157,337,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6e8990e2e26e221184d66b367b586d75" title="finalDbSize" alt="" coords="237,208,324,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#add0c7a5086792caf465148beaadb913d" title="saveAllCursors" alt="" coords="227,259,335,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a68a85130a567f1700dc0907ec9227892" title="incrVacuumStep" alt="" coords="221,309,340,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="218,360,343,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#afdd2ecbb97b7a716892ff6bd10c7dfd0" title="sqlite3PagerRollback" alt="" coords="209,411,353,437"/>
+</map>

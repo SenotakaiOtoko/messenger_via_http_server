@@ -1,0 +1,5 @@
+<map id="sqlite3VtabCallDestroy" name="sqlite3VtabCallDestroy">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa51dbee6173bf3a8a3df76b07cea789" title="sqlite3FindTable" alt="" coords="213,5,329,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa3d5506c2557b3e090d8409b5ee27d29" title="vtabDisconnectAll" alt="" coords="209,56,334,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8b3341682c7724d767ebc8288b9063b4" title="sqlite3VtabUnlock" alt="" coords="208,107,335,133"/>
+</map>

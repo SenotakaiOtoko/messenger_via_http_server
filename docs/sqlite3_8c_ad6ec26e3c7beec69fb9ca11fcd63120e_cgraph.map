@@ -1,0 +1,7 @@
+<map id="pcache1AllocPage" name="pcache1AllocPage">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="184,5,319,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad80f2390e3fdf5c2feab3ea212d4e9a8" title="pcache1Alloc" alt="" coords="201,56,301,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="367,95,465,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a283e764f60afec3ed4995402b6604ceb" title="pcache1Free" alt="" coords="203,157,300,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="372,171,460,197"/>
+</map>

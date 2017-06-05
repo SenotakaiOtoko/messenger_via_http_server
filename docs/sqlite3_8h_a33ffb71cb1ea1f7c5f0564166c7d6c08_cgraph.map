@@ -1,0 +1,10 @@
+<map id="sqlite3_file_control" name="sqlite3_file_control">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="191,5,329,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1b53d7ba894859656b1a098300036d37" title="sqlite3DbNameToBtree" alt="" coords="183,56,337,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="199,107,321,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa0b1925984c0d8606d760b8fa27a4d7c" title="sqlite3BtreePager" alt="" coords="197,157,323,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a4994718ae281ffc714aa975c5b9b359d" title="sqlite3PagerFile" alt="" coords="203,208,317,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aa8dad928f8e52b454c6d82bd2fe5c3fc" title="sqlite3OsFileControl" alt="" coords="191,259,329,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="198,309,322,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="191,360,329,387"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="TriggerStep" name="TriggerStep">
+<area shape="rect" id="node7" href="$struct_trigger.html" title="{Trigger\n|+ zName\l+ table\l+ op\l+ tr_tm\l|}" alt="" coords="259,903,334,1024"/>
+<area shape="rect" id="node2" href="$struct_expr.html" title="{Expr\n|+ op\l+ affinity\l+ flags\l+ zToken\l+ iValue\l+ u\l+ x\l+ nHeight\l+ iTable\l+ iColumn\l+ iAgg\l+ iRightJoinTable\l+ flags2\l+ op2\l|}" alt="" coords="136,160,257,428"/>
+<area shape="rect" id="node3" href="$struct_select.html" title="{Select\n|+ op\l+ selFlags\l+ iLimit\l+ iOffset\l+ addrOpenEphm\l+ nSelectRow\l|}" alt="" coords="236,535,360,685"/>
+<area shape="rect" id="node4" href="$struct_expr_list.html" title="{ExprList\n|+ nExpr\l+ iECursor\l|}" alt="" coords="333,5,417,97"/>
+<area shape="rect" id="node5" href="$struct_token.html" title="{Token\n|+ z\l+ n\l|}" alt="" coords="48,564,105,656"/>
+<area shape="rect" id="node6" href="$struct_id_list.html" title="{IdList\n|+ nId\l|}" alt="" coords="559,571,612,649"/>
+</map>

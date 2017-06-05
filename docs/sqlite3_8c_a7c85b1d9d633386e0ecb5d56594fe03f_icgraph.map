@@ -1,0 +1,7 @@
+<map id="sqlite3PageFree" name="sqlite3PageFree">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab668348d5dcc0382c247c74b6358f16e" title="sqlite3PagerSetPagesize" alt="" coords="169,5,337,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af94b1f96b60689fd09422cce2c85f53f" title="sqlite3PagerClose" alt="" coords="190,56,317,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aec277d601edd310860ca5a81c99ed411" title="freeTempSpace" alt="" coords="197,107,309,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a173f7c872fb68ccd3a20440d640b66c7" title="balance" alt="" coords="220,157,287,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a833fe7b749860571772ef6b19b3c54df" title="checkTreePage" alt="" coords="197,208,309,235"/>
+</map>

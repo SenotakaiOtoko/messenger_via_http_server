@@ -1,0 +1,12 @@
+<map id="sqlite3ExprCacheAffinityChange" name="sqlite3ExprCacheAffinityChange">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa69b46d2204a1d1b110107a1be12ee0c" title="sqlite3CodeSubselect" alt="" coords="229,5,377,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4f308397a0a3ed299ed31aaa1ae2a293" title="sqlite3ExprCodeTarget" alt="" coords="437,5,591,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa507f2413992cdcb1bd4b771d93d83cc" title="sqlite3GenerateConstraint\lChecks" alt="" coords="217,107,389,149"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a14a56d50155bdd89d208ef089330b41c" title="sqlite3CompleteInsertion" alt="" coords="221,173,385,200"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a28a19a72e49dbeaaed8a38c573d906ef" title="selectInnerLoop" alt="" coords="246,224,359,251"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a52831a0f060778163f628731561bfc8a" title="generateSortTail" alt="" coords="245,275,361,301"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a1ec443eff11af02d52a193c4bfa3591c" title="generateOutputSubroutine" alt="" coords="216,325,389,352"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a1681660dd3ecd50c8727d6e56a537bd9" title="updateAccumulator" alt="" coords="235,376,370,403"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a3b3a683e750abead3da9b53dd7d373d4" title="codeApplyAffinity" alt="" coords="241,427,364,453"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a7b24987855c8f506fce74b71506dd3c4" title="codeOneLoopStart" alt="" coords="449,452,579,479"/>
+</map>

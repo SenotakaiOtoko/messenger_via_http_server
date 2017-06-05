@@ -1,0 +1,5 @@
+<map id="checkPtrmap" name="checkPtrmap">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af31aaf3c60e4f749f0dff6b8b907b159" title="checkList" alt="" coords="152,56,231,83"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a833fe7b749860571772ef6b19b3c54df" title="checkTreePage" alt="" coords="279,5,391,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa00011902d9e5ba26452d147c43fa1d8" title="sqlite3BtreeIntegrityCheck" alt="" coords="439,56,613,83"/>
+</map>

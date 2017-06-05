@@ -1,0 +1,5 @@
+<map id="pagerRollbackWal" name="pagerRollbackWal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9a106da99e04f3c34f90e9ca15678953" title="sqlite3WalUndo" alt="" coords="199,5,313,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aca578b7eaed97dbbc2219eb67e1de24f" title="pagerUndoCallback" alt="" coords="189,56,323,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9fe5b4991391ec26e75fb59ee72704db" title="sqlite3PcacheDirtyList" alt="" coords="180,107,332,133"/>
+</map>

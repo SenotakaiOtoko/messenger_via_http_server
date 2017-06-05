@@ -1,0 +1,8 @@
+<map id="walIteratorInit" name="walIteratorInit">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a067e7452317d6a1c19674376ae969f1f" title="walFramePage" alt="" coords="169,5,277,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9b883a0e42e20c9f0cd19bd87059c383" title="sqlite3ScratchMalloc" alt="" coords="152,56,295,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae19bbc16575c591b6e0aee0aed2cfaf3" title="walHashGet" alt="" coords="177,107,269,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af4c4ddabd82c872731a8c270d04e1f64" title="walMergesort" alt="" coords="174,157,273,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1a90fe6ec9fbbba9f40ccb7cae4f5b27" title="sqlite3ScratchFree" alt="" coords="343,233,473,260"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#acc257aa6280bbe73e1ba1981535b515b" title="walIteratorFree" alt="" coords="170,259,277,285"/>
+</map>

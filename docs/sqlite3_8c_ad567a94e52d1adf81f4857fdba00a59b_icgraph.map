@@ -1,0 +1,12 @@
+<map id="sqlite3ValueText" name="sqlite3ValueText">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a89fc02818dc8eb6be452ea408164b5e3" title="sqlite3MemCompare" alt="" coords="178,5,319,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2eac906bf499092dbbbfbb47ae75ad06" title="sqlite3ValueBytes" alt="" coords="185,56,312,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab7c738c15aa046885689946645ad38ab" title="bestVirtualIndex" alt="" coords="373,81,488,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a78e024c17b349c4d40fd82d0e02a4a2c" title="sqlite3_value_text" alt="" coords="186,157,311,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8h.html#ae934ba629bb0e085a2de4802990f00d1" title="sqlite3_value_text16" alt="" coords="179,208,318,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8h.html#af229071bebf3bca9a34476e439bb2d6f" title="sqlite3_value_text16be" alt="" coords="172,259,325,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8h.html#a7077f9814bbfd409d14ed77ea35e5d86" title="sqlite3_value_text16le" alt="" coords="174,309,323,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a4b69d70c8956d161ab4ec05d87ae1054" title="callCollNeeded" alt="" coords="195,360,303,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8h.html#a3260341c2ef82787acca48414a1d03a1" title="sqlite3_complete16" alt="" coords="181,411,316,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8h.html#adbc401bb96713f32e553db32f6f3ca33" title="sqlite3_open16" alt="" coords="194,461,303,488"/>
+</map>

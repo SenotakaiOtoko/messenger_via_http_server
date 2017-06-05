@@ -1,0 +1,11 @@
+<map id="walTryBeginRead" name="walTryBeginRead">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a216e62c25d04d125926034ac185cc9f4" title="sqlite3OsSleep" alt="" coords="182,5,293,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a66529e9c71a2bef92c4eb34bdd3a72a2" title="walIndexReadHdr" alt="" coords="176,157,299,184"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aec5e744b83679f0e56ad66abb849a7af" title="walLockShared" alt="" coords="359,63,470,89"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a766d6112d5beb2d9a4fb6e007b591514" title="walUnlockShared" alt="" coords="353,125,476,152"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a4625e58ad3fd85c21cf16275c458f154" title="walLockExclusive" alt="" coords="353,201,477,228"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7ef6fcadaaeb9b36d1b9eaaf7e8f3311" title="walUnlockExclusive" alt="" coords="347,252,483,279"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ad84967d160cb3a294c0a992c47a702da" title="walCkptInfo" alt="" coords="193,309,281,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ad2521f6deb16bf6c132c44687dd5fd4b" title="walShmBarrier" alt="" coords="184,360,291,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#aab2cbd233e7f954c7a260578027bb0ca" title="walIndexHdr" alt="" coords="191,411,283,437"/>
+</map>

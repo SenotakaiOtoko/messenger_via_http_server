@@ -1,0 +1,8 @@
+<map id="mg_connect_opt" name="mg_connect_opt">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a26c811fbdf862c4744743b58de60ca99" title="mg_create_connection" alt="" coords="173,5,326,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a825f4679bc738b5f21c9cf961a41a346" title="mg_parse_address" alt="" coords="183,56,315,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#aa6b6ccb4e60eef226d37631b6edf08c7" title="mg_destroy_conn" alt="" coords="375,183,500,209"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a1db131b77c3d3046fc7aa7577b52dfae" title="mg_resolve_async_opt" alt="" coords="172,157,327,184"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a4c939be20504501a7f029a4f3881f919" title="resolve_cb" alt="" coords="208,208,291,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#ad7ad178de2465f6a9193dbe175b45d97" title="mg_do_connect" alt="" coords="380,245,495,272"/>
+</map>

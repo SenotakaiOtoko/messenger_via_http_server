@@ -1,0 +1,5 @@
+<map id="AggInfo" name="AggInfo">
+<area shape="rect" id="node2" href="$struct_agg_info_1_1_agg_info__col.html" title="{AggInfo_col\n|+ iTable\l+ iColumn\l+ iSorterColumn\l+ iMem\l|}" alt="" coords="5,5,121,127"/>
+<area shape="rect" id="node3" href="$struct_agg_info_1_1_agg_info__func.html" title="{AggInfo_func\n|+ iMem\l+ iDistinct\l|}" alt="" coords="146,20,242,112"/>
+<area shape="rect" id="node4" href="$struct_expr_list.html" title="{ExprList\n|+ nExpr\l+ iECursor\l|}" alt="" coords="267,20,351,112"/>
+</map>

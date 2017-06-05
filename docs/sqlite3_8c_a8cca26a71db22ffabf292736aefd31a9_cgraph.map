@@ -1,0 +1,6 @@
+<map id="codeCompare" name="codeCompare">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad736cef22bdf857cc89b9411ffca6af6" title="sqlite3BinaryCompareCollSeq" alt="" coords="156,5,351,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5f42574a5d9dbf7676234b08f17dcb23" title="binaryCompareP5" alt="" coords="191,56,316,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a739d7a47b1c11779283b7797ea7e1d4d" title="sqlite3VdbeAddOp4" alt="" coords="185,107,322,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4dde2e4087eda945511b05d667050740" title="sqlite3VdbeChangeP5" alt="" coords="178,157,329,184"/>
+</map>

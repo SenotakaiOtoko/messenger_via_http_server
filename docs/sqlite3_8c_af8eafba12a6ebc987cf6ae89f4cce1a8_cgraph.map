@@ -1,0 +1,9 @@
+<map id="balance_deeper" name="balance_deeper">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="516,107,651,133"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="343,208,468,235"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae84ce1103eabfe9455a6a59e6cec4a33" title="allocateBtreePage" alt="" coords="167,157,295,184"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="358,107,453,133"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad73085375c8b00ebc87bc75dba37ca7b" title="copyNodeContent" alt="" coords="168,309,293,336"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac16fbe55892f29324ac5d09957374ed0" title="ptrmapPut" alt="" coords="189,259,272,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a1c974ee71f86cb74370ca21e5e6cdb14" title="zeroPage" alt="" coords="367,5,444,32"/>
+</map>

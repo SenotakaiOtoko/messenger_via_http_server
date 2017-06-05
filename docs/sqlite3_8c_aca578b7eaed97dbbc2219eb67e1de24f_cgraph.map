@@ -1,0 +1,10 @@
+<map id="pagerUndoCallback" name="pagerUndoCallback">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="231,5,331,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1252ec03814f64eed236cfb21094cafd" title="sqlite3PagerLookup" alt="" coords="213,56,349,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4010b85eb18d6cc834f0f9ced4f6a274" title="sqlite3PcachePageRefcount" alt="" coords="188,107,373,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a78667811e7a2a7e75117cd6ec9cf6486" title="sqlite3PcacheDrop" alt="" coords="215,157,346,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a70d73def3adcc264f500a63178742708" title="sqlite3WalFindFrame" alt="" coords="208,208,353,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1c4cca64dd97dda37d9be9cac94941a0" title="readDbPage" alt="" coords="234,259,327,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="219,309,343,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a51c915452a70527bce99483f8eac02b8" title="sqlite3BackupRestart" alt="" coords="207,360,354,387"/>
+</map>

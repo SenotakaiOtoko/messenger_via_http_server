@@ -1,0 +1,7 @@
+<map id="execExecSql" name="execExecSql">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8c39e7b9dbeff01f0a399b46d4b29f1c" title="sqlite3_prepare" alt="" coords="339,5,449,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="348,81,440,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7d16651b98a110662f4c265eff0246cb" title="execSql" alt="" coords="187,93,256,120"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a632db76c46aca8f067d585295d2ada31" title="vacuumFinalize" alt="" coords="339,132,449,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aee36f5eaf67b425ddf6f9b7a2004d018" title="sqlite3_column_text" alt="" coords="152,195,291,221"/>
+</map>

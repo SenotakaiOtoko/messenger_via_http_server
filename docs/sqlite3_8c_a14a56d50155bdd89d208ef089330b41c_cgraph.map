@@ -1,0 +1,10 @@
+<map id="sqlite3CompleteInsertion" name="sqlite3CompleteInsertion">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="243,5,354,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae87204d7b069da19e4db0404c6deaae5" title="sqlite3VdbeAddOp2" alt="" coords="230,56,367,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a29b4560b019211a73e1478cec7468345" title="sqlite3VdbeAddOp3" alt="" coords="435,81,572,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4dde2e4087eda945511b05d667050740" title="sqlite3VdbeChangeP5" alt="" coords="223,157,374,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab58586b4abaefcc5df42af9d1e84d8fb" title="sqlite3GetTempReg" alt="" coords="231,208,367,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a462a076aea53535ba3db94d65fceee5e" title="sqlite3TableAffinityStr" alt="" coords="225,259,372,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#add0d891a062d044a0c7e6fc072702830" title="sqlite3VdbeChangeP4" alt="" coords="428,284,579,311"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ae2ddbefd00ac32ed8a46309e7dc19a2e" title="sqlite3ExprCacheAffinity\lChange" alt="" coords="217,361,380,402"/>
+</map>

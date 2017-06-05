@@ -1,0 +1,8 @@
+<map id="sqlite3CreateFunc" name="sqlite3CreateFunc">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="221,5,355,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="234,56,342,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5138472d62a50ed750b51d3b3f19d954" title="sqlite3FindFunction" alt="" coords="221,107,355,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="244,157,332,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af8baf566e769881b3d0bbdb0d2b4cdfe" title="sqlite3ExpirePreparedStatements" alt="" coords="180,208,396,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ad8907c124b2b0a3557b9f006fb98308c" title="functionDestroy" alt="" coords="232,259,344,285"/>
+</map>

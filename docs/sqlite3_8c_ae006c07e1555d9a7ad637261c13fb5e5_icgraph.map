@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeMemStoreType" name="sqlite3VdbeMemStoreType">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af103c812684544760641a1cd4d9745df" title="sqlite3ValueFromExpr" alt="" coords="247,5,398,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5d0e33f6d34abf28785bb1ca15bf7b66" title="sqlite3VdbeGetValue" alt="" coords="251,56,395,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#a27ddcc00adc41cc2b4c30a88958acd9a" title="sqlite3_value_numeric_type" alt="" coords="232,107,413,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="263,157,383,184"/>
+</map>

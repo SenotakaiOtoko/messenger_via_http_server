@@ -1,0 +1,11 @@
+<map id="allocateBtreePage" name="allocateBtreePage">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="404,145,539,172"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9cc4ac11752c088db89d551ec1495a15" title="btreePagecount" alt="" coords="212,44,325,70"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae91bfd9c1bec807a52a384d2ed01934b" title="ptrmapGet" alt="" coords="227,94,310,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="206,145,331,172"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="217,196,320,222"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="221,246,316,273"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a8fdd09f2c6e36df943b6b6092ac0dcbf" title="sqlite3AbsInt32" alt="" coords="213,297,324,324"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a1ebd60bdf9e0181818da4eff654b1a26" title="btreeGetHasContent" alt="" coords="199,348,339,374"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a02362e6744d4431e328d760bef635a19" title="sqlite3PagerPageRefcount" alt="" coords="181,398,356,425"/>
+</map>

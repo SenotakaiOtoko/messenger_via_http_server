@@ -1,0 +1,8 @@
+<map id="pagerUnlockDb" name="pagerUnlockDb">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a5b54bd09bd76fa68eb6310fbf9bbaf20" title="pager_unlock" alt="" coords="191,5,290,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="365,56,528,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afb929a0a4553cda84de16180ddbd09f7" title="sqlite3PagerSetJournalMode" alt="" coords="576,56,763,83"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="164,157,317,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a875dc699b7a0e8ab6ba19170e5096d5e" title="hasHotJournal" alt="" coords="189,107,293,133"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7f978cc8af52489d388024ebf2b88112" title="pagerExclusiveLock" alt="" coords="172,259,309,285"/>
+</map>

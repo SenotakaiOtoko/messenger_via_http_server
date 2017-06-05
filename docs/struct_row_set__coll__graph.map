@@ -1,0 +1,5 @@
+<map id="RowSet" name="RowSet">
+<area shape="rect" id="node2" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="5,145,115,369"/>
+<area shape="rect" id="node3" href="$struct_row_set_chunk.html" title="{RowSetChunk\n||}" alt="" coords="244,219,348,296"/>
+<area shape="rect" id="node4" href="$struct_row_set_entry.html" title="{RowSetEntry\n|+ v\l|}" alt="" coords="157,5,256,83"/>
+</map>

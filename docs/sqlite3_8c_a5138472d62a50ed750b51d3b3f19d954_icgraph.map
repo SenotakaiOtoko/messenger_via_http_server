@@ -1,0 +1,9 @@
+<map id="sqlite3FindFunction" name="sqlite3FindFunction">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0687a8650fd8a4ebbf5c2c5a75a8fb13" title="resolveExprStep" alt="" coords="207,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4f308397a0a3ed299ed31aaa1ae2a293" title="sqlite3ExprCodeTarget" alt="" coords="188,56,341,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6b02b8b5e691498db3c59afbf9322585" title="analyzeAggregate" alt="" coords="201,107,328,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae11d0eee802031a76a9fe966976aa7ae" title="setLikeOptFlag" alt="" coords="209,157,320,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8f103fddc426dd932ea9d796e3e9a4c7" title="sqlite3IsLikeFunction" alt="" coords="193,208,337,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a686d432574e951a7205c7fe113c93fe2" title="sqlite3CreateFunc" alt="" coords="201,259,328,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8h.html#a03692933621e0b16a4a02e1e426cf318" title="sqlite3_overload_function" alt="" coords="389,284,556,311"/>
+</map>

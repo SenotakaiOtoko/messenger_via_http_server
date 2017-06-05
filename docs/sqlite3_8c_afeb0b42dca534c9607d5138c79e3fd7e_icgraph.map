@@ -1,0 +1,21 @@
+<map id="sqlite3Malloc" name="sqlite3Malloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a09742cde9ef371d94f8201d2cdb543e4" title="sqlite3NoopMutex" alt="" coords="184,5,311,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a510e31845345737f17d86ce0b2328356" title="sqlite3_malloc" alt="" coords="195,56,300,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aaf1f3aa052a89ceffe0f55a526504785" title="sqlite3Realloc" alt="" coords="196,107,299,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="186,208,309,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a940bc2e6650e613dc69243119683c221" title="pager_delmaster" alt="" coords="397,171,515,197"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a13dcb44dc34af6ce9d38de9c5aa975f9" title="sqlite3BtreeOpen" alt="" coords="395,247,517,273"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="178,309,317,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a938357467304c746ded208ff78a3d12f" title="sqlite3VXPrintf" alt="" coords="194,360,301,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a4851529638f6c7af16239ee6e2dcc628" title="rehash" alt="" coords="217,411,278,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a975226bf21bcede2ce287418e479d145" title="sqlite3HashInsert" alt="" coords="395,449,517,476"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#ad80f2390e3fdf5c2feab3ea212d4e9a8" title="pcache1Alloc" alt="" coords="197,512,297,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#ad6ec26e3c7beec69fb9ca11fcd63120e" title="pcache1AllocPage" alt="" coords="391,525,521,552"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a1fd19e15f7d2a03087f0c1f287dda917" title="saveCursorPosition" alt="" coords="181,613,314,640"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a6d0b5aed55d5e85a0a6bfcae169fe579" title="sqlite3BtreeMovetoUnpacked" alt="" coords="152,664,343,691"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a09e5794a0f9a8269eda3bc32d43d63c9" title="contextMalloc" alt="" coords="196,715,299,741"/>
+<area shape="rect" id="node17" href="$sqlite3_8h.html#a97487ec8150e0bcc8fa392ab8f0e24db" title="sqlite3_exec" alt="" coords="200,765,295,792"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a174f16a9adcc64bf971bae4a5ffa3488" title="sqlite3RunParser" alt="" coords="187,816,308,843"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#a83e30e8059c0e1a0537a569a91ce81e5" title="setupLookaside" alt="" coords="191,867,304,893"/>
+<area shape="rect" id="node20" href="$sqlite3_8h.html#a96c378e7022e7a8a375e23f7fc662cdd" title="sqlite3_db_readonly" alt="" coords="179,917,316,944"/>
+</map>

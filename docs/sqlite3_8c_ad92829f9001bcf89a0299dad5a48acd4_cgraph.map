@@ -1,0 +1,7 @@
+<map id="sqlite3CodeRowTriggerDirect" name="sqlite3CodeRowTriggerDirect">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="261,5,372,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a69626ef20b540d1a2b19cf56f3f45689" title="getRowTrigger" alt="" coords="265,56,369,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a29b4560b019211a73e1478cec7468345" title="sqlite3VdbeAddOp3" alt="" coords="248,107,385,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#add0d891a062d044a0c7e6fc072702830" title="sqlite3VdbeChangeP4" alt="" coords="241,157,392,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a4dde2e4087eda945511b05d667050740" title="sqlite3VdbeChangeP5" alt="" coords="241,208,392,235"/>
+</map>

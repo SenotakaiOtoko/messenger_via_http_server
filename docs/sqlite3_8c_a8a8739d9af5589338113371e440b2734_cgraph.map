@@ -1,0 +1,10 @@
+<map id="substrFunc" name="substrFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac5e91a982065a1ab220a43bbd18cfa60" title="sqlite3_value_type" alt="" coords="143,5,271,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5c6adf98772a341f3df5ccd5ff003245" title="sqlite3_value_int" alt="" coords="149,56,266,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aee6da873358a81b4bbbe1284f157b146" title="sqlite3_value_bytes" alt="" coords="140,107,275,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af2d4d12032718e4d9a929bcf561370c8" title="sqlite3_value_blob" alt="" coords="144,157,271,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="323,183,448,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="142,259,273,301"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a2c06bc83045bd7986b89e5e8bd689bdf" title="sqlite3_result_text" alt="" coords="143,325,271,352"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aa37a7968d2cc1824ff30313c9d2a8b3c" title="sqlite3_result_blob" alt="" coords="142,376,273,403"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mg_http_call_endpoint_handler" name="mg_http_call_endpoint_handler">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a9120f869e8df5949d233b967c591ec13" title="mg_http_get_proto_data" alt="" coords="571,87,733,114"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a5007a71b53e57554b73cc2323b638cac" title="mg_http_get_endpoint\l_handler" alt="" coords="372,138,523,180"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2ca0faa3cfd1b007fc807e997d256aac" title="mg_call" alt="" coords="414,36,481,63"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#ae182a242c35980983fd9f64fbefdd6d9" title="mg_http_handler" alt="" coords="205,87,324,114"/>
+</map>

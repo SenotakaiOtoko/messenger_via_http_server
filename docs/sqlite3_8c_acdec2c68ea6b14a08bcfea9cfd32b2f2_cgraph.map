@@ -1,0 +1,8 @@
+<map id="bindText" name="bindText">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae3ca3d8a878660305a0efd0c73c9f064" title="vdbeUnbind" alt="" coords="174,89,262,115"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="385,38,473,65"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="360,165,499,191"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9697bec7c3b512483638ea3646191d7d" title="sqlite3VdbeMemSetStr" alt="" coords="140,139,296,166"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa7cf8e488bf8cf9ec18528f52a40de31" title="sqlite3VdbeChangeEncoding" alt="" coords="124,190,312,217"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae5a967ec6172298db98b6090bbd1dd9b" title="sqlite3ApiExit" alt="" coords="167,38,269,65"/>
+</map>

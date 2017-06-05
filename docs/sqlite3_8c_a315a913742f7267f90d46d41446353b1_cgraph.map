@@ -1,0 +1,8 @@
+<map id="sqlite3VdbeReset" name="sqlite3VdbeReset">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8d1d99703d999190fbc35ecc981cb709" title="sqlite3VdbeHalt" alt="" coords="203,5,316,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="389,81,492,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aaf4a567b51602bb6d7bb150e6c72de69" title="sqlite3VdbeTransferError" alt="" coords="177,157,341,184"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1fd40749f47941ee97ff6d798e2bc67e" title="sqlite3ValueSetStr" alt="" coords="540,208,671,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="397,208,485,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae3e0dbf7ac3255e91d16cd24fd2c2b1d" title="Cleanup" alt="" coords="225,107,294,133"/>
+</map>

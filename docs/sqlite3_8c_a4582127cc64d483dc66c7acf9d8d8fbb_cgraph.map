@@ -1,0 +1,11 @@
+<map id="sqlite3EndBenignMalloc" name="sqlite3EndBenignMalloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a53157f1a669f949332f44ca9f15c0a43" title="sqlite3MemMalloc" alt="" coords="422,32,549,59"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4198492989c7a427e3d704c06058850a" title="sqlite3MemFree" alt="" coords="428,83,543,110"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#addd043cc5742c3b0cf536763cd4e6948" title="sqlite3MemRealloc" alt="" coords="419,134,551,160"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a564962938d56643e999de431c190f937" title="sqlite3MemSize" alt="" coords="607,134,721,160"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac9d66a2d2d224dfafcf6a49d48436ddc" title="sqlite3MemRoundup" alt="" coords="415,184,555,211"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1ec61c1becf036ba7fcb571ae51300af" title="sqlite3MemInit" alt="" coords="432,336,539,363"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a934531b3f7c4743196f453ce6db028dc" title="sqlite3MemShutdown" alt="" coords="412,387,559,414"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a162fbfd727e92c5f8f72625b5ff62549" title="sqlite3MemSetDefault" alt="" coords="215,235,364,262"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a74ad420b6f26bc06a04ff6ecec8a8c91" title="sqlite3_config" alt="" coords="435,286,536,312"/>
+</map>

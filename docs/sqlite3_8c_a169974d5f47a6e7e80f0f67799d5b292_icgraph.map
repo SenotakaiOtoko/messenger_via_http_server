@@ -1,0 +1,14 @@
+<map id="sqlite3DbRealloc" name="sqlite3DbRealloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae2f0f1c1597587c1a9c7c18f31c7be58" title="sqlite3DbReallocOrFree" alt="" coords="189,5,347,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a56664fa33def33c5a5245b623441d5e0" title="sqlite3StrAccumAppend" alt="" coords="187,56,349,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0af9b63af545d31e2dc9ac6d65a8fe6f" title="growOpArray" alt="" coords="219,107,317,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a6398b2ceb5756250992de2be9dea6c2a" title="sqlite3_set_auxdata" alt="" coords="199,157,337,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a45b43a9c178c9817da16ab471ac2fce5" title="sqlite3ExprAssignVarNumber" alt="" coords="172,208,364,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a2c227f0b97e0e31b120c702fae2b7409" title="sqlite3ExprListAppend" alt="" coords="192,259,344,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="225,309,311,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a594ae02479b9387b1e2d4a4408b984b0" title="sqlite3AddColumn" alt="" coords="205,360,331,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a86f4a46ea74d87f845a4f93bb4219646" title="sqlite3ArrayAllocate" alt="" coords="199,411,337,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#aac45cc6a2a4e23a49a88ff54b09b5a2b" title="sqlite3SrcListEnlarge" alt="" coords="195,461,341,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a3020ed4a4b05f9a18e8ab695a182ce92" title="addModuleArgument" alt="" coords="197,512,339,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#aa5faa1578b20b8eb26ac5a4512b31441" title="growVTrans" alt="" coords="223,563,313,589"/>
+</map>

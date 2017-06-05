@@ -1,0 +1,10 @@
+<map id="sqlite3BtreeMovetoUnpacked" name="sqlite3BtreeMovetoUnpacked">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="475,157,609,184"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2b8fb9bf88e10e7e4dedc8da64e7e956" title="moveToRoot" alt="" coords="289,5,382,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1dbea539dd841af085ba1e1390922237" title="moveToChild" alt="" coords="495,31,589,57"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a58c98706c7f8dd49c401c05bfe4932da" title="sqlite3VdbeRecordCompare" alt="" coords="244,157,427,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1eba22ca0ddf563de0b29c64551c759f" title="btreeParseCellPtr" alt="" coords="273,208,397,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="286,259,385,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#acf70e6d3cb6afd54d677b3dffb6959d2" title="accessPayload" alt="" coords="280,309,391,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="291,360,379,387"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sqlite3PagerCloseWal" name="sqlite3PagerCloseWal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a667bdac69bf20203e45cd8e899790bcc" title="pagerLockDb" alt="" coords="559,39,657,66"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afeb6079743f71ae6557342ff391d8ceb" title="sqlite3OsAccess" alt="" coords="204,39,325,66"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acb6f84b34748805df0403a052d18eaf1" title="pagerOpenWal" alt="" coords="211,140,319,167"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7f978cc8af52489d388024ebf2b88112" title="pagerExclusiveLock" alt="" coords="373,90,511,116"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a9f1947188e8c305d8053d69f82318762" title="pagerFixMaplimit" alt="" coords="381,166,503,192"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#abfd7d36ec6ea41ecb2717dd4c6b0571e" title="sqlite3WalClose" alt="" coords="207,242,323,268"/>
+</map>

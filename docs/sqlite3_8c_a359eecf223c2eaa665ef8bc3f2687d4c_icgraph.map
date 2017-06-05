@@ -1,0 +1,6 @@
+<map id="sqlite3FixSelect" name="sqlite3FixSelect">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aef21c9fd3fd3e1ac1caad71d55ee867a" title="sqlite3FixSrcList" alt="" coords="355,5,474,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aed02a32694f2649d2f9161fb324f12ed" title="sqlite3FixExpr" alt="" coords="179,68,284,95"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9c31e335e9b8ad784d990d0c9db3139d" title="sqlite3FixTriggerStep" alt="" coords="343,93,487,120"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9d85cb00ff71dee5cd9a019503a6982e" title="sqlite3CreateView" alt="" coords="168,169,295,196"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sqlite3VdbeIntValue" name="sqlite3VdbeIntValue">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="191,5,325,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a85975c48e5a38f9b8c99b72eb72ebc44" title="doubleToInt64" alt="" coords="207,56,309,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5b13083911b3dc0a0b54f43acc686a39" title="sqlite3Atoi64" alt="" coords="209,107,307,133"/>
+</map>

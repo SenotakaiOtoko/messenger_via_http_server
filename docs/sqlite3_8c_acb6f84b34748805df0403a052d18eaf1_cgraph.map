@@ -1,0 +1,5 @@
+<map id="pagerOpenWal" name="pagerOpenWal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7f978cc8af52489d388024ebf2b88112" title="pagerExclusiveLock" alt="" coords="161,5,299,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#adf4d97849e76f154717956aa9ea0e138" title="sqlite3WalOpen" alt="" coords="173,56,287,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9f1947188e8c305d8053d69f82318762" title="pagerFixMaplimit" alt="" coords="169,107,291,133"/>
+</map>

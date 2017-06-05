@@ -1,0 +1,11 @@
+<map id="sqlite3RegisterDateTimeFunctions" name="sqlite3RegisterDateTimeFunctions">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac3eed2d3f72c21bee1e65f9d0f33a263" title="juliandayFunc" alt="" coords="292,5,395,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0895a9abec96efb62b3c986a3c14ee32" title="dateFunc" alt="" coords="474,81,550,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aca881e4cda242c3a8f2256605cbf9e91" title="timeFunc" alt="" coords="474,208,550,235"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9755493e1c5c377b5ea7078b4029c24a" title="datetimeFunc" alt="" coords="461,335,563,361"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af531defbf93ba3aef96decedeafb344f" title="strftimeFunc" alt="" coords="296,208,391,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ad8e9781533516df5a0705e4b36155290" title="ctimeFunc" alt="" coords="302,259,385,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#af66b08c4ab0dce0ff0c92a61b580f514" title="ctimestampFunc" alt="" coords="284,309,403,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#addf6dadca2fea72f90dfa99dbaa3da91" title="cdateFunc" alt="" coords="302,56,385,83"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a4792ef11f826665b64987bd051fa5a20" title="sqlite3FuncDefInsert" alt="" coords="273,411,413,437"/>
+</map>

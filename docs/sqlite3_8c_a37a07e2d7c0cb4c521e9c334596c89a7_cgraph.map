@@ -1,0 +1,7 @@
+<map id="lowerFunc" name="lowerFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="139,5,265,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aee6da873358a81b4bbbe1284f157b146" title="sqlite3_value_bytes" alt="" coords="135,56,269,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a09e5794a0f9a8269eda3bc32d43d63c9" title="contextMalloc" alt="" coords="151,107,253,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2c06bc83045bd7986b89e5e8bd689bdf" title="sqlite3_result_text" alt="" coords="138,157,266,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="158,208,246,235"/>
+</map>

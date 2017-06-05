@@ -1,0 +1,6 @@
+<map id="mg_conn_addr_to_str" name="mg_conn_addr_to_str">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a0f7d485b180f94cb5ece03ef5e77932e" title="mg_if_get_conn_addr" alt="" coords="395,5,541,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ac892fb1c2a55245531e870d84ef44659" title="mg_sock_addr_to_str" alt="" coords="395,93,541,120"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a45d343f1d3f3c0aa79410b256e56c9ea" title="mg_conn_addr_to_str" alt="" coords="200,61,347,88"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a844719a6a21476e5f173ef2101473153" title="mg_time" alt="" coords="432,144,504,171"/>
+</map>

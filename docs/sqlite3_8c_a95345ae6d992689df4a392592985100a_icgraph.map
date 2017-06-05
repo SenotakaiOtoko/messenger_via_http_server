@@ -1,0 +1,6 @@
+<map id="sqlite3FixInit" name="sqlite3FixInit">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9d85cb00ff71dee5cd9a019503a6982e" title="sqlite3CreateView" alt="" coords="152,5,279,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="151,56,280,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="149,107,281,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a15231afa0ac739363aee4cdb88380886" title="sqlite3FinishTrigger" alt="" coords="148,157,283,184"/>
+</map>

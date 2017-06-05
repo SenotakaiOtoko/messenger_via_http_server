@@ -1,0 +1,20 @@
+<map id="sqlite3EndBenignMalloc" name="sqlite3EndBenignMalloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4851529638f6c7af16239ee6e2dcc628" title="rehash" alt="" coords="261,5,322,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="237,80,346,107"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a18b66b030fc2d966ba9dd3bd8132e4cd" title="pcache1ResizeHash" alt="" coords="221,131,362,157"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a745bc37e2a945b10e6b23a6fe6c35411" title="pcache1Fetch" alt="" coords="447,156,551,183"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a02d96b7bf62c3b13ba905d168914518c" title="pagerUnlockAndRollback" alt="" coords="416,232,583,259"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#af94b1f96b60689fd09422cce2c85f53f" title="sqlite3PagerClose" alt="" coords="631,283,757,309"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a875dc699b7a0e8ab6ba19170e5096d5e" title="hasHotJournal" alt="" coords="239,333,343,360"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a22a53daafd2bd778cda390312651f994" title="sqlite3PagerAcquire" alt="" coords="222,384,361,411"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a7d814227c8fb4a3441c42e9f2fdade3b" title="walLimitSize" alt="" coords="244,435,339,461"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#abfd7d36ec6ea41ecb2717dd4c6b0571e" title="sqlite3WalClose" alt="" coords="441,435,557,461"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="245,536,338,563"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#aaf4a567b51602bb6d7bb150e6c72de69" title="sqlite3VdbeTransferError" alt="" coords="417,612,581,639"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a5a497837d5d69b92e7bca23673589c69" title="sqlite3VdbeExpandSql" alt="" coords="215,637,368,664"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="439,688,559,715"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a83e30e8059c0e1a0537a569a91ce81e5" title="setupLookaside" alt="" coords="235,739,348,765"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#ad902dd388d73208539f557962e3fe6bb" title="sqlite3RollbackAll" alt="" coords="229,789,354,816"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a4a9ed7c3fcab46b3d82eb79ede8c4f77" title="sqlite3WalDefaultHook" alt="" coords="215,840,368,867"/>
+<area shape="rect" id="node19" href="$sqlite3_8h.html#a96c378e7022e7a8a375e23f7fc662cdd" title="sqlite3_db_readonly" alt="" coords="223,891,360,917"/>
+</map>

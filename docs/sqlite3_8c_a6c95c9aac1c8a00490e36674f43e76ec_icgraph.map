@@ -1,0 +1,10 @@
+<map id="cellSizePtr" name="cellSizePtr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a47dc01495c37a948842e1fd7f5ffd98f" title="defragmentPage" alt="" coords="139,5,255,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3fbef3abda22e9a3f72c2873ec0b26a3" title="btreeInitPage" alt="" coords="147,107,246,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a833fe7b749860571772ef6b19b3c54df" title="checkTreePage" alt="" coords="311,95,423,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a16d3a955fe59894c541d500ddf92d7c0" title="insertCell" alt="" coords="159,259,235,285"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a92f1869a02b8b9196e5ea7ed2e61c328" title="balance_quick" alt="" coords="314,171,419,197"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="308,231,425,257"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aa6c6b68ed28d38984e5fa329794d7f02" title="sqlite3BtreeInsert" alt="" coords="305,300,428,327"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a65c40cd7ec987dbd25392a180f388fe7" title="sqlite3BtreeDelete" alt="" coords="303,351,431,377"/>
+</map>

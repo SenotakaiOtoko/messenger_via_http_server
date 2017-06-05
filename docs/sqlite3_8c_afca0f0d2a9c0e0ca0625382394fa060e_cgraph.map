@@ -1,0 +1,8 @@
+<map id="yy_destructor" name="yy_destructor">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="547,91,681,118"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae4e21ab5918e0428fbaa9e615dceb309" title="sqlite3ExprDelete" alt="" coords="367,193,491,219"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae9cd46eac81e86a04ed8c09b99fc3c10" title="sqlite3ExprListDelete" alt="" coords="541,218,687,245"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acc250a3e5e7fd8889a16a9f28e3e7312" title="sqlite3SrcListDelete" alt="" coords="167,41,305,67"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a38bea53ea789e86289ca600ff6010f73" title="sqlite3IdListDelete" alt="" coords="365,91,493,118"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a53f07c621cb9933a2287e26026abce8a" title="sqlite3DeleteTriggerStep" alt="" coords="155,142,317,169"/>
+</map>

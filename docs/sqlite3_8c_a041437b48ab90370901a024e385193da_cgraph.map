@@ -1,0 +1,7 @@
+<map id="whereClauseInsert" name="whereClauseInsert">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="189,5,327,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae4e21ab5918e0428fbaa9e615dceb309" title="sqlite3ExprDelete" alt="" coords="196,56,320,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="383,107,485,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="533,132,673,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a91b59896d4e3534de7c33940dca8537c" title="sqlite3ExprSkipCollate" alt="" coords="181,208,335,235"/>
+</map>

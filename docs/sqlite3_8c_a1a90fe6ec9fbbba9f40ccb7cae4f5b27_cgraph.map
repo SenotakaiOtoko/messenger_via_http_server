@@ -1,0 +1,6 @@
+<map id="sqlite3ScratchFree" name="sqlite3ScratchFree">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="184,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="193,56,314,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="184,107,323,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="191,157,315,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="walFramePgno" name="walFramePgno">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab5245070ab67db40291c71c4991aa317" title="walCheckpoint" alt="" coords="181,5,287,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a70d73def3adcc264f500a63178742708" title="sqlite3WalFindFrame" alt="" coords="161,56,307,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9a106da99e04f3c34f90e9ca15678953" title="sqlite3WalUndo" alt="" coords="177,107,291,133"/>
+</map>

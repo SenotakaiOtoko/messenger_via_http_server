@@ -1,0 +1,7 @@
+<map id="pcache1Free" name="pcache1Free">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="287,5,425,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="295,81,417,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="287,144,425,171"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acf5d2a5f35270bafb050bd2def576955" title="sqlite3MallocSize" alt="" coords="294,195,418,221"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="151,100,239,127"/>
+</map>

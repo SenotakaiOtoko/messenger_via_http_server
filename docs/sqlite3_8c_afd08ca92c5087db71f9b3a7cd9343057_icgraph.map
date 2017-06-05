@@ -1,0 +1,5 @@
+<map id="pager_write_changecounter" name="pager_write_changecounter">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1675dba6bfeb50d8aa8a0509103fd004" title="pagerWalFrames" alt="" coords="260,5,381,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6287c834edd4d88c1757d45a9d7f7dcc" title="pager_write_pagelist" alt="" coords="251,56,391,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#add9f57a131d488bb6fc49dedc5a4df81" title="pager_incr_changecounter" alt="" coords="233,107,408,133"/>
+</map>

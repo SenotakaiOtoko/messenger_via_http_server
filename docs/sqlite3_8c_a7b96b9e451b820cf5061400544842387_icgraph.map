@@ -1,0 +1,6 @@
+<map id="sqliteErrorFromPosixError" name="sqliteErrorFromPosixError">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a17c6c9164321b4c2a65289e259abf409" title="unixLock" alt="" coords="235,5,309,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a90bcc6164aa2d367ff91d4c32b549be6" title="posixUnlock" alt="" coords="225,56,319,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa72eaafaa850f2889e15af7cfb08fa1b" title="dotlockClose" alt="" coords="367,81,464,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac84e37c57dd74a6abf3cc32b06be303c" title="dotlockLock" alt="" coords="226,157,318,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="sqlite3VdbeDb" name="sqlite3VdbeDb">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa8a28a87183e14ed0537d56c51fd2dee" title="dup8bytes" alt="" coords="195,5,278,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4f308397a0a3ed299ed31aaa1ae2a293" title="sqlite3ExprCodeTarget" alt="" coords="160,56,313,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aea3da21ca87050c11c23e01f578cc5dc" title="openStatTable" alt="" coords="184,107,289,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1bad4570dfd3bcbc2776b3c88c939c59" title="sqlite3IndexAffinityStr" alt="" coords="163,157,310,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a462a076aea53535ba3db94d65fceee5e" title="sqlite3TableAffinityStr" alt="" coords="163,208,310,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7e2f7299cc947d07e782f6ac561fa937" title="sqlite3Reprepare" alt="" coords="177,259,296,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a59f47949957801afdf53735549eacc7d" title="sqlite3ColumnDefault" alt="" coords="165,309,309,336"/>
+</map>

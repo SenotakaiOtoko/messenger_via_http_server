@@ -1,0 +1,12 @@
+<map id="sqlite3BtreeEnterAll" name="sqlite3BtreeEnterAll">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#ab64e8333313ee2e44116842711818940" title="sqlite3_db_status" alt="" coords="217,5,341,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5b815bbd21dfdfd027b08cf35afa94f6" title="sqlite3BtreeSharable" alt="" coords="208,56,351,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#adb8ad839a5bdd62a43785132bc7dd518" title="sqlite3_blob_open" alt="" coords="216,107,343,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="435,189,522,216"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a2fc0d7e9d7e688a2a81ea4775dd12e33" title="sqlite3ResetAllSchemasOf\lConnection" alt="" coords="191,209,368,250"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ad902dd388d73208539f557962e3fe6bb" title="sqlite3RollbackAll" alt="" coords="416,244,541,271"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5db1ec5589aa2b02c6d979211a8789bd" title="sqlite3LockAndPrepare" alt="" coords="201,325,357,352"/>
+<area shape="rect" id="node9" href="$sqlite3_8h.html#af2a4fce512d3398c240178856d1af243" title="sqlite3_db_release\l_memory" alt="" coords="214,377,345,418"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a1ac4084324211c352cb91da6cc84c5e4" title="disconnectAllVtab" alt="" coords="216,443,343,469"/>
+<area shape="rect" id="node11" href="$sqlite3_8h.html#a34980c829db84f02e1a1599063469f06" title="sqlite3_thread_cleanup" alt="" coords="202,493,357,520"/>
+</map>

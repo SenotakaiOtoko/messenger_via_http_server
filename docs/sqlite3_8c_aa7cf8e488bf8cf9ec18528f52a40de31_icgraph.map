@@ -1,0 +1,9 @@
+<map id="sqlite3VdbeChangeEncoding" name="sqlite3VdbeChangeEncoding">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a2c2d4b96de83192463964b77bdc524ae" title="sqlite3Utf16to8" alt="" coords="271,5,379,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad78aa19c2a115f277a15a3ce8fc54306" title="sqlite3VdbeMemStringify" alt="" coords="241,56,408,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad567a94e52d1adf81f4857fdba00a59b" title="sqlite3ValueText" alt="" coords="457,81,575,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af103c812684544760641a1cd4d9745df" title="sqlite3ValueFromExpr" alt="" coords="249,157,400,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acdec2c68ea6b14a08bcfea9cfd32b2f2" title="bindText" alt="" coords="289,208,360,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5a497837d5d69b92e7bca23673589c69" title="sqlite3VdbeExpandSql" alt="" coords="248,259,401,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="456,284,576,311"/>
+</map>

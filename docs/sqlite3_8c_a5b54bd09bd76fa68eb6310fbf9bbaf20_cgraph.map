@@ -1,0 +1,10 @@
+<map id="pager_unlock" name="pager_unlock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="403,15,543,42"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac0ec06e81b223a42295bd1a0182b1609" title="releaseAllSavepoints" alt="" coords="182,53,325,79"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="417,91,528,118"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="423,230,523,257"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a2d0ec4393370b11b4db7d9836d38eb40" title="sqlite3WalEndReadTransaction" alt="" coords="152,205,355,231"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="152,255,355,282"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a8ac54f19421c76b5045a40b42d282c32" title="pagerUnlockDb" alt="" coords="198,306,309,333"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a80434ecc2e0b58eea05c79b1690be582" title="pager_reset" alt="" coords="208,357,299,383"/>
+</map>

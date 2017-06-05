@@ -1,0 +1,5 @@
+<map id="sqlite3OpenTempDatabase" name="sqlite3OpenTempDatabase">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a13dcb44dc34af6ce9d38de9c5aa975f9" title="sqlite3BtreeOpen" alt="" coords="254,5,377,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="259,56,372,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad9c65e8377c831a80e0ac1f108c43f3e" title="sqlite3BtreeSetPageSize" alt="" coords="232,107,399,133"/>
+</map>

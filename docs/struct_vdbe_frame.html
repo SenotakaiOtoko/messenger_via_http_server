@@ -1,0 +1,351 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура VdbeFrame</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура VdbeFrame</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="dynheader">
+Граф связей класса VdbeFrame:</div>
+<div class="dyncontent">
+<div class="center"><img src="struct_vdbe_frame__coll__graph.png" border="0" usemap="#_vdbe_frame_coll__map" alt="Collaboration graph"/></div>
+<map name="_vdbe_frame_coll__map" id="_vdbe_frame_coll__map">
+<area shape="rect" id="node2" href="struct_mem.html" title="{Mem\n|+ z\l+ r\l+ i\l+ nZero\l+ u\l+ n\l+ flags\l+ type\l+ enc\l+ xDel\l+ zMalloc\l|}" alt="" coords="102,579,181,803"/>
+<area shape="rect" id="node3" href="struct_vdbe.html" title="{Vdbe\n|+ nMem\l+ nOp\l+ nOpAlloc\l+ nLabel\l+ aLabel\l+ nResColumn\l+ nCursor\l+ magic\l+ zErrMsg\l+ azVar\lи 30 больше...\l|}" alt="" coords="54,1225,163,1449"/>
+<area shape="rect" id="node5" href="struct_vdbe_op.html" title="{VdbeOp\n|+ opcode\l+ p4type\l+ opflags\l+ p5\l+ p1\l+ p2\l+ p3\l+ i\l+ p\l+ z\l+ pI64\l+ pReal\l+ ai\l+ xAdvance\l+ p4\l|}" alt="" coords="206,880,296,1163"/>
+<area shape="rect" id="node4" href="struct_vdbe_cursor.html" title="{VdbeCursor\n|+ iDb\l+ pseudoTableReg\l+ nField\l+ zeroed\l+ rowidIsValid\l+ atFirst\l+ useRandomRowid\l+ nullRow\l+ deferredMoveto\l+ isTable\lи 13 больше...\l|}" alt="" coords="196,5,335,229"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:a84655845ca6a8a0f807b442af4e7384b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe.html">Vdbe</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a84655845ca6a8a0f807b442af4e7384b">v</a></td></tr>
+<tr class="separator:a84655845ca6a8a0f807b442af4e7384b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ede48174ab6d1a31e3ed0506f5bf467"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe_frame.html">VdbeFrame</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a6ede48174ab6d1a31e3ed0506f5bf467">pParent</a></td></tr>
+<tr class="separator:a6ede48174ab6d1a31e3ed0506f5bf467"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a174225cf156b2753600dd11eefc2c992"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#af3e8e0a774ea3e53b5d64297468c3298">Op</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a174225cf156b2753600dd11eefc2c992">aOp</a></td></tr>
+<tr class="separator:a174225cf156b2753600dd11eefc2c992"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfd56f8b1cc1790601ff0940d884c200"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_mem.html">Mem</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#adfd56f8b1cc1790601ff0940d884c200">aMem</a></td></tr>
+<tr class="separator:adfd56f8b1cc1790601ff0940d884c200"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae7256911c06e37eb7d9e0ab9bb9df93e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#ae7256911c06e37eb7d9e0ab9bb9df93e">aOnceFlag</a></td></tr>
+<tr class="separator:ae7256911c06e37eb7d9e0ab9bb9df93e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1dd9d69a090bcc1bdb7afa3b0525eea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe_cursor.html">VdbeCursor</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#ac1dd9d69a090bcc1bdb7afa3b0525eea">apCsr</a></td></tr>
+<tr class="separator:ac1dd9d69a090bcc1bdb7afa3b0525eea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa80a17db18ac71350fa401959c59e642"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#aa80a17db18ac71350fa401959c59e642">token</a></td></tr>
+<tr class="separator:aa80a17db18ac71350fa401959c59e642"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7e3735a03635ad8ee39c159a889a920"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#ac7e3735a03635ad8ee39c159a889a920">lastRowid</a></td></tr>
+<tr class="separator:ac7e3735a03635ad8ee39c159a889a920"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd18ebaf2ce9128e5e45bd424af27002"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#abd18ebaf2ce9128e5e45bd424af27002">nCursor</a></td></tr>
+<tr class="separator:abd18ebaf2ce9128e5e45bd424af27002"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8c81e61335635fa4709d82412b31f06"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#ac8c81e61335635fa4709d82412b31f06">pc</a></td></tr>
+<tr class="separator:ac8c81e61335635fa4709d82412b31f06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33625b7205f0da4b73ec34d2d4aefd64"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a33625b7205f0da4b73ec34d2d4aefd64">nOp</a></td></tr>
+<tr class="separator:a33625b7205f0da4b73ec34d2d4aefd64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a857d199d972b4d3864ce420c143508e4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a857d199d972b4d3864ce420c143508e4">nMem</a></td></tr>
+<tr class="separator:a857d199d972b4d3864ce420c143508e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a391dfc763758d272dcce42b2b72826a7"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a391dfc763758d272dcce42b2b72826a7">nOnceFlag</a></td></tr>
+<tr class="separator:a391dfc763758d272dcce42b2b72826a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c084a923065e168ff226201223a6c2d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a9c084a923065e168ff226201223a6c2d">nChildMem</a></td></tr>
+<tr class="separator:a9c084a923065e168ff226201223a6c2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02ffedf6eb36618010bd2d4dba030bc8"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a02ffedf6eb36618010bd2d4dba030bc8">nChildCsr</a></td></tr>
+<tr class="separator:a02ffedf6eb36618010bd2d4dba030bc8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34a2d05071fd1eb026579e78343912a4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_frame.html#a34a2d05071fd1eb026579e78343912a4">nChange</a></td></tr>
+<tr class="separator:a34a2d05071fd1eb026579e78343912a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="adfd56f8b1cc1790601ff0940d884c200"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfd56f8b1cc1790601ff0940d884c200">&#9670;&nbsp;</a></span>aMem</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_mem.html">Mem</a>* aMem</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae7256911c06e37eb7d9e0ab9bb9df93e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae7256911c06e37eb7d9e0ab9bb9df93e">&#9670;&nbsp;</a></span>aOnceFlag</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>* aOnceFlag</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a174225cf156b2753600dd11eefc2c992"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a174225cf156b2753600dd11eefc2c992">&#9670;&nbsp;</a></span>aOp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#af3e8e0a774ea3e53b5d64297468c3298">Op</a>* aOp</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac1dd9d69a090bcc1bdb7afa3b0525eea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1dd9d69a090bcc1bdb7afa3b0525eea">&#9670;&nbsp;</a></span>apCsr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe_cursor.html">VdbeCursor</a>** apCsr</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac7e3735a03635ad8ee39c159a889a920"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7e3735a03635ad8ee39c159a889a920">&#9670;&nbsp;</a></span>lastRowid</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a> lastRowid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a34a2d05071fd1eb026579e78343912a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34a2d05071fd1eb026579e78343912a4">&#9670;&nbsp;</a></span>nChange</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nChange</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a02ffedf6eb36618010bd2d4dba030bc8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a02ffedf6eb36618010bd2d4dba030bc8">&#9670;&nbsp;</a></span>nChildCsr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nChildCsr</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9c084a923065e168ff226201223a6c2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c084a923065e168ff226201223a6c2d">&#9670;&nbsp;</a></span>nChildMem</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nChildMem</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abd18ebaf2ce9128e5e45bd424af27002"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd18ebaf2ce9128e5e45bd424af27002">&#9670;&nbsp;</a></span>nCursor</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nCursor</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a857d199d972b4d3864ce420c143508e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a857d199d972b4d3864ce420c143508e4">&#9670;&nbsp;</a></span>nMem</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nMem</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a391dfc763758d272dcce42b2b72826a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a391dfc763758d272dcce42b2b72826a7">&#9670;&nbsp;</a></span>nOnceFlag</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nOnceFlag</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a33625b7205f0da4b73ec34d2d4aefd64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33625b7205f0da4b73ec34d2d4aefd64">&#9670;&nbsp;</a></span>nOp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nOp</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac8c81e61335635fa4709d82412b31f06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8c81e61335635fa4709d82412b31f06">&#9670;&nbsp;</a></span>pc</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int pc</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6ede48174ab6d1a31e3ed0506f5bf467"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ede48174ab6d1a31e3ed0506f5bf467">&#9670;&nbsp;</a></span>pParent</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe_frame.html">VdbeFrame</a>* pParent</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa80a17db18ac71350fa401959c59e642"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa80a17db18ac71350fa401959c59e642">&#9670;&nbsp;</a></span>token</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* token</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a84655845ca6a8a0f807b442af4e7384b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a84655845ca6a8a0f807b442af4e7384b">&#9670;&nbsp;</a></span>v</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe.html">Vdbe</a>* v</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="sqlite3_8c.html">sqlite3.c</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

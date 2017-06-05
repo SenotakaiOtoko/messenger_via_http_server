@@ -1,0 +1,8 @@
+<map id="sqlite3PagerSetPagesize" name="sqlite3PagerSetPagesize">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4367a6db0dfbaacd476aeecccc99904b" title="readJournalHdr" alt="" coords="251,5,359,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5b4a74e8a1754922c482b7af19b30611" title="sqlite3PagerOpen" alt="" coords="242,56,367,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a13dcb44dc34af6ce9d38de9c5aa975f9" title="sqlite3BtreeOpen" alt="" coords="436,81,559,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad9c65e8377c831a80e0ac1f108c43f3e" title="sqlite3BtreeSetPageSize" alt="" coords="221,157,388,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5b808194d3178be15705a420265cee9d" title="lockBtree" alt="" coords="266,208,343,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7efb6a8380d746b14e73db99ad3428a2" title="backupOnePage" alt="" coords="245,259,364,285"/>
+</map>

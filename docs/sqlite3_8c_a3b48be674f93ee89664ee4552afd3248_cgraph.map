@@ -1,0 +1,6 @@
+<map id="zeroblobFunc" name="zeroblobFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="165,5,296,47"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab38d8627f4750672e72712df0b709e0d" title="sqlite3_value_int64" alt="" coords="165,71,296,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad4f0c5e8c9421d0c4550c1a108221abe" title="sqlite3_result_error\l_toobig" alt="" coords="165,123,297,164"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0ffef291404e00066251301244d0616d" title="sqlite3_result_zeroblob" alt="" coords="153,189,308,215"/>
+</map>

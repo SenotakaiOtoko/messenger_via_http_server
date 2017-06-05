@@ -1,0 +1,6 @@
+<map id="sqlite3_config" name="sqlite3_config">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="369,33,531,59"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="579,33,688,59"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a162fbfd727e92c5f8f72625b5ff62549" title="sqlite3MemSetDefault" alt="" coords="163,83,313,110"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a91974afe7709a742451438556ee0c70c" title="sqlite3PCacheSetDefault" alt="" coords="155,134,321,161"/>
+</map>

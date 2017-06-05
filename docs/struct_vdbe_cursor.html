@@ -1,0 +1,561 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура VdbeCursor</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура VdbeCursor</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="dynheader">
+Граф связей класса VdbeCursor:</div>
+<div class="dyncontent">
+<div class="center"><img src="struct_vdbe_cursor__coll__graph.png" border="0" usemap="#_vdbe_cursor_coll__map" alt="Collaboration graph"/></div>
+<map name="_vdbe_cursor_coll__map" id="_vdbe_cursor_coll__map">
+<area shape="rect" id="node2" href="struct_bt_cursor.html" title="{BtCursor\n|+ aOverflow\l+ pgnoRoot\l+ cachedRowid\l+ nKey\l+ pKey\l+ skipNext\l+ wrFlag\l+ atLast\l+ validNKey\l+ eState\l+ isIncrblobHandle\l+ hints\l+ iPage\l+ aiIdx\l|}" alt="" coords="113,204,242,472"/>
+<area shape="rect" id="node3" href="struct_key_info.html" title="{KeyInfo\n|+ enc\l+ nField\l+ aSortOrder\l|}" alt="" coords="46,20,143,127"/>
+<area shape="rect" id="node4" href="struct_btree.html" title="{Btree\n|+ inTrans\l+ sharable\l+ locked\l+ wantToLock\l+ nBackup\l|}" alt="" coords="206,5,309,141"/>
+<area shape="rect" id="node5" href="structsqlite3__module.html" title="{sqlite3_module\n|+ iVersion\l+ xCreate\l+ xConnect\l+ xBestIndex\l+ xDisconnect\l+ xDestroy\l+ xOpen\l+ xClose\l+ xFilter\l+ xNext\lи 13 больше...\l|}" alt="" coords="417,226,527,450"/>
+<area shape="rect" id="node6" href="structsqlite3__vtab__cursor.html" title="{sqlite3_vtab_cursor\n||}" alt="" coords="551,299,684,377"/>
+<area shape="rect" id="node7" href="struct_vdbe_sorter.html" title="{VdbeSorter\n|+ iWriteOff\l+ iReadOff\l+ nInMemory\l+ nTree\l+ nPMA\l+ mnPmaSize\l+ mxPmaSize\l+ aTree\l|}" alt="" coords="709,248,814,428"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:a3719d9ea75c17cb66e4f628b8a4bd106"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_bt_cursor.html">BtCursor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a3719d9ea75c17cb66e4f628b8a4bd106">pCursor</a></td></tr>
+<tr class="separator:a3719d9ea75c17cb66e4f628b8a4bd106"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea9f10c5940febc27e109d5ec9f9d2af"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_btree.html">Btree</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#aea9f10c5940febc27e109d5ec9f9d2af">pBt</a></td></tr>
+<tr class="separator:aea9f10c5940febc27e109d5ec9f9d2af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2394c1e8402fe40753205256757b4165"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_key_info.html">KeyInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a2394c1e8402fe40753205256757b4165">pKeyInfo</a></td></tr>
+<tr class="separator:a2394c1e8402fe40753205256757b4165"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5da55f1bf334f91b2f63a6a63be348b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#ad5da55f1bf334f91b2f63a6a63be348b">iDb</a></td></tr>
+<tr class="separator:ad5da55f1bf334f91b2f63a6a63be348b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2db26c350377e5259405e33aceae08fe"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a2db26c350377e5259405e33aceae08fe">pseudoTableReg</a></td></tr>
+<tr class="separator:a2db26c350377e5259405e33aceae08fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6474be614dc1d492f34df6d1da444502"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a6474be614dc1d492f34df6d1da444502">nField</a></td></tr>
+<tr class="separator:a6474be614dc1d492f34df6d1da444502"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45107e6b51c508a28487b8b0047e9a54"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a45107e6b51c508a28487b8b0047e9a54">zeroed</a></td></tr>
+<tr class="separator:a45107e6b51c508a28487b8b0047e9a54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb740bb55e8a3af0b028bc75a144c2de"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#abb740bb55e8a3af0b028bc75a144c2de">rowidIsValid</a></td></tr>
+<tr class="separator:abb740bb55e8a3af0b028bc75a144c2de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a152fbdcd060cbfd673f6a6f56c348cbf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a152fbdcd060cbfd673f6a6f56c348cbf">atFirst</a></td></tr>
+<tr class="separator:a152fbdcd060cbfd673f6a6f56c348cbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1fa2ce0c85923d79e8a119d949722a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#aa1fa2ce0c85923d79e8a119d949722a7">useRandomRowid</a></td></tr>
+<tr class="separator:aa1fa2ce0c85923d79e8a119d949722a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2860105dee2035991acb4ebe7b2c99de"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a2860105dee2035991acb4ebe7b2c99de">nullRow</a></td></tr>
+<tr class="separator:a2860105dee2035991acb4ebe7b2c99de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9f7495353ca3fbb76ab82a6f435ae6a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#ac9f7495353ca3fbb76ab82a6f435ae6a">deferredMoveto</a></td></tr>
+<tr class="separator:ac9f7495353ca3fbb76ab82a6f435ae6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ab8dc1239f77f0296812916d43e973e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a6ab8dc1239f77f0296812916d43e973e">isTable</a></td></tr>
+<tr class="separator:a6ab8dc1239f77f0296812916d43e973e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad31ceb6a65a3f477d2c458614f14326f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#ad31ceb6a65a3f477d2c458614f14326f">isIndex</a></td></tr>
+<tr class="separator:ad31ceb6a65a3f477d2c458614f14326f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af467d3110dfc862dd5481f487ae62af6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#af467d3110dfc862dd5481f487ae62af6">isOrdered</a></td></tr>
+<tr class="separator:af467d3110dfc862dd5481f487ae62af6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a695a4bef54185bcb641fc7f9068a5b44"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a695a4bef54185bcb641fc7f9068a5b44">isSorter</a></td></tr>
+<tr class="separator:a695a4bef54185bcb641fc7f9068a5b44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47f38e29cb64090425433e5e55aff77e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a47f38e29cb64090425433e5e55aff77e">multiPseudo</a></td></tr>
+<tr class="separator:a47f38e29cb64090425433e5e55aff77e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade9003fb9468196e8abfee21c6e4b914"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structsqlite3__vtab__cursor.html">sqlite3_vtab_cursor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#ade9003fb9468196e8abfee21c6e4b914">pVtabCursor</a></td></tr>
+<tr class="separator:ade9003fb9468196e8abfee21c6e4b914"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71395f3913bd3f44e7c72118b1728f7d"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="structsqlite3__module.html">sqlite3_module</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a71395f3913bd3f44e7c72118b1728f7d">pModule</a></td></tr>
+<tr class="separator:a71395f3913bd3f44e7c72118b1728f7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd2178c8ecc4c97494f90c4766b928f7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#abd2178c8ecc4c97494f90c4766b928f7">seqCount</a></td></tr>
+<tr class="separator:abd2178c8ecc4c97494f90c4766b928f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0684b330a73a8653f256e762327cb99b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a0684b330a73a8653f256e762327cb99b">movetoTarget</a></td></tr>
+<tr class="separator:a0684b330a73a8653f256e762327cb99b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7e3735a03635ad8ee39c159a889a920"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#ac7e3735a03635ad8ee39c159a889a920">lastRowid</a></td></tr>
+<tr class="separator:ac7e3735a03635ad8ee39c159a889a920"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4be97d7a48d4328b3f5339ebf2d6aa25"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe_sorter.html">VdbeSorter</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a4be97d7a48d4328b3f5339ebf2d6aa25">pSorter</a></td></tr>
+<tr class="separator:a4be97d7a48d4328b3f5339ebf2d6aa25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4a00b8dd3dc55901a7d9f7dc6b54794"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#ad4a00b8dd3dc55901a7d9f7dc6b54794">seekResult</a></td></tr>
+<tr class="separator:ad4a00b8dd3dc55901a7d9f7dc6b54794"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07253ca07568b4f1be1fe2709deb6e16"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a07253ca07568b4f1be1fe2709deb6e16">cacheStatus</a></td></tr>
+<tr class="separator:a07253ca07568b4f1be1fe2709deb6e16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8cfd4279388cfe82934f9a29529187c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#ad8cfd4279388cfe82934f9a29529187c">payloadSize</a></td></tr>
+<tr class="separator:ad8cfd4279388cfe82934f9a29529187c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fdef9f79a6b1aebf074aba562a4e4f7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a7fdef9f79a6b1aebf074aba562a4e4f7">aType</a></td></tr>
+<tr class="separator:a7fdef9f79a6b1aebf074aba562a4e4f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a413b8730948be78e2f36c35f6ae453e1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a413b8730948be78e2f36c35f6ae453e1">aOffset</a></td></tr>
+<tr class="separator:a413b8730948be78e2f36c35f6ae453e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a14c3f884b0e0a81da0dc2b20f5a308"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe_cursor.html#a0a14c3f884b0e0a81da0dc2b20f5a308">aRow</a></td></tr>
+<tr class="separator:a0a14c3f884b0e0a81da0dc2b20f5a308"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="a413b8730948be78e2f36c35f6ae453e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a413b8730948be78e2f36c35f6ae453e1">&#9670;&nbsp;</a></span>aOffset</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a>* aOffset</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0a14c3f884b0e0a81da0dc2b20f5a308"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a14c3f884b0e0a81da0dc2b20f5a308">&#9670;&nbsp;</a></span>aRow</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>* aRow</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a152fbdcd060cbfd673f6a6f56c348cbf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a152fbdcd060cbfd673f6a6f56c348cbf">&#9670;&nbsp;</a></span>atFirst</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> atFirst</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7fdef9f79a6b1aebf074aba562a4e4f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7fdef9f79a6b1aebf074aba562a4e4f7">&#9670;&nbsp;</a></span>aType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a>* aType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a07253ca07568b4f1be1fe2709deb6e16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07253ca07568b4f1be1fe2709deb6e16">&#9670;&nbsp;</a></span>cacheStatus</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a> cacheStatus</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac9f7495353ca3fbb76ab82a6f435ae6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9f7495353ca3fbb76ab82a6f435ae6a">&#9670;&nbsp;</a></span>deferredMoveto</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> deferredMoveto</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad5da55f1bf334f91b2f63a6a63be348b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5da55f1bf334f91b2f63a6a63be348b">&#9670;&nbsp;</a></span>iDb</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int iDb</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad31ceb6a65a3f477d2c458614f14326f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad31ceb6a65a3f477d2c458614f14326f">&#9670;&nbsp;</a></span>isIndex</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> isIndex</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af467d3110dfc862dd5481f487ae62af6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af467d3110dfc862dd5481f487ae62af6">&#9670;&nbsp;</a></span>isOrdered</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> isOrdered</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a695a4bef54185bcb641fc7f9068a5b44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a695a4bef54185bcb641fc7f9068a5b44">&#9670;&nbsp;</a></span>isSorter</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> isSorter</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6ab8dc1239f77f0296812916d43e973e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ab8dc1239f77f0296812916d43e973e">&#9670;&nbsp;</a></span>isTable</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> isTable</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac7e3735a03635ad8ee39c159a889a920"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7e3735a03635ad8ee39c159a889a920">&#9670;&nbsp;</a></span>lastRowid</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a> lastRowid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0684b330a73a8653f256e762327cb99b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0684b330a73a8653f256e762327cb99b">&#9670;&nbsp;</a></span>movetoTarget</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a> movetoTarget</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a47f38e29cb64090425433e5e55aff77e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47f38e29cb64090425433e5e55aff77e">&#9670;&nbsp;</a></span>multiPseudo</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> multiPseudo</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6474be614dc1d492f34df6d1da444502"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6474be614dc1d492f34df6d1da444502">&#9670;&nbsp;</a></span>nField</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nField</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2860105dee2035991acb4ebe7b2c99de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2860105dee2035991acb4ebe7b2c99de">&#9670;&nbsp;</a></span>nullRow</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> nullRow</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad8cfd4279388cfe82934f9a29529187c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8cfd4279388cfe82934f9a29529187c">&#9670;&nbsp;</a></span>payloadSize</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int payloadSize</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aea9f10c5940febc27e109d5ec9f9d2af"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea9f10c5940febc27e109d5ec9f9d2af">&#9670;&nbsp;</a></span>pBt</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_btree.html">Btree</a>* pBt</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3719d9ea75c17cb66e4f628b8a4bd106"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3719d9ea75c17cb66e4f628b8a4bd106">&#9670;&nbsp;</a></span>pCursor</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_bt_cursor.html">BtCursor</a>* pCursor</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2394c1e8402fe40753205256757b4165"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2394c1e8402fe40753205256757b4165">&#9670;&nbsp;</a></span>pKeyInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_key_info.html">KeyInfo</a>* pKeyInfo</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a71395f3913bd3f44e7c72118b1728f7d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71395f3913bd3f44e7c72118b1728f7d">&#9670;&nbsp;</a></span>pModule</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="structsqlite3__module.html">sqlite3_module</a>* pModule</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2db26c350377e5259405e33aceae08fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2db26c350377e5259405e33aceae08fe">&#9670;&nbsp;</a></span>pseudoTableReg</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int pseudoTableReg</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a4be97d7a48d4328b3f5339ebf2d6aa25"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4be97d7a48d4328b3f5339ebf2d6aa25">&#9670;&nbsp;</a></span>pSorter</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe_sorter.html">VdbeSorter</a>* pSorter</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ade9003fb9468196e8abfee21c6e4b914"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade9003fb9468196e8abfee21c6e4b914">&#9670;&nbsp;</a></span>pVtabCursor</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structsqlite3__vtab__cursor.html">sqlite3_vtab_cursor</a>* pVtabCursor</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abb740bb55e8a3af0b028bc75a144c2de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb740bb55e8a3af0b028bc75a144c2de">&#9670;&nbsp;</a></span>rowidIsValid</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> rowidIsValid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad4a00b8dd3dc55901a7d9f7dc6b54794"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad4a00b8dd3dc55901a7d9f7dc6b54794">&#9670;&nbsp;</a></span>seekResult</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int seekResult</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abd2178c8ecc4c97494f90c4766b928f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd2178c8ecc4c97494f90c4766b928f7">&#9670;&nbsp;</a></span>seqCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a> seqCount</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa1fa2ce0c85923d79e8a119d949722a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa1fa2ce0c85923d79e8a119d949722a7">&#9670;&nbsp;</a></span>useRandomRowid</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> useRandomRowid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a45107e6b51c508a28487b8b0047e9a54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a45107e6b51c508a28487b8b0047e9a54">&#9670;&nbsp;</a></span>zeroed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a253b248072cfc8bd812c69acd0046eed">Bool</a> zeroed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="sqlite3_8c.html">sqlite3.c</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

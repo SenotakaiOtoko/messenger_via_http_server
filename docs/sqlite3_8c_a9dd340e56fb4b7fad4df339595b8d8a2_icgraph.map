@@ -1,0 +1,12 @@
+<map id="sqlite3PagerGetData" name="sqlite3PagerGetData">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac16fbe55892f29324ac5d09957374ed0" title="ptrmapPut" alt="" coords="233,5,316,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae91bfd9c1bec807a52a384d2ed01934b" title="ptrmapGet" alt="" coords="233,56,316,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3fbef3abda22e9a3f72c2873ec0b26a3" title="btreeInitPage" alt="" coords="225,107,324,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1c974ee71f86cb74370ca21e5e6cdb14" title="zeroPage" alt="" coords="236,157,313,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a148c0bf09d4ef14a49e0e7a2c0506c80" title="btreePageFromDbPage" alt="" coords="196,208,353,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="227,259,322,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#acf70e6d3cb6afd54d677b3dffb6959d2" title="accessPayload" alt="" coords="219,309,330,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#af31aaf3c60e4f749f0dff6b8b907b159" title="checkList" alt="" coords="235,360,314,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a7efb6a8380d746b14e73db99ad3428a2" title="backupOnePage" alt="" coords="215,411,334,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="401,436,543,463"/>
+</map>

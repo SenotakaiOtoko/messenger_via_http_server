@@ -1,0 +1,7 @@
+<map id="sqlite3_shutdown" name="sqlite3_shutdown">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="202,29,311,56"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac33f4064ae6690cada7bdc89e8153ffc" title="sqlite3_reset_auto\l_extension" alt="" coords="193,81,321,122"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afb86d69f2f5a90c2bc23cff4d3dd24ac" title="sqlite3PcacheShutdown" alt="" coords="176,147,337,173"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5bee86a76db461f5b1e9f885874adcba" title="sqlite3MallocEnd" alt="" coords="196,197,317,224"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5742bca60d7e38d0d8e27b2f4771ab68" title="sqlite3MutexEnd" alt="" coords="197,248,316,275"/>
+</map>

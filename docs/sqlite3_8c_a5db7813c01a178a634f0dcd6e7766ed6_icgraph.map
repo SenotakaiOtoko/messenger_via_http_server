@@ -1,0 +1,5 @@
+<map id="write32bits" name="write32bits">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6df09ec3e85ec74c6ee0bbbbe72a8cf3" title="writeMasterJournal" alt="" coords="137,5,268,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a836f5a13ba09ee3f118ebe73b58591c4" title="subjournalPage" alt="" coords="147,56,258,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa5dbf1a9dcccf0aa140b04b81325517f" title="pager_write" alt="" coords="316,81,404,108"/>
+</map>

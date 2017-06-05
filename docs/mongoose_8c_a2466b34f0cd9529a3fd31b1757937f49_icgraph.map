@@ -1,0 +1,4 @@
+<map id="mg_tun_send_frame" name="mg_tun_send_frame">
+<area shape="rect" id="node2" href="$mongoose_8c.html#acbdff02b795895c24d972edcf9753a16" title="mg_tun_if_tcp_send" alt="" coords="204,5,343,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#aa788c0573f8ec3a9cc5300a47e2559f4" title="mg_tun_if_destroy_conn" alt="" coords="192,56,355,83"/>
+</map>

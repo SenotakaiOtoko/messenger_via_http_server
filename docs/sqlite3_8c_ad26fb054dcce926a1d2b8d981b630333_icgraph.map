@@ -1,0 +1,14 @@
+<map id="sqlite3VdbeMemGrow" name="sqlite3VdbeMemGrow">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afabdd8032205a36c69ad191c6bbb6a34" title="sqlite3VdbeMemMakeWriteable" alt="" coords="203,360,409,387"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="457,233,577,260"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afa1d06c05f058623f190c05aac4a5c7c" title="sqlite3VdbeMemExpandBlob" alt="" coords="211,5,401,32"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad72ffa8a87fad7797ceeca0682df6aa3" title="sqlite3VdbeMemNulTerminate" alt="" coords="209,56,403,83"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad78aa19c2a115f277a15a3ce8fc54306" title="sqlite3VdbeMemStringify" alt="" coords="223,208,389,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#af6488ff3887bcfd6f15a01b0d69ccb3c" title="sqlite3VdbeMemSetZeroBlob" alt="" coords="211,259,401,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a9697bec7c3b512483638ea3646191d7d" title="sqlite3VdbeMemSetStr" alt="" coords="228,512,384,539"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a61f5dfb765135a9982025bab8944f7fd" title="sqlite3VdbeList" alt="" coords="462,537,573,564"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a103f869461b716ea4b78a75d4e5510b8" title="sqlite3VdbeMemFromBtree" alt="" coords="216,107,396,133"/>
+<area shape="rect" id="node11" href="$sqlite3_8h.html#aa4b8b7e57758c004b4e9ec14489bde1c" title="sqlite3_aggregate_context" alt="" coords="219,461,393,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a5083c054ea81802294e539b00a57aad4" title="allocateCursor" alt="" coords="253,157,359,184"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a420bbf7368575c4d59d6a64ff3aed3e7" title="sqlite3VdbeSorterRowkey" alt="" coords="221,309,391,336"/>
+</map>

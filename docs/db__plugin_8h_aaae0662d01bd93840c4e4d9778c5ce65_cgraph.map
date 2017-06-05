@@ -1,0 +1,13 @@
+<map id="get_message" name="get_message">
+<area shape="rect" id="node2" href="$db__plugin__sqlite_8c.html#abf59574b5a02f704fc678fdb16677ab3" title="Функция выполняет проверку авторизации " alt="" coords="179,153,268,180"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="357,5,464,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="346,63,475,89"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="351,125,471,152"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="365,201,457,228"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aee36f5eaf67b425ddf6f9b7a2004d018" title="sqlite3_column_text" alt="" coords="341,253,480,280"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="155,329,292,356"/>
+<area shape="rect" id="node9" href="$mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="373,355,448,381"/>
+<area shape="rect" id="node10" href="$mongoose_8c.html#ad48bda7f453ecfd8ee745380ed247b9f" title="mg_get_http_var" alt="" coords="165,431,282,457"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#af77e2729923f2621852202e1c23788c6" title="sqlite3_bind_int64" alt="" coords="160,481,287,508"/>
+<area shape="rect" id="node12" href="$db__plugin__sqlite_8c.html#a485c8febc5fe24d5d697039415a096f5" title="Функция формирует строку &#45; JSON сообщение " alt="" coords="153,532,293,559"/>
+</map>

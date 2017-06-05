@@ -1,0 +1,8 @@
+<map id="sqlite3WalOpen" name="sqlite3WalOpen">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="208,5,331,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a12a1f3451e28f9cecd19cf0bb4f8f416" title="sqlite3OsOpen" alt="" coords="215,56,323,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac00a5136f28676c83a9acc6839ee4bcb" title="walIndexClose" alt="" coords="217,107,322,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="419,132,507,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="214,208,325,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="168,259,371,285"/>
+</map>

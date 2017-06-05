@@ -1,0 +1,5 @@
+<map id="dropCell" name="dropCell">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="128,5,245,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa6c6b68ed28d38984e5fa329794d7f02" title="sqlite3BtreeInsert" alt="" coords="125,56,248,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a65c40cd7ec987dbd25392a180f388fe7" title="sqlite3BtreeDelete" alt="" coords="123,107,251,133"/>
+</map>

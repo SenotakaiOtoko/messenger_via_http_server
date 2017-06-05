@@ -1,0 +1,9 @@
+<map id="sqlite3OsFileControlHint" name="sqlite3OsFileControlHint">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9d9a750a9fc76eb4b668c8a16b164a65" title="pager_playback" alt="" coords="253,5,366,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9f1947188e8c305d8053d69f82318762" title="pagerFixMaplimit" alt="" coords="249,56,370,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a24076fb4f14e547a630f83f25ff37852" title="sqlite3PagerSetBusyhandler" alt="" coords="216,107,403,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6287c834edd4d88c1757d45a9d7f7dcc" title="pager_write_pagelist" alt="" coords="239,157,379,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab5245070ab67db40291c71c4991aa317" title="walCheckpoint" alt="" coords="256,208,363,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#abfd7d36ec6ea41ecb2717dd4c6b0571e" title="sqlite3WalClose" alt="" coords="251,259,367,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="257,309,362,336"/>
+</map>

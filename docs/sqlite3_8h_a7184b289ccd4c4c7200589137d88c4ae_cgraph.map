@@ -1,0 +1,7 @@
+<map id="sqlite3_vfs_register" name="sqlite3_vfs_register">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab0c0ee2d5d4cf8b28e9572296a8861df" title="sqlite3_initialize" alt="" coords="185,157,300,184"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0e3f432ee581f6876b590e7ad7e84e19" title="sqlite3MutexAlloc" alt="" coords="355,56,480,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="348,132,487,159"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="348,195,487,221"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac83aba5f7ebe1ae9bdcf187ea2a8a692" title="vfsUnlink" alt="" coords="206,5,279,32"/>
+</map>

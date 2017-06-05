@@ -1,0 +1,6 @@
+<map id="sqlite3PcacheMakeClean" name="sqlite3PcacheMakeClean">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a65aa4d4f73373a161a96fafe219b86a7" title="sqlite3PcacheCleanAll" alt="" coords="235,5,387,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa25da46a83609c408a14977a087af782" title="sqlite3PcacheTruncate" alt="" coords="233,56,388,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#adfca1dee9939482792fe2b4ed982d00e" title="pager_playback_one_page" alt="" coords="223,107,399,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#abb21a3a371038e9e3e69af0f21a1b386" title="pagerStress" alt="" coords="265,157,357,184"/>
+</map>

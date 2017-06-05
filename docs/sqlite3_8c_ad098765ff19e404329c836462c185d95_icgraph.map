@@ -1,0 +1,6 @@
+<map id="sqlite3BtreeLastPage" name="sqlite3BtreeLastPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7efb6a8380d746b14e73db99ad3428a2" title="backupOnePage" alt="" coords="201,5,319,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="368,56,509,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4d9e19a79f0d5c1dfcef0bd137ae83f9" title="sqlite3BtreeCopyFile" alt="" coords="557,81,700,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="200,157,320,184"/>
+</map>

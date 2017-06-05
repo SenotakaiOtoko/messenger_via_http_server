@@ -1,0 +1,22 @@
+<map id="sqlite3VdbeCurrentAddr" name="sqlite3VdbeCurrentAddr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa69b46d2204a1d1b110107a1be12ee0c" title="sqlite3CodeSubselect" alt="" coords="983,675,1131,701"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a51cb5e47979cf50b4fc565830c63b712" title="analyzeOneTable" alt="" coords="239,92,362,119"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a17be5b679d9181b961ea9ba4a18d4f80" title="sqlite3RefillIndex" alt="" coords="241,143,360,169"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac7b0111b1d2e3305a38874a645a86d06" title="fkLookupParent" alt="" coords="245,903,357,929"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac661fe7e14e40000d480063baa15333a" title="sqlite3FkCheck" alt="" coords="447,903,559,929"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="1179,739,1271,765"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a1218c6fc74e89152ceaa4760e82f5ef9" title="sqlite3FkDropTable" alt="" coords="234,345,367,372"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a50d21decd8ebbdffa8c34308163ee6ba" title="readsTable" alt="" coords="843,92,929,119"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a62a5d5880763dac53a4110157e094ebd" title="sqlite3AutoincrementBegin" alt="" coords="212,447,389,473"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#af6ce6555ed8a7b94295bc0fb2b974947" title="sqlite3CodeCoroutine" alt="" coords="984,599,1129,625"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="248,548,353,575"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a28a19a72e49dbeaaed8a38c573d906ef" title="selectInnerLoop" alt="" coords="446,599,559,625"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a6456c61f3d9b2389738753cedfa24fa7" title="multiSelect" alt="" coords="659,649,746,676"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a2465ee8c956209ba4b272477b7c21a45" title="sqlite3Select" alt="" coords="837,599,935,625"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#afcdb8488c6f4dfdadaf9f04bca35b808" title="multiSelectOrderBy" alt="" coords="989,739,1124,765"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a1ec443eff11af02d52a193c4bfa3591c" title="generateOutputSubroutine" alt="" coords="616,801,789,828"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a6c38e495198bf8976f68d1a6ebd74a50" title="isLikeOrGlob" alt="" coords="252,852,349,879"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#a7b24987855c8f506fce74b71506dd3c4" title="codeOneLoopStart" alt="" coords="437,396,568,423"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#acad049f5c9a96a8118cffd5e5ce89f7c" title="sqlite3WhereBegin" alt="" coords="637,396,768,423"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#af95a57bac2421101d85440934cc5043e" title="sqlite3WhereEnd" alt="" coords="240,396,361,423"/>
+</map>

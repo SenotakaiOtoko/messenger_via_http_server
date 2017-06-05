@@ -1,0 +1,7 @@
+<map id="generateColumnNames" name="generateColumnNames">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3d1d64e925572ff37fec8682e1224ff1" title="sqlite3VdbeSetNumCols" alt="" coords="211,5,373,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a05534e7d71a734a43c35ae061ef45e6e" title="sqlite3VdbeSetColName" alt="" coords="421,132,584,159"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="234,107,350,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="241,157,343,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab8cd9b03f3ad634e6b70d30f8633add9" title="generateColumnTypes" alt="" coords="217,208,367,235"/>
+</map>

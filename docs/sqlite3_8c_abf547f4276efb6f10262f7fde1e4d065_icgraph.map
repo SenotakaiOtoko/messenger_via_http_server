@@ -1,0 +1,4 @@
+<map id="pagerUnlockIfUnused" name="pagerUnlockIfUnused">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a22a53daafd2bd778cda390312651f994" title="sqlite3PagerAcquire" alt="" coords="197,5,336,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="205,56,329,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="freePage2" name="freePage2">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="333,157,468,184"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7be91204280374e8f7132f371b4439ab" title="sqlite3PagerRef" alt="" coords="153,56,266,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aae4e59cf09dae89f6e28511a5ac35527" title="btreePageLookup" alt="" coords="148,157,271,184"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="338,335,463,361"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="158,208,261,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac16fbe55892f29324ac5d09957374ed0" title="ptrmapPut" alt="" coords="168,259,251,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a0c96c40f2bd82e147de51701b33afd85" title="sqlite3PagerDontWrite" alt="" coords="133,309,285,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a9c32f4ce75d2c55cea30118702e7141c" title="btreeSetHasContent" alt="" coords="140,360,279,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="162,5,257,32"/>
+</map>

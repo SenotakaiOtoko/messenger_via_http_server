@@ -1,0 +1,7 @@
+<map id="sqlite3VdbeIdxRowid" name="sqlite3VdbeIdxRowid">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a73b33a51e4be80535ca4357abe181d2b" title="sqlite3BtreeKeySize" alt="" coords="216,5,356,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a103f869461b716ea4b78a75d4e5510b8" title="sqlite3VdbeMemFromBtree" alt="" coords="196,56,376,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="424,81,591,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab84b4c97560363d01a6044a954c7d4f4" title="sqlite3VdbeSerialTypeLen" alt="" coords="200,157,372,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5b5cd74212a43cf693266f0b9badc469" title="sqlite3VdbeSerialGet" alt="" coords="214,208,358,235"/>
+</map>

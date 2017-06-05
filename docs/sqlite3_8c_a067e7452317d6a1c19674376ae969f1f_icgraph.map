@@ -1,0 +1,7 @@
+<map id="walFramePage" name="walFramePage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3fd5c9b2449525622e72f95ac5cbf218" title="walFramePgno" alt="" coords="167,5,275,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a70d73def3adcc264f500a63178742708" title="sqlite3WalFindFrame" alt="" coords="328,44,473,71"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acb07b8b7a082b5b17a0cd10bc324cc94" title="walCleanupHash" alt="" coords="161,107,280,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a610585027d507a9b1c4a3d83bf01f517" title="walIndexAppend" alt="" coords="343,120,459,147"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af32190641053b9108a09fac6ff0ad652" title="walIteratorInit" alt="" coords="171,208,270,235"/>
+</map>

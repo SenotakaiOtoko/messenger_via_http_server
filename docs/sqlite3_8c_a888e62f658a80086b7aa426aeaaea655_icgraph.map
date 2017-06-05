@@ -1,0 +1,5 @@
+<map id="pcacheAddToDirtyList" name="pcacheAddToDirtyList">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7374142ad62907ac0495a23e7bcb72a8" title="sqlite3PcacheRelease" alt="" coords="209,5,359,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab2add4c541df2d0b57a993930ee18a3a" title="sqlite3PcacheMakeDirty" alt="" coords="203,56,365,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a51ea21b4bc5c6d0534aa0f67dcb6c4dc" title="sqlite3PcacheMove" alt="" coords="217,107,351,133"/>
+</map>

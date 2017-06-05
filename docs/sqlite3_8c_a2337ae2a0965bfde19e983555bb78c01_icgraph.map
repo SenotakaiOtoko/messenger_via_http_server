@@ -1,0 +1,9 @@
+<map id="sqlite3FkReferences" name="sqlite3FkReferences">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a37258f841843e967585d277711322659" title="whereForeignKeys" alt="" coords="195,5,325,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="375,31,541,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1218c6fc74e89152ceaa4760e82f5ef9" title="sqlite3FkDropTable" alt="" coords="193,107,327,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac661fe7e14e40000d480063baa15333a" title="sqlite3FkCheck" alt="" coords="204,157,316,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a9fd47953eb0c957901261e4265230ee1" title="sqlite3FkOldmask" alt="" coords="197,208,323,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a60ca530d57e027853f723ae2f7a6be00" title="sqlite3FkRequired" alt="" coords="197,259,323,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aeb162b28c2786a297702cbec78896765" title="sqlite3FkActions" alt="" coords="201,309,319,336"/>
+</map>

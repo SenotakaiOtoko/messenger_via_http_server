@@ -1,0 +1,7 @@
+<map id="sqlite3TriggerList" name="sqlite3TriggerList">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a40e4a7245d888167b53b1de07fa6d217" title="whereTempTriggers" alt="" coords="180,5,315,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aec12bc2a95741e915fbe82b98fb1f8c6" title="reloadTableSchema" alt="" coords="369,31,505,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aaf9a8d65346dc15bfcd60bc48e885f46" title="sqlite3CodeDropTable" alt="" coords="173,107,321,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae85c90f7d064fe83f4ed930e708855d2" title="xferOptimization" alt="" coords="189,157,305,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aefad34e10275301aee18a5780afaf444" title="sqlite3TriggersExist" alt="" coords="179,208,315,235"/>
+</map>

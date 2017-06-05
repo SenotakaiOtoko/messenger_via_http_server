@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeSorterInit" name="sqlite3VdbeSorterInit">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="215,5,354,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a473d7af9f383bad3155a618ff4f5bd2e" title="sqlite3VdbeAllocUnpacked\lRecord" alt="" coords="196,57,373,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a458449cdb4a6ca29650deb8af285a511" title="sqlite3TempInMemory" alt="" coords="210,123,359,149"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a91f9dbfdbf95d6d9b955d1c7648b9fc1" title="sqlite3BtreeGetPageSize" alt="" coords="201,173,369,200"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PgHdr" name="PgHdr">
+<area shape="rect" id="node3" href="$struct_p_cache.html" title="{PCache\n|+ nRef\l+ szCache\l+ szPage\l+ szExtra\l+ bPurgeable\l+ xStress\l+ pStress\l+ pCache\l|}" alt="" coords="22,403,120,583"/>
+<area shape="rect" id="node4" href="$struct_pager.html" title="{Pager\n|+ exclusiveMode\l+ journalMode\l+ useJournal\l+ noSync\l+ fullSync\l+ ckptSyncFlags\l+ walSyncFlags\l+ syncFlags\l+ tempFile\l+ readOnly\lи 38 больше...\l|}" alt="" coords="108,645,229,869"/>
+<area shape="rect" id="node2" href="$structsqlite3__pcache__page.html" title="{sqlite3_pcache_page\n|+ pBuf\l+ pExtra\l|}" alt="" coords="58,5,202,97"/>
+</map>

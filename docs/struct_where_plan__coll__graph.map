@@ -1,0 +1,5 @@
+<map id="WherePlan" name="WherePlan">
+<area shape="rect" id="node2" href="$struct_where_term.html" title="{WhereTerm\n|+ iParent\l+ leftCursor\l+ leftColumn\l+ u\l+ eOperator\l+ wtFlags\l+ nChild\l+ prereqRight\l+ prereqAll\l|}" alt="" coords="5,20,105,215"/>
+<area shape="rect" id="node3" href="$structsqlite3__index__info.html" title="{sqlite3_index_info\n|+ nConstraint\l+ nOrderBy\l+ idxNum\l+ idxStr\l+ needToFreeIdxStr\l+ orderByConsumed\l+ estimatedCost\l|}" alt="" coords="130,35,271,200"/>
+<area shape="rect" id="node4" href="$struct_index.html" title="{Index\n|+ zName\l+ aiColumn\l+ aiRowEst\l+ zColAff\l+ aSortOrder\l+ azColl\l+ tnum\l+ nColumn\l+ onError\l+ autoIndex\l+ bUnordered\l|}" alt="" coords="296,5,396,229"/>
+</map>

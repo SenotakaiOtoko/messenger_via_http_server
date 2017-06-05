@@ -1,0 +1,9 @@
+<map id="moveToChild" name="moveToChild">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a2b8fb9bf88e10e7e4dedc8da64e7e956" title="moveToRoot" alt="" coords="164,46,257,73"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6d0b5aed55d5e85a0a6bfcae169fe579" title="sqlite3BtreeMovetoUnpacked" alt="" coords="321,9,512,35"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab162651b72ea609cf8e8fcd3d3320517" title="sqlite3BtreeCount" alt="" coords="354,85,479,111"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae612f0a49a92eb71d75f018bd3c55400" title="moveToLeftmost" alt="" coords="153,147,269,174"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa56f96564bee008046aa50f7f8455887" title="sqlite3BtreeNext" alt="" coords="357,186,476,213"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a0f818654466695149ef54b1cdc16887d" title="moveToRightmost" alt="" coords="148,249,273,275"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a1fc0a28b4147df5a1277a35da9a004df" title="sqlite3BtreePrevious" alt="" coords="347,262,487,289"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sqlite3BeginTransaction" name="sqlite3BeginTransaction">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a83c75b8b7aa1c35301005be7ff1a8582" title="sqlite3AuthCheck" alt="" coords="227,5,351,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="233,56,344,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae87204d7b069da19e4db0404c6deaae5" title="sqlite3VdbeAddOp2" alt="" coords="220,107,357,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a95cb3cf0008fee0974865f32442950af" title="sqlite3VdbeUsesBtree" alt="" coords="213,157,364,184"/>
+</map>

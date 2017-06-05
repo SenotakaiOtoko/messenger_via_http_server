@@ -1,0 +1,5 @@
+<map id="vacuumFinalize" name="vacuumFinalize">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af81e0c8d03b71610d3a826469f67bbd4" title="sqlite3VdbeFinalize" alt="" coords="164,5,299,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aad368822484a1ceae010a829e27454ae" title="sqlite3SetString" alt="" coords="174,56,289,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae0d58565fa198e724fc2bb5381b3299f" title="sqlite3_errmsg" alt="" coords="178,107,285,133"/>
+</map>

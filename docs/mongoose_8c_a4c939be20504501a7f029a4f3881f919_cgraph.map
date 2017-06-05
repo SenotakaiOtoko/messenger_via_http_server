@@ -1,0 +1,7 @@
+<map id="resolve_cb" name="resolve_cb">
+<area shape="rect" id="node2" href="$mongoose_8c.html#aebdeb217cebb5f134c84baab1369b2e3" title="mg_dns_parse_record_data" alt="" coords="136,5,319,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ad7ad178de2465f6a9193dbe175b45d97" title="mg_do_connect" alt="" coords="170,56,285,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a844719a6a21476e5f173ef2101473153" title="mg_time" alt="" coords="191,107,263,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a2ca0faa3cfd1b007fc807e997d256aac" title="mg_call" alt="" coords="194,157,261,184"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#aa6b6ccb4e60eef226d37631b6edf08c7" title="mg_destroy_conn" alt="" coords="165,208,290,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="readJournalHdr" name="readJournalHdr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ade39a2ad6c5f6511b13e92c024e83888" title="journalHdrOffset" alt="" coords="188,5,303,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a98ef6b5ed82299d2efc0b5f9e41c877d" title="sqlite3OsRead" alt="" coords="377,81,484,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9827cbfc556377e551197926ca1adf61" title="read32bits" alt="" coords="204,107,287,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab668348d5dcc0382c247c74b6358f16e" title="sqlite3PagerSetPagesize" alt="" coords="161,157,329,184"/>
+</map>

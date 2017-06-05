@@ -1,0 +1,6 @@
+<map id="convertCompoundSelectToSubquery" name="convertCompoundSelectToSubquery">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="536,26,675,53"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac5a48dfc8b87c7d09fa9928e1cbda9bf" title="sqlite3SrcListAppendFromTerm" alt="" coords="284,26,488,53"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a2c227f0b97e0e31b120c702fae2b7409" title="sqlite3ExprListAppend" alt="" coords="310,77,462,104"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a790d28ff2bd0d13725c692e0c4ed7105" title="sqlite3Expr" alt="" coords="343,128,429,154"/>
+</map>

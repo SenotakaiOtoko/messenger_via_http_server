@@ -1,0 +1,10 @@
+<map id="blobSeekToRow" name="blobSeekToRow">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="210,5,302,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="205,56,307,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="203,107,309,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab84b4c97560363d01a6044a954c7d4f4" title="sqlite3VdbeSerialTypeLen" alt="" coords="170,157,342,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac6ec0c93b556b4be3fdc81b925943256" title="sqlite3BtreeEnterCursor" alt="" coords="176,208,336,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae2111cd685acf0c56349303c6f97ee0d" title="sqlite3BtreeCacheOverflow" alt="" coords="168,259,344,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac03e1186b08d50909efc3f2c79955f7f" title="sqlite3BtreeLeaveCursor" alt="" coords="175,309,337,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ae0d58565fa198e724fc2bb5381b3299f" title="sqlite3_errmsg" alt="" coords="203,360,309,387"/>
+</map>

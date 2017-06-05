@@ -1,0 +1,13 @@
+<map id="unixGetLastError" name="unixGetLastError">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab0ecaa459e88856a9cceb9786019ed8d" title="findReusableFd" alt="" coords="176,5,287,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac79dba55fc32b6a840cf5a9769bce7cd" title="sqlite3_malloc" alt="" coords="179,56,284,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0eb989e531821c6a1deb85a3ba0021c0" title="robust_open" alt="" coords="185,107,278,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#abc25d22670649c241bee8c46921988ab" title="robust_close" alt="" coords="183,157,279,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="345,259,433,285"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aa2695a752e971577f5784122f2013c40" title="sqlite3_snprintf" alt="" coords="177,259,286,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a12a82854284c159ec47d1e5bb38d63bf" title="seekAndRead" alt="" coords="337,461,440,488"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a06b890498ad27dd838ec6f17f3dfa5c2" title="robust_ftruncate" alt="" coords="174,360,289,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a4385beabc5689db595bbe5a18b3c619a" title="unixWrite" alt="" coords="193,512,270,539"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="173,461,289,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="180,208,283,235"/>
+</map>

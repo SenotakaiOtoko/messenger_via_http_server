@@ -1,0 +1,9 @@
+<map id="blobReadWrite" name="blobReadWrite">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="172,5,311,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="371,157,459,184"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac6ec0c93b556b4be3fdc81b925943256" title="sqlite3BtreeEnterCursor" alt="" coords="161,107,321,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac03e1186b08d50909efc3f2c79955f7f" title="sqlite3BtreeLeaveCursor" alt="" coords="160,157,323,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af81e0c8d03b71610d3a826469f67bbd4" title="sqlite3VdbeFinalize" alt="" coords="174,208,309,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae5a967ec6172298db98b6090bbd1dd9b" title="sqlite3ApiExit" alt="" coords="190,259,293,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="172,309,311,336"/>
+</map>

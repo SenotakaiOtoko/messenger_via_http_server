@@ -1,0 +1,5 @@
+<map id="closeUnixFile" name="closeUnixFile">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a84cdb6e4ff75f085e8c05dfdec178927" title="unixClose" alt="" coords="163,5,241,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a946bda4aff58be65e29d6222fcc6e3f6" title="nolockClose" alt="" coords="155,56,249,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa72eaafaa850f2889e15af7cfb08fa1b" title="dotlockClose" alt="" coords="153,107,251,133"/>
+</map>

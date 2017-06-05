@@ -1,0 +1,5 @@
+<map id="btreeEndTransaction" name="btreeEndTransaction">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a190cd892d7b1636800149aa2fb20f4ef" title="downgradeAllSharedCacheTable\lLocks" alt="" coords="195,5,403,47"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a634cc518e11252ac32e0e42614f1133b" title="clearAllSharedCacheTable\lLocks" alt="" coords="211,71,386,112"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ada198bfad4d2c61e88bd9317e98cc96c" title="unlockBtreeIfUnused" alt="" coords="228,137,369,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AggInfo::AggInfo_col" name="AggInfo::AggInfo_col">
+<area shape="rect" id="node2" href="$struct_expr.html" title="{Expr\n|+ op\l+ affinity\l+ flags\l+ zToken\l+ iValue\l+ u\l+ x\l+ nHeight\l+ iTable\l+ iColumn\l+ iAgg\l+ iRightJoinTable\l+ flags2\l+ op2\l|}" alt="" coords="99,307,220,575"/>
+<area shape="rect" id="node3" href="$struct_table.html" title="{Table\n|+ zName\l+ zColAff\l+ nRowEst\l+ tnum\l+ iPKey\l+ nCol\l+ nRef\l+ tabFlags\l+ keyConf\l+ addColOffset\l+ nModuleArg\l+ azModuleArg\l|}" alt="" coords="20,5,131,244"/>
+</map>

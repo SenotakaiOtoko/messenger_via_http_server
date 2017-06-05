@@ -1,0 +1,8 @@
+<map id="sqlite3BtreeBeginTrans" name="sqlite3BtreeBeginTrans">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a2db3061b5c557699a47415ca0342ba01" title="sqlite3BtreeSetVersion" alt="" coords="209,36,364,62"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="412,10,553,37"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="423,86,543,113"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac4318b25df65269906b0379251fe9b85" title="sqlite3InitOne" alt="" coords="236,137,337,164"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7c466fe28e7ca6f46b8bf72c46d9738d" title="schemaIsValid" alt="" coords="233,188,340,214"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5e83ddc7b3e7e8e79ad5d1fc92de1d2f" title="sqlite3RunVacuum" alt="" coords="221,238,352,265"/>
+</map>

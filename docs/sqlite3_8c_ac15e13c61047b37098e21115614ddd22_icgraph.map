@@ -1,0 +1,7 @@
+<map id="pager_error" name="pager_error">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af94b1f96b60689fd09422cce2c85f53f" title="sqlite3PagerClose" alt="" coords="176,5,303,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#abb21a3a371038e9e3e69af0f21a1b386" title="pagerStress" alt="" coords="193,56,285,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="158,107,321,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a18af1df44bbc3ae598f0559f6fc5861e" title="sqlite3PagerCommitPhaseTwo" alt="" coords="140,157,339,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#afdd2ecbb97b7a716892ff6bd10c7dfd0" title="sqlite3PagerRollback" alt="" coords="167,208,311,235"/>
+</map>

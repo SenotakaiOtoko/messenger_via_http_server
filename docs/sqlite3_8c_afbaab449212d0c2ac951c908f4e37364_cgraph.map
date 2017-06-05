@@ -1,0 +1,4 @@
+<map id="sqlite3_busy_timeout" name="sqlite3_busy_timeout">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae27e4c488c7a19f5aed1691eb49b5b00" title="sqlite3_busy_handler" alt="" coords="213,5,357,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae3cee846ec02a003eb8299ad1a1cdbf1" title="sqliteDefaultBusyCallback" alt="" coords="199,56,372,83"/>
+</map>

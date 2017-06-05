@@ -1,0 +1,3 @@
+<map id="mg_http_endpoint" name="mg_http_endpoint">
+<area shape="rect" id="node2" href="$structmg__connection.html" title="{mg_connection\n|+ sock\l+ err\l+ recv_mbuf_limit\l+ last_io_time\l+ ev_timer_time\l+ proto_data\l+ proto_data_destructor\l+ user_data\l+ v\l+ priv_1\l+ priv_2\l+ mgr_data\l+ flags\l|}" alt="" coords="5,5,165,259"/>
+</map>

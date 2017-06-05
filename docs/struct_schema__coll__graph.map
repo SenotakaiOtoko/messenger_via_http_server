@@ -1,0 +1,4 @@
+<map id="Schema" name="Schema">
+<area shape="rect" id="node2" href="$struct_table.html" title="{Table\n|+ zName\l+ zColAff\l+ nRowEst\l+ tnum\l+ iPKey\l+ nCol\l+ nRef\l+ tabFlags\l+ keyConf\l+ addColOffset\l+ nModuleArg\l+ azModuleArg\l|}" alt="" coords="13,417,123,656"/>
+<area shape="rect" id="node3" href="$struct_hash.html" title="{Hash\n|+ htsize\l+ count\l|}" alt="" coords="33,5,103,97"/>
+</map>

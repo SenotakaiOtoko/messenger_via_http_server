@@ -1,0 +1,8 @@
+<map id="isSortingIndex" name="isSortingIndex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a91b59896d4e3534de7c33940dca8537c" title="sqlite3ExprSkipCollate" alt="" coords="337,33,491,59"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af36e271ed5ce13d4f2d088a766529574" title="sqlite3ExprCollSeq" alt="" coords="157,33,289,59"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af26eb1eed85001fcf29fa189b631ac4b" title="findTerm" alt="" coords="188,83,259,110"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a54937ebbcfc36cec1cd909a328cf7eeb" title="isOrderedColumn" alt="" coords="162,134,285,161"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aff9554a4790fc9c0b4f80378505c45dc" title="getMask" alt="" coords="378,210,450,237"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#adc74a03d7e143fc3158a9f530fa35919" title="exprTableUsage" alt="" coords="166,235,281,262"/>
+</map>

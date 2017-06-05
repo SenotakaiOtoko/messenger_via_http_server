@@ -1,0 +1,9 @@
+<map id="sqlite3StatusAdd" name="sqlite3StatusAdd">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="179,5,301,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9b883a0e42e20c9f0cd19bd87059c383" title="sqlite3ScratchMalloc" alt="" coords="353,31,496,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1a90fe6ec9fbbba9f40ccb7cae4f5b27" title="sqlite3ScratchFree" alt="" coords="175,107,305,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="196,208,284,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aaf1f3aa052a89ceffe0f55a526504785" title="sqlite3Realloc" alt="" coords="373,171,476,197"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a283e764f60afec3ed4995402b6604ceb" title="pcache1Free" alt="" coords="376,233,473,260"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ad80f2390e3fdf5c2feab3ea212d4e9a8" title="pcache1Alloc" alt="" coords="190,309,290,336"/>
+</map>

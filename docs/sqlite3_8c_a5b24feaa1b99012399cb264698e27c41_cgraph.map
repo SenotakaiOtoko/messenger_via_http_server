@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeMemNumerify" name="sqlite3VdbeMemNumerify">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="440,82,575,108"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5b13083911b3dc0a0b54f43acc686a39" title="sqlite3Atoi64" alt="" coords="259,31,357,58"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5bf943a4f9a5516911b3bc610e3d64e0" title="sqlite3VdbeRealValue" alt="" coords="233,82,383,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a759b0a721238608821d378aca432ae32" title="sqlite3VdbeIntegerAffinity" alt="" coords="224,132,392,159"/>
+</map>

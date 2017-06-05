@@ -1,0 +1,6 @@
+<map id="setChildPtrmaps" name="setChildPtrmaps">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="487,24,621,50"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3fbef3abda22e9a3f72c2873ec0b26a3" title="btreeInitPage" alt="" coords="340,24,439,50"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5b7cb112db531e0498aaddcbadb4985b" title="ptrmapPutOvflPtr" alt="" coords="172,74,292,101"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac16fbe55892f29324ac5d09957374ed0" title="ptrmapPut" alt="" coords="348,74,431,101"/>
+</map>

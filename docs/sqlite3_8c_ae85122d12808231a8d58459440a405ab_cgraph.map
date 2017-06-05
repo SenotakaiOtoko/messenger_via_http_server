@@ -1,0 +1,7 @@
+<map id="getAndInitPage" name="getAndInitPage">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="325,106,460,133"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9cc4ac11752c088db89d551ec1495a15" title="btreePagecount" alt="" coords="164,30,277,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="169,81,272,107"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a3fbef3abda22e9a3f72c2873ec0b26a3" title="btreeInitPage" alt="" coords="171,131,270,158"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="173,182,268,209"/>
+</map>

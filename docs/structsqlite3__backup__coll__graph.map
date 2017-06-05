@@ -1,0 +1,4 @@
+<map id="sqlite3_backup" name="sqlite3_backup">
+<area shape="rect" id="node2" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="31,5,140,229"/>
+<area shape="rect" id="node3" href="$struct_btree.html" title="{Btree\n|+ inTrans\l+ sharable\l+ locked\l+ wantToLock\l+ nBackup\l|}" alt="" coords="127,292,230,428"/>
+</map>

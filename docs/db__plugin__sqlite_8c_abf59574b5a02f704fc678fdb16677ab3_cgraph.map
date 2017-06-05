@@ -1,0 +1,8 @@
+<map id="check_auth" name="check_auth">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a3481a6b79218165d9332e7856f6916fa" title="mg_get_http_basic_auth" alt="" coords="143,5,307,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="171,56,278,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="160,107,289,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="165,157,285,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="179,208,271,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aee36f5eaf67b425ddf6f9b7a2004d018" title="sqlite3_column_text" alt="" coords="155,259,294,285"/>
+</map>

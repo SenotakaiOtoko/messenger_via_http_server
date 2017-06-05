@@ -1,0 +1,5 @@
+<map id="sqlite3OsCloseFree" name="sqlite3OsCloseFree">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="226,5,319,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a787fa9e9800f8ae4ef3fa11044ed1ac9" title="sqlite3VdbeSorterClose" alt="" coords="193,56,352,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae550fccf5d10c1ebec8de14cb5e423f0" title="sqlite3VdbeSorterRewind" alt="" coords="189,107,356,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="sqlite3OsAccess" name="sqlite3OsAccess">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a940bc2e6650e613dc69243119683c221" title="pager_delmaster" alt="" coords="191,5,309,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9d9a750a9fc76eb4b668c8a16b164a65" title="pager_playback" alt="" coords="396,56,509,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="580,132,743,159"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a53aeec46642c01ab2de938e8bd00b0e3" title="pagerOpenWalIfPresent" alt="" coords="373,157,532,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a875dc699b7a0e8ab6ba19170e5096d5e" title="hasHotJournal" alt="" coords="401,208,505,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac62d7d3d29214a7cad25fdd88e7c7a74" title="sqlite3PagerCloseWal" alt="" coords="175,259,325,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="203,309,297,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="197,360,303,387"/>
+</map>

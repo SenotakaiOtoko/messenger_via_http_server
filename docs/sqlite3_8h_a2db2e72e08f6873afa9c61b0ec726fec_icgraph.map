@@ -1,0 +1,7 @@
+<map id="sqlite3_mutex_free" name="sqlite3_mutex_free">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a89b00f37b59738ab669aa66f70f5962b" title="unixShmPurge" alt="" coords="223,5,330,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="417,107,527,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7b1a8df3e1fcfc9e69c19633f0d08af3" title="removeFromSharingList" alt="" coords="197,107,356,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#ab0c0ee2d5d4cf8b28e9572296a8861df" title="sqlite3_initialize" alt="" coords="219,157,334,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#afe3a37c29dcb0fe9fc15fe07a3976f59" title="sqlite3LeaveMutexAndClose\lZombie" alt="" coords="184,209,369,250"/>
+</map>

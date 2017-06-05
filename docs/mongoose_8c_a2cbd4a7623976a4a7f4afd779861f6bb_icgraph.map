@@ -1,0 +1,5 @@
+<map id="mg_dns_insert_header" name="mg_dns_insert_header">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a080dc50cfd880656bc8e79513c62fc2d" title="mg_send_dns_query" alt="" coords="207,5,349,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a34d5010e6736d63c08b6404ca123fd36" title="dns_handler" alt="" coords="232,56,324,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#ab35d9402402a39d7d6e47c8426807cda" title="mg_set_protocol_dns" alt="" coords="397,81,544,108"/>
+</map>

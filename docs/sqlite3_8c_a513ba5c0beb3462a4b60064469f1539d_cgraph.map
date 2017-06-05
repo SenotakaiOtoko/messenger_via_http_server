@@ -1,0 +1,20 @@
+<map id="balance_nonroot" name="balance_nonroot">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="709,271,844,298"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae85122d12808231a8d58459440a405ab" title="getAndInitPage" alt="" coords="370,271,481,298"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="552,322,647,349"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6c95c9aac1c8a00490e36674f43e76ec" title="cellSizePtr" alt="" coords="383,474,468,501"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1eba22ca0ddf563de0b29c64551c759f" title="btreeParseCellPtr" alt="" coords="537,474,661,501"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a46eeeb6aebf363bd16265d696612b852" title="dropCell" alt="" coords="565,18,634,45"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a9b883a0e42e20c9f0cd19bd87059c383" title="sqlite3ScratchMalloc" alt="" coords="171,727,313,754"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a4789c15455047776c4cca9c18cc6ec65" title="findOverflowCell" alt="" coords="369,69,481,95"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="714,639,839,666"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ae84ce1103eabfe9455a6a59e6cec4a33" title="allocateBtreePage" alt="" coords="361,373,489,399"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#ac16fbe55892f29324ac5d09957374ed0" title="ptrmapPut" alt="" coords="558,601,641,627"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#ad98f5006fdec390948dd2966cf0cf12f" title="freePage" alt="" coords="205,778,279,805"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a1c974ee71f86cb74370ca21e5e6cdb14" title="zeroPage" alt="" coords="561,119,638,146"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#af511b4a8276006e01a7a50d009972d88" title="assemblePage" alt="" coords="371,170,479,197"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a16d3a955fe59894c541d500ddf92d7c0" title="insertCell" alt="" coords="204,525,280,551"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a5b7cb112db531e0498aaddcbadb4985b" title="ptrmapPutOvflPtr" alt="" coords="365,575,485,602"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#ad73085375c8b00ebc87bc75dba37ca7b" title="copyNodeContent" alt="" coords="179,829,305,855"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#a1a90fe6ec9fbbba9f40ccb7cae4f5b27" title="sqlite3ScratchFree" alt="" coords="177,879,307,906"/>
+</map>

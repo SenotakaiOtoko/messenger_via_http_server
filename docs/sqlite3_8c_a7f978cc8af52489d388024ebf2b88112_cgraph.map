@@ -1,0 +1,4 @@
+<map id="pagerExclusiveLock" name="pagerExclusiveLock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a667bdac69bf20203e45cd8e899790bcc" title="pagerLockDb" alt="" coords="197,5,295,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8ac54f19421c76b5045a40b42d282c32" title="pagerUnlockDb" alt="" coords="191,56,301,83"/>
+</map>

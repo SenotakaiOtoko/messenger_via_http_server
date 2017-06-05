@@ -1,0 +1,14 @@
+<map id="hasHotJournal" name="hasHotJournal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="400,122,603,149"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afeb6079743f71ae6557342ff391d8ceb" title="sqlite3OsAccess" alt="" coords="194,46,315,73"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad7b51dd494cecab454c85739c02418fd" title="sqlite3OsCheckReservedLock" alt="" coords="157,97,352,123"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a27dd03ff27e92e9987705acf24840b28" title="pagerPagecount" alt="" coords="197,147,313,174"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="169,198,340,225"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a667bdac69bf20203e45cd8e899790bcc" title="pagerLockDb" alt="" coords="205,249,304,275"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a576c2e542e46ddee19d10e75337039c0" title="sqlite3OsDelete" alt="" coords="197,299,312,326"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a8ac54f19421c76b5045a40b42d282c32" title="pagerUnlockDb" alt="" coords="199,350,310,377"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="174,401,335,427"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a12a1f3451e28f9cecd19cf0bb4f8f416" title="sqlite3OsOpen" alt="" coords="201,451,309,478"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a98ef6b5ed82299d2efc0b5f9e41c877d" title="sqlite3OsRead" alt="" coords="201,502,308,529"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="199,553,310,579"/>
+</map>

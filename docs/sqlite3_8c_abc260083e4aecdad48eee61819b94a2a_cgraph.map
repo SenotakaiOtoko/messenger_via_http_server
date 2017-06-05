@@ -1,0 +1,10 @@
+<map id="codeEqualityTerm" name="codeEqualityTerm">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4f308397a0a3ed299ed31aaa1ae2a293" title="sqlite3ExprCodeTarget" alt="" coords="180,120,333,147"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a29b4560b019211a73e1478cec7468345" title="sqlite3VdbeAddOp3" alt="" coords="593,95,731,122"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae87204d7b069da19e4db0404c6deaae5" title="sqlite3VdbeAddOp2" alt="" coords="389,70,527,96"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6207112b1851d7e7d76e887ef6d72d5a" title="sqlite3VdbeAddOp1" alt="" coords="389,171,527,198"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acf57ce8fb6f3c634375c019f5ebe66f6" title="sqlite3VdbeMakeLabel" alt="" coords="381,222,535,248"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae2f0f1c1597587c1a9c7c18f31c7be58" title="sqlite3DbReallocOrFree" alt="" coords="583,247,741,274"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a3d35646de8b51f0403d915d78bdaa42d" title="sqlite3FindInIndex" alt="" coords="193,70,320,96"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a50a51e3dca3d19babeb17d2577889492" title="disableTerm" alt="" coords="211,323,303,350"/>
+</map>

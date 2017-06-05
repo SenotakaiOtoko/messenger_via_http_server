@@ -1,0 +1,6 @@
+<map id="pager_unlock" name="pager_unlock">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a02d96b7bf62c3b13ba905d168914518c" title="pagerUnlockAndRollback" alt="" coords="152,5,319,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af94b1f96b60689fd09422cce2c85f53f" title="sqlite3PagerClose" alt="" coords="397,44,523,71"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="154,107,317,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#afb929a0a4553cda84de16180ddbd09f7" title="sqlite3PagerSetJournalMode" alt="" coords="367,120,553,147"/>
+</map>

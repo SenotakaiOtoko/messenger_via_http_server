@@ -1,0 +1,9 @@
+<map id="sqlite3AtoF" name="sqlite3AtoF">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a86a0ea000a0479eb6de44cbeb82acef9" title="parseDateOrTime" alt="" coords="155,5,277,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af27e39a2d2026d0f51799a9c254c4f06" title="parseModifier" alt="" coords="167,56,265,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5bf943a4f9a5516911b3bc610e3d64e0" title="sqlite3VdbeRealValue" alt="" coords="141,107,291,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a746d87f60796d3903aa4b8e7ce123ada" title="applyNumericAffinity" alt="" coords="146,157,286,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1f691989c09f7dfea94ec2b60c6b70bd" title="codeReal" alt="" coords="178,208,254,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a8c444ba254edc27891111b76e7ba85e7" title="roundFunc" alt="" coords="175,259,257,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a8e64c0ef376144dfad6a4a3d499056b8" title="quoteFunc" alt="" coords="175,309,257,336"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mg_http_conn_destructor" name="mg_http_conn_destructor">
+<area shape="rect" id="node2" href="$mongoose_8c.html#acddc59151053a002fdd87f199661ca4c" title="mg_http_free_proto\l_data_endpoints" alt="" coords="229,5,363,47"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#aac3bf6b512a0cecea6e6fa7a6a7ddc88" title="mg_http_free_reverse\l_proxy_data" alt="" coords="223,71,369,112"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a8b314b9753d45adb4dd62438576e6a1c" title="mg_next_comma_list\l_entry" alt="" coords="223,136,369,177"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#aac047aac9e37140462c7722dbe77e92f" title="mg_vcasecmp" alt="" coords="243,202,349,229"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a852b51b6e99d6f372489474c9a439204" title="mg_casecmp" alt="" coords="246,253,346,279"/>
+</map>

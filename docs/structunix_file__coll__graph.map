@@ -1,0 +1,7 @@
+<map id="unixFile" name="unixFile">
+<area shape="rect" id="node2" href="$structsqlite3__vfs.html" title="{sqlite3_vfs\n|+ iVersion\l+ szOsFile\l+ mxPathname\l+ zName\l+ pAppData\l+ xOpen\l+ xDelete\l+ xAccess\l+ xFullPathname\l+ xDlOpen\lи 11 больше...\l|}" alt="" coords="5,160,127,384"/>
+<area shape="rect" id="node3" href="$structunix_shm.html" title="{unixShm\n|+ hasMutex\l+ id\l+ sharedMask\l+ exclMask\l|}" alt="" coords="221,211,327,333"/>
+<area shape="rect" id="node4" href="$struct_unix_unused_fd.html" title="{UnixUnusedFd\n|+ fd\l+ flags\l|}" alt="" coords="439,5,546,97"/>
+<area shape="rect" id="node5" href="$structunix_inode_info.html" title="{unixInodeInfo\n|+ nShared\l+ eFileLock\l+ bProcessLock\l+ nRef\l+ nLock\l|}" alt="" coords="534,204,651,340"/>
+<area shape="rect" id="node6" href="$structsqlite3__io__methods.html" title="{sqlite3_io_methods\n|+ iVersion\l+ xClose\l+ xRead\l+ xWrite\l+ xTruncate\l+ xSync\l+ xFileSize\l+ xLock\l+ xUnlock\l+ xCheckReservedLock\lи 9 больше...\l|}" alt="" coords="745,160,904,384"/>
+</map>

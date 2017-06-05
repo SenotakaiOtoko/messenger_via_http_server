@@ -1,0 +1,9 @@
+<map id="walIndexReadHdr" name="walIndexReadHdr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#affd3251fd1aa1218170d421177256e24" title="walIndexPage" alt="" coords="186,5,289,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ade661e556c040b7730356a57222d3ad2" title="walIndexTryHdr" alt="" coords="182,56,293,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aec5e744b83679f0e56ad66abb849a7af" title="walLockShared" alt="" coords="182,107,293,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a766d6112d5beb2d9a4fb6e007b591514" title="walUnlockShared" alt="" coords="176,157,299,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a4625e58ad3fd85c21cf16275c458f154" title="walLockExclusive" alt="" coords="353,233,477,260"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab4ee99f3710323acbeb6c495dd18d205" title="walIndexRecover" alt="" coords="178,259,297,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a7ef6fcadaaeb9b36d1b9eaaf7e8f3311" title="walUnlockExclusive" alt="" coords="347,296,483,323"/>
+</map>

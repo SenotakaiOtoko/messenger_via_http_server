@@ -1,0 +1,5 @@
+<map id="mg_socketpair" name="mg_socketpair">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a604aad5f29ff92d13b0b0eafad03c893" title="mg_socket_if_init" alt="" coords="186,5,309,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#afa7bcea7e2e833ac3be571a90220a06e" title="mg_socket_if_poll" alt="" coords="184,56,311,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a85308bde07e6c49e00d660553a8e3fd1" title="mg_register_http_endpoint" alt="" coords="160,107,335,133"/>
+</map>

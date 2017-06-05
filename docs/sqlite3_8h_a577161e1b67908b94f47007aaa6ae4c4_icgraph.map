@@ -1,0 +1,10 @@
+<map id="sqlite3_result_error" name="sqlite3_result_error">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a90df73d3001a38322fee639ae369b637" title="localtimeOffset" alt="" coords="204,5,312,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af6025be1f4733eabe60702a187c97da9" title="sqlite3InvalidFunction" alt="" coords="185,56,331,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="215,107,301,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2b3dd04cb87abd088926ab0082a60b77" title="detachFunc" alt="" coords="213,157,303,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af271994a34f441432d50d7095e0ed23d" title="absFunc" alt="" coords="222,208,294,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a066cc91be49c444497acfa7f2e7dfbd3" title="likeFunc" alt="" coords="223,259,293,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a9f9125be634178265fb95e98b8304548" title="loadExt" alt="" coords="225,309,291,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a09f66b45d4b3b0e332744766a4f944fb" title="sumFinalize" alt="" coords="212,360,304,387"/>
+</map>

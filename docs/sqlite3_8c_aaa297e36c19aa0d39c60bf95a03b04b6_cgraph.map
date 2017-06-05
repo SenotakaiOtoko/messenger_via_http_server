@@ -1,0 +1,6 @@
+<map id="reindexTable" name="reindexTable">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a890f6a8dde41abcd68b9276910f47587" title="collationMatch" alt="" coords="185,5,291,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad9ef77a42022f1f8c8ab71b5761f5134" title="sqlite3SchemaToIndex" alt="" coords="376,107,529,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a21b1b811bbe305f922244f8913c87f10" title="sqlite3BeginWriteOperation" alt="" coords="148,107,328,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a17be5b679d9181b961ea9ba4a18d4f80" title="sqlite3RefillIndex" alt="" coords="179,157,297,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="sqlite3_realloc" name="sqlite3_realloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a169974d5f47a6e7e80f0f67799d5b292" title="sqlite3DbRealloc" alt="" coords="183,5,301,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a56664fa33def33c5a5245b623441d5e0" title="sqlite3StrAccumAppend" alt="" coords="373,31,536,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aeaa77f0ab08a4f4ee5f86e8c9727e974" title="unixShmMap" alt="" coords="193,107,291,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="187,181,297,208"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#affd3251fd1aa1218170d421177256e24" title="walIndexPage" alt="" coords="191,232,293,259"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a752b98a7c55d204c397a4902b49b1ce4" title="replaceFunc" alt="" coords="195,283,289,309"/>
+<area shape="rect" id="node8" href="$sqlite3_8h.html#a85a95b45e94f6bcd52aa39b6acdb36d7" title="sqlite3_auto_extension" alt="" coords="165,333,319,360"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a1dbaba1b543953c0dade97357c5866b1" title="sqlite3_get_table_cb" alt="" coords="171,384,313,411"/>
+<area shape="rect" id="node10" href="$sqlite3_8h.html#a5effeac4e12df57beaa35c5be1f61579" title="sqlite3_get_table" alt="" coords="395,409,515,436"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a58c646608238d2619371c3e8b6bc0d86" title="sqlite3VtabMakeWritable" alt="" coords="159,485,325,512"/>
+</map>

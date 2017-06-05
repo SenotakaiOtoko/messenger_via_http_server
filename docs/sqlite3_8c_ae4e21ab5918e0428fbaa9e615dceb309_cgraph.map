@@ -1,0 +1,5 @@
+<map id="sqlite3ExprDelete" name="sqlite3ExprDelete">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="371,26,473,53"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="183,26,317,53"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae9cd46eac81e86a04ed8c09b99fc3c10" title="sqlite3ExprListDelete" alt="" coords="177,77,323,103"/>
+</map>

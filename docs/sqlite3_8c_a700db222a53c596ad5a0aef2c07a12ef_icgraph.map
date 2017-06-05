@@ -1,0 +1,10 @@
+<map id="sqlite3MayAbort" name="sqlite3MayAbort">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4f308397a0a3ed299ed31aaa1ae2a293" title="sqlite3ExprCodeTarget" alt="" coords="393,55,547,82"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="169,38,336,64"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a117f2ef54e18f018369a4da17d1a0881" title="destroyRootPage" alt="" coords="191,88,314,115"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#afdce3be98e8b53068dba42e8e785b45d" title="sqlite3HaltConstraint" alt="" coords="181,139,324,166"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa507f2413992cdcb1bd4b771d93d83cc" title="sqlite3GenerateConstraint\lChecks" alt="" coords="384,174,556,216"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="604,211,696,238"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="189,291,316,318"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a740220531db9293c39a2cdd7da3f74e1" title="updateVirtualTable" alt="" coords="188,342,317,368"/>
+</map>

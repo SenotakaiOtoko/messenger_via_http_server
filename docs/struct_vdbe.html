@@ -1,0 +1,945 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура Vdbe</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура Vdbe</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="dynheader">
+Граф связей класса Vdbe:</div>
+<div class="dyncontent">
+<div class="center"><img src="struct_vdbe__coll__graph.png" border="0" usemap="#_vdbe_coll__map" alt="Collaboration graph"/></div>
+<map name="_vdbe_coll__map" id="_vdbe_coll__map">
+<area shape="rect" id="node3" href="structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="327,579,437,803"/>
+<area shape="rect" id="node4" href="struct_vdbe_frame.html" title="{VdbeFrame\n|+ aOnceFlag\l+ token\l+ lastRowid\l+ nCursor\l+ pc\l+ nOp\l+ nMem\l+ nOnceFlag\l+ nChildMem\l+ nChildCsr\l+ nChange\l|}" alt="" coords="319,1497,418,1721"/>
+<area shape="rect" id="node2" href="struct_mem.html" title="{Mem\n|+ z\l+ r\l+ i\l+ nZero\l+ u\l+ n\l+ flags\l+ type\l+ enc\l+ xDel\l+ zMalloc\l|}" alt="" coords="391,865,469,1089"/>
+<area shape="rect" id="node6" href="struct_vdbe_op.html" title="{VdbeOp\n|+ opcode\l+ p4type\l+ opflags\l+ p5\l+ p1\l+ p2\l+ p3\l+ i\l+ p\l+ z\l+ pI64\l+ pReal\l+ ai\l+ xAdvance\l+ p4\l|}" alt="" coords="118,1152,209,1435"/>
+<area shape="rect" id="node5" href="struct_vdbe_cursor.html" title="{VdbeCursor\n|+ iDb\l+ pseudoTableReg\l+ nField\l+ zeroed\l+ rowidIsValid\l+ atFirst\l+ useRandomRowid\l+ nullRow\l+ deferredMoveto\l+ isTable\lи 13 больше...\l|}" alt="" coords="438,5,577,229"/>
+<area shape="rect" id="node7" href="struct_sub_program.html" title="{SubProgram\n|+ nOp\l+ nMem\l+ nCsr\l+ nOnce\l+ token\l|}" alt="" coords="5,1541,100,1677"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:ad6e663497d2c934364b3bcf07496b30b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structsqlite3.html">sqlite3</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ad6e663497d2c934364b3bcf07496b30b">db</a></td></tr>
+<tr class="separator:ad6e663497d2c934364b3bcf07496b30b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a174225cf156b2753600dd11eefc2c992"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#af3e8e0a774ea3e53b5d64297468c3298">Op</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a174225cf156b2753600dd11eefc2c992">aOp</a></td></tr>
+<tr class="separator:a174225cf156b2753600dd11eefc2c992"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfd56f8b1cc1790601ff0940d884c200"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_mem.html">Mem</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#adfd56f8b1cc1790601ff0940d884c200">aMem</a></td></tr>
+<tr class="separator:adfd56f8b1cc1790601ff0940d884c200"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5af1ceadb4cb7bde73c69b7f51a626bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_mem.html">Mem</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a5af1ceadb4cb7bde73c69b7f51a626bc">apArg</a></td></tr>
+<tr class="separator:a5af1ceadb4cb7bde73c69b7f51a626bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95e381528e23dabb12c0fc86ffec9928"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_mem.html">Mem</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a95e381528e23dabb12c0fc86ffec9928">aColName</a></td></tr>
+<tr class="separator:a95e381528e23dabb12c0fc86ffec9928"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a879fc40450f639139fce2a774e02dd95"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_mem.html">Mem</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a879fc40450f639139fce2a774e02dd95">pResultSet</a></td></tr>
+<tr class="separator:a879fc40450f639139fce2a774e02dd95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a857d199d972b4d3864ce420c143508e4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a857d199d972b4d3864ce420c143508e4">nMem</a></td></tr>
+<tr class="separator:a857d199d972b4d3864ce420c143508e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33625b7205f0da4b73ec34d2d4aefd64"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a33625b7205f0da4b73ec34d2d4aefd64">nOp</a></td></tr>
+<tr class="separator:a33625b7205f0da4b73ec34d2d4aefd64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefbb8e03fd662e3f265fd1500454c7b0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#aefbb8e03fd662e3f265fd1500454c7b0">nOpAlloc</a></td></tr>
+<tr class="separator:aefbb8e03fd662e3f265fd1500454c7b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5a14ba3fa9c2cb9827402a81a53a986"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#af5a14ba3fa9c2cb9827402a81a53a986">nLabel</a></td></tr>
+<tr class="separator:af5a14ba3fa9c2cb9827402a81a53a986"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ba7d7db3dd21c05465292dbc43abf68"><td class="memItemLeft" align="right" valign="top">int *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a5ba7d7db3dd21c05465292dbc43abf68">aLabel</a></td></tr>
+<tr class="separator:a5ba7d7db3dd21c05465292dbc43abf68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a649c97c1eaf660d353f0f37998b8fd56"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a20f2299e322dcbde37cb07b16910b843">u16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a649c97c1eaf660d353f0f37998b8fd56">nResColumn</a></td></tr>
+<tr class="separator:a649c97c1eaf660d353f0f37998b8fd56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd18ebaf2ce9128e5e45bd424af27002"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#abd18ebaf2ce9128e5e45bd424af27002">nCursor</a></td></tr>
+<tr class="separator:abd18ebaf2ce9128e5e45bd424af27002"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c2f2992893a71ac0ee3f43477000176"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a1c2f2992893a71ac0ee3f43477000176">magic</a></td></tr>
+<tr class="separator:a1c2f2992893a71ac0ee3f43477000176"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6fcf95fd4e53f09793171bd5b704ac9a"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a6fcf95fd4e53f09793171bd5b704ac9a">zErrMsg</a></td></tr>
+<tr class="separator:a6fcf95fd4e53f09793171bd5b704ac9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75fede11b9093f9204a677c0d80fec8c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe.html">Vdbe</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a75fede11b9093f9204a677c0d80fec8c">pPrev</a></td></tr>
+<tr class="separator:a75fede11b9093f9204a677c0d80fec8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adee0b3608e49fbf227884d272fdcb86e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe.html">Vdbe</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#adee0b3608e49fbf227884d272fdcb86e">pNext</a></td></tr>
+<tr class="separator:adee0b3608e49fbf227884d272fdcb86e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1dd9d69a090bcc1bdb7afa3b0525eea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe_cursor.html">VdbeCursor</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ac1dd9d69a090bcc1bdb7afa3b0525eea">apCsr</a></td></tr>
+<tr class="separator:ac1dd9d69a090bcc1bdb7afa3b0525eea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab72ee9a683e5486c32c8166cb369c222"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_mem.html">Mem</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ab72ee9a683e5486c32c8166cb369c222">aVar</a></td></tr>
+<tr class="separator:ab72ee9a683e5486c32c8166cb369c222"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61698685ffc73e64afd9ed436a5a101a"><td class="memItemLeft" align="right" valign="top">char **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a61698685ffc73e64afd9ed436a5a101a">azVar</a></td></tr>
+<tr class="separator:a61698685ffc73e64afd9ed436a5a101a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ddc3d06e7916f0973e7f5c80087d086"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a8f09a8707e1c321e17c3625018c599ce">ynVar</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a8ddc3d06e7916f0973e7f5c80087d086">nVar</a></td></tr>
+<tr class="separator:a8ddc3d06e7916f0973e7f5c80087d086"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11f25595e47d582f06efd3a1dab36958"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a8f09a8707e1c321e17c3625018c599ce">ynVar</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a11f25595e47d582f06efd3a1dab36958">nzVar</a></td></tr>
+<tr class="separator:a11f25595e47d582f06efd3a1dab36958"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44ab771806efd27abbef48af6b1d205f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a44ab771806efd27abbef48af6b1d205f">cacheCtr</a></td></tr>
+<tr class="separator:a44ab771806efd27abbef48af6b1d205f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8c81e61335635fa4709d82412b31f06"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ac8c81e61335635fa4709d82412b31f06">pc</a></td></tr>
+<tr class="separator:ac8c81e61335635fa4709d82412b31f06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6509c6fe4cbf7bde170597172f8a288"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ac6509c6fe4cbf7bde170597172f8a288">rc</a></td></tr>
+<tr class="separator:ac6509c6fe4cbf7bde170597172f8a288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abea7304ec108b435df4b4399b88977cb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#abea7304ec108b435df4b4399b88977cb">errorAction</a></td></tr>
+<tr class="separator:abea7304ec108b435df4b4399b88977cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5bee06812ea7532e4f9f7e56e19fd65"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ac5bee06812ea7532e4f9f7e56e19fd65">minWriteFileFormat</a></td></tr>
+<tr class="separator:ac5bee06812ea7532e4f9f7e56e19fd65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d0e7c3b8a77896616381d6c108551e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a9d0e7c3b8a77896616381d6c108551e6">explain</a>:2</td></tr>
+<tr class="separator:a9d0e7c3b8a77896616381d6c108551e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03748e6d80dcb5da20ba93aa788898ba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a03748e6d80dcb5da20ba93aa788898ba">inVtabMethod</a>:2</td></tr>
+<tr class="separator:a03748e6d80dcb5da20ba93aa788898ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c8419e4568fd3ba4e90ba3b1a4acae3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a3c8419e4568fd3ba4e90ba3b1a4acae3">changeCntOn</a>:1</td></tr>
+<tr class="separator:a3c8419e4568fd3ba4e90ba3b1a4acae3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe22cf7807da6858c969eb7194f00969"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#afe22cf7807da6858c969eb7194f00969">expired</a>:1</td></tr>
+<tr class="separator:afe22cf7807da6858c969eb7194f00969"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d62ea3d8471f23e077b4bc7b8c624d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a7d62ea3d8471f23e077b4bc7b8c624d7">runOnlyOnce</a>:1</td></tr>
+<tr class="separator:a7d62ea3d8471f23e077b4bc7b8c624d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad44e010197df2be247a419560d5dcd85"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ad44e010197df2be247a419560d5dcd85">usesStmtJournal</a>:1</td></tr>
+<tr class="separator:ad44e010197df2be247a419560d5dcd85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a6264721864a9d3c1f669ece146bec5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a5a6264721864a9d3c1f669ece146bec5">readOnly</a>:1</td></tr>
+<tr class="separator:a5a6264721864a9d3c1f669ece146bec5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adff5e49ef8340e57dc614a23a72143d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#adff5e49ef8340e57dc614a23a72143d7">isPrepareV2</a>:1</td></tr>
+<tr class="separator:adff5e49ef8340e57dc614a23a72143d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f24f569f193f29e92ff1a3528763db2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a8f24f569f193f29e92ff1a3528763db2">doingRerun</a>:1</td></tr>
+<tr class="separator:a8f24f569f193f29e92ff1a3528763db2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34a2d05071fd1eb026579e78343912a4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a34a2d05071fd1eb026579e78343912a4">nChange</a></td></tr>
+<tr class="separator:a34a2d05071fd1eb026579e78343912a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc21071966acb6bde90bbf5bd3ee6474"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#aa9f65e0e36379aa834aac7932ba91bc3">yDbMask</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#acc21071966acb6bde90bbf5bd3ee6474">btreeMask</a></td></tr>
+<tr class="separator:acc21071966acb6bde90bbf5bd3ee6474"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a724d4b924a935d68aa11aeee082ac8e3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#aa9f65e0e36379aa834aac7932ba91bc3">yDbMask</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a724d4b924a935d68aa11aeee082ac8e3">lockMask</a></td></tr>
+<tr class="separator:a724d4b924a935d68aa11aeee082ac8e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8a83614afba1af0bcb49dc57f06fe97"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ae8a83614afba1af0bcb49dc57f06fe97">iStatement</a></td></tr>
+<tr class="separator:ae8a83614afba1af0bcb49dc57f06fe97"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaca04daa40319ee656cddf1b460e115a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#aaca04daa40319ee656cddf1b460e115a">aCounter</a> [3]</td></tr>
+<tr class="separator:aaca04daa40319ee656cddf1b460e115a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1227987c154acddc3d7b08760dffbf2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ac1227987c154acddc3d7b08760dffbf2">startTime</a></td></tr>
+<tr class="separator:ac1227987c154acddc3d7b08760dffbf2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a707c750263dd956c65db6c5c7d316af8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a707c750263dd956c65db6c5c7d316af8">nFkConstraint</a></td></tr>
+<tr class="separator:a707c750263dd956c65db6c5c7d316af8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03ed0e08938984b063b51e0d1e641286"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a03ed0e08938984b063b51e0d1e641286">nStmtDefCons</a></td></tr>
+<tr class="separator:a03ed0e08938984b063b51e0d1e641286"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9029984574ab59cf7f6d97570833be55"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a9029984574ab59cf7f6d97570833be55">zSql</a></td></tr>
+<tr class="separator:a9029984574ab59cf7f6d97570833be55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c54a77225c501001750258d6b53f88d"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a2c54a77225c501001750258d6b53f88d">pFree</a></td></tr>
+<tr class="separator:a2c54a77225c501001750258d6b53f88d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad71093eb5e589645373a69f115714ec7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe_frame.html">VdbeFrame</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ad71093eb5e589645373a69f115714ec7">pFrame</a></td></tr>
+<tr class="separator:ad71093eb5e589645373a69f115714ec7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f0f989bef6ce3640b7a508cb9b25901"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_vdbe_frame.html">VdbeFrame</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a3f0f989bef6ce3640b7a508cb9b25901">pDelFrame</a></td></tr>
+<tr class="separator:a3f0f989bef6ce3640b7a508cb9b25901"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af29664edee858108ea51968053f5fc3c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#af29664edee858108ea51968053f5fc3c">nFrame</a></td></tr>
+<tr class="separator:af29664edee858108ea51968053f5fc3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a3eca16f8ab5f330174a1376df81bb4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a6a3eca16f8ab5f330174a1376df81bb4">expmask</a></td></tr>
+<tr class="separator:a6a3eca16f8ab5f330174a1376df81bb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b92cb4ee986d1dfaf28a5ade854311c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_sub_program.html">SubProgram</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a3b92cb4ee986d1dfaf28a5ade854311c">pProgram</a></td></tr>
+<tr class="separator:a3b92cb4ee986d1dfaf28a5ade854311c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a391dfc763758d272dcce42b2b72826a7"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#a391dfc763758d272dcce42b2b72826a7">nOnceFlag</a></td></tr>
+<tr class="separator:a391dfc763758d272dcce42b2b72826a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae7256911c06e37eb7d9e0ab9bb9df93e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_vdbe.html#ae7256911c06e37eb7d9e0ab9bb9df93e">aOnceFlag</a></td></tr>
+<tr class="separator:ae7256911c06e37eb7d9e0ab9bb9df93e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="a95e381528e23dabb12c0fc86ffec9928"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95e381528e23dabb12c0fc86ffec9928">&#9670;&nbsp;</a></span>aColName</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_mem.html">Mem</a>* aColName</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aaca04daa40319ee656cddf1b460e115a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaca04daa40319ee656cddf1b460e115a">&#9670;&nbsp;</a></span>aCounter</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int aCounter[3]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5ba7d7db3dd21c05465292dbc43abf68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ba7d7db3dd21c05465292dbc43abf68">&#9670;&nbsp;</a></span>aLabel</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int* aLabel</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adfd56f8b1cc1790601ff0940d884c200"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfd56f8b1cc1790601ff0940d884c200">&#9670;&nbsp;</a></span>aMem</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_mem.html">Mem</a>* aMem</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae7256911c06e37eb7d9e0ab9bb9df93e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae7256911c06e37eb7d9e0ab9bb9df93e">&#9670;&nbsp;</a></span>aOnceFlag</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>* aOnceFlag</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a174225cf156b2753600dd11eefc2c992"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a174225cf156b2753600dd11eefc2c992">&#9670;&nbsp;</a></span>aOp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#af3e8e0a774ea3e53b5d64297468c3298">Op</a>* aOp</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5af1ceadb4cb7bde73c69b7f51a626bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5af1ceadb4cb7bde73c69b7f51a626bc">&#9670;&nbsp;</a></span>apArg</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_mem.html">Mem</a>** apArg</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac1dd9d69a090bcc1bdb7afa3b0525eea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1dd9d69a090bcc1bdb7afa3b0525eea">&#9670;&nbsp;</a></span>apCsr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe_cursor.html">VdbeCursor</a>** apCsr</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab72ee9a683e5486c32c8166cb369c222"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab72ee9a683e5486c32c8166cb369c222">&#9670;&nbsp;</a></span>aVar</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_mem.html">Mem</a>* aVar</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a61698685ffc73e64afd9ed436a5a101a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61698685ffc73e64afd9ed436a5a101a">&#9670;&nbsp;</a></span>azVar</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char** azVar</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="acc21071966acb6bde90bbf5bd3ee6474"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc21071966acb6bde90bbf5bd3ee6474">&#9670;&nbsp;</a></span>btreeMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#aa9f65e0e36379aa834aac7932ba91bc3">yDbMask</a> btreeMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a44ab771806efd27abbef48af6b1d205f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44ab771806efd27abbef48af6b1d205f">&#9670;&nbsp;</a></span>cacheCtr</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a> cacheCtr</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3c8419e4568fd3ba4e90ba3b1a4acae3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c8419e4568fd3ba4e90ba3b1a4acae3">&#9670;&nbsp;</a></span>changeCntOn</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> changeCntOn</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad6e663497d2c934364b3bcf07496b30b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad6e663497d2c934364b3bcf07496b30b">&#9670;&nbsp;</a></span>db</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structsqlite3.html">sqlite3</a>* db</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8f24f569f193f29e92ff1a3528763db2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f24f569f193f29e92ff1a3528763db2">&#9670;&nbsp;</a></span>doingRerun</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> doingRerun</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abea7304ec108b435df4b4399b88977cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abea7304ec108b435df4b4399b88977cb">&#9670;&nbsp;</a></span>errorAction</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> errorAction</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="afe22cf7807da6858c969eb7194f00969"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afe22cf7807da6858c969eb7194f00969">&#9670;&nbsp;</a></span>expired</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> expired</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9d0e7c3b8a77896616381d6c108551e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d0e7c3b8a77896616381d6c108551e6">&#9670;&nbsp;</a></span>explain</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> explain</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6a3eca16f8ab5f330174a1376df81bb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a3eca16f8ab5f330174a1376df81bb4">&#9670;&nbsp;</a></span>expmask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a> expmask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a03748e6d80dcb5da20ba93aa788898ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03748e6d80dcb5da20ba93aa788898ba">&#9670;&nbsp;</a></span>inVtabMethod</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> inVtabMethod</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adff5e49ef8340e57dc614a23a72143d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adff5e49ef8340e57dc614a23a72143d7">&#9670;&nbsp;</a></span>isPrepareV2</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> isPrepareV2</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae8a83614afba1af0bcb49dc57f06fe97"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8a83614afba1af0bcb49dc57f06fe97">&#9670;&nbsp;</a></span>iStatement</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int iStatement</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a724d4b924a935d68aa11aeee082ac8e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a724d4b924a935d68aa11aeee082ac8e3">&#9670;&nbsp;</a></span>lockMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#aa9f65e0e36379aa834aac7932ba91bc3">yDbMask</a> lockMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1c2f2992893a71ac0ee3f43477000176"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c2f2992893a71ac0ee3f43477000176">&#9670;&nbsp;</a></span>magic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a03ad5adfaeb9b7640dde78a0cc390319">u32</a> magic</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac5bee06812ea7532e4f9f7e56e19fd65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5bee06812ea7532e4f9f7e56e19fd65">&#9670;&nbsp;</a></span>minWriteFileFormat</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> minWriteFileFormat</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a34a2d05071fd1eb026579e78343912a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34a2d05071fd1eb026579e78343912a4">&#9670;&nbsp;</a></span>nChange</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nChange</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abd18ebaf2ce9128e5e45bd424af27002"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd18ebaf2ce9128e5e45bd424af27002">&#9670;&nbsp;</a></span>nCursor</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nCursor</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a707c750263dd956c65db6c5c7d316af8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a707c750263dd956c65db6c5c7d316af8">&#9670;&nbsp;</a></span>nFkConstraint</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a> nFkConstraint</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af29664edee858108ea51968053f5fc3c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af29664edee858108ea51968053f5fc3c">&#9670;&nbsp;</a></span>nFrame</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nFrame</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af5a14ba3fa9c2cb9827402a81a53a986"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5a14ba3fa9c2cb9827402a81a53a986">&#9670;&nbsp;</a></span>nLabel</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nLabel</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a857d199d972b4d3864ce420c143508e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a857d199d972b4d3864ce420c143508e4">&#9670;&nbsp;</a></span>nMem</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nMem</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a391dfc763758d272dcce42b2b72826a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a391dfc763758d272dcce42b2b72826a7">&#9670;&nbsp;</a></span>nOnceFlag</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nOnceFlag</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a33625b7205f0da4b73ec34d2d4aefd64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33625b7205f0da4b73ec34d2d4aefd64">&#9670;&nbsp;</a></span>nOp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nOp</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aefbb8e03fd662e3f265fd1500454c7b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aefbb8e03fd662e3f265fd1500454c7b0">&#9670;&nbsp;</a></span>nOpAlloc</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int nOpAlloc</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a649c97c1eaf660d353f0f37998b8fd56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a649c97c1eaf660d353f0f37998b8fd56">&#9670;&nbsp;</a></span>nResColumn</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a20f2299e322dcbde37cb07b16910b843">u16</a> nResColumn</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a03ed0e08938984b063b51e0d1e641286"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03ed0e08938984b063b51e0d1e641286">&#9670;&nbsp;</a></span>nStmtDefCons</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a> nStmtDefCons</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8ddc3d06e7916f0973e7f5c80087d086"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ddc3d06e7916f0973e7f5c80087d086">&#9670;&nbsp;</a></span>nVar</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a8f09a8707e1c321e17c3625018c599ce">ynVar</a> nVar</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a11f25595e47d582f06efd3a1dab36958"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11f25595e47d582f06efd3a1dab36958">&#9670;&nbsp;</a></span>nzVar</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a8f09a8707e1c321e17c3625018c599ce">ynVar</a> nzVar</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac8c81e61335635fa4709d82412b31f06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8c81e61335635fa4709d82412b31f06">&#9670;&nbsp;</a></span>pc</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int pc</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3f0f989bef6ce3640b7a508cb9b25901"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f0f989bef6ce3640b7a508cb9b25901">&#9670;&nbsp;</a></span>pDelFrame</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe_frame.html">VdbeFrame</a>* pDelFrame</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad71093eb5e589645373a69f115714ec7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad71093eb5e589645373a69f115714ec7">&#9670;&nbsp;</a></span>pFrame</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe_frame.html">VdbeFrame</a>* pFrame</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2c54a77225c501001750258d6b53f88d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2c54a77225c501001750258d6b53f88d">&#9670;&nbsp;</a></span>pFree</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* pFree</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adee0b3608e49fbf227884d272fdcb86e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adee0b3608e49fbf227884d272fdcb86e">&#9670;&nbsp;</a></span>pNext</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe.html">Vdbe</a> * pNext</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a75fede11b9093f9204a677c0d80fec8c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75fede11b9093f9204a677c0d80fec8c">&#9670;&nbsp;</a></span>pPrev</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_vdbe.html">Vdbe</a>* pPrev</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3b92cb4ee986d1dfaf28a5ade854311c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b92cb4ee986d1dfaf28a5ade854311c">&#9670;&nbsp;</a></span>pProgram</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_sub_program.html">SubProgram</a>* pProgram</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a879fc40450f639139fce2a774e02dd95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a879fc40450f639139fce2a774e02dd95">&#9670;&nbsp;</a></span>pResultSet</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_mem.html">Mem</a>* pResultSet</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac6509c6fe4cbf7bde170597172f8a288"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac6509c6fe4cbf7bde170597172f8a288">&#9670;&nbsp;</a></span>rc</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int rc</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5a6264721864a9d3c1f669ece146bec5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a6264721864a9d3c1f669ece146bec5">&#9670;&nbsp;</a></span>readOnly</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> readOnly</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7d62ea3d8471f23e077b4bc7b8c624d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d62ea3d8471f23e077b4bc7b8c624d7">&#9670;&nbsp;</a></span>runOnlyOnce</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> runOnlyOnce</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac1227987c154acddc3d7b08760dffbf2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1227987c154acddc3d7b08760dffbf2">&#9670;&nbsp;</a></span>startTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a> startTime</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad44e010197df2be247a419560d5dcd85"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad44e010197df2be247a419560d5dcd85">&#9670;&nbsp;</a></span>usesStmtJournal</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#ad64c07cb8a690e45d78134394494fd0e">bft</a> usesStmtJournal</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6fcf95fd4e53f09793171bd5b704ac9a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fcf95fd4e53f09793171bd5b704ac9a">&#9670;&nbsp;</a></span>zErrMsg</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char* zErrMsg</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9029984574ab59cf7f6d97570833be55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9029984574ab59cf7f6d97570833be55">&#9670;&nbsp;</a></span>zSql</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char* zSql</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="sqlite3_8c.html">sqlite3.c</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

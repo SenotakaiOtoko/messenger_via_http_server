@@ -1,0 +1,5 @@
+<map id="sqlite3VdbeDelete" name="sqlite3VdbeDelete">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="537,5,672,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa36c8bd3814c4923416d35ef3454f979" title="sqlite3VdbeClearObject" alt="" coords="180,31,339,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="387,31,489,57"/>
+</map>

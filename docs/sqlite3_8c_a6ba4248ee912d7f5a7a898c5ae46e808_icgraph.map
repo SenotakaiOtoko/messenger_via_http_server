@@ -1,0 +1,19 @@
+<map id="sqlite3NameFromToken" name="sqlite3NameFromToken">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="212,5,379,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac696deb1ccaae3fa855cfbd0bfd4d048" title="sqlite3Analyze" alt="" coords="475,81,582,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa24a00ff02dcb0883436718a1226d295" title="sqlite3FindDb" alt="" coords="245,107,346,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af49b4395f39d9078a0dda2484c183012" title="sqlite3StartTable" alt="" coords="236,157,355,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a081b9e174ed9650ac90990d60cd36e96" title="sqlite3VtabBeginParse" alt="" coords="451,183,606,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a594ae02479b9387b1e2d4a4408b984b0" title="sqlite3AddColumn" alt="" coords="232,259,359,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a6024d6aed26a1c4e6e1676dfbff22d97" title="sqlite3AddColumnType" alt="" coords="218,309,373,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a1d1050da70a11a603b6a4592585e4b54" title="sqlite3AddCollateType" alt="" coords="220,360,371,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="231,411,360,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#abfbbed62255af0d239f098efcb5e18c2" title="sqlite3IdListAppend" alt="" coords="228,461,363,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a2d72a77bc508ef9a3e4a7f9af34d4fce" title="sqlite3SrcListAppend" alt="" coords="223,512,368,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#ac5a48dfc8b87c7d09fa9928e1cbda9bf" title="sqlite3SrcListAppendFromTerm" alt="" coords="427,537,631,564"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a57b5873167fdb09b55d0704c1ac54802" title="sqlite3SrcListIndexedBy" alt="" coords="214,613,377,640"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a85088587b34effc9b3430bbb3e4f3852" title="sqlite3Savepoint" alt="" coords="237,664,353,691"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#abd189e31189391e1ef114b413ff4abbf" title="sqlite3Reindex" alt="" coords="242,715,349,741"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="243,765,348,792"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="229,816,361,843"/>
+</map>

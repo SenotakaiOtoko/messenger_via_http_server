@@ -1,0 +1,8 @@
+<map id="ptrmapGet" name="ptrmapGet">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a68a85130a567f1700dc0907ec9227892" title="incrVacuumStep" alt="" coords="313,5,431,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af907f898e049d621e2c9dc1ed1d63cf4" title="getOverflowPage" alt="" coords="141,195,259,221"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae84ce1103eabfe9455a6a59e6cec4a33" title="allocateBtreePage" alt="" coords="136,43,264,69"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a92f1869a02b8b9196e5ea7ed2e61c328" title="balance_quick" alt="" coords="319,81,425,108"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a48e09eaac366a6b585edd02553872954" title="btreeCreateTable" alt="" coords="312,132,432,159"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1a0b6cfc7b15f6f3f9ba963067bf699a" title="checkPtrmap" alt="" coords="151,245,249,272"/>
+</map>

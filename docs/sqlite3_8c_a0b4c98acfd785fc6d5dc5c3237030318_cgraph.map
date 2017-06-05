@@ -1,0 +1,10 @@
+<map id="sqlite3BtreeIncrVacuum" name="sqlite3BtreeIncrVacuum">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="239,5,362,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9cc4ac11752c088db89d551ec1495a15" title="btreePagecount" alt="" coords="244,56,357,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6e8990e2e26e221184d66b367b586d75" title="finalDbSize" alt="" coords="257,107,344,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#add0c7a5086792caf465148beaadb913d" title="saveAllCursors" alt="" coords="247,157,355,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ae54a9c06fff6f71d61f77b1f08f3e09c" title="invalidateAllOverflowCache" alt="" coords="213,208,388,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a68a85130a567f1700dc0907ec9227892" title="incrVacuumStep" alt="" coords="241,259,360,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="238,309,363,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="239,360,363,387"/>
+</map>

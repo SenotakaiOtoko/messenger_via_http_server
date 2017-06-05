@@ -1,0 +1,5 @@
+<map id="seekAndRead" name="seekAndRead">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1e51bba47404d5518a136bbc5ab6e21b" title="unixRead" alt="" coords="157,5,233,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4385beabc5689db595bbe5a18b3c619a" title="unixWrite" alt="" coords="156,56,233,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aed1e42f49d74b419c3c85b559dd61240" title="unixGetLastError" alt="" coords="281,81,401,108"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sqlite3PagerGetExtra" name="sqlite3PagerGetExtra">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3fbef3abda22e9a3f72c2873ec0b26a3" title="btreeInitPage" alt="" coords="229,5,328,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa27cac56390e92c5ef6d566ee7defb59" title="pageReinit" alt="" coords="405,31,488,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1c974ee71f86cb74370ca21e5e6cdb14" title="zeroPage" alt="" coords="240,107,317,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a148c0bf09d4ef14a49e0e7a2c0506c80" title="btreePageFromDbPage" alt="" coords="200,157,357,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="231,208,326,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7efb6a8380d746b14e73db99ad3428a2" title="backupOnePage" alt="" coords="219,259,338,285"/>
+</map>

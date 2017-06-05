@@ -1,0 +1,10 @@
+<map id="accessPayload" name="accessPayload">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aedb2ad4326779a68bc8e012570bda430" title="copyPayload" alt="" coords="187,5,284,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="174,56,297,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af907f898e049d621e2c9dc1ed1d63cf4" title="getOverflowPage" alt="" coords="176,107,295,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4994718ae281ffc714aa975c5b9b359d" title="sqlite3PagerFile" alt="" coords="178,157,293,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a98ef6b5ed82299d2efc0b5f9e41c877d" title="sqlite3OsRead" alt="" coords="182,208,289,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a22a53daafd2bd778cda390312651f994" title="sqlite3PagerAcquire" alt="" coords="166,259,305,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a9dd340e56fb4b7fad4df339595b8d8a2" title="sqlite3PagerGetData" alt="" coords="164,309,307,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="173,360,297,387"/>
+</map>

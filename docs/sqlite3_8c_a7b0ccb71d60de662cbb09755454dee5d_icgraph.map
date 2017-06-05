@@ -1,0 +1,8 @@
+<map id="sqlite3Dequote" name="sqlite3Dequote">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7f1c54604acd48617bd41d26f5db776d" title="sqlite3ExprAlloc" alt="" coords="185,5,301,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a50e95ce8909436164a691852ec107b2b" title="sqlite3ExprListSetName" alt="" coords="162,56,325,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8d4f2e761693277684d0a9b45812b73d" title="renameParentFunc" alt="" coords="177,107,309,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6ba4248ee912d7f5a7a898c5ae46e808" title="sqlite3NameFromToken" alt="" coords="164,157,323,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a60425130ff4f583e63d3540525d3cd3a" title="sqlite3CreateForeignKey" alt="" coords="161,208,325,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aa7dcde293e634ad09c4d76c16a640491" title="flattenSubquery" alt="" coords="187,259,299,285"/>
+</map>

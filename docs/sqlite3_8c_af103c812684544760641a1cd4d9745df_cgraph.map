@@ -1,0 +1,15 @@
+<map id="sqlite3ValueFromExpr" name="sqlite3ValueFromExpr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad40a378778daff2d574bec905e35828b" title="sqlite3ValueNew" alt="" coords="239,5,357,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a57c5843cac8f6180ee994267a23f86a3" title="sqlite3VdbeMemSetInt64" alt="" coords="215,56,381,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="247,107,349,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1fd40749f47941ee97ff6d798e2bc67e" title="sqlite3ValueSetStr" alt="" coords="233,157,363,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a9697bec7c3b512483638ea3646191d7d" title="sqlite3VdbeMemSetStr" alt="" coords="440,183,596,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a535535f08aaaba2ebdf49ada6aca6fac" title="sqlite3ValueApplyAffinity" alt="" coords="215,259,381,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="464,284,572,311"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aa7cf8e488bf8cf9ec18528f52a40de31" title="sqlite3VdbeChangeEncoding" alt="" coords="204,360,392,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5b24feaa1b99012399cb264698e27c41" title="sqlite3VdbeMemNumerify" alt="" coords="213,411,383,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a6ef78c15c318f47aedcab51f590de78d" title="sqlite3HexToBlob" alt="" coords="237,461,359,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#ae006c07e1555d9a7ad637261c13fb5e5" title="sqlite3VdbeMemStoreType" alt="" coords="209,512,387,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="467,588,569,615"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#afeed84c3f344a833d15c7209265dc520" title="sqlite3ValueFree" alt="" coords="239,613,357,640"/>
+</map>

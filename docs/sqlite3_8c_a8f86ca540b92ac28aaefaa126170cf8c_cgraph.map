@@ -1,0 +1,7 @@
+<map id="instrFunc" name="instrFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac5e91a982065a1ab220a43bbd18cfa60" title="sqlite3_value_type" alt="" coords="133,5,261,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aee6da873358a81b4bbbe1284f157b146" title="sqlite3_value_bytes" alt="" coords="129,56,264,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af2d4d12032718e4d9a929bcf561370c8" title="sqlite3_value_blob" alt="" coords="133,107,260,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="312,132,437,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1e02f9d7125c65996cec3d6b305c5386" title="sqlite3_result_int" alt="" coords="137,208,257,235"/>
+</map>

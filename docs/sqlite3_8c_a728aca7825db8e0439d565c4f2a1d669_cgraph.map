@@ -1,0 +1,5 @@
+<map id="sqlite3CloseExtensions" name="sqlite3CloseExtensions">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="383,22,517,48"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1d9a447fccc2165fab651ee10596e5f8" title="sqlite3OsDlClose" alt="" coords="212,22,335,48"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="222,72,325,99"/>
+</map>

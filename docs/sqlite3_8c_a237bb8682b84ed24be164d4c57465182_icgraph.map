@@ -1,0 +1,5 @@
+<map id="sqlite3IsMemJournal" name="sqlite3IsMemJournal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac0ec06e81b223a42295bd1a0182b1609" title="releaseAllSavepoints" alt="" coords="197,5,340,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="392,31,545,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8b5f1920b6a8b564a47e243868f2c8d4" title="sqlite3PagerSavepoint" alt="" coords="193,107,344,133"/>
+</map>

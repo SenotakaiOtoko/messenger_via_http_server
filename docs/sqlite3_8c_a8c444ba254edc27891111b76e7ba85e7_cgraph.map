@@ -1,0 +1,11 @@
+<map id="roundFunc" name="roundFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac5e91a982065a1ab220a43bbd18cfa60" title="sqlite3_value_type" alt="" coords="144,5,272,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5c6adf98772a341f3df5ccd5ff003245" title="sqlite3_value_int" alt="" coords="149,56,267,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3e50c1a2dd484a8b6911c9d163816b88" title="sqlite3_value_double" alt="" coords="137,107,279,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4ae85b8d9051570b833812ea1f7d632a" title="sqlite3_mprintf" alt="" coords="155,157,261,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa3c1191fb83e4e8bdde15f13d05bd82a" title="sqlite3_result_error\l_nomem" alt="" coords="142,209,274,250"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ad2a961fc08942417d977510a1384b6d2" title="sqlite3AtoF" alt="" coords="164,275,252,301"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="154,325,262,352"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="164,376,252,403"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a534d012000f6dd9777ad42c495b68585" title="sqlite3_result_double" alt="" coords="136,427,280,453"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="closePendingFds" name="closePendingFds">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aae07c58190c3878bb635ca8e50a3ff1a" title="releaseInodeInfo" alt="" coords="176,5,291,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa72eaafaa850f2889e15af7cfb08fa1b" title="dotlockClose" alt="" coords="339,56,436,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a90bcc6164aa2d367ff91d4c32b549be6" title="posixUnlock" alt="" coords="187,107,280,133"/>
+</map>

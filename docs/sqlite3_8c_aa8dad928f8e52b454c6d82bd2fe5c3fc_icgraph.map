@@ -1,0 +1,6 @@
+<map id="sqlite3OsFileControl" name="sqlite3OsFileControl">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a01cc8aae7334af5923c075cd3ba049e1" title="sqlite3PagerSync" alt="" coords="201,5,325,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4d9e19a79f0d5c1dfcef0bd137ae83f9" title="sqlite3BtreeCopyFile" alt="" coords="192,56,335,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="383,132,488,159"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a33ffb71cb1ea1f7c5f0564166c7d6c08" title="sqlite3_file_control" alt="" coords="199,157,328,184"/>
+</map>

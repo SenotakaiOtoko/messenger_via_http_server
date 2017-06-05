@@ -1,0 +1,9 @@
+<map id="register_user" name="register_user">
+<area shape="rect" id="node2" href="$mongoose_8c.html#ad48bda7f453ecfd8ee745380ed247b9f" title="mg_get_http_var" alt="" coords="161,5,278,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="151,80,288,107"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="336,105,411,132"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a85d4203bb54c984c5325c2f5b3664985" title="sqlite3_prepare_v2" alt="" coords="155,181,284,208"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="166,232,273,259"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a9788302ffe9cedbf72815da8c4c9901c" title="sqlite3_bind_text" alt="" coords="159,283,279,309"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="173,333,265,360"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sqlite3DbMallocSize" name="sqlite3DbMallocSize">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="234,39,337,65"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad26fb054dcce926a1d2b8d981b630333" title="sqlite3VdbeMemGrow" alt="" coords="425,13,575,40"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a041437b48ab90370901a024e385193da" title="whereClauseInsert" alt="" coords="436,76,564,103"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6c59f681fc1caa0acf431ed2e98a8366" title="sqlite3VdbeMemSetRowSet" alt="" coords="193,140,377,167"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a0af9b63af545d31e2dc9ac6d65a8fe6f" title="growOpArray" alt="" coords="237,191,334,217"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aac45cc6a2a4e23a49a88ff54b09b5a2b" title="sqlite3SrcListEnlarge" alt="" coords="213,241,358,268"/>
+</map>

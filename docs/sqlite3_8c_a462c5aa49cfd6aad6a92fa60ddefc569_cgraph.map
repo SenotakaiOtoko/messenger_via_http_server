@@ -1,0 +1,11 @@
+<map id="resolveCompoundOrderBy" name="resolveCompoundOrderBy">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="486,52,599,78"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a91b59896d4e3534de7c33940dca8537c" title="sqlite3ExprSkipCollate" alt="" coords="249,38,403,65"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a93009f02d365fbdd3f83865b723fd950" title="sqlite3ExprIsInteger" alt="" coords="475,178,611,205"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#abaf80a4194f11e3f8515a85ab94f670b" title="resolveOutOfRangeError" alt="" coords="245,89,407,116"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#abb95777576695ea71cdd95e0c17382f8" title="resolveAsName" alt="" coords="270,190,382,217"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a509095508224c9f99698d86205234209" title="sqlite3ExprDup" alt="" coords="271,241,381,268"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac7f7eabdc769257622ad90aac3e02fe6" title="resolveOrderByTermToExprList" alt="" coords="225,292,427,318"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ae4e21ab5918e0428fbaa9e615dceb309" title="sqlite3ExprDelete" alt="" coords="264,342,388,369"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a790d28ff2bd0d13725c692e0c4ed7105" title="sqlite3Expr" alt="" coords="283,393,369,420"/>
+</map>

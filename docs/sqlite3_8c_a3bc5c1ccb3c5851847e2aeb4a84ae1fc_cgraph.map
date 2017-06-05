@@ -1,0 +1,5 @@
+<map id="sqlite3ExprCodeTemp" name="sqlite3ExprCodeTemp">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab58586b4abaefcc5df42af9d1e84d8fb" title="sqlite3GetTempReg" alt="" coords="417,5,553,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4f308397a0a3ed299ed31aaa1ae2a293" title="sqlite3ExprCodeTarget" alt="" coords="203,31,356,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a48d55dce63ac590c3b0fc464abb67ad7" title="sqlite3ReleaseTempReg" alt="" coords="404,68,567,95"/>
+</map>

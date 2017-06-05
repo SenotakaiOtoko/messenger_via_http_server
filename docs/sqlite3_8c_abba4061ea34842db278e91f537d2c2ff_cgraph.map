@@ -1,0 +1,10 @@
+<map id="btreeDropTable" name="btreeDropTable">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="372,37,475,64"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac2fcbee7dcc155d776ecf9d5151f3872" title="sqlite3BtreeClearTable" alt="" coords="167,37,319,64"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="376,138,471,165"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad98f5006fdec390948dd2966cf0cf12f" title="freePage" alt="" coords="207,138,280,165"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa1124ad3e3ee4dada2aa96eebd4e9c9a" title="sqlite3BtreeGetMeta" alt="" coords="173,189,314,216"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#af8fb5934ff87b02845c89350c57fd2bc" title="relocatePage" alt="" coords="194,88,293,114"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a550ba529de456d619365377b5528641c" title="sqlite3BtreeUpdateMeta" alt="" coords="163,290,324,317"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a1c974ee71f86cb74370ca21e5e6cdb14" title="zeroPage" alt="" coords="205,341,282,368"/>
+</map>

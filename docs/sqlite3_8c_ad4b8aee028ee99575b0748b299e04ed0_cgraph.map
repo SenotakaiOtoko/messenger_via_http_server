@@ -1,0 +1,6 @@
+<map id="sqlite3PagerWrite" name="sqlite3PagerWrite">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab08693a5ff8d1b759eb50dc307ee910f" title="sqlite3BitvecTest" alt="" coords="181,5,301,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa5dbf1a9dcccf0aa140b04b81325517f" title="pager_write" alt="" coords="197,56,285,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="179,107,303,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a79ba2db0ed806dd235384c923231173f" title="pager_lookup" alt="" coords="191,157,290,184"/>
+</map>

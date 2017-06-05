@@ -1,0 +1,9 @@
+<map id="mbuf_insert" name="mbuf_insert">
+<area shape="rect" id="node2" href="$mongoose_8h.html#adb813dc930103a8ee7208fe700e1af59" title="mbuf_trim" alt="" coords="189,5,268,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#ac41fbcc1cce8ce4b7c470e7a4464b9b9" title="mbuf_append" alt="" coords="179,56,278,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#ae499a420ebddf3de98c831649925e04d" title="mg_mqtt_prepend_header" alt="" coords="143,107,315,133"/>
+<area shape="rect" id="node5" href="$mongoose_8h.html#a2cbd4a7623976a4a7f4afd779861f6bb" title="mg_dns_insert_header" alt="" coords="152,208,305,235"/>
+<area shape="rect" id="node6" href="$mongoose_8h.html#a080dc50cfd880656bc8e79513c62fc2d" title="mg_send_dns_query" alt="" coords="363,157,505,184"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#a34d5010e6736d63c08b6404ca123fd36" title="dns_handler" alt="" coords="388,259,480,285"/>
+<area shape="rect" id="node8" href="$mongoose_8h.html#ab35d9402402a39d7d6e47c8426807cda" title="mg_set_protocol_dns" alt="" coords="553,259,700,285"/>
+</map>

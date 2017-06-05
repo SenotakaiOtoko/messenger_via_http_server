@@ -1,0 +1,7 @@
+<map id="sqlite3DeleteTriggerStep" name="sqlite3DeleteTriggerStep">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae4e21ab5918e0428fbaa9e615dceb309" title="sqlite3ExprDelete" alt="" coords="218,56,342,83"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="585,107,688,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="397,5,532,32"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae9cd46eac81e86a04ed8c09b99fc3c10" title="sqlite3ExprListDelete" alt="" coords="392,107,537,133"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a38bea53ea789e86289ca600ff6010f73" title="sqlite3IdListDelete" alt="" coords="216,208,344,235"/>
+</map>

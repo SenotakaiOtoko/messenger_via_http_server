@@ -1,0 +1,5 @@
+<map id="mg_set_non_blocking_mode" name="mg_set_non_blocking_mode">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a75c696f0d73052eb3ac6bedfff8ade05" title="mg_socket_if_connect_tcp" alt="" coords="240,5,417,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a1773aee717913995be370489f8bd7dbc" title="mg_open_listening_socket" alt="" coords="241,56,417,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a030b0b94039213644e7b91d3d1508964" title="mg_socket_if_sock_set" alt="" coords="249,107,408,133"/>
+</map>

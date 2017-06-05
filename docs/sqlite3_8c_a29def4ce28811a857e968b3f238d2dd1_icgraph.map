@@ -1,0 +1,6 @@
+<map id="createCollation" name="createCollation">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6a9c3bc3a64234e863413f41db473758" title="openDatabase" alt="" coords="197,5,303,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#ae16a68d17915d0f18ab05ee246f54d0d" title="sqlite3_create_collation" alt="" coords="171,56,329,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#acf133d2ce646b13fd95ca84940e34102" title="sqlite3_create_collation_v2" alt="" coords="161,107,339,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a445eeb90caf851d2c8e329142a5ee906" title="sqlite3_create_collation16" alt="" coords="164,157,336,184"/>
+</map>

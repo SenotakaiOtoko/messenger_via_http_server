@@ -1,0 +1,11 @@
+<map id="mg_http_send_error" name="mg_http_send_error">
+<area shape="rect" id="node2" href="$db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="230,5,330,32"/>
+<area shape="rect" id="node3" href="$db__plugin__sqlite_8c.html#a36f0356eb331a8494756d4866a902ae8" title="Функция&#45;обработчик POST запроса к api. " alt="" coords="417,132,485,159"/>
+<area shape="rect" id="node4" href="$db__plugin__sqlite_8c.html#a43abdad9581ce5776d3be74ee46577c9" title="Функция&#45;обработчик любого запроса к api. " alt="" coords="533,259,591,285"/>
+<area shape="rect" id="node5" href="$messenger__via__http__server_8c.html#a1649d4c8e3ef4f59226bba26da5a99e2" title="Функция&#45;обработчик событий " alt="" coords="639,284,721,311"/>
+<area shape="rect" id="node6" href="$db__plugin__sqlite_8c.html#a6674451cff020de5748bdc298a212207" title="Функция api отправки сообщения " alt="" coords="225,107,335,133"/>
+<area shape="rect" id="node7" href="$db__plugin__sqlite_8c.html#aac058d44b78ba7f125d172c1f8152bc4" title="Функция api регистрации нового пользователя " alt="" coords="231,157,329,184"/>
+<area shape="rect" id="node8" href="$db__plugin__sqlite_8c.html#a29dc47a40acc94913c2372d989ee8eed" title="Функция api получения данных о пользователе " alt="" coords="244,208,316,235"/>
+<area shape="rect" id="node9" href="$mongoose_8h.html#a38631bcf9f50213200764415341c59b0" title="mg_parse_http_basic_auth" alt="" coords="191,360,369,387"/>
+<area shape="rect" id="node10" href="$mongoose_8h.html#a85308bde07e6c49e00d660553a8e3fd1" title="mg_register_http_endpoint" alt="" coords="193,411,367,437"/>
+</map>

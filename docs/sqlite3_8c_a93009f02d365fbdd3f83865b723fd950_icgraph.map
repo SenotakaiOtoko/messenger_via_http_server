@@ -1,0 +1,9 @@
+<map id="sqlite3ExprIsInteger" name="sqlite3ExprIsInteger">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac7f7eabdc769257622ad90aac3e02fe6" title="resolveOrderByTermToExprList" alt="" coords="189,5,391,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a462c5aa49cfd6aad6a92fa60ddefc569" title="resolveCompoundOrderBy" alt="" coords="439,31,611,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4dc8ed6177a5de887eae1010992e3d00" title="resolveOrderGroupBy" alt="" coords="217,107,363,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa72440ec8db7b30f945e8f50ad9a4eba" title="exprAlwaysFalse" alt="" coords="229,157,351,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa69b46d2204a1d1b110107a1be12ee0c" title="sqlite3CodeSubselect" alt="" coords="216,208,364,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae9d37055e4905929b6f6cda5461e2f37" title="computeLimitRegisters" alt="" coords="213,259,367,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a6456c61f3d9b2389738753cedfa24fa7" title="multiSelect" alt="" coords="481,284,568,311"/>
+</map>

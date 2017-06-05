@@ -1,0 +1,12 @@
+<map id="sqlite3WalClose" name="sqlite3WalClose">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae224ca9067bc3e682180d0ecc1cd2206" title="sqlite3OsLock" alt="" coords="198,5,303,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a58bec6523fa854142169cdff1fbb8e5f" title="sqlite3WalCheckpoint" alt="" coords="177,56,325,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a63d0693fc056b088572daedace58e82f" title="sqlite3OsFileControlHint" alt="" coords="169,107,332,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7d814227c8fb4a3441c42e9f2fdade3b" title="walLimitSize" alt="" coords="203,208,298,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="380,171,551,197"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="385,247,546,273"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac00a5136f28676c83a9acc6839ee4bcb" title="walIndexClose" alt="" coords="198,309,303,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="421,335,509,361"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="195,411,306,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a576c2e542e46ddee19d10e75337039c0" title="sqlite3OsDelete" alt="" coords="193,461,308,488"/>
+</map>

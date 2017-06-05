@@ -1,0 +1,10 @@
+<map id="sqlite3BitvecDestroy" name="sqlite3BitvecDestroy">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9b4e3e921ce1ede6f10a9106c034ff9b" title="sqlite3BitvecBuiltinTest" alt="" coords="197,5,353,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac0ec06e81b223a42295bd1a0182b1609" title="releaseAllSavepoints" alt="" coords="204,107,347,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5b54bd09bd76fa68eb6310fbf9bbaf20" title="pager_unlock" alt="" coords="433,69,531,96"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="405,145,559,172"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aedf76c3b6661c4244cc3e2c5464fd12e" title="pagerPlaybackSavepoint" alt="" coords="193,208,357,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a8b5f1920b6a8b564a47e243868f2c8d4" title="sqlite3PagerSavepoint" alt="" coords="407,233,557,260"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a9a5224f8941dc99ce19bb0eb24766d00" title="pager_open_journal" alt="" coords="208,309,343,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ad76ff2727e128c649f8017fdc570bd06" title="btreeClearHasContent" alt="" coords="201,360,350,387"/>
+</map>

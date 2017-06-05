@@ -1,0 +1,6 @@
+<map id="Mem" name="Mem">
+<area shape="rect" id="node2" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="5,535,115,759"/>
+<area shape="rect" id="node3" href="$struct_vdbe_frame.html" title="{VdbeFrame\n|+ aOnceFlag\l+ token\l+ lastRowid\l+ nCursor\l+ pc\l+ nOp\l+ nMem\l+ nOnceFlag\l+ nChildMem\l+ nChildCsr\l+ nChange\l|}" alt="" coords="139,535,237,759"/>
+<area shape="rect" id="node4" href="$struct_row_set.html" title="{RowSet\n|+ nFresh\l+ rsFlags\l+ iBatch\l|}" alt="" coords="240,821,317,928"/>
+<area shape="rect" id="node5" href="$struct_func_def.html" title="{FuncDef\n|+ nArg\l+ iPrefEnc\l+ flags\l+ pUserData\l+ xFunc\l+ xStep\l+ xFinalize\l+ zName\l|}" alt="" coords="138,5,233,185"/>
+</map>

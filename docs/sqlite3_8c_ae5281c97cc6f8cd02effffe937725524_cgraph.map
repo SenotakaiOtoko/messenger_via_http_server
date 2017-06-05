@@ -1,0 +1,7 @@
+<map id="explainOneScan" name="explainOneScan">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="189,5,290,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a43b33971f250cf38164a84f751057bce" title="sqlite3MAppendf" alt="" coords="180,56,299,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="356,81,459,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a51565abc79ef958389b91811b4372ad6" title="explainIndexRange" alt="" coords="174,157,305,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a739d7a47b1c11779283b7797ea7e1d4d" title="sqlite3VdbeAddOp4" alt="" coords="171,208,308,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mg_http_proto_data" name="mg_http_proto_data">
+<area shape="rect" id="node2" href="$structmg__reverse__proxy__data.html" title="{mg_reverse_proxy_data\n||}" alt="" coords="146,329,305,406"/>
+<area shape="rect" id="node3" href="$structmg__connection.html" title="{mg_connection\n|+ sock\l+ err\l+ recv_mbuf_limit\l+ last_io_time\l+ ev_timer_time\l+ proto_data\l+ proto_data_destructor\l+ user_data\l+ v\l+ priv_1\l+ priv_2\l+ mgr_data\l+ flags\l|}" alt="" coords="145,5,305,259"/>
+<area shape="rect" id="node4" href="$structmg__http__endpoint.html" title="{mg_http_endpoint\n|+ name\l+ name_len\l|}" alt="" coords="329,321,455,413"/>
+<area shape="rect" id="node5" href="$structmg__http__proto__data__chuncked.html" title="{mg_http_proto_data\l_chuncked\n|+ body_len\l|}" alt="" coords="541,321,678,413"/>
+</map>

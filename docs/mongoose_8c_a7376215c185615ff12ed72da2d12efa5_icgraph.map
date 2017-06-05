@@ -1,0 +1,6 @@
+<map id="mg_tun_reconnect" name="mg_tun_reconnect">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a1db131b77c3d3046fc7aa7577b52dfae" title="mg_resolve_async_opt" alt="" coords="183,5,337,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a1168dd3461e43dd59f623e15828b1183" title="mg_tun_client_handler" alt="" coords="184,56,336,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a41a1997e71c9f5a4ea11ccc614e1f7c2" title="mg_tun_reconnect_ev\l_handler" alt="" coords="186,107,334,149"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a8cfaf9cdc704f3aeea3a535c7f85684a" title="mg_tun_create_client" alt="" coords="187,173,333,200"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sqlite3SrcListAppend" name="sqlite3SrcListAppend">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="209,5,347,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aac45cc6a2a4e23a49a88ff54b09b5a2b" title="sqlite3SrcListEnlarge" alt="" coords="205,56,351,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acc250a3e5e7fd8889a16a9f28e3e7312" title="sqlite3SrcListDelete" alt="" coords="209,107,347,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6ba4248ee912d7f5a7a898c5ae46e808" title="sqlite3NameFromToken" alt="" coords="199,157,357,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="VdbeFunc" name="VdbeFunc">
+<area shape="rect" id="node2" href="$struct_vdbe_func_1_1_aux_data.html" title="{AuxData\n|+ pAux\l+ xDelete\l|}" alt="" coords="5,49,84,141"/>
+<area shape="rect" id="node3" href="$struct_func_def.html" title="{FuncDef\n|+ nArg\l+ iPrefEnc\l+ flags\l+ pUserData\l+ xFunc\l+ xStep\l+ xFinalize\l+ zName\l|}" alt="" coords="108,5,203,185"/>
+</map>

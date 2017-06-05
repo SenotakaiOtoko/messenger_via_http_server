@@ -1,0 +1,14 @@
+<map id="mg_printf" name="mg_printf">
+<area shape="rect" id="node2" href="$db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="622,37,722,64"/>
+<area shape="rect" id="node3" href="$db__plugin__sqlite_8c.html#a6674451cff020de5748bdc298a212207" title="Функция api отправки сообщения " alt="" coords="617,113,727,140"/>
+<area shape="rect" id="node4" href="$db__plugin__sqlite_8c.html#aac058d44b78ba7f125d172c1f8152bc4" title="Функция api регистрации нового пользователя " alt="" coords="623,215,721,241"/>
+<area shape="rect" id="node5" href="$db__plugin__sqlite_8c.html#a29dc47a40acc94913c2372d989ee8eed" title="Функция api получения данных о пользователе " alt="" coords="636,297,708,324"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a183db706c271de967e442c79da03a48b" title="mg_send_response_line_s" alt="" coords="151,277,327,304"/>
+<area shape="rect" id="node7" href="$mongoose_8h.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="397,227,535,253"/>
+<area shape="rect" id="node8" href="$mongoose_8h.html#a38631bcf9f50213200764415341c59b0" title="mg_parse_http_basic_auth" alt="" coords="583,364,761,391"/>
+<area shape="rect" id="node9" href="$mongoose_8h.html#a85308bde07e6c49e00d660553a8e3fd1" title="mg_register_http_endpoint" alt="" coords="585,415,759,441"/>
+<area shape="rect" id="node10" href="$mongoose_8h.html#a2dfcbaf7ad4885852337450d17ab0608" title="mg_send_head" alt="" coords="183,176,294,203"/>
+<area shape="rect" id="node11" href="$mongoose_8h.html#a1b6f42a4c07dac32c1e08836ef5f3147" title="mg_connect_http_opt" alt="" coords="165,480,312,507"/>
+<area shape="rect" id="node12" href="$mongoose_8c.html#a8c4d303b51e42513b6a6a9c54d2ccf45" title="mg_ws_handshake" alt="" coords="172,531,305,557"/>
+<area shape="rect" id="node13" href="$mongoose_8h.html#ad281ec2c88a87500882fb3dffd2d8701" title="mg_send_websocket_handshake3" alt="" coords="128,581,349,608"/>
+</map>

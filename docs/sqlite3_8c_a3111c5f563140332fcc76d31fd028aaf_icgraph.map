@@ -1,0 +1,7 @@
+<map id="sqlite3GetToken" name="sqlite3GetToken">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8817d3fc676725cc38759623e498863a" title="findNextHostParameter" alt="" coords="169,5,325,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aad60fbd27dbc13ef0d06ac3f2d2fc594" title="renameTableFunc" alt="" coords="185,56,310,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8d4f2e761693277684d0a9b45812b73d" title="renameParentFunc" alt="" coords="181,107,313,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad20a735ddb4907a5d46c017da75a3a12" title="renameTriggerFunc" alt="" coords="181,157,314,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a174f16a9adcc64bf971bae4a5ffa3488" title="sqlite3RunParser" alt="" coords="187,208,308,235"/>
+</map>

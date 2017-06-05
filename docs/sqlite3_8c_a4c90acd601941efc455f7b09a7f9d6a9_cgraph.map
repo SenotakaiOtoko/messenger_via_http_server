@@ -1,0 +1,8 @@
+<map id="sqliteProcessJoin" name="sqliteProcessJoin">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="195,5,308,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a10ce48c1a2bc199fae2c84544b0bb4f7" title="tableAndColumnIndex" alt="" coords="177,56,325,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aecb92892e377cbedaa264efa5e95f0b4" title="columnIndex" alt="" coords="381,95,476,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a916438f860daaffa479b734432cbdf25" title="addWhereTerm" alt="" coords="196,157,307,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#adb7ce3f2fe4bc4cb22dbb82aed2b6c32" title="sqlite3ExprAnd" alt="" coords="373,171,484,197"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a38b06e4e89555c8e7cf1a255b3f31c30" title="setJoinExpr" alt="" coords="206,259,297,285"/>
+</map>

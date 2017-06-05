@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура mg_dns_message</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура mg_dns_message</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p><code>#include &lt;<a class="el" href="mongoose_8h_source.html">mongoose.h</a>&gt;</code></p>
+<div class="dynheader">
+Граф связей класса mg_dns_message:</div>
+<div class="dyncontent">
+<div class="center"><img src="structmg__dns__message__coll__graph.png" border="0" usemap="#mg__dns__message_coll__map" alt="Collaboration graph"/></div>
+<map name="mg__dns__message_coll__map" id="mg__dns__message_coll__map">
+<area shape="rect" id="node2" href="structmg__dns__resource__record.html" title="{mg_dns_resource_record\n|+ rtype\l+ rclass\l+ ttl\l+ kind\l|}" alt="" coords="79,175,247,296"/>
+<area shape="rect" id="node3" href="structmg__str.html" title="{mg_str\n|+ p\l+ len\l|}" alt="" coords="38,5,101,97"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:a2618e1bf2b6200aa19a59731fa78609d"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__dns__message.html#a2618e1bf2b6200aa19a59731fa78609d">pkt</a></td></tr>
+<tr class="separator:a2618e1bf2b6200aa19a59731fa78609d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e87af3c18a2fd36c61faf89949bdc3f"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__dns__message.html#a1e87af3c18a2fd36c61faf89949bdc3f">flags</a></td></tr>
+<tr class="separator:a1e87af3c18a2fd36c61faf89949bdc3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd033d678b257f4be2d0ee2493d8889c"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__dns__message.html#abd033d678b257f4be2d0ee2493d8889c">transaction_id</a></td></tr>
+<tr class="separator:abd033d678b257f4be2d0ee2493d8889c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af764e8950f6d4788bcffb2ff3a0b32b0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__dns__message.html#af764e8950f6d4788bcffb2ff3a0b32b0">num_questions</a></td></tr>
+<tr class="separator:af764e8950f6d4788bcffb2ff3a0b32b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8cfbb70e87d9354f2cd39100755974d8"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__dns__message.html#a8cfbb70e87d9354f2cd39100755974d8">num_answers</a></td></tr>
+<tr class="separator:a8cfbb70e87d9354f2cd39100755974d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b6ef88a2c8e6aa3b037308a42056473"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__dns__resource__record.html">mg_dns_resource_record</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__dns__message.html#a5b6ef88a2c8e6aa3b037308a42056473">questions</a> [<a class="el" href="mongoose_8h.html#a84f36ff9caf50e0d70d10244a2c64b45">MG_MAX_DNS_QUESTIONS</a>]</td></tr>
+<tr class="separator:a5b6ef88a2c8e6aa3b037308a42056473"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb6b5becd086a6d3c8f0fcd344b5f3a6"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__dns__resource__record.html">mg_dns_resource_record</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__dns__message.html#afb6b5becd086a6d3c8f0fcd344b5f3a6">answers</a> [<a class="el" href="mongoose_8h.html#a1832d47a93efb88b807286ed1ae80646">MG_MAX_DNS_ANSWERS</a>]</td></tr>
+<tr class="separator:afb6b5becd086a6d3c8f0fcd344b5f3a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="afb6b5becd086a6d3c8f0fcd344b5f3a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb6b5becd086a6d3c8f0fcd344b5f3a6">&#9670;&nbsp;</a></span>answers</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__dns__resource__record.html">mg_dns_resource_record</a> answers[<a class="el" href="mongoose_8h.html#a1832d47a93efb88b807286ed1ae80646">MG_MAX_DNS_ANSWERS</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1e87af3c18a2fd36c61faf89949bdc3f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e87af3c18a2fd36c61faf89949bdc3f">&#9670;&nbsp;</a></span>flags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint16_t flags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8cfbb70e87d9354f2cd39100755974d8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8cfbb70e87d9354f2cd39100755974d8">&#9670;&nbsp;</a></span>num_answers</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int num_answers</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af764e8950f6d4788bcffb2ff3a0b32b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af764e8950f6d4788bcffb2ff3a0b32b0">&#9670;&nbsp;</a></span>num_questions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int num_questions</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2618e1bf2b6200aa19a59731fa78609d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2618e1bf2b6200aa19a59731fa78609d">&#9670;&nbsp;</a></span>pkt</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> pkt</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5b6ef88a2c8e6aa3b037308a42056473"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b6ef88a2c8e6aa3b037308a42056473">&#9670;&nbsp;</a></span>questions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__dns__resource__record.html">mg_dns_resource_record</a> questions[<a class="el" href="mongoose_8h.html#a84f36ff9caf50e0d70d10244a2c64b45">MG_MAX_DNS_QUESTIONS</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abd033d678b257f4be2d0ee2493d8889c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd033d678b257f4be2d0ee2493d8889c">&#9670;&nbsp;</a></span>transaction_id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint16_t transaction_id</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="mongoose_8h_source.html">mongoose.h</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

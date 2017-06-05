@@ -1,0 +1,9 @@
+<map id="sqlite3_backup_init" name="sqlite3_backup_init">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="357,183,496,209"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="383,31,471,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="187,107,309,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab4ee5743b77efd7f8832bf0b9315f973" title="findBtree" alt="" coords="211,5,285,32"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acd3459ec2257f990aaea330d998fe0a6" title="setDestPgsz" alt="" coords="199,208,297,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="204,259,292,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="357,284,496,311"/>
+</map>

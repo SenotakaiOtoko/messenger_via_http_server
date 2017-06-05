@@ -1,0 +1,6 @@
+<map id="clearSelect" name="clearSelect">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ae9cd46eac81e86a04ed8c09b99fc3c10" title="sqlite3ExprListDelete" alt="" coords="140,5,285,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae4e21ab5918e0428fbaa9e615dceb309" title="sqlite3ExprDelete" alt="" coords="333,56,457,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0f56959f0acac85496744f0d068854a0" title="sqlite3SelectDelete" alt="" coords="505,139,640,165"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acc250a3e5e7fd8889a16a9f28e3e7312" title="sqlite3SrcListDelete" alt="" coords="143,107,282,133"/>
+</map>

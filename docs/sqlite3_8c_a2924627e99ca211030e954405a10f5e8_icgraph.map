@@ -1,0 +1,7 @@
+<map id="sqlite3Get4byte" name="sqlite3Get4byte">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9827cbfc556377e551197926ca1adf61" title="read32bits" alt="" coords="215,5,298,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afd08ca92c5087db71f9b3a7cd9343057" title="pager_write_changecounter" alt="" coords="167,56,347,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aaa163f26bf1e56df2fb274bf7e6bc5b9" title="walDecodeFrame" alt="" coords="195,107,318,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab4ee99f3710323acbeb6c495dd18d205" title="walIndexRecover" alt="" coords="395,132,513,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a12a2a8718a33ce32fc99f83239a4d491" title="walRestartLog" alt="" coords="205,208,309,235"/>
+</map>

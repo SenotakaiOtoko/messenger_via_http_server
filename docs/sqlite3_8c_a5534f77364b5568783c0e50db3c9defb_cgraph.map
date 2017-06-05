@@ -1,0 +1,15 @@
+<map id="sqlite3DropTable" name="sqlite3DropTable">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac80229652e6d3200bd88dff77f874888" title="sqlite3LocateTableItem" alt="" coords="201,57,355,83"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad9ef77a42022f1f8c8ab71b5761f5134" title="sqlite3SchemaToIndex" alt="" coords="445,31,599,58"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a30331e33b8e462cbe3aa83c8bddb8c0e" title="sqlite3CodeVerifyNamedSchema" alt="" coords="172,107,384,134"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aebc7cd8d9e2bd174ae0a60363d3f6ce8" title="sqlite3ViewGetColumnNames" alt="" coords="181,209,375,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="465,209,579,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a83c75b8b7aa1c35301005be7ff1a8582" title="sqlite3AuthCheck" alt="" coords="216,158,340,185"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a85465ef27057193295e321f0caf488ed" title="sqlite3GetVTable" alt="" coords="217,310,339,337"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="467,513,577,539"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a21b1b811bbe305f922244f8913c87f10" title="sqlite3BeginWriteOperation" alt="" coords="432,386,612,413"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a3a6659fbbc07f5bd5d327d88e6660702" title="sqlite3ClearStatTables" alt="" coords="202,462,354,489"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a1218c6fc74e89152ceaa4760e82f5ef9" title="sqlite3FkDropTable" alt="" coords="211,563,345,590"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#aaf9a8d65346dc15bfcd60bc48e885f46" title="sqlite3CodeDropTable" alt="" coords="204,411,352,438"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#acc250a3e5e7fd8889a16a9f28e3e7312" title="sqlite3SrcListDelete" alt="" coords="209,614,347,641"/>
+</map>

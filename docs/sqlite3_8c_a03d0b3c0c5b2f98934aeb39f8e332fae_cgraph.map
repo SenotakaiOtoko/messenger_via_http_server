@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeSorterWrite" name="sqlite3VdbeSorterWrite">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7ef2f973d52f5d21b856d4bed6bb1fec" title="sqlite3VarintLen" alt="" coords="226,5,341,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="214,56,353,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a2b7232bc5f106e359882fe58b46d2b08" title="sqlite3HeapNearlyFull" alt="" coords="209,107,357,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6cd71a52254df3740736535daa71d165" title="vdbeSorterListToPMA" alt="" coords="210,157,357,184"/>
+</map>

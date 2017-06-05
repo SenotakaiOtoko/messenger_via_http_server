@@ -1,0 +1,22 @@
+<map id="sqlite3RunVacuum" name="sqlite3RunVacuum">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aad368822484a1ceae010a829e27454ae" title="sqlite3SetString" alt="" coords="636,49,751,76"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab46debef26325b83fd097b87c244e371" title="sqlite3PagerIsMemdb" alt="" coords="205,176,351,202"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa0b1925984c0d8606d760b8fa27a4d7c" title="sqlite3BtreePager" alt="" coords="441,252,567,278"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a458449cdb4a6ca29650deb8af285a511" title="sqlite3TempInMemory" alt="" coords="429,454,579,481"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7d16651b98a110662f4c265eff0246cb" title="execSql" alt="" coords="469,74,539,101"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a8e56ab314556935f9f73080147d26419" title="sqlite3BtreeCommit" alt="" coords="210,530,346,557"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a68011b8563328468149157a52e70e984" title="sqlite3BtreeGetReserve" alt="" coords="199,581,357,608"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a52d6706df15c67c22aa7d0e290c16bf5" title="sqlite3BtreeBeginTrans" alt="" coords="200,480,356,506"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#af59e923de7a57868bb8f10ba2634a072" title="sqlite3PagerGetJournalMode" alt="" coords="184,632,372,658"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ad9c65e8377c831a80e0ac1f108c43f3e" title="sqlite3BtreeSetPageSize" alt="" coords="195,682,361,709"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a91f9dbfdbf95d6d9b955d1c7648b9fc1" title="sqlite3BtreeGetPageSize" alt="" coords="420,314,588,341"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a6cb08515ad39617bc044a4aa96941214" title="sqlite3BtreeSetAutoVacuum" alt="" coords="185,733,371,760"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#ac309964abd264c81f359eb521dbe7592" title="sqlite3BtreeGetAutoVacuum" alt="" coords="185,784,371,810"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#ac1be09a6c047f21133d16378d301e0d4" title="execExecSql" alt="" coords="229,125,327,152"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#af38624e008e0a0e872a21934b7c75a42" title="sqlite3BtreeIsInTrans" alt="" coords="433,372,575,398"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#aa1124ad3e3ee4dada2aa96eebd4e9c9a" title="sqlite3BtreeGetMeta" alt="" coords="207,834,349,861"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a550ba529de456d619365377b5528641c" title="sqlite3BtreeUpdateMeta" alt="" coords="197,885,359,912"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#a4d9e19a79f0d5c1dfcef0bd137ae83f9" title="sqlite3BtreeCopyFile" alt="" coords="207,277,349,304"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#a729b65009b66a99200496b09c124df01" title="sqlite3BtreeClose" alt="" coords="216,936,340,962"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#a2fc0d7e9d7e688a2a81ea4775dd12e33" title="sqlite3ResetAllSchemasOf\lConnection" alt="" coords="189,987,367,1028"/>
+</map>

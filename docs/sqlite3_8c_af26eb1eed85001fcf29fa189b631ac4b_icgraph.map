@@ -1,0 +1,8 @@
+<map id="findTerm" name="findTerm">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad5153a3866978ad25914d8219c37cb21" title="isDistinctIndex" alt="" coords="145,5,251,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad32063b4fbc822986766588a51ffff64" title="bestBtreeIndex" alt="" coords="331,56,440,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acfc2ade61d376596f173a8f70fea379b" title="isDistinctRedundant" alt="" coords="129,107,267,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9b9195175498c993152fe0a0667a9d75" title="isSortingIndex" alt="" coords="146,157,250,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a626be710f5fa4c06c5a4b4480b951e9f" title="codeAllEqualityTerms" alt="" coords="124,208,272,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7b24987855c8f506fce74b71506dd3c4" title="codeOneLoopStart" alt="" coords="320,233,451,260"/>
+</map>

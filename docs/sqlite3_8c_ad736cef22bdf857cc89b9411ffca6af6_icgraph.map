@@ -1,0 +1,8 @@
+<map id="sqlite3BinaryCompareCollSeq" name="sqlite3BinaryCompareCollSeq">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8cca26a71db22ffabf292736aefd31a9" title="codeCompare" alt="" coords="280,5,383,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3d35646de8b51f0403d915d78bdaa42d" title="sqlite3FindInIndex" alt="" coords="463,95,589,121"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa69b46d2204a1d1b110107a1be12ee0c" title="sqlite3CodeSubselect" alt="" coords="257,107,405,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af26eb1eed85001fcf29fa189b631ac4b" title="findTerm" alt="" coords="296,157,367,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad5153a3866978ad25914d8219c37cb21" title="isDistinctIndex" alt="" coords="473,171,579,197"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aad43d38bc718f4c8e8d0dd8f33ed526f" title="constructAutomaticIndex" alt="" coords="248,259,415,285"/>
+</map>

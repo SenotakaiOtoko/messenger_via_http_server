@@ -1,0 +1,5 @@
+<map id="disconnectAllVtab" name="disconnectAllVtab">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7e8c5e623a61d322d3622c3e6202d735" title="sqlite3BtreeEnterAll" alt="" coords="187,5,325,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a27389b43aaf0bfa61d7f4ae78863ef2a" title="sqlite3VtabDisconnect" alt="" coords="180,56,332,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a282e5f429eee8e0aebc7d18068ebccd2" title="sqlite3BtreeLeaveAll" alt="" coords="187,107,325,133"/>
+</map>

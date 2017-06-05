@@ -1,0 +1,9 @@
+<map id="pagerLockDb" name="pagerLockDb">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a181fa0432ae1cc12a783f8a11ea2021f" title="pager_wait_on_lock" alt="" coords="153,85,289,111"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="337,47,500,74"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afb929a0a4553cda84de16180ddbd09f7" title="sqlite3PagerSetJournalMode" alt="" coords="548,117,735,143"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a693d0ab5cecd4a8001da6fa21f44d99e" title="sqlite3PagerBegin" alt="" coords="355,110,482,137"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a875dc699b7a0e8ab6ba19170e5096d5e" title="hasHotJournal" alt="" coords="169,34,273,61"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7f978cc8af52489d388024ebf2b88112" title="pagerExclusiveLock" alt="" coords="152,237,289,263"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac62d7d3d29214a7cad25fdd88e7c7a74" title="sqlite3PagerCloseWal" alt="" coords="343,262,494,289"/>
+</map>

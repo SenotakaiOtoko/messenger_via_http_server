@@ -1,0 +1,8 @@
+<map id="vdbeUnbind" name="vdbeUnbind">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a018448275e86f09d8af8033cec4cafdf" title="vdbeSafetyNotNull" alt="" coords="161,5,288,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a298c9699bf9c143662c6b1fec4b2dc3b" title="sqlite3_log" alt="" coords="356,31,440,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="155,107,294,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="181,157,269,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="155,208,294,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="141,259,308,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="BtCursor" name="BtCursor">
+<area shape="rect" id="node3" href="$struct_bt_shared.html" title="{BtShared\n|+ openFlags\l+ autoVacuum\l+ incrVacuum\l+ bDoTruncate\l+ inTransaction\l+ max1bytePayload\l+ btsFlags\l+ maxLocal\l+ minLocal\l+ maxLeaf\lи 9 больше...\l|}" alt="" coords="47,579,186,803"/>
+<area shape="rect" id="node2" href="$struct_cell_info.html" title="{CellInfo\n|+ nKey\l+ pCell\l+ nData\l+ nPayload\l+ nHeader\l+ nLocal\l+ iOverflow\l+ nSize\l|}" alt="" coords="169,5,257,185"/>
+<area shape="rect" id="node4" href="$struct_mem_page.html" title="{MemPage\n|+ isInit\l+ nOverflow\l+ intKey\l+ leaf\l+ hasData\l+ hdrOffset\l+ childPtrSize\l+ max1bytePayload\l+ maxLocal\l+ minLocal\lи 10 больше...\l|}" alt="" coords="202,865,341,1089"/>
+<area shape="rect" id="node5" href="$struct_btree.html" title="{Btree\n|+ inTrans\l+ sharable\l+ locked\l+ wantToLock\l+ nBackup\l|}" alt="" coords="5,909,108,1045"/>
+<area shape="rect" id="node6" href="$struct_key_info.html" title="{KeyInfo\n|+ enc\l+ nField\l+ aSortOrder\l|}" alt="" coords="281,42,379,149"/>
+</map>

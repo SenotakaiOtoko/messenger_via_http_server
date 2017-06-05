@@ -1,0 +1,6 @@
+<map id="VdbeSorter" name="VdbeSorter">
+<area shape="rect" id="node2" href="$struct_vdbe_sorter_iter.html" title="{VdbeSorterIter\n|+ iReadOff\l+ iEof\l+ nAlloc\l+ nKey\l+ aAlloc\l+ aKey\l+ aBuffer\l+ nBuffer\l|}" alt="" coords="95,145,200,325"/>
+<area shape="rect" id="node3" href="$structsqlite3__file.html" title="{sqlite3_file\n||}" alt="" coords="14,5,97,83"/>
+<area shape="rect" id="node4" href="$struct_sorter_record.html" title="{SorterRecord\n|+ pVal\l+ nVal\l|}" alt="" coords="225,189,323,281"/>
+<area shape="rect" id="node5" href="$struct_unpacked_record.html" title="{UnpackedRecord\n|+ nField\l+ flags\l+ rowid\l|}" alt="" coords="419,182,540,289"/>
+</map>

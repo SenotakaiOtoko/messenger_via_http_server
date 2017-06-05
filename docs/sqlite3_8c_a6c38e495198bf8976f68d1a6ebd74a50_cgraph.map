@@ -1,0 +1,15 @@
+<map id="isLikeOrGlob" name="isLikeOrGlob">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8f103fddc426dd932ea9d796e3e9a4c7" title="sqlite3IsLikeFunction" alt="" coords="160,5,304,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aca6a667380b05650f917422118d8b7d3" title="sqlite3ExprAffinity" alt="" coords="169,56,295,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5d0e33f6d34abf28785bb1ca15bf7b66" title="sqlite3VdbeGetValue" alt="" coords="160,107,304,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac5e91a982065a1ab220a43bbd18cfa60" title="sqlite3_value_type" alt="" coords="168,157,296,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="169,208,295,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#acea0d8371216f276fe67c1b5ef24f3d7" title="sqlite3VdbeSetVarmask" alt="" coords="151,259,313,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a790d28ff2bd0d13725c692e0c4ed7105" title="sqlite3Expr" alt="" coords="189,309,275,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ab58586b4abaefcc5df42af9d1e84d8fb" title="sqlite3GetTempReg" alt="" coords="375,385,511,412"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a4f308397a0a3ed299ed31aaa1ae2a293" title="sqlite3ExprCodeTarget" alt="" coords="155,411,309,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a48d55dce63ac590c3b0fc464abb67ad7" title="sqlite3ReleaseTempReg" alt="" coords="361,448,524,475"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a1f16b587957a9ed7564597e58e81a9e9" title="sqlite3VdbeChangeP3" alt="" coords="157,512,307,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a5e2bf0933a091bdfd7f0acd86a894889" title="sqlite3VdbeCurrentAddr" alt="" coords="153,563,311,589"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#afeed84c3f344a833d15c7209265dc520" title="sqlite3ValueFree" alt="" coords="173,613,291,640"/>
+</map>

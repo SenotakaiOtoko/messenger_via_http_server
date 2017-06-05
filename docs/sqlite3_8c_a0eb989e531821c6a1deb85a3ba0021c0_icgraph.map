@@ -1,0 +1,7 @@
+<map id="robust_open" name="robust_open">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a34c67a19bf6632f4c0f362ec5f2d2a1b" title="openDirectory" alt="" coords="178,5,281,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a30775afa2e08ca6ddc7853326afed7c7" title="unixOpenSharedMemory" alt="" coords="147,56,312,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8ed5efc47b6e14f7805cd1bb9b215775" title="unixOpen" alt="" coords="191,107,268,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9006328b44a687fe13c07acc7aab68da" title="unixRandomness" alt="" coords="168,157,291,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aed1e42f49d74b419c3c85b559dd61240" title="unixGetLastError" alt="" coords="169,208,289,235"/>
+</map>

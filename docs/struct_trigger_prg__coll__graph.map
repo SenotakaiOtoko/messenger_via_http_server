@@ -1,0 +1,4 @@
+<map id="TriggerPrg" name="TriggerPrg">
+<area shape="rect" id="node2" href="$struct_sub_program.html" title="{SubProgram\n|+ nOp\l+ nMem\l+ nCsr\l+ nOnce\l+ token\l|}" alt="" coords="5,5,100,141"/>
+<area shape="rect" id="node3" href="$struct_trigger.html" title="{Trigger\n|+ zName\l+ table\l+ op\l+ tr_tm\l|}" alt="" coords="195,13,270,134"/>
+</map>

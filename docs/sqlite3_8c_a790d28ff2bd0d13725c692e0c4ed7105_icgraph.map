@@ -1,0 +1,12 @@
+<map id="sqlite3Expr" name="sqlite3Expr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a462c5aa49cfd6aad6a92fa60ddefc569" title="resolveCompoundOrderBy" alt="" coords="169,5,341,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a67c9dcb484336b3155e7a82a037d4691" title="fkScanChildren" alt="" coords="201,56,310,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a45d66e3277860bacad58eb6296680c8e" title="fkActionTrigger" alt="" coords="429,120,537,147"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af637faf2f42e6ac5b93c317ed350252c" title="sqlite3SelectNew" alt="" coords="194,157,317,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a740220531db9293c39a2cdd7da3f74e1" title="updateVirtualTable" alt="" coords="419,196,548,223"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7c419a9b25711c666a9a2449ef377f14" title="yy_reduce" alt="" coords="442,247,525,273"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#afcdb8488c6f4dfdadaf9f04bca35b808" title="multiSelectOrderBy" alt="" coords="188,309,323,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a81a588e62b98e8445d4540bbbc30e10a" title="convertCompoundSelectToSubquery" alt="" coords="140,360,371,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#abee977318fbf74531340c6e41b0ca953" title="selectExpander" alt="" coords="199,411,311,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a6c38e495198bf8976f68d1a6ebd74a50" title="isLikeOrGlob" alt="" coords="207,461,304,488"/>
+</map>

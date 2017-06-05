@@ -1,0 +1,6 @@
+<map id="Walker" name="Walker">
+<area shape="rect" id="node2" href="$struct_name_context.html" title="{NameContext\n|+ nRef\l+ nErr\l+ ncFlags\l|}" alt="" coords="218,292,319,399"/>
+<area shape="rect" id="node3" href="$struct_src_list.html" title="{SrcList\n|+ nSrc\l+ nAlloc\l|}" alt="" coords="97,71,168,163"/>
+<area shape="rect" id="node5" href="$struct_src_count.html" title="{SrcCount\n|+ nThis\l+ nOther\l|}" alt="" coords="5,299,81,391"/>
+<area shape="rect" id="node4" href="$struct_parse.html" title="{Parse\n|+ zErrMsg\l+ rc\l+ colNamesSet\l+ checkSchema\l+ nested\l+ nTempReg\l+ nTempInUse\l+ nColCache\l+ iColCache\l+ isMultiWrite\lи 39 больше...\l|}" alt="" coords="330,5,447,229"/>
+</map>

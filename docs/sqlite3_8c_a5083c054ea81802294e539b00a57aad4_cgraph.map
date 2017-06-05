@@ -1,0 +1,6 @@
+<map id="allocateCursor" name="allocateCursor">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a88d6997d0f8ffafd399a7fd3c6b4efb8" title="sqlite3BtreeCursorSize" alt="" coords="159,5,313,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0f9084083e1d0639708934630f33d6ef" title="sqlite3VdbeFreeCursor" alt="" coords="159,56,313,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad26fb054dcce926a1d2b8d981b630333" title="sqlite3VdbeMemGrow" alt="" coords="161,107,311,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a51a2c5309166b55e9b578cb94f229ecd" title="sqlite3BtreeCursorZero" alt="" coords="159,157,313,184"/>
+</map>

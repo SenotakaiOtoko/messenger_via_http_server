@@ -1,0 +1,23 @@
+<map id="mg_register_http_endpoint" name="mg_register_http_endpoint">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a9120f869e8df5949d233b967c591ec13" title="mg_http_get_proto_data" alt="" coords="655,410,817,437"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a8666e3133ed8642cc139c439e20a61e7" title="mg_sock_to_str" alt="" coords="255,106,369,133"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a45d343f1d3f3c0aa79410b256e56c9ea" title="mg_conn_addr_to_str" alt="" coords="865,81,1012,108"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a844719a6a21476e5f173ef2101473153" title="mg_time" alt="" coords="1060,258,1132,285"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a3d93bd313a02285ccd37773aba1beeb5" title="mg_get_http_header" alt="" coords="455,309,595,336"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#ab0613b2aa565a9b4c3ecca1488dfacad" title="mg_send" alt="" coords="901,360,976,386"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#a992684a720955bdc25108165e417ac5d" title="mbuf_remove" alt="" coords="889,258,988,285"/>
+<area shape="rect" id="node9" href="$mongoose_8c.html#aa84d03e7fb7ba765054496258112c125" title="mg_forward" alt="" coords="692,258,780,285"/>
+<area shape="rect" id="node10" href="$mongoose_8c.html#ab156d0f1a0a22c92ba395cac3f54051a" title="mg_http_get_request_len" alt="" coords="228,589,396,616"/>
+<area shape="rect" id="node11" href="$mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="243,664,381,690"/>
+<area shape="rect" id="node12" href="$mongoose_8c.html#a8c3f17edab445264dbf2a764739669cf" title="mg_get_errno" alt="" coords="685,714,787,741"/>
+<area shape="rect" id="node13" href="$mongoose_8c.html#a78543afc568eac41f4ef22404a01dcc3" title="mg_vcmp" alt="" coords="487,765,564,792"/>
+<area shape="rect" id="node14" href="$mongoose_8c.html#a2dca037be3c41853a3dd0d6c338b9cf4" title="mg_printf" alt="" coords="488,714,563,741"/>
+<area shape="rect" id="node15" href="$mongoose_8c.html#a86b3b18850b4a122e8cd173941b43ab6" title="mg_match_prefix" alt="" coords="465,866,586,893"/>
+<area shape="rect" id="node16" href="$mongoose_8c.html#a48a2f989fee7e2c17a603145db9fa363" title="mg_mk_str" alt="" coords="693,892,779,918"/>
+<area shape="rect" id="node17" href="$mongoose_8c.html#a860ba345900d21b0682b574f9925d050" title="mg_http_parse_headers" alt="" coords="231,968,393,994"/>
+<area shape="rect" id="node18" href="$mongoose_8h.html#a6434df14580c4a10b5514935dd91a2c6" title="mg_socketpair" alt="" coords="259,1018,365,1045"/>
+<area shape="rect" id="node19" href="$mongoose_8c.html#afb346514ae6036462389e5bb8ada3121" title="mg_add_sock" alt="" coords="261,1069,363,1096"/>
+<area shape="rect" id="node20" href="$mongoose_8c.html#a4806971f05e2a75c979485c7d7081622" title="mg_set_close_on_exec" alt="" coords="233,1120,391,1146"/>
+<area shape="rect" id="node21" href="$mongoose_8c.html#a2ca0faa3cfd1b007fc807e997d256aac" title="mg_call" alt="" coords="279,1170,345,1197"/>
+<area shape="rect" id="node22" href="$mongoose_8c.html#abbadafd3b6ce148e82e413f4d0dfa934" title="mg_send_response_line" alt="" coords="444,1094,607,1121"/>
+</map>

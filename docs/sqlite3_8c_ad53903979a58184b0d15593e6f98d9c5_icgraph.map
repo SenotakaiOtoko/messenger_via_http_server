@@ -1,0 +1,6 @@
+<map id="sqlite3BtreeClearCursor" name="sqlite3BtreeClearCursor">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7e94025b9bd56e9e9ccf148d1a0e1acf" title="sqlite3BtreeTripAllCursors" alt="" coords="212,5,384,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="432,31,552,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7f494da0a512d247d690d6bc19397791" title="sqlite3BtreeCloseCursor" alt="" coords="217,107,379,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2b8fb9bf88e10e7e4dedc8da64e7e956" title="moveToRoot" alt="" coords="251,157,345,184"/>
+</map>

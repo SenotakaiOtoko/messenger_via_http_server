@@ -1,0 +1,6 @@
+<map id="invalidateTempStorage" name="invalidateTempStorage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a042d03b5e23a171bdb511e326a06b663" title="sqlite3BtreeIsInReadTrans" alt="" coords="207,5,381,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="237,56,351,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a729b65009b66a99200496b09c124df01" title="sqlite3BtreeClose" alt="" coords="232,107,356,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2fc0d7e9d7e688a2a81ea4775dd12e33" title="sqlite3ResetAllSchemasOf\lConnection" alt="" coords="205,158,383,199"/>
+</map>

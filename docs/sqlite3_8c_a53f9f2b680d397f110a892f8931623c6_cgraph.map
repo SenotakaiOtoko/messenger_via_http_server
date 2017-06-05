@@ -1,0 +1,11 @@
+<map id="syncJournal" name="syncJournal">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="439,44,539,71"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8fe341ad82f247586f5a357fdbdb2a11" title="sqlite3PagerExclusiveLock" alt="" coords="153,5,331,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="388,120,591,147"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ade39a2ad6c5f6511b13e92c024e83888" title="journalHdrOffset" alt="" coords="432,189,547,216"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a98ef6b5ed82299d2efc0b5f9e41c877d" title="sqlite3OsRead" alt="" coords="189,309,295,336"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="435,240,543,267"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a3f01629ca3b49854944cecdd14dc3358" title="sqlite3OsSync" alt="" coords="189,360,295,387"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a0b0a4fa9c3fe997aaa565b1e438acca7" title="writeJournalHdr" alt="" coords="187,208,297,235"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#aa4bfb9fa6d719b93d58d33a2ed624624" title="sqlite3PcacheClearSyncFlags" alt="" coords="144,411,340,437"/>
+</map>

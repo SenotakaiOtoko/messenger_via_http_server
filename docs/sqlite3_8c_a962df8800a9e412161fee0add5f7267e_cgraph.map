@@ -1,0 +1,8 @@
+<map id="sqlite3_bind_value" name="sqlite3_bind_value">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af77e2729923f2621852202e1c23788c6" title="sqlite3_bind_int64" alt="" coords="190,5,317,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8dc6f4de797850398e12e5022cae8915" title="sqlite3_bind_double" alt="" coords="185,56,321,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afd35a95aa65e816b43cc2dc03abd118b" title="sqlite3_bind_zeroblob" alt="" coords="180,107,327,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6c41c2b6f82188283a846a98d5367885" title="sqlite3_bind_blob" alt="" coords="192,157,315,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acdec2c68ea6b14a08bcfea9cfd32b2f2" title="bindText" alt="" coords="375,183,445,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6649c57d2c7b13ba6b506f6f79da85aa" title="sqlite3_bind_null" alt="" coords="194,259,313,285"/>
+</map>

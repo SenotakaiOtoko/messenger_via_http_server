@@ -1,0 +1,9 @@
+<map id="sqlite3ExpirePreparedStatements" name="sqlite3ExpirePreparedStatements">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="467,84,587,111"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a7191abef3b5c8286e8e7b590f93ec720" title="sqlite3_set_authorizer" alt="" coords="269,33,419,60"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a266b6e5487ec403a27fc6c6f852ff249" title="sqlite3VtabUnlockList" alt="" coords="270,84,418,111"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a35895f9b53f6cc7a4e72c3f8905e6edd" title="sqlite3_db_config" alt="" coords="283,135,405,161"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad902dd388d73208539f557962e3fe6bb" title="sqlite3RollbackAll" alt="" coords="281,185,407,212"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a686d432574e951a7205c7fe113c93fe2" title="sqlite3CreateFunc" alt="" coords="281,236,407,263"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a29def4ce28811a857e968b3f238d2dd1" title="createCollation" alt="" coords="290,287,398,313"/>
+</map>

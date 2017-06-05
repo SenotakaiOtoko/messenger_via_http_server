@@ -1,0 +1,10 @@
+<map id="robust_close" name="robust_close">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a5ce21209c92740d0a7171235d32f2ada" title="closePendingFds" alt="" coords="149,5,272,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac11bfe29d9353ee80f95a520e83f997f" title="closeUnixFile" alt="" coords="161,56,261,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aceafdac666eb94923ee90064b3934299" title="unixSync" alt="" coords="173,107,249,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a89b00f37b59738ab669aa66f70f5962b" title="unixShmPurge" alt="" coords="157,157,264,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8ed5efc47b6e14f7805cd1bb9b215775" title="unixOpen" alt="" coords="172,208,249,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7803c0517519823542a7d183abdf4a8d" title="unixDelete" alt="" coords="169,259,252,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a9006328b44a687fe13c07acc7aab68da" title="unixRandomness" alt="" coords="149,309,272,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aed1e42f49d74b419c3c85b559dd61240" title="unixGetLastError" alt="" coords="151,360,271,387"/>
+</map>

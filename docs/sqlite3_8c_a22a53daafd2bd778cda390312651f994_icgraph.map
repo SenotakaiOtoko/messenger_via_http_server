@@ -1,0 +1,6 @@
+<map id="sqlite3PagerAcquire" name="sqlite3PagerAcquire">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#adfca1dee9939482792fe2b4ed982d00e" title="pager_playback_one_page" alt="" coords="192,5,368,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="229,56,331,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acf70e6d3cb6afd54d677b3dffb6959d2" title="accessPayload" alt="" coords="225,107,335,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="209,157,351,184"/>
+</map>

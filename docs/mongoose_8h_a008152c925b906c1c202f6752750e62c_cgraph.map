@@ -1,0 +1,4 @@
+<map id="mg_set_protocol_mqtt" name="mg_set_protocol_mqtt">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a0dc26f93ff6d3f929710a95de2d38565" title="mqtt_handler" alt="" coords="226,5,323,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a6c35bf8d02261e0db33d2c5a62a0318b" title="mg_mqtt_proto_data\l_destructor" alt="" coords="204,57,345,98"/>
+</map>

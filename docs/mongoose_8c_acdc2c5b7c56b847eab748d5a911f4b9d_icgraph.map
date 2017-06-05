@@ -1,0 +1,7 @@
+<map id="mg_add_conn" name="mg_add_conn">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a5a65e3a3235b6ab764af7f5090233c52" title="mg_if_accept_new_conn" alt="" coords="156,5,320,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a3b7cf668d0412cd37c5bba8ba5938ee0" title="mg_if_recv_udp_cb" alt="" coords="172,56,304,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#ad7ad178de2465f6a9193dbe175b45d97" title="mg_do_connect" alt="" coords="181,107,295,133"/>
+<area shape="rect" id="node5" href="$mongoose_8h.html#af5f485c81dd9f1803ed15afd35380527" title="mg_bind_opt" alt="" coords="190,157,286,184"/>
+<area shape="rect" id="node6" href="$mongoose_8h.html#a53f66888c601df62f7bfd9cf19d79c6e" title="mg_add_sock_opt" alt="" coords="174,208,302,235"/>
+</map>

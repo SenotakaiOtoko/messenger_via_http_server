@@ -1,0 +1,8 @@
+<map id="sqlite3VdbeAddOp4Int" name="sqlite3VdbeAddOp4Int">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad9cf4f5b5ffb90c24a4a0900c8626193" title="sqlite3ExprCodeIN" alt="" coords="205,5,334,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac7b0111b1d2e3305a38874a645a86d06" title="fkLookupParent" alt="" coords="213,56,325,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="217,107,322,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7a4cdd9ae98f5251ba7bae7b26984f21" title="codeDistinct" alt="" coords="222,157,317,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6456c61f3d9b2389738753cedfa24fa7" title="multiSelect" alt="" coords="226,208,313,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7b24987855c8f506fce74b71506dd3c4" title="codeOneLoopStart" alt="" coords="204,259,335,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pcache1EnforceMaxPage" name="pcache1EnforceMaxPage">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="449,54,584,81"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8c56f8763581386fa892a46f77c8d684" title="pcache1PinPage" alt="" coords="253,29,373,56"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1b58eae8a9fe64c0c817a74a2ac7ad41" title="pcache1RemoveFromHash" alt="" coords="224,80,401,106"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa3f573a706805bb81ef72ff65ffcdb79" title="pcache1FreePage" alt="" coords="249,130,376,157"/>
+</map>

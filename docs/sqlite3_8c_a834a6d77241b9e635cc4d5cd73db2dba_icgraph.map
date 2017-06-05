@@ -1,0 +1,13 @@
+<map id="sqlite3ExprCode" name="sqlite3ExprCode">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad9cf4f5b5ffb90c24a4a0900c8626193" title="sqlite3ExprCodeIN" alt="" coords="195,5,324,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4f308397a0a3ed299ed31aaa1ae2a293" title="sqlite3ExprCodeTarget" alt="" coords="396,68,549,95"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a77ea3b0660777748e6d2c8d14099935a" title="sqlite3ExprCodeAndCache" alt="" coords="171,131,348,157"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="427,181,519,208"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ade4e9e30d828a19c191fdcb098676d5b" title="codeAttach" alt="" coords="215,232,303,259"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aa507f2413992cdcb1bd4b771d93d83cc" title="sqlite3GenerateConstraint\lChecks" alt="" coords="173,283,345,325"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="422,320,523,347"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ae9d37055e4905929b6f6cda5461e2f37" title="computeLimitRegisters" alt="" coords="182,400,337,427"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a2465ee8c956209ba4b272477b7c21a45" title="sqlite3Select" alt="" coords="424,451,521,477"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a1681660dd3ecd50c8727d6e56a537bd9" title="updateAccumulator" alt="" coords="192,501,327,528"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a7b24987855c8f506fce74b71506dd3c4" title="codeOneLoopStart" alt="" coords="194,552,325,579"/>
+</map>

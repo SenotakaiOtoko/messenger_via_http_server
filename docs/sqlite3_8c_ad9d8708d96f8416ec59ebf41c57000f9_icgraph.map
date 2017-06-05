@@ -1,0 +1,12 @@
+<map id="sqlite3CodeVerifySchema" name="sqlite3CodeVerifySchema">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3d35646de8b51f0403d915d78bdaa42d" title="sqlite3FindInIndex" alt="" coords="267,5,393,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af49b4395f39d9078a0dda2484c183012" title="sqlite3StartTable" alt="" coords="489,69,608,96"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="484,145,613,172"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a30331e33b8e462cbe3aa83c8bddb8c0e" title="sqlite3CodeVerifyNamedSchema" alt="" coords="224,259,436,285"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a21b1b811bbe305f922244f8913c87f10" title="sqlite3BeginWriteOperation" alt="" coords="240,107,420,133"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="496,203,601,229"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ae85c90f7d064fe83f4ed930e708855d2" title="xferOptimization" alt="" coords="272,309,388,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a2465ee8c956209ba4b272477b7c21a45" title="sqlite3Select" alt="" coords="500,385,597,412"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="264,461,396,488"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#acad049f5c9a96a8118cffd5e5ce89f7c" title="sqlite3WhereBegin" alt="" coords="265,411,395,437"/>
+</map>

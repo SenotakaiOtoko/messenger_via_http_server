@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeFreeCursor" name="sqlite3VdbeFreeCursor">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#adb3773fdfb1685857e28891f76365900" title="sqlite3VdbeFrameDelete" alt="" coords="208,5,372,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af1ac189735864dd6989a8c5af4557547" title="closeAllCursors" alt="" coords="423,44,537,71"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5083c054ea81802294e539b00a57aad4" title="allocateCursor" alt="" coords="237,107,343,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="420,120,540,147"/>
+</map>

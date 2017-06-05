@@ -1,0 +1,6 @@
+<map id="pagerWalFrames" name="pagerWalFrames">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afd08ca92c5087db71f9b3a7cd9343057" title="pager_write_changecounter" alt="" coords="175,5,355,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af9606aac275558d3b96c83b2bff2d717" title="sqlite3WalFrames" alt="" coords="201,56,328,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a928fd0b03c8d689beb3b81d73e9c713c" title="sqlite3BackupUpdate" alt="" coords="192,107,337,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9fe5b4991391ec26e75fb59ee72704db" title="sqlite3PcacheDirtyList" alt="" coords="189,157,341,184"/>
+</map>

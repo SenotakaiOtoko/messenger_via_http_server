@@ -1,0 +1,9 @@
+<map id="mg_set_protocol_dns" name="mg_set_protocol_dns">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a34d5010e6736d63c08b6404ca123fd36" title="dns_handler" alt="" coords="247,56,339,83"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a2cbd4a7623976a4a7f4afd779861f6bb" title="mg_dns_insert_header" alt="" coords="433,5,587,32"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a4b23c4379e5e56fc9c21bfb79ee76fad" title="mbuf_insert" alt="" coords="635,56,724,83"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#ab0613b2aa565a9b4c3ecca1488dfacad" title="mg_send" alt="" coords="473,107,547,133"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#ad92c952f7a90d0ddc227a0fbaeb41aad" title="mg_dns_copy_questions" alt="" coords="209,208,376,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#ad8632dc50f1013eddb59c461554c291c" title="mg_dns_uncompress_name" alt="" coords="200,259,385,285"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#a25b56c78c499f837955faa1a52b5d7e5" title="mg_dns_encode_record" alt="" coords="213,309,373,336"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="sqlite3NoopMutex" name="sqlite3NoopMutex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a5b7e628d764b9fa21cf60efa4f007b9c" title="noopMutexInit" alt="" coords="197,5,299,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0f0c029ce49c2f6c8a10487686cd4c44" title="noopMutexEnd" alt="" coords="193,56,303,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a19cab979a9c93ac871637110a1a0346a" title="noopMutexAlloc" alt="" coords="191,107,305,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac9f0fbd482a75bc7508626f508f7a222" title="noopMutexFree" alt="" coords="192,157,304,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#afd4250b184c2dc7f7ffddc073dc62415" title="noopMutexEnter" alt="" coords="189,208,307,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6cc5bf7bc4f4c4890d11321332080ce6" title="noopMutexTry" alt="" coords="196,259,300,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#abbb054fbbcb2239be190b65ee35bcc5a" title="noopMutexLeave" alt="" coords="189,309,307,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#afeb0b42dca534c9607d5138c79e3fd7e" title="sqlite3Malloc" alt="" coords="199,360,297,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="364,436,452,463"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ac895a71e325f9b2f9b862f737c17aca8" title="sqlite3DefaultMutex" alt="" coords="180,461,316,488"/>
+</map>

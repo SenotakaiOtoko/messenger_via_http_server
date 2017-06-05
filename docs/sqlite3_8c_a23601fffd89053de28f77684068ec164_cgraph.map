@@ -1,0 +1,10 @@
+<map id="sqlite3VtabCallCreate" name="sqlite3VtabCallCreate">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa51dbee6173bf3a8a3df76b07cea789" title="sqlite3FindTable" alt="" coords="209,84,325,111"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="386,34,494,60"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1bb83282c04c104ba033c3f5eb9556d2" title="sqlite3HashFind" alt="" coords="383,160,497,187"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="389,110,491,136"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acae1b4d5d02b25f4cac29993dae7f983" title="vtabCallConstructor" alt="" coords="200,34,335,60"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a85465ef27057193295e321f0caf488ed" title="sqlite3GetVTable" alt="" coords="207,236,328,263"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aa5faa1578b20b8eb26ac5a4512b31441" title="growVTrans" alt="" coords="222,287,313,314"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a0ce12e9b589480b040c9cd3b513ac134" title="addToVTrans" alt="" coords="218,338,317,364"/>
+</map>

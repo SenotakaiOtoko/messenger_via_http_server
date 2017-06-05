@@ -1,0 +1,8 @@
+<map id="sqlite3VdbeMemFromBtree" name="sqlite3VdbeMemFromBtree">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab3f07c8c8895c556ad62e366a5a55439" title="sqlite3BtreeKeyFetch" alt="" coords="243,5,390,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5259ab63d2a6e08a26e7ccda9c1d513d" title="sqlite3BtreeDataFetch" alt="" coords="241,56,392,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="233,107,400,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad26fb054dcce926a1d2b8d981b630333" title="sqlite3VdbeMemGrow" alt="" coords="242,157,391,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac2d5b22a7aae9c57b8a4ef7be643c1cd" title="sqlite3BtreeKey" alt="" coords="259,208,374,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1790f0a3e62aea4361ab60996272a78c" title="sqlite3BtreeData" alt="" coords="257,259,376,285"/>
+</map>

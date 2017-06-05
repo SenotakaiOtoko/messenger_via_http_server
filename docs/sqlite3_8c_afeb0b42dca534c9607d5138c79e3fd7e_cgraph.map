@@ -1,0 +1,5 @@
+<map id="sqlite3Malloc" name="sqlite3Malloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="152,5,291,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="161,56,282,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="152,107,291,133"/>
+</map>

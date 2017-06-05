@@ -1,0 +1,14 @@
+<map id="sqlite3HashInsert" name="sqlite3HashInsert">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a889f2dcb438c56db37a6d61e9f25e244" title="sqlite3UnlinkAndDeleteIndex" alt="" coords="180,5,367,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7fd3d507375a381a3807f92735318973" title="sqlite3DeleteTable" alt="" coords="419,132,547,159"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9733677716a49de464f86fff164e9a1b" title="sqlite3UnlinkAndDeleteTable" alt="" coords="595,95,781,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9088a34ee719704b8dae10f5cbbad5ca" title="sqlite3EndTable" alt="" coords="631,233,745,260"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a60425130ff4f583e63d3540525d3cd3a" title="sqlite3CreateForeignKey" alt="" coords="191,208,355,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="209,259,338,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aaf9ae07c81dca508e137b5880e94aa98" title="findCollSeqEntry" alt="" coords="214,309,333,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a59a33da6c4e11d3f99b15eafdc01f013" title="sqlite3FkDelete" alt="" coords="217,157,329,184"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a15231afa0ac739363aee4cdb88380886" title="sqlite3FinishTrigger" alt="" coords="206,411,341,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#aa779646f1e1667b589b01dd8b494a53c" title="sqlite3UnlinkAndDeleteTrigger" alt="" coords="176,461,371,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a77134e0947164db4ca98b4b516bfdf6b" title="createModule" alt="" coords="223,512,323,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a31979f7a03df3cc53c4189dd1f3ea24c" title="sqlite3VtabFinishParse" alt="" coords="195,563,351,589"/>
+</map>

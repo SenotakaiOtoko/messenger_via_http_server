@@ -1,0 +1,6 @@
+<map id="Trigger" name="Trigger">
+<area shape="rect" id="node2" href="$struct_trigger_step.html" title="{TriggerStep\n|+ op\l+ orconf\l|}" alt="" coords="225,535,313,627"/>
+<area shape="rect" id="node3" href="$struct_expr.html" title="{Expr\n|+ op\l+ affinity\l+ flags\l+ zToken\l+ iValue\l+ u\l+ x\l+ nHeight\l+ iTable\l+ iColumn\l+ iAgg\l+ iRightJoinTable\l+ flags2\l+ op2\l|}" alt="" coords="5,5,127,273"/>
+<area shape="rect" id="node4" href="$struct_id_list.html" title="{IdList\n|+ nId\l|}" alt="" coords="409,101,462,178"/>
+<area shape="rect" id="node5" href="$struct_schema.html" title="{Schema\n|+ schema_cookie\l+ iGeneration\l+ file_format\l+ enc\l+ flags\l+ cache_size\l|}" alt="" coords="221,64,346,215"/>
+</map>

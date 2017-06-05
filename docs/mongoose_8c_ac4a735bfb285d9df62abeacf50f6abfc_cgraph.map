@@ -1,0 +1,5 @@
+<map id="mg_socket_if_listen_tcp" name="mg_socket_if_listen_tcp">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a1773aee717913995be370489f8bd7dbc" title="mg_open_listening_socket" alt="" coords="216,5,392,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a8c3f17edab445264dbf2a764739669cf" title="mg_get_errno" alt="" coords="253,56,355,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a7a6908590e9ee9cda54780133d1645c1" title="mg_sock_set" alt="" coords="254,107,354,133"/>
+</map>

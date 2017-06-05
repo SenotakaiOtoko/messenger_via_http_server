@@ -1,0 +1,6 @@
+<map id="estLog" name="estLog">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aad1f6c60342737928f0dc03944a6ce2e" title="bestOrClauseIndex" alt="" coords="117,32,249,58"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab7c738c15aa046885689946645ad38ab" title="bestVirtualIndex" alt="" coords="300,6,415,33"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad32063b4fbc822986766588a51ffff64" title="bestBtreeIndex" alt="" coords="303,82,412,109"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0b810b3c6952c4f14c7d487383885843" title="bestAutomaticIndex" alt="" coords="115,133,252,160"/>
+</map>

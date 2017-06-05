@@ -1,0 +1,4 @@
+<map id="callFinaliser" name="callFinaliser">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8584200fbaad7da0253df51fb453c5dc" title="sqlite3VtabRollback" alt="" coords="144,5,281,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a97466840f197566c66481e89df5e50ea" title="sqlite3VtabCommit" alt="" coords="147,56,279,83"/>
+</map>

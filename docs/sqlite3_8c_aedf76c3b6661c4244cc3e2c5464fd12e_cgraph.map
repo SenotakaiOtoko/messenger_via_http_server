@@ -1,0 +1,9 @@
+<map id="pagerPlaybackSavepoint" name="pagerPlaybackSavepoint">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0a60c2422cf28790767f5bc7598514ee" title="sqlite3BitvecCreate" alt="" coords="239,5,372,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="441,107,541,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a80911cae8e3a137646b54d4e3e52147b" title="pagerRollbackWal" alt="" coords="242,107,369,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#adfca1dee9939482792fe2b4ed982d00e" title="pager_playback_one_page" alt="" coords="217,157,393,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a4367a6db0dfbaacd476aeecccc99904b" title="readJournalHdr" alt="" coords="251,208,359,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#acadd357868ee08e816276be2170e0904" title="sqlite3WalSavepointUndo" alt="" coords="221,259,390,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="235,309,375,336"/>
+</map>

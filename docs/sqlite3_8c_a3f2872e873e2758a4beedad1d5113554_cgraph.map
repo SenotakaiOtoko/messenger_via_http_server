@@ -1,0 +1,9 @@
+<map id="sqlite3Step" name="sqlite3Step">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a758efebc2e95694959ab0e74b397984c" title="sqlite3_reset" alt="" coords="179,5,275,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae5a967ec6172298db98b6090bbd1dd9b" title="sqlite3ApiExit" alt="" coords="363,31,465,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8fba11754c83b89782ef18af266f5ec2" title="sqlite3OsCurrentTimeInt64" alt="" coords="140,107,315,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a61f5dfb765135a9982025bab8944f7fd" title="sqlite3VdbeList" alt="" coords="172,157,283,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="167,208,287,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a001bcb6c83dac39b83d3a95e1f6194d1" title="doWalCallbacks" alt="" coords="169,259,285,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aaf4a567b51602bb6d7bb150e6c72de69" title="sqlite3VdbeTransferError" alt="" coords="145,309,309,336"/>
+</map>

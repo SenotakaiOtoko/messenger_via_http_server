@@ -1,0 +1,12 @@
+<map id="sqlite3_randomness" name="sqlite3_randomness">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad53f02dff404aec729bd406c00998d12" title="unixGetTempname" alt="" coords="205,5,335,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="215,80,325,107"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9b4e3e921ce1ede6f10a9106c034ff9b" title="sqlite3BitvecBuiltinTest" alt="" coords="192,131,348,157"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0b0a4fa9c3fe997aaa565b1e438acca7" title="writeJournalHdr" alt="" coords="215,181,325,208"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a12a2a8718a33ce32fc99f83239a4d491" title="walRestartLog" alt="" coords="218,232,322,259"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#af9606aac275558d3b96c83b2bff2d717" title="sqlite3WalFrames" alt="" coords="396,257,523,284"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="223,333,317,360"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="210,384,330,411"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a77905d2b2e1b154cf082f061cfa057dd" title="randomFunc" alt="" coords="223,435,317,461"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a2b058708f7f26feb80fce84c3e375d64" title="randomBlob" alt="" coords="225,485,315,512"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sqlite3ScratchMalloc" name="sqlite3ScratchMalloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="196,5,335,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afa029f93586aeab4cc85360905dae9cd" title="sqlite3StatusAdd" alt="" coords="398,69,519,96"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afec7586c01fcb5ea17dc9d7725a589d9" title="sqlite3StatusSet" alt="" coords="399,145,518,172"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="196,208,335,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8h.html#a83967c837c1c000d3b5adcfaa688f5dc" title="sqlite3_mutex_notheld" alt="" coords="383,233,535,260"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab070d5cf8e48ec8a6a43cf025d48598b" title="mallocWithAlarm" alt="" coords="205,107,326,133"/>
+</map>

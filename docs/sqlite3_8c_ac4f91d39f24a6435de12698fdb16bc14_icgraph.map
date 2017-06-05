@@ -1,0 +1,10 @@
+<map id="sqlite3FindCollSeq" name="sqlite3FindCollSeq">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af36e271ed5ce13d4f2d088a766529574" title="sqlite3ExprCollSeq" alt="" coords="539,117,671,143"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3d35646de8b51f0403d915d78bdaa42d" title="sqlite3FindInIndex" alt="" coords="184,41,311,67"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7dda1703fcf97a8e9a556697976c90af" title="sqlite3LocateCollSeq" alt="" coords="533,218,677,245"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#abd189e31189391e1ef114b413ff4abbf" title="sqlite3Reindex" alt="" coords="194,142,301,169"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac89143f2b98a9efb9f18bb326e271063" title="synthCollSeq" alt="" coords="198,91,297,118"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a4ed2e10e20f9616894d068c6c73c3134" title="sqlite3GetCollSeq" alt="" coords="359,117,485,143"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a29def4ce28811a857e968b3f238d2dd1" title="createCollation" alt="" coords="193,294,301,321"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a6a9c3bc3a64234e863413f41db473758" title="openDatabase" alt="" coords="369,319,475,346"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sqlite3Init" name="sqlite3Init">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="377,9,512,35"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac4318b25df65269906b0379251fe9b85" title="sqlite3InitOne" alt="" coords="179,34,281,61"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aae32656cb46c5449ae7c53fc8aa27887" title="sqlite3ResetOneSchema" alt="" coords="147,85,313,111"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1c26fb995a23591a1f6592d008e3e237" title="sqlite3CommitInternalChanges" alt="" coords="131,135,329,162"/>
+</map>

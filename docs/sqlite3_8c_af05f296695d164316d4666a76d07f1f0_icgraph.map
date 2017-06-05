@@ -1,0 +1,6 @@
+<map id="sqlite3PageMalloc" name="sqlite3PageMalloc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab668348d5dcc0382c247c74b6358f16e" title="sqlite3PagerSetPagesize" alt="" coords="181,5,349,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a392335de1138023e2acc7d684caa9e66" title="allocateTempSpace" alt="" coords="197,56,333,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a173f7c872fb68ccd3a20440d640b66c7" title="balance" alt="" coords="232,107,299,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a833fe7b749860571772ef6b19b3c54df" title="checkTreePage" alt="" coords="209,157,321,184"/>
+</map>

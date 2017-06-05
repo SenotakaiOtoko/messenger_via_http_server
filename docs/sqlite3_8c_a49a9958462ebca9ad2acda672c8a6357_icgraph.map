@@ -1,0 +1,9 @@
+<map id="sqlite3TwoPartName" name="sqlite3TwoPartName">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac696deb1ccaae3fa855cfbd0bfd4d048" title="sqlite3Analyze" alt="" coords="207,5,314,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af49b4395f39d9078a0dda2484c183012" title="sqlite3StartTable" alt="" coords="201,56,320,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9d85cb00ff71dee5cd9a019503a6982e" title="sqlite3CreateView" alt="" coords="375,81,501,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="196,157,325,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#abd189e31189391e1ef114b413ff4abbf" title="sqlite3Reindex" alt="" coords="207,208,314,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="208,259,313,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="195,309,327,336"/>
+</map>

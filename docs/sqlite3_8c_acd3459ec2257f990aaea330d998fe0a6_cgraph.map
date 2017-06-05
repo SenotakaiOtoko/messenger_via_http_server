@@ -1,0 +1,4 @@
+<map id="setDestPgsz" name="setDestPgsz">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad9c65e8377c831a80e0ac1f108c43f3e" title="sqlite3BtreeSetPageSize" alt="" coords="151,5,318,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a91f9dbfdbf95d6d9b955d1c7648b9fc1" title="sqlite3BtreeGetPageSize" alt="" coords="151,56,319,83"/>
+</map>

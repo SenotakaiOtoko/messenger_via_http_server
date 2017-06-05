@@ -1,0 +1,5 @@
+<map id="sqlite3PagerPageRefcount" name="sqlite3PagerPageRefcount">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa27cac56390e92c5ef6d566ee7defb59" title="pageReinit" alt="" coords="251,5,333,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae84ce1103eabfe9455a6a59e6cec4a33" title="allocateBtreePage" alt="" coords="228,56,356,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acce36127359eb4baec99dac6d630bd9d" title="clearCell" alt="" coords="256,107,328,133"/>
+</map>

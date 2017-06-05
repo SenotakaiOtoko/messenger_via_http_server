@@ -1,0 +1,5 @@
+<map id="mg_handle_tcp_read" name="mg_handle_tcp_read">
+<area shape="rect" id="node2" href="$mongoose_8c.html#ab32cc3b42fd1e60f754e8475b7d7fe18" title="mg_if_recv_tcp_cb" alt="" coords="196,5,325,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a429d2c7901b6c91d4da7ffb477977fb9" title="recv_avail_size" alt="" coords="207,56,315,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#aff7b7bf70d850df7d77386b30d4301c0" title="mg_is_error" alt="" coords="215,107,306,133"/>
+</map>

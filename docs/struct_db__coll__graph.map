@@ -1,0 +1,4 @@
+<map id="Db" name="Db">
+<area shape="rect" id="node2" href="$struct_schema.html" title="{Schema\n|+ schema_cookie\l+ iGeneration\l+ file_format\l+ enc\l+ flags\l+ cache_size\l|}" alt="" coords="5,5,131,156"/>
+<area shape="rect" id="node3" href="$struct_btree.html" title="{Btree\n|+ inTrans\l+ sharable\l+ locked\l+ wantToLock\l+ nBackup\l|}" alt="" coords="155,13,258,149"/>
+</map>

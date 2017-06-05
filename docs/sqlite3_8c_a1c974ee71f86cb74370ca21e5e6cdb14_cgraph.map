@@ -1,0 +1,6 @@
+<map id="zeroPage" name="zeroPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a48e879a6d20f06f27390973ab8d59bd7" title="sqlite3PagerGetExtra" alt="" coords="131,5,277,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9dd340e56fb4b7fad4df339595b8d8a2" title="sqlite3PagerGetData" alt="" coords="133,56,275,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="325,132,460,159"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acb168e46383706f31cefd555da235eae" title="decodeFlags" alt="" coords="156,157,252,184"/>
+</map>

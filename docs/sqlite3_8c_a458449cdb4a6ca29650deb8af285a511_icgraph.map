@@ -1,0 +1,6 @@
+<map id="sqlite3TempInMemory" name="sqlite3TempInMemory">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a13dcb44dc34af6ce9d38de9c5aa975f9" title="sqlite3BtreeOpen" alt="" coords="219,5,342,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a52d6706df15c67c22aa7d0e290c16bf5" title="sqlite3BtreeBeginTrans" alt="" coords="203,56,359,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5e83ddc7b3e7e8e79ad5d1fc92de1d2f" title="sqlite3RunVacuum" alt="" coords="407,81,537,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a24e61858a4cd630b15aa47bed174fcd1" title="sqlite3VdbeSorterInit" alt="" coords="209,157,352,184"/>
+</map>

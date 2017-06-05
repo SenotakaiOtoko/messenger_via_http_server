@@ -1,0 +1,6 @@
+<map id="whereClauseClear" name="whereClauseClear">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acb06159e98ddb444e98acaf5fc23f784" title="whereClauseInit" alt="" coords="191,5,305,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#abb2848eb0bce7a288b25bdd1d3df5535" title="whereOrInfoDelete" alt="" coords="185,56,311,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6cfc971c2a2e285860dc9dc0e157cb85" title="whereAndInfoDelete" alt="" coords="180,107,316,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4838f169cd94b3192f9a49558dca6ae0" title="whereInfoFree" alt="" coords="197,157,299,184"/>
+</map>

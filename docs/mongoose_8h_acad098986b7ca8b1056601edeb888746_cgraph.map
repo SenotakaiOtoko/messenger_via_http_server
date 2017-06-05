@@ -1,0 +1,5 @@
+<map id="mg_send_websocket_frame" name="mg_send_websocket_frame">
+<area shape="rect" id="node2" href="$mongoose_8c.html#abd374aef49804e4ddb201931bb267f0c" title="mg_send_ws_header" alt="" coords="236,5,380,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ab0613b2aa565a9b4c3ecca1488dfacad" title="mg_send" alt="" coords="428,31,503,57"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#aa16c257db1f1b3f2a327b7aa14e1e01d" title="mg_ws_mask_frame" alt="" coords="237,107,379,133"/>
+</map>

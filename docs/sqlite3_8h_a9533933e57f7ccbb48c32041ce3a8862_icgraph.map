@@ -1,0 +1,11 @@
+<map id="sqlite3_mprintf" name="sqlite3_mprintf">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad71f213fa385cc58f307cefd953c03ae" title="unixFileControl" alt="" coords="179,5,287,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a2288c95881ecca13d994e42b6a958906" title="sqlite3_os_end" alt="" coords="179,80,288,107"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af6025be1f4733eabe60702a187c97da9" title="sqlite3InvalidFunction" alt="" coords="161,131,306,157"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8c444ba254edc27891111b76e7ba85e7" title="roundFunc" alt="" coords="192,181,275,208"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a3b46232455de4779a67c63b2c9004245" title="sqlite3LoadExtension" alt="" coords="160,232,307,259"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="181,283,286,309"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a1dbaba1b543953c0dade97357c5866b1" title="sqlite3_get_table_cb" alt="" coords="163,333,304,360"/>
+<area shape="rect" id="node9" href="$sqlite3_8h.html#a5effeac4e12df57beaa35c5be1f61579" title="sqlite3_get_table" alt="" coords="355,359,475,385"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#aaa912f29a67460d8b2186c97056e8767" title="sqlite3ParseUri" alt="" coords="178,435,289,461"/>
+</map>

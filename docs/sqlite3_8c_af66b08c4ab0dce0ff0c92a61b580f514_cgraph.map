@@ -1,0 +1,10 @@
+<map id="ctimestampFunc" name="ctimestampFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9755493e1c5c377b5ea7078b4029c24a" title="datetimeFunc" alt="" coords="209,5,310,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2c06bc83045bd7986b89e5e8bd689bdf" title="sqlite3_result_text" alt="" coords="395,31,523,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad5112720cb942f40e424fff89f4222b8" title="sqlite3_user_data" alt="" coords="197,107,321,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="194,158,325,199"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8fba11754c83b89782ef18af266f5ec2" title="sqlite3OsCurrentTimeInt64" alt="" coords="172,224,347,251"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="190,275,329,301"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a0e3f432ee581f6876b590e7ad7e84e19" title="sqlite3MutexAlloc" alt="" coords="197,325,322,352"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="190,376,329,403"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mg_set_protocol_http_websocket" name="mg_set_protocol_http_websocket">
+<area shape="rect" id="node2" href="$messenger__via__http__server_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="Точка входа " alt="" coords="253,5,304,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a91f339acd350ac84d0a27eba22d756be" title="mg_connect_http_base" alt="" coords="200,56,357,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="read32bits" name="read32bits">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9f7dd04609394d281f69682034ea0b61" title="readMasterJournal" alt="" coords="160,5,288,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4367a6db0dfbaacd476aeecccc99904b" title="readJournalHdr" alt="" coords="170,56,278,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#adfca1dee9939482792fe2b4ed982d00e" title="pager_playback_one_page" alt="" coords="136,107,312,133"/>
+</map>

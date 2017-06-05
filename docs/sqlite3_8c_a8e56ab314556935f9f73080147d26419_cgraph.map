@@ -1,0 +1,6 @@
+<map id="sqlite3BtreeCommit" name="sqlite3BtreeCommit">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="435,28,558,55"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae266cba101e64ad99a166f237532e262" title="sqlite3BtreeCommitPhaseOne" alt="" coords="189,28,387,55"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="435,79,559,106"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a84764f43cb4ca50bcac1fc674e8d6dd9" title="sqlite3BtreeCommitPhaseTwo" alt="" coords="190,79,386,106"/>
+</map>

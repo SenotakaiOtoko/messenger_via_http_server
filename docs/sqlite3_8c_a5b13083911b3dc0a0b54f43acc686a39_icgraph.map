@@ -1,0 +1,10 @@
+<map id="sqlite3Atoi64" name="sqlite3Atoi64">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad2a961fc08942417d977510a1384b6d2" title="sqlite3AtoF" alt="" coords="203,5,291,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a746d87f60796d3903aa4b8e7ce123ada" title="applyNumericAffinity" alt="" coords="391,31,531,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3dc28e3bfdbecf81633c3697a3aacd45" title="sqlite3VdbeIntValue" alt="" coords="178,107,315,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5b24feaa1b99012399cb264698e27c41" title="sqlite3VdbeMemNumerify" alt="" coords="161,157,332,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a45b43a9c178c9817da16ab471ac2fce5" title="sqlite3ExprAssignVarNumber" alt="" coords="151,208,343,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aed36006f29dec5c2f70f13c970ce6961" title="codeInteger" alt="" coords="202,259,291,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="194,309,299,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8h.html#a86516373b17f3928036fb6926e04683d" title="sqlite3_uri_int64" alt="" coords="189,360,305,387"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sqlite3BackupUpdate" name="sqlite3BackupUpdate">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="385,31,520,57"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a08bf7a0d0e8efb81f4c115f7ffb55c06" title="isFatalError" alt="" coords="408,183,497,209"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="199,107,337,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7efb6a8380d746b14e73db99ad3428a2" title="backupOnePage" alt="" coords="209,208,327,235"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="199,5,337,32"/>
+</map>

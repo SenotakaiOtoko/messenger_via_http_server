@@ -1,0 +1,10 @@
+<map id="Pager" name="Pager">
+<area shape="rect" id="node3" href="$struct_pg_hdr.html" title="{PgHdr\n|+ pData\l+ pExtra\l+ pgno\l+ flags\l+ nRef\l|}" alt="" coords="345,880,417,1016"/>
+<area shape="rect" id="node2" href="$struct_p_cache.html" title="{PCache\n|+ nRef\l+ szCache\l+ szPage\l+ szExtra\l+ bPurgeable\l+ xStress\l+ pStress\l+ pCache\l|}" alt="" coords="425,1123,524,1303"/>
+<area shape="rect" id="node4" href="$structsqlite3__backup.html" title="{sqlite3_backup\n|+ iDestSchema\l+ bDestLocked\l+ iNext\l+ rc\l+ nRemaining\l+ nPagecount\l+ isAttached\l|}" alt="" coords="5,336,117,501"/>
+<area shape="rect" id="node5" href="$struct_bitvec.html" title="{Bitvec\n|+ iSize\l+ nSet\l+ iDivisor\l+ aBitmap\l+ aHash\l+ u\l|}" alt="" coords="233,42,316,193"/>
+<area shape="rect" id="node9" href="$struct_pager_savepoint.html" title="{PagerSavepoint\n|+ iOffset\l+ iHdrOffset\l+ nOrig\l+ iSubRec\l+ aWalData\l|}" alt="" coords="331,351,443,487"/>
+<area shape="rect" id="node6" href="$structsqlite3__file.html" title="{sqlite3_file\n||}" alt="" coords="472,79,555,156"/>
+<area shape="rect" id="node8" href="$struct_wal.html" title="{Wal\n|+ iCallback\l+ mxWalSize\l+ nWiData\l+ szFirstBlock\l+ apWiData\l+ szPage\l+ readLock\l+ syncFlags\l+ exclusiveMode\l+ writeLock\lи 7 больше...\l|}" alt="" coords="545,307,663,531"/>
+<area shape="rect" id="node7" href="$structsqlite3__vfs.html" title="{sqlite3_vfs\n|+ iVersion\l+ szOsFile\l+ mxPathname\l+ zName\l+ pAppData\l+ xOpen\l+ xDelete\l+ xAccess\l+ xFullPathname\l+ xDlOpen\lи 11 больше...\l|}" alt="" coords="601,5,722,229"/>
+</map>

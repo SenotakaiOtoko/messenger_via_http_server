@@ -1,0 +1,4 @@
+<map id="connectionIsBusy" name="connectionIsBusy">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa9f2e73837bba8d721dbde0964ffce11" title="sqlite3Close" alt="" coords="412,5,505,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afe3a37c29dcb0fe9fc15fe07a3976f59" title="sqlite3LeaveMutexAndClose\lZombie" alt="" coords="179,27,364,69"/>
+</map>

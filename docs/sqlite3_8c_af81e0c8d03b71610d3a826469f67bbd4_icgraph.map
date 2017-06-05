@@ -1,0 +1,10 @@
+<map id="sqlite3VdbeFinalize" name="sqlite3VdbeFinalize">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#a801195c0f771d40bb4be1e40f3b88945" title="sqlite3_finalize" alt="" coords="204,5,311,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#adb8ad839a5bdd62a43785132bc7dd518" title="sqlite3_blob_open" alt="" coords="194,56,321,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6c1d57e4337ee1b8655215c06dea4046" title="blobReadWrite" alt="" coords="204,107,311,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8h.html#a97487ec8150e0bcc8fa392ab8f0e24db" title="sqlite3_exec" alt="" coords="210,157,305,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acb25890858d0bf4b12eb7aae569f0c7b" title="sqlite3Prepare" alt="" coords="205,208,310,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a7e2f7299cc947d07e782f6ac561fa937" title="sqlite3Reprepare" alt="" coords="198,259,317,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a632db76c46aca8f067d585295d2ada31" title="vacuumFinalize" alt="" coords="202,309,313,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8h.html#a65393c41da76ae1470a7c7f4b4aca600" title="sqlite3_declare_vtab" alt="" coords="188,360,327,387"/>
+</map>

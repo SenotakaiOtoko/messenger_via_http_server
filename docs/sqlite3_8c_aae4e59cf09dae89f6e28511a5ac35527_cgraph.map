@@ -1,0 +1,5 @@
+<map id="btreePageLookup" name="btreePageLookup">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="187,5,322,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1252ec03814f64eed236cfb21094cafd" title="sqlite3PagerLookup" alt="" coords="187,56,323,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a148c0bf09d4ef14a49e0e7a2c0506c80" title="btreePageFromDbPage" alt="" coords="176,107,333,133"/>
+</map>

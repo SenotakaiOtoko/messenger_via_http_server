@@ -1,0 +1,12 @@
+<map id="sqlite3FindIndex" name="sqlite3FindIndex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="175,5,342,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac696deb1ccaae3fa855cfbd0bfd4d048" title="sqlite3Analyze" alt="" coords="205,56,312,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#abb38e5b97f93c8a9775233bb28cb1e17" title="analysisLoader" alt="" coords="204,107,313,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aaeda0302fbf61397ec009f65bed047ef" title="sqlite3DeleteIndexSamples" alt="" coords="169,157,348,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af49b4395f39d9078a0dda2484c183012" title="sqlite3StartTable" alt="" coords="199,208,318,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="194,259,323,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a3ffd2536f34a0cf6d427710b06b71e83" title="sqlite3DropIndex" alt="" coords="199,309,318,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#abd189e31189391e1ef114b413ff4abbf" title="sqlite3Reindex" alt="" coords="205,360,312,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="206,411,311,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a5183ff3c8b5311c7332250013ee018b3" title="sqlite3InitCallback" alt="" coords="195,461,322,488"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="btreeParseCellPtr" name="btreeParseCellPtr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6c95c9aac1c8a00490e36674f43e76ec" title="cellSizePtr" alt="" coords="230,142,315,169"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a92f1869a02b8b9196e5ea7ed2e61c328" title="balance_quick" alt="" coords="422,41,527,68"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="416,92,533,118"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a833fe7b749860571772ef6b19b3c54df" title="checkTreePage" alt="" coords="419,168,531,194"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5b7cb112db531e0498aaddcbadb4985b" title="ptrmapPutOvflPtr" alt="" coords="213,41,333,68"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#acc82754cf975b3a8033b396d86f1045a" title="modifyPagePointer" alt="" coords="207,244,338,270"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a6d0b5aed55d5e85a0a6bfcae169fe579" title="sqlite3BtreeMovetoUnpacked" alt="" coords="177,294,368,321"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#acce36127359eb4baec99dac6d630bd9d" title="clearCell" alt="" coords="237,345,309,372"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ab66a77004cf93954f2aae7e52a4e51a7" title="fillInCell" alt="" coords="239,396,306,422"/>
+</map>

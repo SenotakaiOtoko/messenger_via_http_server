@@ -1,0 +1,10 @@
+<map id="pcache1Fetch" name="pcache1Fetch">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8c56f8763581386fa892a46f77c8d684" title="pcache1PinPage" alt="" coords="199,5,319,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8ac031ba611370b715065a6536e175d0" title="pcache1UnderMemoryPressure" alt="" coords="157,56,361,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a18b66b030fc2d966ba9dd3bd8132e4cd" title="pcache1ResizeHash" alt="" coords="189,157,330,184"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="409,132,580,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="414,195,575,221"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1b58eae8a9fe64c0c817a74a2ac7ad41" title="pcache1RemoveFromHash" alt="" coords="171,259,348,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aa3f573a706805bb81ef72ff65ffcdb79" title="pcache1FreePage" alt="" coords="196,309,323,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ad6ec26e3c7beec69fb9ca11fcd63120e" title="pcache1AllocPage" alt="" coords="194,360,325,387"/>
+</map>

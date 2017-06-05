@@ -1,0 +1,6 @@
+<map id="sqlite3ExprCompare" name="sqlite3ExprCompare">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac7f7eabdc769257622ad90aac3e02fe6" title="resolveOrderByTermToExprList" alt="" coords="192,5,393,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4dc8ed6177a5de887eae1010992e3d00" title="resolveOrderGroupBy" alt="" coords="220,56,365,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6e0abfa0020082444e36ea9a9f73e6b9" title="sqlite3ExprListCompare" alt="" coords="213,107,373,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6b02b8b5e691498db3c59afbf9322585" title="analyzeAggregate" alt="" coords="229,157,356,184"/>
+</map>

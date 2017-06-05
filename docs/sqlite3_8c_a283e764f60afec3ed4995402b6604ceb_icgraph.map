@@ -1,0 +1,5 @@
+<map id="pcache1Free" name="pcache1Free">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad6ec26e3c7beec69fb9ca11fcd63120e" title="pcache1AllocPage" alt="" coords="151,5,281,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa3f573a706805bb81ef72ff65ffcdb79" title="pcache1FreePage" alt="" coords="153,56,279,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7c85b1d9d633386e0ecb5d56594fe03f" title="sqlite3PageFree" alt="" coords="158,107,274,133"/>
+</map>

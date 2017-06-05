@@ -1,0 +1,10 @@
+<map id="lockBtree" name="lockBtree">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="347,91,481,118"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="133,41,296,67"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="163,91,266,118"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae82aaf561ce61faa15d4e228c45c3311" title="sqlite3PagerPagecount" alt="" coords="137,142,293,169"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5e4116ab2def31c2c36e557fc6811d0d" title="sqlite3PagerOpenWal" alt="" coords="141,193,289,219"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="167,243,262,270"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aec277d601edd310860ca5a81c99ed411" title="freeTempSpace" alt="" coords="159,294,271,321"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ab668348d5dcc0382c247c74b6358f16e" title="sqlite3PagerSetPagesize" alt="" coords="131,345,299,371"/>
+</map>

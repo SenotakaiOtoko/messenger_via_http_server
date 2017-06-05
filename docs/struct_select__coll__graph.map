@@ -1,0 +1,5 @@
+<map id="Select" name="Select">
+<area shape="rect" id="node2" href="$struct_expr.html" title="{Expr\n|+ op\l+ affinity\l+ flags\l+ zToken\l+ iValue\l+ u\l+ x\l+ nHeight\l+ iTable\l+ iColumn\l+ iAgg\l+ iRightJoinTable\l+ flags2\l+ op2\l|}" alt="" coords="11,447,132,715"/>
+<area shape="rect" id="node3" href="$struct_expr_list.html" title="{ExprList\n|+ nExpr\l+ iECursor\l|}" alt="" coords="5,5,89,97"/>
+<area shape="rect" id="node4" href="$struct_src_list.html" title="{SrcList\n|+ nSrc\l+ nAlloc\l|}" alt="" coords="133,5,204,97"/>
+</map>

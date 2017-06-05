@@ -1,0 +1,12 @@
+<map id="sqlite3PagerMovepage" name="sqlite3PagerMovepage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="224,49,349,75"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa9d040b7f24a8a5d99bf96863b52cd15" title="sqlite3PagerUnref" alt="" coords="416,11,540,38"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a79ba2db0ed806dd235384c923231173f" title="pager_lookup" alt="" coords="429,87,527,114"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8c8d460aa8cc7cb907b2e04844aaba86" title="subjRequiresPage" alt="" coords="223,150,350,177"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a836f5a13ba09ee3f118ebe73b58591c4" title="subjournalPage" alt="" coords="231,201,342,227"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aceb49281aca48f232560459d673a9e3d" title="pageInJournal" alt="" coords="427,226,529,253"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a51ea21b4bc5c6d0534aa0f67dcb6c4dc" title="sqlite3PcacheMove" alt="" coords="219,302,354,329"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a78667811e7a2a7e75117cd6ec9cf6486" title="sqlite3PcacheDrop" alt="" coords="221,353,352,379"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ab2add4c541df2d0b57a993930ee18a3a" title="sqlite3PcacheMakeDirty" alt="" coords="205,403,368,430"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a8313d0c9f9e5d722d6f1fdb670fcbc60" title="sqlite3BitvecClear" alt="" coords="224,454,349,481"/>
+</map>

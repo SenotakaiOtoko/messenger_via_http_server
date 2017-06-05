@@ -1,0 +1,6 @@
+<map id="mg_handle_udp_read" name="mg_handle_udp_read">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a2d471a9e620674ece9f43e802d4bb3cb" title="mg_recvfrom" alt="" coords="224,5,319,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a3b7cf668d0412cd37c5bba8ba5938ee0" title="mg_if_recv_udp_cb" alt="" coords="205,56,337,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a34951229fad1d145805f5bb7a29ace67" title="mg_if_accept_tcp_cb" alt="" coords="199,107,344,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a73a3e947b6d29f71542c280fdbe4fce0" title="mg_if_connect_cb" alt="" coords="208,157,335,184"/>
+</map>

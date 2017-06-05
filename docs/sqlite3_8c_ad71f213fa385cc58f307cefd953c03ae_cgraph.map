@@ -1,0 +1,7 @@
+<map id="unixFileControl" name="unixFileControl">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a83b00fec4238518b00e315fe0eff28e6" title="fcntlSizeHint" alt="" coords="167,5,262,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2508a74b47b850a9f5a559a28681f394" title="unixModeBit" alt="" coords="167,56,262,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad53f02dff404aec729bd406c00998d12" title="unixGetTempname" alt="" coords="316,81,447,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4ae85b8d9051570b833812ea1f7d632a" title="sqlite3_mprintf" alt="" coords="161,157,268,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac79dba55fc32b6a840cf5a9769bce7cd" title="sqlite3_malloc" alt="" coords="162,208,267,235"/>
+</map>

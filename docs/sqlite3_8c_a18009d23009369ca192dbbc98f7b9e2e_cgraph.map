@@ -1,0 +1,4 @@
+<map id="setDateTimeToCurrent" name="setDateTimeToCurrent">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="226,5,357,47"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8fba11754c83b89782ef18af266f5ec2" title="sqlite3OsCurrentTimeInt64" alt="" coords="204,71,379,98"/>
+</map>

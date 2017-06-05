@@ -1,0 +1,7 @@
+<map id="sqlite3_api_routines" name="sqlite3_api_routines">
+<area shape="rect" id="node2" href="$struct_mem.html" title="{Mem\n|+ z\l+ r\l+ i\l+ nZero\l+ u\l+ n\l+ flags\l+ type\l+ enc\l+ xDel\l+ zMalloc\l|}" alt="" coords="308,5,387,229"/>
+<area shape="rect" id="node3" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="235,292,345,516"/>
+<area shape="rect" id="node6" href="$structsqlite3__backup.html" title="{sqlite3_backup\n|+ iDestSchema\l+ bDestLocked\l+ iNext\l+ rc\l+ nRemaining\l+ nPagecount\l+ isAttached\l|}" alt="" coords="234,593,346,759"/>
+<area shape="rect" id="node4" href="$structsqlite3__mutex.html" title="{sqlite3_mutex\n|+ mutex\l|}" alt="" coords="5,79,108,156"/>
+<area shape="rect" id="node5" href="$structsqlite3__vfs.html" title="{sqlite3_vfs\n|+ iVersion\l+ szOsFile\l+ mxPathname\l+ zName\l+ pAppData\l+ xOpen\l+ xDelete\l+ xAccess\l+ xFullPathname\l+ xDlOpen\lи 11 больше...\l|}" alt="" coords="480,5,601,229"/>
+</map>

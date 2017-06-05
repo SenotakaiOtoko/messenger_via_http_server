@@ -1,0 +1,10 @@
+<map id="sqlite3ResetAllSchemasOfConnection" name="sqlite3ResetAllSchemasOfConnection">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="236,5,377,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="431,309,551,336"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="263,107,350,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2b3dd04cb87abd088926ab0082a60b77" title="detachFunc" alt="" coords="261,157,352,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a759777a1eb3c3e96a5af94932b39e69a" title="invalidateTempStorage" alt="" coords="231,208,383,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac4318b25df65269906b0379251fe9b85" title="sqlite3InitOne" alt="" coords="256,259,357,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5e83ddc7b3e7e8e79ad5d1fc92de1d2f" title="sqlite3RunVacuum" alt="" coords="241,309,372,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ad902dd388d73208539f557962e3fe6bb" title="sqlite3RollbackAll" alt="" coords="244,360,369,387"/>
+</map>

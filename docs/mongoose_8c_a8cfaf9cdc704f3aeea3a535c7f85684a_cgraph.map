@@ -1,0 +1,5 @@
+<map id="mg_tun_create_client" name="mg_tun_create_client">
+<area shape="rect" id="node2" href="$mongoose_8c.html#ae07fb4118f72fef257b9d22bc2c805bf" title="mg_find_iface" alt="" coords="214,5,315,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a90012d4296b6fe25c431524ff41da6c8" title="mg_tun_init_client" alt="" coords="201,56,328,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a7376215c185615ff12ed72da2d12efa5" title="mg_tun_reconnect" alt="" coords="200,107,329,133"/>
+</map>

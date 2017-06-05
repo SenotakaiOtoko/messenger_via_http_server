@@ -1,0 +1,9 @@
+<map id="zeroPage" name="zeroPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a974c792d17dab330807b588197cae229" title="newDatabase" alt="" coords="148,5,248,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a92f1869a02b8b9196e5ea7ed2e61c328" title="balance_quick" alt="" coords="145,56,251,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="139,107,257,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af8eafba12a6ebc987cf6ae89f4cce1a8" title="balance_deeper" alt="" coords="141,157,255,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a48e09eaac366a6b585edd02553872954" title="btreeCreateTable" alt="" coords="138,208,258,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aecc3046a56feeeabd3ca93c0685e35d5" title="clearDatabasePage" alt="" coords="131,259,265,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#abba4061ea34842db278e91f537d2c2ff" title="btreeDropTable" alt="" coords="143,309,253,336"/>
+</map>

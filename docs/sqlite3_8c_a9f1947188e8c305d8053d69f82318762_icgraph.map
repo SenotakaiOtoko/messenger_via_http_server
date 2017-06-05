@@ -1,0 +1,6 @@
+<map id="pagerFixMaplimit" name="pagerFixMaplimit">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa5bd62da47024a18682829ab4527e9a8" title="sqlite3PagerSetMmapLimit" alt="" coords="175,5,353,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab668348d5dcc0382c247c74b6358f16e" title="sqlite3PagerSetPagesize" alt="" coords="180,56,348,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acb6f84b34748805df0403a052d18eaf1" title="pagerOpenWal" alt="" coords="210,107,318,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac62d7d3d29214a7cad25fdd88e7c7a74" title="sqlite3PagerCloseWal" alt="" coords="401,132,552,159"/>
+</map>

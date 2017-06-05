@@ -1,0 +1,8 @@
+<map id="VdbeCursor" name="VdbeCursor">
+<area shape="rect" id="node2" href="$struct_bt_cursor.html" title="{BtCursor\n|+ aOverflow\l+ pgnoRoot\l+ cachedRowid\l+ nKey\l+ pKey\l+ skipNext\l+ wrFlag\l+ atLast\l+ validNKey\l+ eState\l+ isIncrblobHandle\l+ hints\l+ iPage\l+ aiIdx\l|}" alt="" coords="113,204,242,472"/>
+<area shape="rect" id="node3" href="$struct_key_info.html" title="{KeyInfo\n|+ enc\l+ nField\l+ aSortOrder\l|}" alt="" coords="46,20,143,127"/>
+<area shape="rect" id="node4" href="$struct_btree.html" title="{Btree\n|+ inTrans\l+ sharable\l+ locked\l+ wantToLock\l+ nBackup\l|}" alt="" coords="206,5,309,141"/>
+<area shape="rect" id="node5" href="$structsqlite3__module.html" title="{sqlite3_module\n|+ iVersion\l+ xCreate\l+ xConnect\l+ xBestIndex\l+ xDisconnect\l+ xDestroy\l+ xOpen\l+ xClose\l+ xFilter\l+ xNext\lи 13 больше...\l|}" alt="" coords="417,226,527,450"/>
+<area shape="rect" id="node6" href="$structsqlite3__vtab__cursor.html" title="{sqlite3_vtab_cursor\n||}" alt="" coords="551,299,684,377"/>
+<area shape="rect" id="node7" href="$struct_vdbe_sorter.html" title="{VdbeSorter\n|+ iWriteOff\l+ iReadOff\l+ nInMemory\l+ nTree\l+ nPMA\l+ mnPmaSize\l+ mxPmaSize\l+ aTree\l|}" alt="" coords="709,248,814,428"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sqlite3VdbeFreeCursor" name="sqlite3VdbeFreeCursor">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a787fa9e9800f8ae4ef3fa11044ed1ac9" title="sqlite3VdbeSorterClose" alt="" coords="208,5,367,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a729b65009b66a99200496b09c124df01" title="sqlite3BtreeClose" alt="" coords="225,56,349,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7f494da0a512d247d690d6bc19397791" title="sqlite3BtreeCloseCursor" alt="" coords="415,81,577,108"/>
+</map>

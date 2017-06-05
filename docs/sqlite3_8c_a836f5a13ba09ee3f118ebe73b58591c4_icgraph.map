@@ -1,0 +1,5 @@
+<map id="subjournalPage" name="subjournalPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#abb21a3a371038e9e3e69af0f21a1b386" title="pagerStress" alt="" coords="194,5,286,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa5dbf1a9dcccf0aa140b04b81325517f" title="pager_write" alt="" coords="196,56,284,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8cdedc7a185709301f12c4d7b305aa1e" title="sqlite3PagerMovepage" alt="" coords="164,107,316,133"/>
+</map>

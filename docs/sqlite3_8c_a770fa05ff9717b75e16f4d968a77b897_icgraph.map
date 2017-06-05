@@ -1,0 +1,5 @@
+<map id="isLookaside" name="isLookaside">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa397e5a8a03495203a0767abf0a71f86" title="sqlite3DbMallocSize" alt="" coords="144,5,284,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="332,56,435,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a169974d5f47a6e7e80f0f67799d5b292" title="sqlite3DbRealloc" alt="" coords="483,81,601,108"/>
+</map>

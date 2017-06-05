@@ -1,0 +1,6 @@
+<map id="mg_send_response_line" name="mg_send_response_line">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a984773b80f958b983265208dd054b500" title="mg_http_send_redirect" alt="" coords="228,5,383,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a2dfcbaf7ad4885852337450d17ab0608" title="mg_send_head" alt="" coords="250,56,361,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a38631bcf9f50213200764415341c59b0" title="mg_parse_http_basic_auth" alt="" coords="216,107,395,133"/>
+<area shape="rect" id="node5" href="$mongoose_8h.html#a85308bde07e6c49e00d660553a8e3fd1" title="mg_register_http_endpoint" alt="" coords="218,157,393,184"/>
+</map>

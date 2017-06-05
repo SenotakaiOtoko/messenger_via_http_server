@@ -1,0 +1,12 @@
+<map id="mbuf_append" name="mbuf_append">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a2820cf0d2389fb3597e918a53f3f8cfb" title="mbuf_insert" alt="" coords="210,5,299,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a5bd73493386996c55d7ca0b8e67a22f6" title="mg_recv_common" alt="" coords="191,56,318,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a7ca9dc295b36563ba6d86b676107e1a3" title="mg_socket_if_tcp_send" alt="" coords="175,107,334,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a49de3131079477cefec91b9bad16f006" title="mg_socket_if_udp_send" alt="" coords="173,157,336,184"/>
+<area shape="rect" id="node6" href="$mongoose_8h.html#a2ed764a3ef91c75d108534f061d03c7f" title="mg_mbuf_append_base64_putc" alt="" coords="152,208,357,235"/>
+<area shape="rect" id="node7" href="$mongoose_8h.html#a77122e10e44bc5883e3c6d631e9e4e18" title="mg_basic_auth_header" alt="" coords="407,233,563,260"/>
+<area shape="rect" id="node8" href="$mongoose_8h.html#ad92c952f7a90d0ddc227a0fbaeb41aad" title="mg_dns_copy_questions" alt="" coords="171,309,338,336"/>
+<area shape="rect" id="node9" href="$mongoose_8h.html#aca70cc85f25278380c14fd01c135fdce" title="mg_dns_encode_name" alt="" coords="177,360,333,387"/>
+<area shape="rect" id="node10" href="$mongoose_8h.html#a25b56c78c499f837955faa1a52b5d7e5" title="mg_dns_encode_record" alt="" coords="405,385,565,412"/>
+<area shape="rect" id="node11" href="$mongoose_8h.html#a1db131b77c3d3046fc7aa7577b52dfae" title="mg_resolve_async_opt" alt="" coords="177,461,332,488"/>
+</map>

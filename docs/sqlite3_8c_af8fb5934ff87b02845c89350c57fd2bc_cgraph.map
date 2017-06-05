@@ -1,0 +1,11 @@
+<map id="relocatePage" name="relocatePage">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="531,309,665,336"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8cdedc7a185709301f12c4d7b305aa1e" title="sqlite3PagerMovepage" alt="" coords="331,5,483,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="535,81,661,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#adf2ff6d11495ca47f88ace93f5be9d91" title="setChildPtrmaps" alt="" coords="158,157,277,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac16fbe55892f29324ac5d09957374ed0" title="ptrmapPut" alt="" coords="365,107,448,133"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="355,360,458,387"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="359,411,454,437"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#acc82754cf975b3a8033b396d86f1045a" title="modifyPagePointer" alt="" coords="152,208,283,235"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ae84ce1103eabfe9455a6a59e6cec4a33" title="allocateBtreePage" alt="" coords="153,309,281,336"/>
+</map>

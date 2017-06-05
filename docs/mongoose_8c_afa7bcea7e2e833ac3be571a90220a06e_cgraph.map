@@ -1,0 +1,8 @@
+<map id="mg_socket_if_poll" name="mg_socket_if_poll">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a844719a6a21476e5f173ef2101473153" title="mg_time" alt="" coords="223,5,295,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ae8b040fe0c73e0b5ffe8501e1da9b0a9" title="mg_add_to_set" alt="" coords="204,56,315,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#af86d8e36360fe91924be0df71d3d399b" title="mg_mgr_handle_conn" alt="" coords="185,107,334,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#aa8329404bac06e97c7eb18ded5dd650a" title="mg_close_conn" alt="" coords="203,157,316,184"/>
+<area shape="rect" id="node6" href="$mongoose_8h.html#a6434df14580c4a10b5514935dd91a2c6" title="mg_socketpair" alt="" coords="206,208,313,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#a4806971f05e2a75c979485c7d7081622" title="mg_set_close_on_exec" alt="" coords="180,259,339,285"/>
+</map>

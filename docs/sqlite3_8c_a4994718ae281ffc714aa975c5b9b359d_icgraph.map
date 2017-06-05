@@ -1,0 +1,7 @@
+<map id="sqlite3PagerFile" name="sqlite3PagerFile">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#acf70e6d3cb6afd54d677b3dffb6959d2" title="accessPayload" alt="" coords="183,5,294,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="168,56,309,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4d9e19a79f0d5c1dfcef0bd137ae83f9" title="sqlite3BtreeCopyFile" alt="" coords="357,95,500,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="376,171,481,197"/>
+<area shape="rect" id="node6" href="$sqlite3_8h.html#a33ffb71cb1ea1f7c5f0564166c7d6c08" title="sqlite3_file_control" alt="" coords="174,208,303,235"/>
+</map>

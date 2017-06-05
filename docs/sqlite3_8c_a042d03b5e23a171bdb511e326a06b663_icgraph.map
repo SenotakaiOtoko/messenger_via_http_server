@@ -1,0 +1,7 @@
+<map id="sqlite3BtreeIsInReadTrans" name="sqlite3BtreeIsInReadTrans">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="232,5,373,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a2b3dd04cb87abd088926ab0082a60b77" title="detachFunc" alt="" coords="257,56,348,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a759777a1eb3c3e96a5af94932b39e69a" title="invalidateTempStorage" alt="" coords="227,107,379,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac4318b25df65269906b0379251fe9b85" title="sqlite3InitOne" alt="" coords="252,157,353,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7c466fe28e7ca6f46b8bf72c46d9738d" title="schemaIsValid" alt="" coords="249,208,356,235"/>
+</map>

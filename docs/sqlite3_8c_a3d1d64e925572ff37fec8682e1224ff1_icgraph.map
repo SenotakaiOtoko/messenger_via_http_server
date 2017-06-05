@@ -1,0 +1,9 @@
+<map id="sqlite3VdbeSetNumCols" name="sqlite3VdbeSetNumCols">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab9b4b45349188b49eabb23f94608a091" title="sqlite3DeleteFrom" alt="" coords="231,5,358,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="249,56,341,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac113284b70126c8f10e1603da0b16b26" title="returnSingleInt" alt="" coords="242,107,347,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a111391370f58f8e6a6eca51fd34d62ed" title="sqlite3Pragma" alt="" coords="421,132,527,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#acb25890858d0bf4b12eb7aae569f0c7b" title="sqlite3Prepare" alt="" coords="242,208,347,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a9373f35df9061335d5b371e7bbf22a11" title="generateColumnNames" alt="" coords="216,259,373,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac5aa67c46e8cc8174566fabe6809fafa" title="sqlite3Update" alt="" coords="244,309,345,336"/>
+</map>

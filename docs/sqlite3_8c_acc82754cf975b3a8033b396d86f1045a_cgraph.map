@@ -1,0 +1,5 @@
+<map id="modifyPagePointer" name="modifyPagePointer">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="356,22,491,49"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a3fbef3abda22e9a3f72c2873ec0b26a3" title="btreeInitPage" alt="" coords="197,22,295,49"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1eba22ca0ddf563de0b29c64551c759f" title="btreeParseCellPtr" alt="" coords="184,73,308,99"/>
+</map>

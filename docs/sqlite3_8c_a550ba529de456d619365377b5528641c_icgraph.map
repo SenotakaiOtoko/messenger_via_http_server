@@ -1,0 +1,7 @@
+<map id="sqlite3BtreeUpdateMeta" name="sqlite3BtreeUpdateMeta">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a48e09eaac366a6b585edd02553872954" title="btreeCreateTable" alt="" coords="225,5,345,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#abba4061ea34842db278e91f537d2c2ff" title="btreeDropTable" alt="" coords="231,56,340,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#a1699b75e98d082eebc465a9e64c35269" title="sqlite3_backup_step" alt="" coords="215,107,356,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="404,183,524,209"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5e83ddc7b3e7e8e79ad5d1fc92de1d2f" title="sqlite3RunVacuum" alt="" coords="220,208,351,235"/>
+</map>

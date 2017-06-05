@@ -1,0 +1,5 @@
+<map id="newDatabase" name="newDatabase">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a08d2026f82b067753a698376c12c0324" title="sqlite3BtreeNewDb" alt="" coords="165,5,297,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a52d6706df15c67c22aa7d0e290c16bf5" title="sqlite3BtreeBeginTrans" alt="" coords="153,56,309,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4580edf7e5192abf64317a3931972115" title="sqlite3BtreeSavepoint" alt="" coords="158,107,305,133"/>
+</map>

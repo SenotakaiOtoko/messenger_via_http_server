@@ -1,0 +1,6 @@
+<map id="sqlite3BtreeKeySize" name="sqlite3BtreeKeySize">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1fd19e15f7d2a03087f0c1f287dda917" title="saveCursorPosition" alt="" coords="218,5,351,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1a759afe6bc723418d03214c07ba410f" title="sqlite3VdbeIdxRowid" alt="" coords="213,56,356,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="424,107,544,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a82934368a1fe5a6609cdec184a5e25a8" title="sqlite3VdbeIdxKeyCompare" alt="" coords="193,157,376,184"/>
+</map>

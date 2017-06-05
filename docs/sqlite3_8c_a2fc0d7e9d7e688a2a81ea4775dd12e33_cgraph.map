@@ -1,0 +1,7 @@
+<map id="sqlite3ResetAllSchemasOfConnection" name="sqlite3ResetAllSchemasOfConnection">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7e8c5e623a61d322d3622c3e6202d735" title="sqlite3BtreeEnterAll" alt="" coords="260,5,397,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a927c603430267e42c56ab38ca221322a" title="sqlite3SchemaClear" alt="" coords="259,56,398,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a266b6e5487ec403a27fc6c6f852ff249" title="sqlite3VtabUnlockList" alt="" coords="255,107,403,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a282e5f429eee8e0aebc7d18068ebccd2" title="sqlite3BtreeLeaveAll" alt="" coords="259,157,398,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aaa27b662e527cf1432dad05c49a389ce" title="sqlite3CollapseDatabaseArray" alt="" coords="231,208,427,235"/>
+</map>

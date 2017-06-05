@@ -1,0 +1,6 @@
+<map id="sqlite3SchemaGet" name="sqlite3SchemaGet">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af5345180c083a3a4b3d5ebb11986ea4a" title="sqlite3BtreeSchema" alt="" coords="183,5,321,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="369,44,508,71"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a927c603430267e42c56ab38ca221322a" title="sqlite3SchemaClear" alt="" coords="183,107,321,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a666b28838d58955f60dccd84931fdf75" title="sqlite3HashInit" alt="" coords="385,120,492,147"/>
+</map>

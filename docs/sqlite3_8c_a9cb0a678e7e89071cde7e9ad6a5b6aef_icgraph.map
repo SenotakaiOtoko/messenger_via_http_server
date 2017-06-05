@@ -1,0 +1,6 @@
+<map id="allowedOp" name="allowedOp">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab6bc22735005ef5fc9bd51cd269f54be" title="exprCommute" alt="" coords="136,5,239,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#acb10e48c9a4184a4edd9bfd5b14ad0b7" title="exprAnalyze" alt="" coords="287,81,381,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab95cabd8b51cb2291b5bef0c4a3776d2" title="exprAnalyzeOrTerm" alt="" coords="429,81,567,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2c4d9f851b9a7492b6a009c12fd78ba3" title="operatorMask" alt="" coords="137,107,238,133"/>
+</map>

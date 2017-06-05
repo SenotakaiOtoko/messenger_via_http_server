@@ -1,0 +1,7 @@
+<map id="sqlite3BtreeIsInTrans" name="sqlite3BtreeIsInTrans">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4d9e19a79f0d5c1dfcef0bd137ae83f9" title="sqlite3BtreeCopyFile" alt="" coords="196,5,339,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5e83ddc7b3e7e8e79ad5d1fc92de1d2f" title="sqlite3RunVacuum" alt="" coords="387,56,517,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="565,107,685,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="221,157,314,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad902dd388d73208539f557962e3fe6bb" title="sqlite3RollbackAll" alt="" coords="389,183,515,209"/>
+</map>

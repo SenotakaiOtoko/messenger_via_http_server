@@ -1,0 +1,9 @@
+<map id="mg_tun_client_handler" name="mg_tun_client_handler">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a0c2ab9e1b54bd97338a557dbe356d163" title="mg_tun_parse_frame" alt="" coords="205,5,348,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a8b5a6bd1fb4ad656a3545838561c8798" title="mg_tun_log_frame" alt="" coords="213,56,341,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a3d0be5ed03ef7e91ab08adb09fcffae1" title="mg_tun_if_find_conn" alt="" coords="207,107,347,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#ab32cc3b42fd1e60f754e8475b7d7fe18" title="mg_if_recv_tcp_cb" alt="" coords="212,157,341,184"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#aa8329404bac06e97c7eb18ded5dd650a" title="mg_close_conn" alt="" coords="220,208,333,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#a021a261f15ad0d7b3fd718ee9b606e79" title="mg_tun_close_all" alt="" coords="215,259,338,285"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#a7376215c185615ff12ed72da2d12efa5" title="mg_tun_reconnect" alt="" coords="212,309,341,336"/>
+</map>

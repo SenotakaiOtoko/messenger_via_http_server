@@ -1,0 +1,4 @@
+<map id="UnpackedRecord" name="UnpackedRecord">
+<area shape="rect" id="node2" href="$struct_mem.html" title="{Mem\n|+ z\l+ r\l+ i\l+ nZero\l+ u\l+ n\l+ flags\l+ type\l+ enc\l+ xDel\l+ zMalloc\l|}" alt="" coords="5,5,84,229"/>
+<area shape="rect" id="node3" href="$struct_key_info.html" title="{KeyInfo\n|+ enc\l+ nField\l+ aSortOrder\l|}" alt="" coords="108,64,205,171"/>
+</map>

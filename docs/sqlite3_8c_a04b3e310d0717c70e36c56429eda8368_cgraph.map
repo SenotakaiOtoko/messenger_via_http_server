@@ -1,0 +1,6 @@
+<map id="sqlite3VdbeMakeReady" name="sqlite3VdbeMakeReady">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9aa9c7da468f7325e427e599812b92ab" title="resolveP2Values" alt="" coords="222,5,341,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1baf14156de470f47e999322a25c4f13" title="allocSpace" alt="" coords="238,56,325,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="212,107,351,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac2109d6ef272c796bd8881a430bc1052" title="sqlite3VdbeRewind" alt="" coords="215,157,347,184"/>
+</map>

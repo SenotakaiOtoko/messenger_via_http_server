@@ -1,0 +1,11 @@
+<map id="Parse" name="Parse">
+<area shape="rect" id="node2" href="$struct_vdbe.html" title="{Vdbe\n|+ nMem\l+ nOp\l+ nOpAlloc\l+ nLabel\l+ aLabel\l+ nResColumn\l+ nCursor\l+ magic\l+ zErrMsg\l+ azVar\lи 30 больше...\l|}" alt="" coords="53,197,162,421"/>
+<area shape="rect" id="node3" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="133,568,242,792"/>
+<area shape="rect" id="node4" href="$struct_table_lock.html" title="{TableLock\n|+ iDb\l+ iTab\l+ isWriteLock\l+ zName\l|}" alt="" coords="267,619,370,741"/>
+<area shape="rect" id="node5" href="$struct_token.html" title="{Token\n|+ z\l+ n\l|}" alt="" coords="396,634,454,726"/>
+<area shape="rect" id="node6" href="$struct_parse_1_1y_col_cache.html" title="{yColCache\n|+ iTable\l+ iColumn\l+ tempReg\l+ iLevel\l+ iReg\l+ lru\l|}" alt="" coords="512,605,599,755"/>
+<area shape="rect" id="node7" href="$struct_table.html" title="{Table\n|+ zName\l+ zColAff\l+ nRowEst\l+ tnum\l+ iPKey\l+ nCol\l+ nRef\l+ tabFlags\l+ keyConf\l+ addColOffset\l+ nModuleArg\l+ azModuleArg\l|}" alt="" coords="708,189,819,428"/>
+<area shape="rect" id="node10" href="$struct_autoinc_info.html" title="{AutoincInfo\n|+ iDb\l+ regCtr\l|}" alt="" coords="816,634,903,726"/>
+<area shape="rect" id="node8" href="$struct_trigger.html" title="{Trigger\n|+ zName\l+ table\l+ op\l+ tr_tm\l|}" alt="" coords="726,5,801,127"/>
+<area shape="rect" id="node9" href="$struct_trigger_prg.html" title="{TriggerPrg\n|+ orconf\l+ aColmask\l|}" alt="" coords="968,452,1060,544"/>
+</map>

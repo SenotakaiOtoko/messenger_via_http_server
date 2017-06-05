@@ -1,0 +1,12 @@
+<map id="sqlite3BitvecBuiltinTest" name="sqlite3BitvecBuiltinTest">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0a60c2422cf28790767f5bc7598514ee" title="sqlite3BitvecCreate" alt="" coords="397,50,531,76"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="579,24,701,51"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac79dba55fc32b6a840cf5a9769bce7cd" title="sqlite3_malloc" alt="" coords="227,100,332,127"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1f3c6d64d5d889e451d6725b1eb458be" title="sqlite3BitvecSet" alt="" coords="222,151,337,178"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8313d0c9f9e5d722d6f1fdb670fcbc60" title="sqlite3BitvecClear" alt="" coords="217,202,342,228"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aa452ad88657d4606e137b09c4e9315c7" title="sqlite3_randomness" alt="" coords="210,252,349,279"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ab08693a5ff8d1b759eb50dc307ee910f" title="sqlite3BitvecTest" alt="" coords="219,303,339,330"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a7560bae9996565b0d984916bb0a4b448" title="sqlite3BitvecSize" alt="" coords="219,354,340,380"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="420,430,508,456"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="209,455,349,482"/>
+</map>

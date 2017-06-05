@@ -1,0 +1,5 @@
+<map id="unixInodeInfo" name="unixInodeInfo">
+<area shape="rect" id="node4" href="$structunix_shm_node.html" title="{unixShmNode\n|+ zFilename\l+ h\l+ szRegion\l+ nRegion\l+ isReadonly\l+ apRegion\l+ nRef\l|}" alt="" coords="146,359,249,524"/>
+<area shape="rect" id="node2" href="$struct_unix_unused_fd.html" title="{UnixUnusedFd\n|+ fd\l+ flags\l|}" alt="" coords="5,5,112,97"/>
+<area shape="rect" id="node3" href="$structunix_file_id.html" title="{unixFileId\n|+ dev\l+ ino\l|}" alt="" coords="207,5,284,97"/>
+</map>

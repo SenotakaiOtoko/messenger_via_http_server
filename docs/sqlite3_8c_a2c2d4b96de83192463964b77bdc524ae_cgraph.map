@@ -1,0 +1,6 @@
+<map id="sqlite3Utf16to8" name="sqlite3Utf16to8">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9697bec7c3b512483638ea3646191d7d" title="sqlite3VdbeMemSetStr" alt="" coords="405,5,561,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="617,56,784,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa7cf8e488bf8cf9ec18528f52a40de31" title="sqlite3VdbeChangeEncoding" alt="" coords="161,107,349,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a21199c589e37f01747333f7734dd2186" title="sqlite3VdbeMemTranslate" alt="" coords="397,107,569,133"/>
+</map>

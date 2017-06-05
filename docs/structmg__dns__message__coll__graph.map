@@ -1,0 +1,4 @@
+<map id="mg_dns_message" name="mg_dns_message">
+<area shape="rect" id="node2" href="$structmg__dns__resource__record.html" title="{mg_dns_resource_record\n|+ rtype\l+ rclass\l+ ttl\l+ kind\l|}" alt="" coords="79,175,247,296"/>
+<area shape="rect" id="node3" href="$structmg__str.html" title="{mg_str\n|+ p\l+ len\l|}" alt="" coords="38,5,101,97"/>
+</map>

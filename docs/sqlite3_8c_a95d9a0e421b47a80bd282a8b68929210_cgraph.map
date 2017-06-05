@@ -1,0 +1,5 @@
+<map id="pcache1TruncateUnsafe" name="pcache1TruncateUnsafe">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="389,22,524,48"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8c56f8763581386fa892a46f77c8d684" title="pcache1PinPage" alt="" coords="218,22,338,48"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa3f573a706805bb81ef72ff65ffcdb79" title="pcache1FreePage" alt="" coords="215,72,341,99"/>
+</map>

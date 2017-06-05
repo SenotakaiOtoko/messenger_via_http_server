@@ -1,0 +1,7 @@
+<map id="mg_deliver_websocket_data" name="mg_deliver_websocket_data">
+<area shape="rect" id="node2" href="$mongoose_8c.html#acc4ffb5c01b6f02ab817f7e582bb1617" title="mg_is_ws_fragment" alt="" coords="251,5,389,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a553ed4a3de1c5553fedb7922c1c28709" title="mg_is_ws_first_fragment" alt="" coords="237,56,403,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#aec66dc4464589ecae366a3c036b0aa1f" title="mbuf_resize" alt="" coords="274,107,366,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#aa65b24bd1bbe27ca8cb2cccb579e5568" title="mg_handle_incoming\l_websocket_frame" alt="" coords="248,158,392,199"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a992684a720955bdc25108165e417ac5d" title="mbuf_remove" alt="" coords="271,224,369,251"/>
+</map>

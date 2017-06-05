@@ -1,0 +1,5 @@
+<map id="sqlite3PcacheFetch" name="sqlite3PcacheFetch">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a79ba2db0ed806dd235384c923231173f" title="pager_lookup" alt="" coords="211,5,309,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a22a53daafd2bd778cda390312651f994" title="sqlite3PagerAcquire" alt="" coords="191,56,329,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1252ec03814f64eed236cfb21094cafd" title="sqlite3PagerLookup" alt="" coords="192,107,328,133"/>
+</map>

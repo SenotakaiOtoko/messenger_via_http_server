@@ -1,0 +1,7 @@
+<map id="sqlite3SrcListDup" name="sqlite3SrcListDup">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a205de2c51c313b43acb81d72e3373032" title="sqlite3DbMallocRaw" alt="" coords="509,82,648,109"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="345,184,461,210"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af8a7f75590dced000c27784d90b57b87" title="sqlite3SelectDup" alt="" coords="177,32,297,58"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a509095508224c9f99698d86205234209" title="sqlite3ExprDup" alt="" coords="348,82,459,109"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac93854367d6e355c60ac6f40f3fe69a1" title="sqlite3IdListDup" alt="" coords="180,133,295,160"/>
+</map>

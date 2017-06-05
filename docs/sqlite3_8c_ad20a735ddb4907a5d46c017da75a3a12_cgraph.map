@@ -1,0 +1,7 @@
+<map id="renameTriggerFunc" name="renameTriggerFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="189,5,315,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="187,57,317,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3111c5f563140332fcc76d31fd028aaf" title="sqlite3GetToken" alt="" coords="194,123,310,149"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="201,173,303,200"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a2c06bc83045bd7986b89e5e8bd689bdf" title="sqlite3_result_text" alt="" coords="188,224,316,251"/>
+</map>

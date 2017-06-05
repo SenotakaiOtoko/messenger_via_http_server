@@ -1,0 +1,10 @@
+<map id="mg_mgr_handle_conn" name="mg_mgr_handle_conn">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a73a3e947b6d29f71542c280fdbe4fce0" title="mg_if_connect_cb" alt="" coords="396,14,523,41"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a6d625ffb1fbff69999b6d3764188a47a" title="mg_handle_udp_read" alt="" coords="203,40,348,66"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a11482eca2b62180bd0c7009ba453debc" title="mg_accept_conn" alt="" coords="215,90,336,117"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a62618e06df801fa9c8bcfe8624709a18" title="mg_handle_tcp_read" alt="" coords="204,141,347,168"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a2e8c5d40a60cac84806d99ec4294b920" title="mg_write_to_socket" alt="" coords="206,192,345,218"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#a434fcd77e575224c47a797ab0a7aeaa0" title="mg_if_poll" alt="" coords="235,242,315,269"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#ae662a8a7afb4425fabf95e0b12aabc0a" title="mg_if_timer" alt="" coords="231,293,320,320"/>
+<area shape="rect" id="node9" href="$mongoose_8c.html#a023ded1c332cffc6af40aba0ad405c80" title="mg_next" alt="" coords="239,344,311,370"/>
+</map>

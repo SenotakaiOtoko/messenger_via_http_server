@@ -1,0 +1,32 @@
+<map id="sqlite3_value_text" name="sqlite3_value_text">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a88586fabfb5a2ee248ccf6f5dfb90904" title="isDate" alt="" coords="239,48,297,75"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af531defbf93ba3aef96decedeafb344f" title="strftimeFunc" alt="" coords="405,43,500,69"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#ad1fe791079db4f1e36cabe30f66b0ad5" title="sqlite3_value_blob" alt="" coords="205,200,331,227"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="409,105,496,132"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8f86ca540b92ac28aaefaa126170cf8c" title="instrFunc" alt="" coords="415,181,491,208"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a8a8739d9af5589338113371e440b2734" title="substrFunc" alt="" coords="409,241,496,268"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a8e64c0ef376144dfad6a4a3d499056b8" title="quoteFunc" alt="" coords="411,292,494,319"/>
+<area shape="rect" id="node9" href="$sqlite3_8h.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="222,352,314,379"/>
+<area shape="rect" id="node10" href="$sqlite3_8h.html#a2f04c4c4fcf17f6e866236cce8c0d426" title="sqlite3_column_text" alt="" coords="199,403,337,429"/>
+<area shape="rect" id="node11" href="$sqlite3_8h.html#a01def208cc0075b490ec34c00e7b4294" title="sqlite3_column_name" alt="" coords="194,453,342,480"/>
+<area shape="rect" id="node12" href="$sqlite3_8h.html#a3cdf5e63589b1235030b6ad95f03d83b" title="sqlite3_column_decltype" alt="" coords="185,504,351,531"/>
+<area shape="rect" id="node13" href="$sqlite3_8h.html#a73da44139548b1d8951c84ae59d3c12e" title="sqlite3_column_decltype16" alt="" coords="179,555,357,581"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="208,605,328,632"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#aad60fbd27dbc13ef0d06ac3f2d2fc594" title="renameTableFunc" alt="" coords="205,656,331,683"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a8d4f2e761693277684d0a9b45812b73d" title="renameParentFunc" alt="" coords="202,707,334,733"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#ad20a735ddb4907a5d46c017da75a3a12" title="renameTriggerFunc" alt="" coords="201,757,335,784"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a2b3dd04cb87abd088926ab0082a60b77" title="detachFunc" alt="" coords="223,808,313,835"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#affdabf006c37c26a1c3e325badb83546" title="lengthFunc" alt="" coords="225,859,311,885"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#a8f26e491f9fd893cdb476c577f39f260" title="upperFunc" alt="" coords="227,909,309,936"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#a37a07e2d7c0cb4c521e9c334596c89a7" title="lowerFunc" alt="" coords="227,960,309,987"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#a066cc91be49c444497acfa7f2e7dfbd3" title="likeFunc" alt="" coords="233,1011,303,1037"/>
+<area shape="rect" id="node23" href="$sqlite3_8c.html#a56d5c8e1f0a43e4c9f8864c27065393f" title="errlogFunc" alt="" coords="227,1061,309,1088"/>
+<area shape="rect" id="node24" href="$sqlite3_8c.html#ab8caa7140383f5e738f29c859232145f" title="compileoptionusedFunc" alt="" coords="189,1112,347,1139"/>
+<area shape="rect" id="node25" href="$sqlite3_8c.html#a1d3d012cbe2276d8d713be80884db355" title="unicodeFunc" alt="" coords="220,1163,316,1189"/>
+<area shape="rect" id="node26" href="$sqlite3_8c.html#a752b98a7c55d204c397a4902b49b1ce4" title="replaceFunc" alt="" coords="221,1213,315,1240"/>
+<area shape="rect" id="node27" href="$sqlite3_8c.html#afad56dbe7f08139a630156e644b14704" title="trimFunc" alt="" coords="231,1264,305,1291"/>
+<area shape="rect" id="node28" href="$sqlite3_8c.html#a9f9125be634178265fb95e98b8304548" title="loadExt" alt="" coords="235,1315,301,1341"/>
+<area shape="rect" id="node29" href="$sqlite3_8c.html#a5267fc47d0a0d9a8f128c59d100e645d" title="groupConcatStep" alt="" coords="207,1365,329,1392"/>
+<area shape="rect" id="node30" href="$sqlite3_8c.html#a6c38e495198bf8976f68d1a6ebd74a50" title="isLikeOrGlob" alt="" coords="219,1416,317,1443"/>
+<area shape="rect" id="node31" href="$sqlite3_8h.html#a837fcee5d377d9b9b1ba08b61a5bbb42" title="sqlite3_errmsg" alt="" coords="215,1467,321,1493"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mg_basic_auth_header" name="mg_basic_auth_header">
+<area shape="rect" id="node2" href="$mongoose_8c.html#ab45d0f343d27235d516d8c158f34d3c0" title="cs_base64_init" alt="" coords="257,5,367,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a2ed764a3ef91c75d108534f061d03c7f" title="mg_mbuf_append_base64_putc" alt="" coords="209,56,415,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a49619c3764c1fa65cd8f4506bf1623f6" title="mbuf_append" alt="" coords="463,81,561,108"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a01dbdfd769a4bc517c4f2b2f380bda2d" title="cs_base64_update" alt="" coords="247,157,377,184"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a80648e9df5c0ddf56b33f0d397e0ad50" title="cs_base64_finish" alt="" coords="251,208,373,235"/>
+</map>

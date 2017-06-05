@@ -1,0 +1,9 @@
+<map id="reloadTableSchema" name="reloadTableSchema">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="240,5,351,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad9ef77a42022f1f8c8ab71b5761f5134" title="sqlite3SchemaToIndex" alt="" coords="219,56,372,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a64b772357d0dabd103b28ce0ca0b312f" title="sqlite3TriggerList" alt="" coords="449,171,569,197"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a739d7a47b1c11779283b7797ea7e1d4d" title="sqlite3VdbeAddOp4" alt="" coords="227,157,364,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="459,247,560,273"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a52c71cba3d53e0eb5c0c785ef9a7ec8f" title="sqlite3VdbeAddParseSchemaOp" alt="" coords="189,259,401,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a40e4a7245d888167b53b1de07fa6d217" title="whereTempTriggers" alt="" coords="228,208,363,235"/>
+</map>

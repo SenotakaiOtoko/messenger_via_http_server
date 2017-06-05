@@ -1,0 +1,6 @@
+<map id="pager_truncate" name="pager_truncate">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac15e13c61047b37098e21115614ddd22" title="pager_error" alt="" coords="218,5,305,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="185,56,338,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9d9a750a9fc76eb4b668c8a16b164a65" title="pager_playback" alt="" coords="409,81,523,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2baf986bff9120486e9acc5951494ea7" title="sqlite3PagerCommitPhaseOne" alt="" coords="161,157,361,184"/>
+</map>

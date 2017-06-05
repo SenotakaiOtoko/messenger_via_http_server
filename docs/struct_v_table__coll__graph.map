@@ -1,0 +1,5 @@
+<map id="VTable" name="VTable">
+<area shape="rect" id="node2" href="$structsqlite3.html" title="{sqlite3\n|+ nDb\l+ flags\l+ lastRowid\l+ szMmap\l+ openFlags\l+ errCode\l+ errMask\l+ dbOptFlags\l+ autoCommit\l+ temp_store\lи 47 больше...\l|}" alt="" coords="50,359,159,583"/>
+<area shape="rect" id="node3" href="$struct_module.html" title="{Module\n|+ zName\l+ pAux\l+ xDestroy\l|}" alt="" coords="5,5,92,112"/>
+<area shape="rect" id="node4" href="$structsqlite3__vtab.html" title="{sqlite3_vtab\n|+ nRef\l+ zErrMsg\l|}" alt="" coords="117,13,207,105"/>
+</map>

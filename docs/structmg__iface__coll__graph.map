@@ -1,0 +1,4 @@
+<map id="mg_iface" name="mg_iface">
+<area shape="rect" id="node2" href="$structmg__mgr.html" title="{mg_mgr\n|+ user_data\l+ num_ifaces\l|}" alt="" coords="13,432,113,524"/>
+<area shape="rect" id="node3" href="$structmg__iface__vtable.html" title="{mg_iface_vtable\n|+ init\l+ free\l+ add_conn\l+ remove_conn\l+ poll\l+ listen_tcp\l+ listen_udp\l+ connect_tcp\l+ connect_udp\l+ tcp_send\lи 6 больше...\l|}" alt="" coords="5,5,120,229"/>
+</map>

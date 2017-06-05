@@ -1,0 +1,6 @@
+<map id="mg_sock_set" name="mg_sock_set">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a53f66888c601df62f7bfd9cf19d79c6e" title="mg_add_sock_opt" alt="" coords="172,5,300,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ac4a735bfb285d9df62abeacf50f6abfc" title="mg_socket_if_listen_tcp" alt="" coords="155,56,317,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2ffc501e05653f5edd30caaf7c57284c" title="mg_socket_if_listen_udp" alt="" coords="153,107,319,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a11482eca2b62180bd0c7009ba453debc" title="mg_accept_conn" alt="" coords="175,157,297,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ev_handler" name="ev_handler">
+<area shape="rect" id="node2" href="$messenger__via__http__server_8c.html#a0c8cce184aa774a60ca8690ec4dba0b4" title="Функция проверяет, начинается ли строка uri со строки prefix. " alt="" coords="136,5,217,32"/>
+<area shape="rect" id="node3" href="$messenger__via__http__server_8c.html#a8cbb849a11a8929d59914359a936a742" title="Функция сравнивает две строки на предмет равенства " alt="" coords="141,56,212,83"/>
+<area shape="rect" id="node4" href="$db__plugin_8h.html#a43abdad9581ce5776d3be74ee46577c9" title="Функция&#45;обработчик любого запроса к api. " alt="" coords="148,107,205,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="265,132,403,159"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="btreePagecount" name="btreePagecount">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad098765ff19e404329c836462c185d95" title="sqlite3BtreeLastPage" alt="" coords="181,5,327,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ae85122d12808231a8d58459440a405ab" title="getAndInitPage" alt="" coords="389,56,500,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aecc3046a56feeeabd3ca93c0685e35d5" title="clearDatabasePage" alt="" coords="548,107,683,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a0b4c98acfd785fc6d5dc5c3237030318" title="sqlite3BtreeIncrVacuum" alt="" coords="174,157,334,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a809d22c6311135ae3048adf41febaef0" title="autoVacuumCommit" alt="" coords="184,208,324,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a9830bfee9b343086d4443618b13ad4fd" title="btreeCursor" alt="" coords="209,259,299,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#af907f898e049d621e2c9dc1ed1d63cf4" title="getOverflowPage" alt="" coords="195,309,313,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#acce36127359eb4baec99dac6d630bd9d" title="clearCell" alt="" coords="409,309,481,336"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ae84ce1103eabfe9455a6a59e6cec4a33" title="allocateBtreePage" alt="" coords="190,411,318,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#aa00011902d9e5ba26452d147c43fa1d8" title="sqlite3BtreeIntegrityCheck" alt="" coords="167,461,341,488"/>
+</map>

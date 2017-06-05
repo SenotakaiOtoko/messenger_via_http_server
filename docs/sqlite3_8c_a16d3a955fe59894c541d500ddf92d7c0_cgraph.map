@@ -1,0 +1,7 @@
+<map id="insertCell" name="insertCell">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#acf77da68932b6bc163c5e68547ecc3e7" title="sqlite3_mutex_held" alt="" coords="303,55,437,82"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6c95c9aac1c8a00490e36674f43e76ec" title="cellSizePtr" alt="" coords="149,30,235,56"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="129,80,255,107"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa8fd260df51cfdf9caf212ff7106b4fe" title="allocateSpace" alt="" coords="140,131,244,158"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5b7cb112db531e0498aaddcbadb4985b" title="ptrmapPutOvflPtr" alt="" coords="132,182,252,208"/>
+</map>

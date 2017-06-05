@@ -1,0 +1,27 @@
+<map id="sqlite3DbStrDup" name="sqlite3DbStrDup">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aed1e42f49d74b419c3c85b559dd61240" title="unixGetLastError" alt="" coords="222,5,342,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a5b4a74e8a1754922c482b7af19b30611" title="sqlite3PagerOpen" alt="" coords="219,56,345,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8h.html#ac1e491ce36b7471eb28387f7d3c74334" title="sqlite3_step" alt="" coords="236,107,328,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad0fd767ebe2b1e06b3506331bf2ff5a0" title="importVtabErrMsg" alt="" coords="219,157,345,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="449,183,569,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#af5aa683bef5c0eff80a792aa8a968167" title="resolveAlias" alt="" coords="237,259,327,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#abfb0903f2fc516fcceec37b3489d528c" title="sqlite3ExprListDup" alt="" coords="217,309,347,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aa7dcde293e634ad09c4d76c16a640491" title="flattenSubquery" alt="" coords="453,335,565,361"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a915ece76ebeede6852f63a447753ef9f" title="sqlite3SrcListDup" alt="" coords="447,461,571,488"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a4557984b0b75f998fb0c3f231c9b1def" title="sqlite3MaterializeView" alt="" coords="623,436,773,463"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#ac93854367d6e355c60ac6f40f3fe69a1" title="sqlite3IdListDup" alt="" coords="225,512,339,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="443,537,575,564"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a884f7bc342f8753d938ae1f1b9157d2d" title="sqlite3AlterBeginAddColumn" alt="" coords="189,613,375,640"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="239,664,325,691"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a4b69d70c8956d161ab4ec05d87ae1054" title="callCollNeeded" alt="" coords="228,715,336,741"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a9373f35df9061335d5b371e7bbf22a11" title="generateColumnNames" alt="" coords="203,765,361,792"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a8ee79348729b2c9134f2c1fd407302e3" title="selectColumnsFromExprList" alt="" coords="189,816,375,843"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#abee977318fbf74531340c6e41b0ca953" title="selectExpander" alt="" coords="453,841,565,868"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#a3ade2a7073b1e55a28b1b833132d64b9" title="selectAddColumnTypeAndCollation" alt="" coords="169,917,395,944"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#ac6d5dbd67ce267b4bbee4c03f050ef69" title="targetSrcList" alt="" coords="234,968,330,995"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#a081b9e174ed9650ac90990d60cd36e96" title="sqlite3VtabBeginParse" alt="" coords="205,1019,359,1045"/>
+<area shape="rect" id="node23" href="$sqlite3_8c.html#a3592d2bd9c38b3983b644a8e5de31be0" title="sqlite3VtabSync" alt="" coords="223,1069,341,1096"/>
+<area shape="rect" id="node24" href="$sqlite3_8c.html#a0098c859c26e3bf31c4e0ccc28a383e3" title="sqlite3VtabOverloadFunction" alt="" coords="189,1120,375,1147"/>
+<area shape="rect" id="node25" href="$sqlite3_8c.html#a626be710f5fa4c06c5a4b4480b951e9f" title="codeAllEqualityTerms" alt="" coords="208,1171,356,1197"/>
+<area shape="rect" id="node26" href="$sqlite3_8c.html#a7b24987855c8f506fce74b71506dd3c4" title="codeOneLoopStart" alt="" coords="443,1196,574,1223"/>
+</map>

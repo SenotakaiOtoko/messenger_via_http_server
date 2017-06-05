@@ -1,0 +1,9 @@
+<map id="unixClose" name="unixClose">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0ff620ba7a3e7e727c37c0b172d12c66" title="verifyDbFile" alt="" coords="145,5,233,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad78004d74bd51bdf7ac43d20999a1208" title="unixUnlock" alt="" coords="146,56,233,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#acd88d7bdc7f79108edc83ac379d3181f" title="unixEnterMutex" alt="" coords="133,107,246,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7b707266a5296fe8bdedbb2d1f72919e" title="setPendingFd" alt="" coords="138,157,241,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aae07c58190c3878bb635ca8e50a3ff1a" title="releaseInodeInfo" alt="" coords="132,208,247,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac11bfe29d9353ee80f95a520e83f997f" title="closeUnixFile" alt="" coords="139,259,239,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#acd189e7befeaa8d370808bcb6c22f339" title="unixLeaveMutex" alt="" coords="132,309,247,336"/>
+</map>

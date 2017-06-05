@@ -1,0 +1,9 @@
+<map id="sqlite3LocateTableItem" name="sqlite3LocateTableItem">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="218,5,385,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a884f7bc342f8753d938ae1f1b9157d2d" title="sqlite3AlterBeginAddColumn" alt="" coords="208,56,395,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5534f77364b5568783c0e50db3c9defb" title="sqlite3DropTable" alt="" coords="242,107,361,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="443,183,572,209"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6354fab5d5d3aa8a721e43d480c16701" title="sqlite3SrcListLookup" alt="" coords="230,208,373,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae85c90f7d064fe83f4ed930e708855d2" title="xferOptimization" alt="" coords="243,259,359,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#abee977318fbf74531340c6e41b0ca953" title="selectExpander" alt="" coords="245,309,357,336"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="mg_send_dns_query" name="mg_send_dns_query">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a7cce45c1cf3f5b64f8b9a1887610e931" title="mbuf_init" alt="" coords="239,5,313,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ac71d01be60bc53f0a01e0aaace8f3aed" title="mbuf_free" alt="" coords="409,5,488,32"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2cbd4a7623976a4a7f4afd779861f6bb" title="mg_dns_insert_header" alt="" coords="199,107,353,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a4b23c4379e5e56fc9c21bfb79ee76fad" title="mbuf_insert" alt="" coords="404,132,493,159"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#a25b56c78c499f837955faa1a52b5d7e5" title="mg_dns_encode_record" alt="" coords="196,208,356,235"/>
+<area shape="rect" id="node7" href="$mongoose_8c.html#ab0613b2aa565a9b4c3ecca1488dfacad" title="mg_send" alt="" coords="239,259,313,285"/>
+</map>

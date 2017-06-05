@@ -1,0 +1,20 @@
+<map id="sqlite3_context_db_handle" name="sqlite3_context_db_handle">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a18009d23009369ca192dbbc98f7b9e2e" title="setDateTimeToCurrent" alt="" coords="184,5,335,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#af531defbf93ba3aef96decedeafb344f" title="strftimeFunc" alt="" coords="212,56,307,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af66b08c4ab0dce0ff0c92a61b580f514" title="ctimestampFunc" alt="" coords="200,107,319,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aad60fbd27dbc13ef0d06ac3f2d2fc594" title="renameTableFunc" alt="" coords="197,157,322,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8d4f2e761693277684d0a9b45812b73d" title="renameParentFunc" alt="" coords="193,208,325,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ad20a735ddb4907a5d46c017da75a3a12" title="renameTriggerFunc" alt="" coords="193,259,326,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a69cb751a7da501b9a0aa37e0d7c3eaf7" title="attachFunc" alt="" coords="216,309,303,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a2b3dd04cb87abd088926ab0082a60b77" title="detachFunc" alt="" coords="214,360,305,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a8a8739d9af5589338113371e440b2734" title="substrFunc" alt="" coords="216,411,303,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a09e5794a0f9a8269eda3bc32d43d63c9" title="contextMalloc" alt="" coords="208,461,311,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a752b98a7c55d204c397a4902b49b1ce4" title="replaceFunc" alt="" coords="383,487,476,513"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a58bdb5411ca39965cee456c209725009" title="last_insert_rowid" alt="" coords="200,563,319,589"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a098b9c6a88d2ab91cdcbd5ee0b4bfe7f" title="changes" alt="" coords="224,613,295,640"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#afad48d3e90d72263d3e8707f56d1ccc9" title="total_changes" alt="" coords="208,664,311,691"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a066cc91be49c444497acfa7f2e7dfbd3" title="likeFunc" alt="" coords="224,715,295,741"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a3b48be674f93ee89664ee4552afd3248" title="zeroblobFunc" alt="" coords="209,765,309,792"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a9f9125be634178265fb95e98b8304548" title="loadExt" alt="" coords="226,816,293,843"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#a5267fc47d0a0d9a8f128c59d100e645d" title="groupConcatStep" alt="" coords="198,867,321,893"/>
+</map>

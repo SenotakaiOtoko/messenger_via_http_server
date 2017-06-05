@@ -1,0 +1,12 @@
+<map id="sqlite3BtreeRollback" name="sqlite3BtreeRollback">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa05d700ca373993fe6b0525b867feff" title="sqlite3BtreeEnter" alt="" coords="415,13,538,39"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#add0c7a5086792caf465148beaadb913d" title="saveAllCursors" alt="" coords="227,202,335,229"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a7e94025b9bd56e9e9ccf148d1a0e1acf" title="sqlite3BtreeTripAllCursors" alt="" coords="195,50,367,77"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a92c6fb14f9bcf117440c35116c26d6c4" title="releasePage" alt="" coords="429,89,524,115"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a460e4f89d1aeef4b4d334cfe8165da89" title="sqlite3BtreeLeave" alt="" coords="415,139,539,166"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#afdd2ecbb97b7a716892ff6bd10c7dfd0" title="sqlite3PagerRollback" alt="" coords="209,253,353,279"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a0aa228ee994a26e46b8eab1af61b289d" title="btreeGetPage" alt="" coords="229,303,332,330"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ae82aaf561ce61faa15d4e228c45c3311" title="sqlite3PagerPagecount" alt="" coords="203,354,359,381"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ad76ff2727e128c649f8017fdc570bd06" title="btreeClearHasContent" alt="" coords="206,405,355,431"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a7dd8138404b55de8be9623636f25488b" title="btreeEndTransaction" alt="" coords="210,455,351,482"/>
+</map>

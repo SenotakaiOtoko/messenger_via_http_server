@@ -1,0 +1,8 @@
+<map id="sqlite3DeleteTrigger" name="sqlite3DeleteTrigger">
+<area shape="rect" id="node2" href="$sqlite3_8h.html#ab64e8333313ee2e44116842711818940" title="sqlite3_db_status" alt="" coords="225,5,349,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a927c603430267e42c56ab38ca221322a" title="sqlite3SchemaClear" alt="" coords="217,56,356,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="221,107,353,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a15231afa0ac739363aee4cdb88380886" title="sqlite3FinishTrigger" alt="" coords="219,157,354,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa779646f1e1667b589b01dd8b494a53c" title="sqlite3UnlinkAndDeleteTrigger" alt="" coords="189,208,384,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a174f16a9adcc64bf971bae4a5ffa3488" title="sqlite3RunParser" alt="" coords="226,259,347,285"/>
+</map>

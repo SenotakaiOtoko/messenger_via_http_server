@@ -1,0 +1,11 @@
+<map id="sqlite3ChangeCookie" name="sqlite3ChangeCookie">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa5cfdb507ff74e559f2efb0318c96d2c" title="sqlite3AlterRenameTable" alt="" coords="207,5,374,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a884f7bc342f8753d938ae1f1b9157d2d" title="sqlite3AlterBeginAddColumn" alt="" coords="197,56,384,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a9088a34ee719704b8dae10f5cbbad5ca" title="sqlite3EndTable" alt="" coords="233,107,348,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aaf9a8d65346dc15bfcd60bc48e885f46" title="sqlite3CodeDropTable" alt="" coords="432,259,580,285"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a6749e6a89d4fc0fb91753f91d3020ca2" title="sqlite3CreateIndex" alt="" coords="226,208,355,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a3ffd2536f34a0cf6d427710b06b71e83" title="sqlite3DropIndex" alt="" coords="231,259,350,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a15231afa0ac739363aee4cdb88380886" title="sqlite3FinishTrigger" alt="" coords="223,309,358,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aa3a84617bfc76be1c61c27fc2b6d0b17" title="sqlite3DropTriggerPtr" alt="" coords="219,360,362,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a31979f7a03df3cc53c4189dd1f3ea24c" title="sqlite3VtabFinishParse" alt="" coords="213,411,369,437"/>
+</map>

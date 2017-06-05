@@ -1,0 +1,8 @@
+<map id="computeJD" name="computeJD">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ad3a4252b0c148f0174e1e546115b5802" title="parseYyyyMmDd" alt="" coords="140,5,263,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a13e9c62b28e0545b79e18f6c020ee51b" title="computeHMS" alt="" coords="151,56,252,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a90df73d3001a38322fee639ae369b637" title="localtimeOffset" alt="" coords="147,107,255,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#af27e39a2d2026d0f51799a9c254c4f06" title="parseModifier" alt="" coords="311,132,409,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac3eed2d3f72c21bee1e65f9d0f33a263" title="juliandayFunc" alt="" coords="150,208,253,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#af531defbf93ba3aef96decedeafb344f" title="strftimeFunc" alt="" coords="154,259,249,285"/>
+</map>

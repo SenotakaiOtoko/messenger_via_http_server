@@ -1,0 +1,5 @@
+<map id="walIndexWriteHdr" name="walIndexWriteHdr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab4ee99f3710323acbeb6c495dd18d205" title="walIndexRecover" alt="" coords="176,5,295,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a12a2a8718a33ce32fc99f83239a4d491" title="walRestartLog" alt="" coords="183,56,287,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af9606aac275558d3b96c83b2bff2d717" title="sqlite3WalFrames" alt="" coords="343,81,469,108"/>
+</map>

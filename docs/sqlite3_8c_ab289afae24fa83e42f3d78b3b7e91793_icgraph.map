@@ -1,0 +1,11 @@
+<map id="sqlite3ErrStr" name="sqlite3ErrStr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a61f5dfb765135a9982025bab8944f7fd" title="sqlite3VdbeList" alt="" coords="176,5,287,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8h.html#ac7ad2457fb9a1b7b772caf8e48deb8bc" title="sqlite3_result_error_code" alt="" coords="148,56,315,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="171,107,291,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ac4318b25df65269906b0379251fe9b85" title="sqlite3InitOne" alt="" coords="181,157,282,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7c9e7ebb514ed9b71c217bf567decf82" title="vtabBestIndex" alt="" coords="180,208,283,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a174f16a9adcc64bf971bae4a5ffa3488" title="sqlite3RunParser" alt="" coords="171,259,292,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8h.html#a837fcee5d377d9b9b1ba08b61a5bbb42" title="sqlite3_errmsg" alt="" coords="178,309,285,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8h.html#afec1ef428d2c340883f6bf18bac5fe6d" title="sqlite3_errmsg16" alt="" coords="171,360,292,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8h.html#ad8b8afa48d2dc1e4f96be510d59e4be0" title="sqlite3_errstr" alt="" coords="183,411,280,437"/>
+</map>

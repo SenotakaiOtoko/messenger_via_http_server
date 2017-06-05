@@ -1,0 +1,8 @@
+<map id="subjournalPage" name="subjournalPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="191,5,291,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aceb49281aca48f232560459d673a9e3d" title="pageInJournal" alt="" coords="191,56,292,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a69f445a04e423a1eaf24a2b9f035b427" title="openSubJournal" alt="" coords="184,107,299,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5db7813c01a178a634f0dcd6e7766ed6" title="write32bits" alt="" coords="199,157,283,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="367,183,475,209"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aa2e9bb02bb6975d83ec875f0792792f0" title="addToSavepointBitvecs" alt="" coords="164,259,319,285"/>
+</map>

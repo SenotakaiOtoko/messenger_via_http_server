@@ -1,0 +1,8 @@
+<map id="WhereBestIdx" name="WhereBestIdx">
+<area shape="rect" id="node2" href="$struct_where_clause.html" title="{WhereClause\n|+ op\l+ wctrlFlags\l+ nTerm\l+ nSlot\l|}" alt="" coords="108,343,208,465"/>
+<area shape="rect" id="node3" href="$struct_parse.html" title="{Parse\n|+ zErrMsg\l+ rc\l+ colNamesSet\l+ checkSchema\l+ nested\l+ nTempReg\l+ nTempInUse\l+ nColCache\l+ iColCache\l+ isMultiWrite\lи 39 больше...\l|}" alt="" coords="16,5,133,229"/>
+<area shape="rect" id="node4" href="$struct_where_cost.html" title="{WhereCost\n|+ rCost\l+ used\l|}" alt="" coords="308,358,395,450"/>
+<area shape="rect" id="node5" href="$struct_where_level.html" title="{WhereLevel\n|+ iLeftJoin\l+ iTabCur\l+ iIdxCur\l+ addrBrk\l+ addrNxt\l+ addrCont\l+ addrFirst\l+ iFrom\l+ op\l+ p5\lи 10 больше...\l|}" alt="" coords="532,292,641,516"/>
+<area shape="rect" id="node6" href="$structsqlite3__index__info.html" title="{sqlite3_index_info\n|+ nConstraint\l+ nOrderBy\l+ idxNum\l+ idxStr\l+ needToFreeIdxStr\l+ orderByConsumed\l+ estimatedCost\l|}" alt="" coords="394,35,536,200"/>
+<area shape="rect" id="node7" href="$struct_expr_list.html" title="{ExprList\n|+ nExpr\l+ iECursor\l|}" alt="" coords="666,358,750,450"/>
+</map>

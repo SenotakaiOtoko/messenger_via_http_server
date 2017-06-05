@@ -1,0 +1,6 @@
+<map id="subjRequiresPage" name="subjRequiresPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a181fa0432ae1cc12a783f8a11ea2021f" title="pager_wait_on_lock" alt="" coords="188,5,324,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#abb21a3a371038e9e3e69af0f21a1b386" title="pagerStress" alt="" coords="210,56,302,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa5dbf1a9dcccf0aa140b04b81325517f" title="pager_write" alt="" coords="212,107,300,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a8cdedc7a185709301f12c4d7b305aa1e" title="sqlite3PagerMovepage" alt="" coords="180,157,332,184"/>
+</map>

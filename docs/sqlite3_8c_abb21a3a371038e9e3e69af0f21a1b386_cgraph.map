@@ -1,0 +1,10 @@
+<map id="pagerStress" name="pagerStress">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="363,145,463,172"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8c8d460aa8cc7cb907b2e04844aaba86" title="subjRequiresPage" alt="" coords="167,44,293,71"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a836f5a13ba09ee3f118ebe73b58591c4" title="subjournalPage" alt="" coords="175,95,285,121"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1675dba6bfeb50d8aa8a0509103fd004" title="pagerWalFrames" alt="" coords="169,145,291,172"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a53f9f2b680d397f110a892f8931623c6" title="syncJournal" alt="" coords="185,196,275,223"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6287c834edd4d88c1757d45a9d7f7dcc" title="pager_write_pagelist" alt="" coords="160,247,300,273"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac00d8abc5cdfaa4da090c03d2b24711c" title="sqlite3PcacheMakeClean" alt="" coords="145,297,315,324"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ac15e13c61047b37098e21115614ddd22" title="pager_error" alt="" coords="187,348,273,375"/>
+</map>

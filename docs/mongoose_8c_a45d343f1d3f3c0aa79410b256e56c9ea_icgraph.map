@@ -1,0 +1,5 @@
+<map id="mg_conn_addr_to_str" name="mg_conn_addr_to_str">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a38631bcf9f50213200764415341c59b0" title="mg_parse_http_basic_auth" alt="" coords="395,23,573,50"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a85308bde07e6c49e00d660553a8e3fd1" title="mg_register_http_endpoint" alt="" coords="397,86,571,113"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a45d343f1d3f3c0aa79410b256e56c9ea" title="mg_conn_addr_to_str" alt="" coords="200,49,347,75"/>
+</map>

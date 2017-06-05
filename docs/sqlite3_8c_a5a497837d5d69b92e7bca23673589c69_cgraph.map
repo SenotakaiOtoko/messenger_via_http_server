@@ -1,0 +1,18 @@
+<map id="sqlite3VdbeExpandSql" name="sqlite3VdbeExpandSql">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aabf95e113b9d54d519cd15a56215f560" title="sqlite3StrAccumInit" alt="" coords="233,5,368,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a56664fa33def33c5a5245b623441d5e0" title="sqlite3StrAccumAppend" alt="" coords="847,259,1009,285"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a8817d3fc676725cc38759623e498863a" title="findNextHostParameter" alt="" coords="223,107,379,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5f876209b4343549fc9224cd11c70928" title="sqlite3GetInt32" alt="" coords="246,157,355,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa1f6c417f376db17076f6f8f8e0d6cf2" title="sqlite3VdbeParameterIndex" alt="" coords="210,208,391,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a3b1f0d5ae1e914e889e423123200dd8c" title="sqlite3XPrintf" alt="" coords="252,360,349,387"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a938357467304c746ded208ff78a3d12f" title="sqlite3VXPrintf" alt="" coords="473,309,579,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aefd38a5afc0020d4a93855c3ee7c63a8" title="sqlite3AppendSpace" alt="" coords="657,259,799,285"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="684,385,772,412"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a9697bec7c3b512483638ea3646191d7d" title="sqlite3VdbeMemSetStr" alt="" coords="223,461,379,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a90606361dbeba88159fd6ff03fcc10cc" title="sqlite3VdbeMemRelease" alt="" coords="443,487,609,513"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#aa7cf8e488bf8cf9ec18528f52a40de31" title="sqlite3VdbeChangeEncoding" alt="" coords="207,563,395,589"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#adb7f26b10ac1b847db6f000ef4c2e2ba" title="sqlite3StrAccumFinish" alt="" coords="224,613,377,640"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="215,664,386,691"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#a78c0d5d5dbb919de1617dff7f7fa4c44" title="sqlite3MallocZero" alt="" coords="239,715,362,741"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="220,765,381,792"/>
+</map>

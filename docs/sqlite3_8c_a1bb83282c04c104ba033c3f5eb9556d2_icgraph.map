@@ -1,0 +1,14 @@
+<map id="sqlite3HashFind" name="sqlite3HashFind">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#afa51dbee6173bf3a8a3df76b07cea789" title="sqlite3FindTable" alt="" coords="189,5,305,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a23601fffd89053de28f77684068ec164" title="sqlite3VtabCallCreate" alt="" coords="373,31,520,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a79fb99db8d0f914bb72dd374ae088512" title="sqlite3FindIndex" alt="" coords="189,107,305,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aaf9ae07c81dca508e137b5880e94aa98" title="findCollSeqEntry" alt="" coords="187,157,306,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a2337ae2a0965bfde19e983555bb78c01" title="sqlite3FkReferences" alt="" coords="177,208,317,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac20a731dbd52edec68a09962c7f39a4c" title="sqlite3BeginTrigger" alt="" coords="181,259,313,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a15231afa0ac739363aee4cdb88380886" title="sqlite3FinishTrigger" alt="" coords="179,309,314,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#affdf1dd65e331b06feaef6ff8636305f" title="sqlite3DropTrigger" alt="" coords="183,360,310,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a62f317e5cd5c8e11647b1d56426467c3" title="tableOfTrigger" alt="" coords="195,411,298,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a77134e0947164db4ca98b4b516bfdf6b" title="createModule" alt="" coords="197,461,297,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a9642d55303e8d284d096fabc53460e28" title="sqlite3VtabCallConnect" alt="" coords="168,512,325,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a29def4ce28811a857e968b3f238d2dd1" title="createCollation" alt="" coords="193,563,301,589"/>
+</map>

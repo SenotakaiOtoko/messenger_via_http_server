@@ -1,0 +1,8 @@
+<map id="unixShmUnmap" name="unixShmUnmap">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="492,56,631,83"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="343,132,431,159"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="492,208,631,235"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acd88d7bdc7f79108edc83ac379d3181f" title="unixEnterMutex" alt="" coords="168,5,281,32"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a89b00f37b59738ab669aa66f70f5962b" title="unixShmPurge" alt="" coords="171,107,278,133"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#acd189e7befeaa8d370808bcb6c22f339" title="unixLeaveMutex" alt="" coords="329,259,444,285"/>
+</map>

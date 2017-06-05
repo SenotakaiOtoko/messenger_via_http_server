@@ -1,0 +1,4 @@
+<map id="mg_if_recv_tcp_cb" name="mg_if_recv_tcp_cb">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a62618e06df801fa9c8bcfe8624709a18" title="mg_handle_tcp_read" alt="" coords="187,5,330,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a1168dd3461e43dd59f623e15828b1183" title="mg_tun_client_handler" alt="" coords="183,56,335,83"/>
+</map>

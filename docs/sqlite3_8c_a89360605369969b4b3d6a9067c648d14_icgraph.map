@@ -1,0 +1,4 @@
+<map id="sqlite3PutVarint" name="sqlite3PutVarint">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a2a9729decac0f85ff5dfce13e4bfc076" title="sqlite3PutVarint32" alt="" coords="173,5,301,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a738d55beb6fd12bed8c8ccbf733bf698" title="fileWriterWriteVarint" alt="" coords="168,56,307,83"/>
+</map>

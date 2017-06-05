@@ -1,0 +1,13 @@
+<map id="YYMINORTYPE" name="YYMINORTYPE">
+<area shape="rect" id="node2" href="$struct_trigger_step.html" title="{TriggerStep\n|+ op\l+ orconf\l|}" alt="" coords="437,825,525,917"/>
+<area shape="rect" id="node3" href="$struct_expr.html" title="{Expr\n|+ op\l+ affinity\l+ flags\l+ zToken\l+ iValue\l+ u\l+ x\l+ nHeight\l+ iTable\l+ iColumn\l+ iAgg\l+ iRightJoinTable\l+ flags2\l+ op2\l|}" alt="" coords="283,160,405,428"/>
+<area shape="rect" id="node4" href="$struct_select.html" title="{Select\n|+ op\l+ selFlags\l+ iLimit\l+ iOffset\l+ addrOpenEphm\l+ nSelectRow\l|}" alt="" coords="561,535,685,685"/>
+<area shape="rect" id="node8" href="$struct_limit_val.html" title="{LimitVal\n||}" alt="" coords="5,717,75,794"/>
+<area shape="rect" id="node11" href="$struct_expr_span.html" title="{ExprSpan\n|+ zStart\l+ zEnd\l|}" alt="" coords="86,709,165,801"/>
+<area shape="rect" id="node10" href="$struct_value_list.html" title="{ValueList\n||}" alt="" coords="803,833,879,910"/>
+<area shape="rect" id="node5" href="$struct_src_list.html" title="{SrcList\n|+ nSrc\l+ nAlloc\l|}" alt="" coords="850,248,921,340"/>
+<area shape="rect" id="node6" href="$struct_expr_list.html" title="{ExprList\n|+ nExpr\l+ iECursor\l|}" alt="" coords="610,5,694,97"/>
+<area shape="rect" id="node7" href="$struct_id_list.html" title="{IdList\n|+ nId\l|}" alt="" coords="287,571,340,649"/>
+<area shape="rect" id="node12" href="$struct_trig_event.html" title="{TrigEvent\n|+ a\l|}" alt="" coords="339,833,413,910"/>
+<area shape="rect" id="node9" href="$struct_like_op.html" title="{LikeOp\n|+ bNot\l|}" alt="" coords="717,833,779,910"/>
+</map>

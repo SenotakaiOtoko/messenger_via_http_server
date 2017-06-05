@@ -1,0 +1,5 @@
+<map id="parse_uri_component" name="parse_uri_component">
+<area shape="rect" id="node2" href="$mongoose_8h.html#ae1752cb702f46c30fececf23c4dba087" title="mg_parse_uri" alt="" coords="228,5,328,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#a34fa5a03fe913545413422d65e3a8c8b" title="mg_normalize_uri_path" alt="" coords="200,56,356,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#a38631bcf9f50213200764415341c59b0" title="mg_parse_http_basic_auth" alt="" coords="404,81,583,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fileWriterWrite" name="fileWriterWrite">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a738d55beb6fd12bed8c8ccbf733bf698" title="fileWriterWriteVarint" alt="" coords="157,56,296,83"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6cd71a52254df3740736535daa71d165" title="vdbeSorterListToPMA" alt="" coords="344,5,491,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae550fccf5d10c1ebec8de14cb5e423f0" title="sqlite3VdbeSorterRewind" alt="" coords="539,56,705,83"/>
+</map>

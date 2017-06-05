@@ -1,0 +1,6 @@
+<map id="mg_is_error" name="mg_is_error">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a75c696f0d73052eb3ac6bedfff8ade05" title="mg_socket_if_connect_tcp" alt="" coords="144,5,321,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a11482eca2b62180bd0c7009ba453debc" title="mg_accept_conn" alt="" coords="172,56,293,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2e8c5d40a60cac84806d99ec4294b920" title="mg_write_to_socket" alt="" coords="163,107,302,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a62618e06df801fa9c8bcfe8624709a18" title="mg_handle_tcp_read" alt="" coords="161,157,304,184"/>
+</map>

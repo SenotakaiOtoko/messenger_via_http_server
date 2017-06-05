@@ -1,0 +1,7 @@
+<map id="sqlite3PagerRollback" name="sqlite3PagerRollback">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="560,26,660,53"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8b5f1920b6a8b564a47e243868f2c8d4" title="sqlite3PagerSavepoint" alt="" coords="360,26,511,53"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="359,77,512,103"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a9d9a750a9fc76eb4b668c8a16b164a65" title="pager_playback" alt="" coords="197,127,311,154"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ac15e13c61047b37098e21115614ddd22" title="pager_error" alt="" coords="211,178,297,205"/>
+</map>

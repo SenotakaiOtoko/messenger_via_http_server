@@ -1,0 +1,5 @@
+<map id="juliandayFunc" name="juliandayFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a88586fabfb5a2ee248ccf6f5dfb90904" title="isDate" alt="" coords="199,5,257,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aeeefea84c7c62565ee8e5491f39c0bc4" title="computeJD" alt="" coords="185,56,271,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a534d012000f6dd9777ad42c495b68585" title="sqlite3_result_double" alt="" coords="156,107,300,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sqlite3RollbackAll" name="sqlite3RollbackAll">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a8d1d99703d999190fbc35ecc981cb709" title="sqlite3VdbeHalt" alt="" coords="215,5,328,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8ce40a614bdc56719c4d642b1e4dfb21" title="sqlite3VdbeExec" alt="" coords="412,31,532,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afe3a37c29dcb0fe9fc15fe07a3976f59" title="sqlite3LeaveMutexAndClose\lZombie" alt="" coords="179,107,364,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="VdbeFrame" name="VdbeFrame">
+<area shape="rect" id="node2" href="$struct_mem.html" title="{Mem\n|+ z\l+ r\l+ i\l+ nZero\l+ u\l+ n\l+ flags\l+ type\l+ enc\l+ xDel\l+ zMalloc\l|}" alt="" coords="102,579,181,803"/>
+<area shape="rect" id="node3" href="$struct_vdbe.html" title="{Vdbe\n|+ nMem\l+ nOp\l+ nOpAlloc\l+ nLabel\l+ aLabel\l+ nResColumn\l+ nCursor\l+ magic\l+ zErrMsg\l+ azVar\lи 30 больше...\l|}" alt="" coords="54,1225,163,1449"/>
+<area shape="rect" id="node5" href="$struct_vdbe_op.html" title="{VdbeOp\n|+ opcode\l+ p4type\l+ opflags\l+ p5\l+ p1\l+ p2\l+ p3\l+ i\l+ p\l+ z\l+ pI64\l+ pReal\l+ ai\l+ xAdvance\l+ p4\l|}" alt="" coords="206,880,296,1163"/>
+<area shape="rect" id="node4" href="$struct_vdbe_cursor.html" title="{VdbeCursor\n|+ iDb\l+ pseudoTableReg\l+ nField\l+ zeroed\l+ rowidIsValid\l+ atFirst\l+ useRandomRowid\l+ nullRow\l+ deferredMoveto\l+ isTable\lи 13 больше...\l|}" alt="" coords="196,5,335,229"/>
+</map>

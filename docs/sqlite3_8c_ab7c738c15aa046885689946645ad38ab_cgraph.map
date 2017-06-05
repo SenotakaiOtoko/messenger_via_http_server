@@ -1,0 +1,19 @@
+<map id="bestVirtualIndex" name="bestVirtualIndex">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#adf8b5729b499283d2e94e26d7bbe6251" title="allocateIndexInfo" alt="" coords="190,5,309,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a85465ef27057193295e321f0caf488ed" title="sqlite3GetVTable" alt="" coords="379,56,500,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="548,157,636,184"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7c9e7ebb514ed9b71c217bf567decf82" title="vtabBestIndex" alt="" coords="198,107,301,133"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa4287e4538a263b5de0ea252afee1609" title="estLog" alt="" coords="409,233,470,260"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#aad1f6c60342737928f0dc03944a6ce2e" title="bestOrClauseIndex" alt="" coords="183,208,315,235"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac5e91a982065a1ab220a43bbd18cfa60" title="sqlite3_value_type" alt="" coords="185,309,313,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ab38d8627f4750672e72712df0b709e0d" title="sqlite3_value_int64" alt="" coords="184,360,315,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a3e50c1a2dd484a8b6911c9d163816b88" title="sqlite3_value_double" alt="" coords="179,411,320,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#af2d4d12032718e4d9a929bcf561370c8" title="sqlite3_value_blob" alt="" coords="186,461,313,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a4ed2e10e20f9616894d068c6c73c3134" title="sqlite3GetCollSeq" alt="" coords="186,512,313,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#ad567a94e52d1adf81f4857fdba00a59b" title="sqlite3ValueText" alt="" coords="380,588,499,615"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a2eac906bf499092dbbbfbb47ae75ad06" title="sqlite3ValueBytes" alt="" coords="186,563,313,589"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="388,664,491,691"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#acea0d8371216f276fe67c1b5ef24f3d7" title="sqlite3VdbeSetVarmask" alt="" coords="168,715,331,741"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a5d0e33f6d34abf28785bb1ca15bf7b66" title="sqlite3VdbeGetValue" alt="" coords="177,765,321,792"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#af103c812684544760641a1cd4d9745df" title="sqlite3ValueFromExpr" alt="" coords="174,664,325,691"/>
+</map>

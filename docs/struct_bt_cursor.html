@@ -1,0 +1,432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура BtCursor</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура BtCursor</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="dynheader">
+Граф связей класса BtCursor:</div>
+<div class="dyncontent">
+<div class="center"><img src="struct_bt_cursor__coll__graph.png" border="0" usemap="#_bt_cursor_coll__map" alt="Collaboration graph"/></div>
+<map name="_bt_cursor_coll__map" id="_bt_cursor_coll__map">
+<area shape="rect" id="node3" href="struct_bt_shared.html" title="{BtShared\n|+ openFlags\l+ autoVacuum\l+ incrVacuum\l+ bDoTruncate\l+ inTransaction\l+ max1bytePayload\l+ btsFlags\l+ maxLocal\l+ minLocal\l+ maxLeaf\lи 9 больше...\l|}" alt="" coords="47,579,186,803"/>
+<area shape="rect" id="node2" href="struct_cell_info.html" title="{CellInfo\n|+ nKey\l+ pCell\l+ nData\l+ nPayload\l+ nHeader\l+ nLocal\l+ iOverflow\l+ nSize\l|}" alt="" coords="169,5,257,185"/>
+<area shape="rect" id="node4" href="struct_mem_page.html" title="{MemPage\n|+ isInit\l+ nOverflow\l+ intKey\l+ leaf\l+ hasData\l+ hdrOffset\l+ childPtrSize\l+ max1bytePayload\l+ maxLocal\l+ minLocal\lи 10 больше...\l|}" alt="" coords="202,865,341,1089"/>
+<area shape="rect" id="node5" href="struct_btree.html" title="{Btree\n|+ inTrans\l+ sharable\l+ locked\l+ wantToLock\l+ nBackup\l|}" alt="" coords="5,909,108,1045"/>
+<area shape="rect" id="node6" href="struct_key_info.html" title="{KeyInfo\n|+ enc\l+ nField\l+ aSortOrder\l|}" alt="" coords="281,42,379,149"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:a8bc098d3190d7b0458b0f00fc3e9841b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_btree.html">Btree</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a8bc098d3190d7b0458b0f00fc3e9841b">pBtree</a></td></tr>
+<tr class="separator:a8bc098d3190d7b0458b0f00fc3e9841b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2bc66d19c064bb25ff335241f8c621df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_bt_shared.html">BtShared</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a2bc66d19c064bb25ff335241f8c621df">pBt</a></td></tr>
+<tr class="separator:a2bc66d19c064bb25ff335241f8c621df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1dac2396746176f48a6d2eebfc765c17"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_bt_cursor.html">BtCursor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a1dac2396746176f48a6d2eebfc765c17">pNext</a></td></tr>
+<tr class="separator:a1dac2396746176f48a6d2eebfc765c17"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28e43147b02ff3745de0afb619d64c25"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_bt_cursor.html">BtCursor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a28e43147b02ff3745de0afb619d64c25">pPrev</a></td></tr>
+<tr class="separator:a28e43147b02ff3745de0afb619d64c25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c73f46f09fcecfd9c8d29cd3cc7744d"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="struct_key_info.html">KeyInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a0c73f46f09fcecfd9c8d29cd3cc7744d">pKeyInfo</a></td></tr>
+<tr class="separator:a0c73f46f09fcecfd9c8d29cd3cc7744d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7deae3222686e7a2ef3247ee13dc5323"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#aec0c653e8dd16e4639caf2f8ea54f55c">Pgno</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a7deae3222686e7a2ef3247ee13dc5323">aOverflow</a></td></tr>
+<tr class="separator:a7deae3222686e7a2ef3247ee13dc5323"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a30f00f9ff785feab4d71f2cf58faab84"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#aec0c653e8dd16e4639caf2f8ea54f55c">Pgno</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a30f00f9ff785feab4d71f2cf58faab84">pgnoRoot</a></td></tr>
+<tr class="separator:a30f00f9ff785feab4d71f2cf58faab84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e2fec5e2e577ca65d111e5fc8d4c8a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a0a4d3e6c1ad46f90e746b920ab6ca0d2">sqlite3_int64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a8e2fec5e2e577ca65d111e5fc8d4c8a9">cachedRowid</a></td></tr>
+<tr class="separator:a8e2fec5e2e577ca65d111e5fc8d4c8a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab84854bed31add78eccfc236e2d3895e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_cell_info.html">CellInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#ab84854bed31add78eccfc236e2d3895e">info</a></td></tr>
+<tr class="separator:ab84854bed31add78eccfc236e2d3895e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a528c39e09f68386edd6e2fbb64784561"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a528c39e09f68386edd6e2fbb64784561">nKey</a></td></tr>
+<tr class="separator:a528c39e09f68386edd6e2fbb64784561"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4e0ec7c9494e9d87e0042ab054ac58b"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#af4e0ec7c9494e9d87e0042ab054ac58b">pKey</a></td></tr>
+<tr class="separator:af4e0ec7c9494e9d87e0042ab054ac58b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad37941f0529357971cb490f54966185b"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#ad37941f0529357971cb490f54966185b">skipNext</a></td></tr>
+<tr class="separator:ad37941f0529357971cb490f54966185b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7055d1848d99b87767c706907443be5f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a7055d1848d99b87767c706907443be5f">wrFlag</a></td></tr>
+<tr class="separator:a7055d1848d99b87767c706907443be5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75743b6b1b40e3eb79d7a027c5fb9681"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a75743b6b1b40e3eb79d7a027c5fb9681">atLast</a></td></tr>
+<tr class="separator:a75743b6b1b40e3eb79d7a027c5fb9681"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52d69e4e76cf7234518b6c9101b42021"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a52d69e4e76cf7234518b6c9101b42021">validNKey</a></td></tr>
+<tr class="separator:a52d69e4e76cf7234518b6c9101b42021"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5babd54e329060ed9f926ca6df3ab4d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#ae5babd54e329060ed9f926ca6df3ab4d">eState</a></td></tr>
+<tr class="separator:ae5babd54e329060ed9f926ca6df3ab4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f1aaf15a48d3f7e796baf73a9a8d400"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a7f1aaf15a48d3f7e796baf73a9a8d400">isIncrblobHandle</a></td></tr>
+<tr class="separator:a7f1aaf15a48d3f7e796baf73a9a8d400"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d76178ed694d71107fbae62d6fa9c38"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a6d76178ed694d71107fbae62d6fa9c38">hints</a></td></tr>
+<tr class="separator:a6d76178ed694d71107fbae62d6fa9c38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37e2c5de2a48868560612bced0c093aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a7b32340f65cd15f029caad258fb3355c">i16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a37e2c5de2a48868560612bced0c093aa">iPage</a></td></tr>
+<tr class="separator:a37e2c5de2a48868560612bced0c093aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7bcf3a5085daf9736d8665a21f6f70e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="sqlite3_8c.html#a20f2299e322dcbde37cb07b16910b843">u16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#aa7bcf3a5085daf9736d8665a21f6f70e">aiIdx</a> [<a class="el" href="sqlite3_8c.html#af0a8a704218e75e8258f2e33c3505473">BTCURSOR_MAX_DEPTH</a>]</td></tr>
+<tr class="separator:aa7bcf3a5085daf9736d8665a21f6f70e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48324efc61de2768ab83887316925682"><td class="memItemLeft" align="right" valign="top"><a class="el" href="struct_mem_page.html">MemPage</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_bt_cursor.html#a48324efc61de2768ab83887316925682">apPage</a> [<a class="el" href="sqlite3_8c.html#af0a8a704218e75e8258f2e33c3505473">BTCURSOR_MAX_DEPTH</a>]</td></tr>
+<tr class="separator:a48324efc61de2768ab83887316925682"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="aa7bcf3a5085daf9736d8665a21f6f70e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7bcf3a5085daf9736d8665a21f6f70e">&#9670;&nbsp;</a></span>aiIdx</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a20f2299e322dcbde37cb07b16910b843">u16</a> aiIdx[<a class="el" href="sqlite3_8c.html#af0a8a704218e75e8258f2e33c3505473">BTCURSOR_MAX_DEPTH</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7deae3222686e7a2ef3247ee13dc5323"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7deae3222686e7a2ef3247ee13dc5323">&#9670;&nbsp;</a></span>aOverflow</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#aec0c653e8dd16e4639caf2f8ea54f55c">Pgno</a>* aOverflow</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a48324efc61de2768ab83887316925682"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48324efc61de2768ab83887316925682">&#9670;&nbsp;</a></span>apPage</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_mem_page.html">MemPage</a>* apPage[<a class="el" href="sqlite3_8c.html#af0a8a704218e75e8258f2e33c3505473">BTCURSOR_MAX_DEPTH</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a75743b6b1b40e3eb79d7a027c5fb9681"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75743b6b1b40e3eb79d7a027c5fb9681">&#9670;&nbsp;</a></span>atLast</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> atLast</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8e2fec5e2e577ca65d111e5fc8d4c8a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e2fec5e2e577ca65d111e5fc8d4c8a9">&#9670;&nbsp;</a></span>cachedRowid</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a0a4d3e6c1ad46f90e746b920ab6ca0d2">sqlite3_int64</a> cachedRowid</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae5babd54e329060ed9f926ca6df3ab4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae5babd54e329060ed9f926ca6df3ab4d">&#9670;&nbsp;</a></span>eState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> eState</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6d76178ed694d71107fbae62d6fa9c38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d76178ed694d71107fbae62d6fa9c38">&#9670;&nbsp;</a></span>hints</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> hints</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab84854bed31add78eccfc236e2d3895e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab84854bed31add78eccfc236e2d3895e">&#9670;&nbsp;</a></span>info</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_cell_info.html">CellInfo</a> info</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a37e2c5de2a48868560612bced0c093aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37e2c5de2a48868560612bced0c093aa">&#9670;&nbsp;</a></span>iPage</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a7b32340f65cd15f029caad258fb3355c">i16</a> iPage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7f1aaf15a48d3f7e796baf73a9a8d400"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f1aaf15a48d3f7e796baf73a9a8d400">&#9670;&nbsp;</a></span>isIncrblobHandle</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> isIncrblobHandle</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a528c39e09f68386edd6e2fbb64784561"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a528c39e09f68386edd6e2fbb64784561">&#9670;&nbsp;</a></span>nKey</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a2a0f0f4ae7001eb54351f77ea1cdbcfd">i64</a> nKey</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2bc66d19c064bb25ff335241f8c621df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2bc66d19c064bb25ff335241f8c621df">&#9670;&nbsp;</a></span>pBt</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_bt_shared.html">BtShared</a>* pBt</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8bc098d3190d7b0458b0f00fc3e9841b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8bc098d3190d7b0458b0f00fc3e9841b">&#9670;&nbsp;</a></span>pBtree</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_btree.html">Btree</a>* pBtree</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a30f00f9ff785feab4d71f2cf58faab84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30f00f9ff785feab4d71f2cf58faab84">&#9670;&nbsp;</a></span>pgnoRoot</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#aec0c653e8dd16e4639caf2f8ea54f55c">Pgno</a> pgnoRoot</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af4e0ec7c9494e9d87e0042ab054ac58b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4e0ec7c9494e9d87e0042ab054ac58b">&#9670;&nbsp;</a></span>pKey</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void* pKey</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0c73f46f09fcecfd9c8d29cd3cc7744d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c73f46f09fcecfd9c8d29cd3cc7744d">&#9670;&nbsp;</a></span>pKeyInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="struct_key_info.html">KeyInfo</a>* pKeyInfo</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1dac2396746176f48a6d2eebfc765c17"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1dac2396746176f48a6d2eebfc765c17">&#9670;&nbsp;</a></span>pNext</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_bt_cursor.html">BtCursor</a>* pNext</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a28e43147b02ff3745de0afb619d64c25"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28e43147b02ff3745de0afb619d64c25">&#9670;&nbsp;</a></span>pPrev</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="struct_bt_cursor.html">BtCursor</a> * pPrev</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad37941f0529357971cb490f54966185b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad37941f0529357971cb490f54966185b">&#9670;&nbsp;</a></span>skipNext</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int skipNext</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a52d69e4e76cf7234518b6c9101b42021"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52d69e4e76cf7234518b6c9101b42021">&#9670;&nbsp;</a></span>validNKey</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> validNKey</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7055d1848d99b87767c706907443be5f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7055d1848d99b87767c706907443be5f">&#9670;&nbsp;</a></span>wrFlag</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="sqlite3_8c.html#a74a0f6424ae628af25f23f0a35f6ead3">u8</a> wrFlag</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="sqlite3_8c.html">sqlite3.c</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

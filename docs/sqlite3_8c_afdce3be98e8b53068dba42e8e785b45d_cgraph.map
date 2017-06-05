@@ -1,0 +1,5 @@
+<map id="sqlite3HaltConstraint" name="sqlite3HaltConstraint">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a76b721dcd00b0587308547594cb6c1f4" title="sqlite3GetVdbe" alt="" coords="209,5,320,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a700db222a53c596ad5a0aef2c07a12ef" title="sqlite3MayAbort" alt="" coords="207,56,323,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a739d7a47b1c11779283b7797ea7e1d4d" title="sqlite3VdbeAddOp4" alt="" coords="196,107,333,133"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sqlite3BitvecTest" name="sqlite3BitvecTest">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9b4e3e921ce1ede6f10a9106c034ff9b" title="sqlite3BitvecBuiltinTest" alt="" coords="183,5,339,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8c8d460aa8cc7cb907b2e04844aaba86" title="subjRequiresPage" alt="" coords="198,56,325,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aceb49281aca48f232560459d673a9e3d" title="pageInJournal" alt="" coords="211,107,312,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#adfca1dee9939482792fe2b4ed982d00e" title="pager_playback_one_page" alt="" coords="173,157,349,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ad4b8aee028ee99575b0748b299e04ed0" title="sqlite3PagerWrite" alt="" coords="199,208,324,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1ebd60bdf9e0181818da4eff654b1a26" title="btreeGetHasContent" alt="" coords="191,259,331,285"/>
+</map>

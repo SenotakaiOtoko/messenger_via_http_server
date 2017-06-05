@@ -1,0 +1,6 @@
+<map id="pager_end_transaction" name="pager_end_transaction">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a02d96b7bf62c3b13ba905d168914518c" title="pagerUnlockAndRollback" alt="" coords="645,12,812,39"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a9d9a750a9fc76eb4b668c8a16b164a65" title="pager_playback" alt="" coords="249,37,363,64"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#afdd2ecbb97b7a716892ff6bd10c7dfd0" title="sqlite3PagerRollback" alt="" coords="453,37,597,64"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a18af1df44bbc3ae598f0559f6fc5861e" title="sqlite3PagerCommitPhaseTwo" alt="" coords="207,139,405,165"/>
+</map>

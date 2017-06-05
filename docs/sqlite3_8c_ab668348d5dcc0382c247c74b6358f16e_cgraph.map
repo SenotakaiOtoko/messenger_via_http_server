@@ -1,0 +1,9 @@
+<map id="sqlite3PagerSetPagesize" name="sqlite3PagerSetPagesize">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#adee2536d23ec9628e0883ccab03b3429" title="sqlite3PcacheRefCount" alt="" coords="233,5,390,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a395914ef2826de6ed70e92b5d02887de" title="sqlite3OsFileSize" alt="" coords="249,56,373,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af05f296695d164316d4666a76d07f1f0" title="sqlite3PageMalloc" alt="" coords="247,107,375,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a80434ecc2e0b58eea05c79b1690be582" title="pager_reset" alt="" coords="266,157,357,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7c85b1d9d633386e0ecb5d56594fe03f" title="sqlite3PageFree" alt="" coords="253,208,369,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5ba90dc7251209f7f0fbb917d0538f0a" title="sqlite3PcacheSetPageSize" alt="" coords="221,259,401,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a9f1947188e8c305d8053d69f82318762" title="pagerFixMaplimit" alt="" coords="251,309,372,336"/>
+</map>

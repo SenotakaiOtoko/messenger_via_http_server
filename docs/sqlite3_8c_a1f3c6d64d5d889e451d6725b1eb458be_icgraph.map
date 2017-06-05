@@ -1,0 +1,8 @@
+<map id="sqlite3BitvecSet" name="sqlite3BitvecSet">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9b4e3e921ce1ede6f10a9106c034ff9b" title="sqlite3BitvecBuiltinTest" alt="" coords="168,5,324,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa2e9bb02bb6975d83ec875f0792792f0" title="addToSavepointBitvecs" alt="" coords="169,107,323,133"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a22a53daafd2bd778cda390312651f994" title="sqlite3PagerAcquire" alt="" coords="372,107,511,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#adfca1dee9939482792fe2b4ed982d00e" title="pager_playback_one_page" alt="" coords="559,157,735,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aa5dbf1a9dcccf0aa140b04b81325517f" title="pager_write" alt="" coords="397,157,485,184"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a9c32f4ce75d2c55cea30118702e7141c" title="btreeSetHasContent" alt="" coords="177,259,315,285"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a0e42393198b4ca2bc905dbeb180ef832" title="mg_mgr_init" alt="" coords="131,5,224,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#aa83d3bc8d46c5dece119d15468bb1167" title="mg_bind" alt="" coords="142,56,213,83"/>
+<area shape="rect" id="node4" href="$messenger__via__http__server_8c.html#a1649d4c8e3ef4f59226bba26da5a99e2" title="Функция&#45;обработчик событий " alt="" coords="136,107,219,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a9f8dc6ab99c0ffe17672edd78c6672be" title="mg_set_protocol_http\l_websocket" alt="" coords="104,158,251,199"/>
+<area shape="rect" id="node6" href="$messenger__via__http__server_8c.html#a144f81e28c9d3cf1dcea809270e94441" title="Функция&#45;обработчик сигнала " alt="" coords="125,224,230,251"/>
+<area shape="rect" id="node7" href="$db__plugin_8h.html#adba698817c2b7c30600114b89011478c" title="Функция открывает локальную базу данных, а если она не существует, то создаёт новую ..." alt="" coords="142,275,213,301"/>
+<area shape="rect" id="node8" href="$mongoose_8c.html#a190fee23ab27aea958797617b72d7538" title="mg_mgr_poll" alt="" coords="299,351,395,377"/>
+<area shape="rect" id="node9" href="$mongoose_8c.html#a053efd7d579b6e64fd5d00f2e28a4841" title="mg_mgr_free" alt="" coords="129,376,226,403"/>
+<area shape="rect" id="node10" href="$db__plugin_8h.html#a8af420a801d0c28e0b60aa79db4a9c72" title="Функция закрывает базу данных " alt="" coords="140,427,215,453"/>
+</map>

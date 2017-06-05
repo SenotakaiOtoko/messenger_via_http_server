@@ -1,0 +1,6 @@
+<map id="explainIndexRange" name="explainIndexRange">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aabf95e113b9d54d519cd15a56215f560" title="sqlite3StrAccumInit" alt="" coords="193,5,328,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a56664fa33def33c5a5245b623441d5e0" title="sqlite3StrAccumAppend" alt="" coords="385,81,548,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a5ef3d87a7da5cfa8e03ca9fdc186193a" title="explainAppendTerm" alt="" coords="193,107,329,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#adb7f26b10ac1b847db6f000ef4c2e2ba" title="sqlite3StrAccumFinish" alt="" coords="184,157,337,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="walTryBeginRead" name="walTryBeginRead">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4a23329d9a3206642b307e6d22635f95" title="sqlite3WalBeginReadTransaction" alt="" coords="176,5,389,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a12a2a8718a33ce32fc99f83239a4d491" title="walRestartLog" alt="" coords="231,56,335,83"/>
+</map>

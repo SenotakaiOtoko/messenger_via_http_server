@@ -1,0 +1,7 @@
+<map id="pagerUnlockAndRollback" name="pagerUnlockAndRollback">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3344c0e2b1b6df701a1cb326602fac14" title="sqlite3BeginBenignMalloc" alt="" coords="220,5,391,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#afdd2ecbb97b7a716892ff6bd10c7dfd0" title="sqlite3PagerRollback" alt="" coords="233,56,377,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="439,81,592,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a4582127cc64d483dc66c7acf9d8d8fbb" title="sqlite3EndBenignMalloc" alt="" coords="225,157,386,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5b54bd09bd76fa68eb6310fbf9bbaf20" title="pager_unlock" alt="" coords="256,208,355,235"/>
+</map>

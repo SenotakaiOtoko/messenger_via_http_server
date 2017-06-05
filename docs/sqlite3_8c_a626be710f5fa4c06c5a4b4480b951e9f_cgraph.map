@@ -1,0 +1,11 @@
+<map id="codeAllEqualityTerms" name="codeAllEqualityTerms">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="233,5,349,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1bad4570dfd3bcbc2776b3c88c939c59" title="sqlite3IndexAffinityStr" alt="" coords="218,56,365,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af26eb1eed85001fcf29fa189b631ac4b" title="findTerm" alt="" coords="256,107,327,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#abc260083e4aecdad48eee61819b94a2a" title="codeEqualityTerm" alt="" coords="228,157,355,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ae87204d7b069da19e4db0404c6deaae5" title="sqlite3VdbeAddOp2" alt="" coords="429,208,567,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a48d55dce63ac590c3b0fc464abb67ad7" title="sqlite3ReleaseTempReg" alt="" coords="210,259,373,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5cee6d4efbee143f49b2b3d6048aea5c" title="sqlite3ExprCodeIsNullJump" alt="" coords="201,309,381,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a4bd560a9a6a8d11bec0a070a46eb38fa" title="sqlite3CompareAffinity" alt="" coords="216,360,367,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a2497357792160ac498fff4e23f4e5b06" title="sqlite3ExprNeedsNoAffinity\lChange" alt="" coords="202,411,381,453"/>
+</map>

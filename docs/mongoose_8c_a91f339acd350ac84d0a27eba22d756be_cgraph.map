@@ -1,0 +1,5 @@
+<map id="mg_connect_http_base" name="mg_connect_http_base">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a980bc6ef09b2ebdce9ea0b9490f0e352" title="mg_http_common_url\l_parse" alt="" coords="211,5,357,47"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#af08d2fcac91a9bd9b30dec10cc9e0f3d" title="mg_connect_opt" alt="" coords="225,71,343,98"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a9f8dc6ab99c0ffe17672edd78c6672be" title="mg_set_protocol_http\l_websocket" alt="" coords="211,123,357,164"/>
+</map>

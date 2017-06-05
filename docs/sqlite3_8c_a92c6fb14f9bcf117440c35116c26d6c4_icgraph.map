@@ -1,0 +1,27 @@
+<map id="releasePage" name="releasePage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a190cd892d7b1636800149aa2fb20f4ef" title="downgradeAllSharedCacheTable\lLocks" alt="" coords="148,5,356,47"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a8535e63c9127b9f6b5b136cab41cbdd7" title="btreeReleaseAllCursorPages" alt="" coords="158,71,346,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ae85122d12808231a8d58459440a405ab" title="getAndInitPage" alt="" coords="197,274,307,301"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2b8fb9bf88e10e7e4dedc8da64e7e956" title="moveToRoot" alt="" coords="439,173,532,199"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a65c40cd7ec987dbd25392a180f388fe7" title="sqlite3BtreeDelete" alt="" coords="783,173,911,199"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a513ba5c0beb3462a4b60064469f1539d" title="balance_nonroot" alt="" coords="427,274,544,301"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a173f7c872fb68ccd3a20440d640b66c7" title="balance" alt="" coords="641,325,708,351"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aecc3046a56feeeabd3ca93c0685e35d5" title="clearDatabasePage" alt="" coords="418,223,553,250"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5b808194d3178be15705a420265cee9d" title="lockBtree" alt="" coords="213,831,291,858"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#ada198bfad4d2c61e88bd9317e98cc96c" title="unlockBtreeIfUnused" alt="" coords="181,882,323,909"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a7f494da0a512d247d690d6bc19397791" title="sqlite3BtreeCloseCursor" alt="" coords="404,907,567,934"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#af8fb5934ff87b02845c89350c57fd2bc" title="relocatePage" alt="" coords="436,679,535,706"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a68a85130a567f1700dc0907ec9227892" title="incrVacuumStep" alt="" coords="615,629,734,655"/>
+<area shape="rect" id="node15" href="$sqlite3_8c.html#a48e09eaac366a6b585edd02553872954" title="btreeCreateTable" alt="" coords="615,679,735,706"/>
+<area shape="rect" id="node16" href="$sqlite3_8c.html#abba4061ea34842db278e91f537d2c2ff" title="btreeDropTable" alt="" coords="620,755,729,782"/>
+<area shape="rect" id="node17" href="$sqlite3_8c.html#a7e94025b9bd56e9e9ccf148d1a0e1acf" title="sqlite3BtreeTripAllCursors" alt="" coords="166,983,338,1010"/>
+<area shape="rect" id="node18" href="$sqlite3_8c.html#a317473acdafdd688385c8954f09de186" title="sqlite3BtreeRollback" alt="" coords="415,1009,556,1035"/>
+<area shape="rect" id="node19" href="$sqlite3_8c.html#af907f898e049d621e2c9dc1ed1d63cf4" title="getOverflowPage" alt="" coords="193,1085,311,1111"/>
+<area shape="rect" id="node20" href="$sqlite3_8c.html#a6d71d2659481a7b7866f9445a62ec248" title="moveToParent" alt="" coords="200,1135,304,1162"/>
+<area shape="rect" id="node21" href="$sqlite3_8c.html#ae84ce1103eabfe9455a6a59e6cec4a33" title="allocateBtreePage" alt="" coords="188,527,316,554"/>
+<area shape="rect" id="node22" href="$sqlite3_8c.html#ab66a77004cf93954f2aae7e52a4e51a7" title="fillInCell" alt="" coords="452,578,519,605"/>
+<area shape="rect" id="node23" href="$sqlite3_8c.html#a92f1869a02b8b9196e5ea7ed2e61c328" title="balance_quick" alt="" coords="433,426,538,453"/>
+<area shape="rect" id="node24" href="$sqlite3_8c.html#af8eafba12a6ebc987cf6ae89f4cce1a8" title="balance_deeper" alt="" coords="429,375,542,402"/>
+<area shape="rect" id="node25" href="$sqlite3_8c.html#a625a2c2bdaf95cdb3a7cb945201f7efb" title="freePage2" alt="" coords="212,1186,292,1213"/>
+<area shape="rect" id="node26" href="$sqlite3_8c.html#a833fe7b749860571772ef6b19b3c54df" title="checkTreePage" alt="" coords="196,1237,308,1263"/>
+</map>

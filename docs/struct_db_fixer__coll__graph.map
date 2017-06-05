@@ -1,0 +1,5 @@
+<map id="DbFixer" name="DbFixer">
+<area shape="rect" id="node2" href="$struct_schema.html" title="{Schema\n|+ schema_cookie\l+ iGeneration\l+ file_format\l+ enc\l+ flags\l+ cache_size\l|}" alt="" coords="5,241,131,391"/>
+<area shape="rect" id="node3" href="$struct_token.html" title="{Token\n|+ z\l+ n\l|}" alt="" coords="194,5,251,97"/>
+<area shape="rect" id="node4" href="$struct_parse.html" title="{Parse\n|+ zErrMsg\l+ rc\l+ colNamesSet\l+ checkSchema\l+ nested\l+ nTempReg\l+ nTempInUse\l+ nColCache\l+ iColCache\l+ isMultiWrite\lи 39 больше...\l|}" alt="" coords="256,204,373,428"/>
+</map>

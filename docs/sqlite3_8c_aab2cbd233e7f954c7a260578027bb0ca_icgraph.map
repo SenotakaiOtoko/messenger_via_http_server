@@ -1,0 +1,8 @@
+<map id="walIndexHdr" name="walIndexHdr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#abcf92b15f0a35c95fca402459f96c2a6" title="walIndexWriteHdr" alt="" coords="191,5,314,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab5245070ab67db40291c71c4991aa317" title="walCheckpoint" alt="" coords="199,56,306,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ade661e556c040b7730356a57222d3ad2" title="walIndexTryHdr" alt="" coords="197,107,308,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7145b08b2ade973da4b1f5882e2fa21f" title="walTryBeginRead" alt="" coords="191,157,314,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a20c2ba1dcfe4c635dd2946f25af7a9f8" title="sqlite3WalBeginWriteTransaction" alt="" coords="145,208,360,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a9a106da99e04f3c34f90e9ca15678953" title="sqlite3WalUndo" alt="" coords="196,259,309,285"/>
+</map>

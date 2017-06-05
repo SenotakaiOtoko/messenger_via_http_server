@@ -1,0 +1,9 @@
+<map id="sqlite3VMPrintf" name="sqlite3VMPrintf">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aad368822484a1ceae010a829e27454ae" title="sqlite3SetString" alt="" coords="182,5,297,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="189,56,290,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a43b33971f250cf38164a84f751057bce" title="sqlite3MAppendf" alt="" coords="180,107,299,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a94156119b56753aab3c0bf0666c8d41a" title="sqlite3Error" alt="" coords="195,157,283,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#aee2798e173651adae0f9c85469f3457d" title="sqlite3ErrorMsg" alt="" coords="183,208,296,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#add0d891a062d044a0c7e6fc072702830" title="sqlite3VdbeChangeP4" alt="" coords="164,259,315,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ae78bd6187a28892732af5428ec15b03f" title="sqlite3NestedParse" alt="" coords="172,309,307,336"/>
+</map>

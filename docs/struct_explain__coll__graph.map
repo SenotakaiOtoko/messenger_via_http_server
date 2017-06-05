@@ -1,0 +1,4 @@
+<map id="Explain" name="Explain">
+<area shape="rect" id="node2" href="$struct_vdbe.html" title="{Vdbe\n|+ nMem\l+ nOp\l+ nOpAlloc\l+ nLabel\l+ aLabel\l+ nResColumn\l+ nCursor\l+ magic\l+ zErrMsg\l+ azVar\lи 30 больше...\l|}" alt="" coords="5,5,115,229"/>
+<area shape="rect" id="node3" href="$struct_str_accum.html" title="{StrAccum\n|+ zBase\l+ zText\l+ nChar\l+ nAlloc\l+ mxAlloc\l+ mallocFailed\l+ useMalloc\l+ tooBig\l|}" alt="" coords="208,27,315,207"/>
+</map>

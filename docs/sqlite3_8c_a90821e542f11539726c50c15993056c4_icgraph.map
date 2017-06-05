@@ -1,0 +1,6 @@
+<map id="sqlite3Put4byte" name="sqlite3Put4byte">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a7c90af52fec5e62ea28fdea09e13a662" title="walEncodeFrame" alt="" coords="165,5,288,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a12a2a8718a33ce32fc99f83239a4d491" title="walRestartLog" alt="" coords="175,56,279,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af9606aac275558d3b96c83b2bff2d717" title="sqlite3WalFrames" alt="" coords="336,81,463,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a7efb6a8380d746b14e73db99ad3428a2" title="backupOnePage" alt="" coords="167,157,286,184"/>
+</map>

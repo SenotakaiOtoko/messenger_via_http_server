@@ -1,0 +1,8 @@
+<map id="op_post" name="op_post">
+<area shape="rect" id="node2" href="$db__plugin__sqlite_8c.html#aa53ebd8c256bca025b5d2a00e57c97d6" title="Функция парсит параметр action HTTP запроса " alt="" coords="126,5,227,32"/>
+<area shape="rect" id="node3" href="$db__plugin__sqlite_8c.html#aaae0662d01bd93840c4e4d9778c5ce65" title="Функция api получения сообщения " alt="" coords="127,56,227,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2c92ac0d106eed3725227053a4ce323f" title="mg_http_send_error" alt="" coords="280,157,417,184"/>
+<area shape="rect" id="node5" href="$db__plugin__sqlite_8c.html#a6674451cff020de5748bdc298a212207" title="Функция api отправки сообщения " alt="" coords="121,157,232,184"/>
+<area shape="rect" id="node6" href="$db__plugin__sqlite_8c.html#a29dc47a40acc94913c2372d989ee8eed" title="Функция api получения данных о пользователе " alt="" coords="141,208,213,235"/>
+<area shape="rect" id="node7" href="$db__plugin__sqlite_8c.html#aac058d44b78ba7f125d172c1f8152bc4" title="Функция api регистрации нового пользователя " alt="" coords="128,259,225,285"/>
+</map>

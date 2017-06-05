@@ -1,0 +1,5 @@
+<map id="mg_socket_if_connect_tcp" name="mg_socket_if_connect_tcp">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a8c3f17edab445264dbf2a764739669cf" title="mg_get_errno" alt="" coords="465,25,567,51"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#a7239e725f6f454c811dce73a4ab52c07" title="mg_set_non_blocking_mode" alt="" coords="231,25,417,51"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#aff7b7bf70d850df7d77386b30d4301c0" title="mg_is_error" alt="" coords="279,75,369,102"/>
+</map>

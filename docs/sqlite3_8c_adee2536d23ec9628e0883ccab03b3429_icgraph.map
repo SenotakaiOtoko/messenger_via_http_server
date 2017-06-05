@@ -1,0 +1,9 @@
+<map id="sqlite3PcacheRefCount" name="sqlite3PcacheRefCount">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a31def80bfe1de9284d635ba190a5eb68" title="pagerUseWal" alt="" coords="248,41,348,67"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="438,15,591,42"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="433,78,596,105"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ab668348d5dcc0382c247c74b6358f16e" title="sqlite3PagerSetPagesize" alt="" coords="214,142,382,169"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#abf547f4276efb6f10262f7fde1e4d065" title="pagerUnlockIfUnused" alt="" coords="226,193,370,219"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a865a3e27288083a9cdfd8de2ba365d80" title="sqlite3PagerRefcount" alt="" coords="225,243,371,270"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a02362e6744d4431e328d760bef635a19" title="sqlite3PagerPageRefcount" alt="" coords="211,294,385,321"/>
+</map>

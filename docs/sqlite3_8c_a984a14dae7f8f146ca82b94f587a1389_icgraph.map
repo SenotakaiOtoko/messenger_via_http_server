@@ -1,0 +1,5 @@
+<map id="pcache1EnforceMaxPage" name="pcache1EnforceMaxPage">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a071ef90a5e389826abcea7883ff2cd05" title="pcache1Cachesize" alt="" coords="224,5,356,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7f62f5f6d03ab88020fa8e2ab80ca38e" title="pcache1Shrink" alt="" coords="236,56,344,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#af128220dedcda78a71f3283ece247258" title="pcache1Destroy" alt="" coords="232,107,348,133"/>
+</map>

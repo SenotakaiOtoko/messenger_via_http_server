@@ -1,0 +1,13 @@
+<map id="sqlite3WalFrames" name="sqlite3WalFrames">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a12a2a8718a33ce32fc99f83239a4d491" title="walRestartLog" alt="" coords="195,93,299,120"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aa452ad88657d4606e137b09c4e9315c7" title="sqlite3_randomness" alt="" coords="361,5,500,32"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a90821e542f11539726c50c15993056c4" title="sqlite3Put4byte" alt="" coords="375,81,487,108"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#abcf92b15f0a35c95fca402459f96c2a6" title="walIndexWriteHdr" alt="" coords="369,144,492,171"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a19c69852e7fdedf0dac08453403f7487" title="walChecksumBytes" alt="" coords="548,169,685,196"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="193,245,301,272"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a3f01629ca3b49854944cecdd14dc3358" title="sqlite3OsSync" alt="" coords="193,296,300,323"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ac0ea5b2a17ccb4d7233351d9da353160" title="walWriteOneFrame" alt="" coords="180,347,313,373"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#aa7a19cf4335c553ca8a39a706ad761b9" title="sqlite3SectorSize" alt="" coords="185,397,309,424"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#a7d814227c8fb4a3441c42e9f2fdade3b" title="walLimitSize" alt="" coords="199,448,294,475"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#a610585027d507a9b1c4a3d83bf01f517" title="walIndexAppend" alt="" coords="189,499,305,525"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="dns_handler" name="dns_handler">
+<area shape="rect" id="node2" href="$mongoose_8c.html#a992684a720955bdc25108165e417ac5d" title="mbuf_remove" alt="" coords="173,5,271,32"/>
+<area shape="rect" id="node3" href="$mongoose_8c.html#ab965bcfe8bc9e43a27ced4390301ea28" title="mg_parse_dns" alt="" coords="169,56,275,83"/>
+<area shape="rect" id="node4" href="$mongoose_8c.html#a2cbd4a7623976a4a7f4afd779861f6bb" title="mg_dns_insert_header" alt="" coords="145,107,299,133"/>
+<area shape="rect" id="node5" href="$mongoose_8c.html#a4b23c4379e5e56fc9c21bfb79ee76fad" title="mbuf_insert" alt="" coords="347,132,436,159"/>
+<area shape="rect" id="node6" href="$mongoose_8c.html#ab0613b2aa565a9b4c3ecca1488dfacad" title="mg_send" alt="" coords="185,208,259,235"/>
+</map>

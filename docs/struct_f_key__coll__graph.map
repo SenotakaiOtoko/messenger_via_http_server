@@ -1,0 +1,5 @@
+<map id="FKey" name="FKey">
+<area shape="rect" id="node3" href="$struct_table.html" title="{Table\n|+ zName\l+ zColAff\l+ nRowEst\l+ tnum\l+ iPKey\l+ nCol\l+ nRef\l+ tabFlags\l+ keyConf\l+ addColOffset\l+ nModuleArg\l+ azModuleArg\l|}" alt="" coords="37,373,147,612"/>
+<area shape="rect" id="node2" href="$struct_f_key_1_1s_col_map.html" title="{sColMap\n|+ iFrom\l+ zCol\l|}" alt="" coords="175,20,249,112"/>
+<area shape="rect" id="node4" href="$struct_trigger.html" title="{Trigger\n|+ zName\l+ table\l+ op\l+ tr_tm\l|}" alt="" coords="5,5,80,127"/>
+</map>

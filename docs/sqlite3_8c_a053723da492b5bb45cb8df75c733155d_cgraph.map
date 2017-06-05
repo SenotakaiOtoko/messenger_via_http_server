@@ -1,0 +1,6 @@
+<map id="sqlite3ExprCodeGetColumn" name="sqlite3ExprCodeGetColumn">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac4534d6b698d35e05784c15c3524f6c7" title="sqlite3ExprCachePinRegister" alt="" coords="236,5,427,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aef676ae689397d0e050eb0a360c32315" title="sqlite3ExprCodeGetColumn\lOfTable" alt="" coords="240,57,423,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4dde2e4087eda945511b05d667050740" title="sqlite3VdbeChangeP5" alt="" coords="256,123,407,149"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#abdba357d6958f512f5ede72517ebd89e" title="sqlite3ExprCacheStore" alt="" coords="254,173,409,200"/>
+</map>

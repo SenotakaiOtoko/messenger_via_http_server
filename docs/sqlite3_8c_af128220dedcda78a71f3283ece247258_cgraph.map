@@ -1,0 +1,5 @@
+<map id="pcache1Destroy" name="pcache1Destroy">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a95d9a0e421b47a80bd282a8b68929210" title="pcache1TruncateUnsafe" alt="" coords="174,5,335,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a984a14dae7f8f146ca82b94f587a1389" title="pcache1EnforceMaxPage" alt="" coords="169,56,340,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="211,107,299,133"/>
+</map>

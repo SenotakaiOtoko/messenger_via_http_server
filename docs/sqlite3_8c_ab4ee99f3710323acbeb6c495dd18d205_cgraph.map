@@ -1,0 +1,15 @@
+<map id="walIndexRecover" name="walIndexRecover">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4625e58ad3fd85c21cf16275c458f154" title="walLockExclusive" alt="" coords="178,5,302,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a395914ef2826de6ed70e92b5d02887de" title="sqlite3OsFileSize" alt="" coords="178,56,302,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a98ef6b5ed82299d2efc0b5f9e41c877d" title="sqlite3OsRead" alt="" coords="187,107,293,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2924627e99ca211030e954405a10f5e8" title="sqlite3Get4byte" alt="" coords="368,183,481,209"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a19c69852e7fdedf0dac08453403f7487" title="walChecksumBytes" alt="" coords="356,309,493,336"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac79dba55fc32b6a840cf5a9769bce7cd" title="sqlite3_malloc" alt="" coords="187,259,293,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#aaa163f26bf1e56df2fb274bf7e6bc5b9" title="walDecodeFrame" alt="" coords="179,208,301,235"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a610585027d507a9b1c4a3d83bf01f517" title="walIndexAppend" alt="" coords="182,360,298,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="196,411,284,437"/>
+<area shape="rect" id="node11" href="$sqlite3_8c.html#abcf92b15f0a35c95fca402459f96c2a6" title="walIndexWriteHdr" alt="" coords="179,461,301,488"/>
+<area shape="rect" id="node12" href="$sqlite3_8c.html#ad84967d160cb3a294c0a992c47a702da" title="walCkptInfo" alt="" coords="196,512,284,539"/>
+<area shape="rect" id="node13" href="$sqlite3_8c.html#a298c9699bf9c143662c6b1fec4b2dc3b" title="sqlite3_log" alt="" coords="198,563,282,589"/>
+<area shape="rect" id="node14" href="$sqlite3_8c.html#a7ef6fcadaaeb9b36d1b9eaaf7e8f3311" title="walUnlockExclusive" alt="" coords="172,613,308,640"/>
+</map>

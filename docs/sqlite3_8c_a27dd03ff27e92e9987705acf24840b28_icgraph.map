@@ -1,0 +1,5 @@
+<map id="pagerPagecount" name="pagerPagecount">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a53aeec46642c01ab2de938e8bd00b0e3" title="pagerOpenWalIfPresent" alt="" coords="169,5,328,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a58c197b629fb6eaacf96c7add57c70df" title="sqlite3PagerSharedLock" alt="" coords="376,56,539,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a875dc699b7a0e8ab6ba19170e5096d5e" title="hasHotJournal" alt="" coords="197,107,301,133"/>
+</map>

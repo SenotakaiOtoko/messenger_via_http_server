@@ -1,0 +1,8 @@
+<map id="sqlite3VtabBeginParse" name="sqlite3VtabBeginParse">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#af49b4395f39d9078a0dda2484c183012" title="sqlite3StartTable" alt="" coords="225,36,344,63"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6ba4248ee912d7f5a7a898c5ae46e808" title="sqlite3NameFromToken" alt="" coords="409,11,568,37"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a83c75b8b7aa1c35301005be7ff1a8582" title="sqlite3AuthCheck" alt="" coords="427,73,551,100"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad9ef77a42022f1f8c8ab71b5761f5134" title="sqlite3SchemaToIndex" alt="" coords="208,137,361,164"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a3020ed4a4b05f9a18e8ab695a182ce92" title="addModuleArgument" alt="" coords="214,188,355,215"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="227,239,343,265"/>
+</map>

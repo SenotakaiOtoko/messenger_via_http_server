@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>messenger_via_http_server: Структура mg_mqtt_message</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">messenger_via_http_server
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Поиск');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Поля данных</a>  </div>
+  <div class="headertitle">
+<div class="title">Структура mg_mqtt_message</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p><code>#include &lt;<a class="el" href="mongoose_8h_source.html">mongoose.h</a>&gt;</code></p>
+<div class="dynheader">
+Граф связей класса mg_mqtt_message:</div>
+<div class="dyncontent">
+<div class="center"><img src="structmg__mqtt__message__coll__graph.png" border="0" usemap="#mg__mqtt__message_coll__map" alt="Collaboration graph"/></div>
+<map name="mg__mqtt__message_coll__map" id="mg__mqtt__message_coll__map">
+<area shape="rect" id="node2" href="structmg__str.html" title="{mg_str\n|+ p\l+ len\l|}" alt="" coords="44,5,107,97"/>
+</map>
+</div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Поля данных</h2></td></tr>
+<tr class="memitem:a85092d82ab6ea85dad51ba78cbda36a0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a85092d82ab6ea85dad51ba78cbda36a0">cmd</a></td></tr>
+<tr class="separator:a85092d82ab6ea85dad51ba78cbda36a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35738099155a0e4f54050da474bab2e7"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a35738099155a0e4f54050da474bab2e7">qos</a></td></tr>
+<tr class="separator:a35738099155a0e4f54050da474bab2e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f9f577de10a7cf348d1d61da1a5398a"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a7f9f577de10a7cf348d1d61da1a5398a">topic</a></td></tr>
+<tr class="separator:a7f9f577de10a7cf348d1d61da1a5398a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9f5061130e6bd09d14f4e7bed95ad2e"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#ad9f5061130e6bd09d14f4e7bed95ad2e">payload</a></td></tr>
+<tr class="separator:ad9f5061130e6bd09d14f4e7bed95ad2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c2bae16602b5689cd4505092acee781"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a9c2bae16602b5689cd4505092acee781">connack_ret_code</a></td></tr>
+<tr class="separator:a9c2bae16602b5689cd4505092acee781"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9c217c6e58cdb2408e2ffbe9425289d"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#aa9c217c6e58cdb2408e2ffbe9425289d">message_id</a></td></tr>
+<tr class="separator:aa9c217c6e58cdb2408e2ffbe9425289d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a6d2c5c950287a93ff47119397893c9"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a0a6d2c5c950287a93ff47119397893c9">protocol_version</a></td></tr>
+<tr class="separator:a0a6d2c5c950287a93ff47119397893c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16548771900c3e7c13b759795547ea00"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a16548771900c3e7c13b759795547ea00">connect_flags</a></td></tr>
+<tr class="separator:a16548771900c3e7c13b759795547ea00"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a919d16adc8f9a2f10befdbeb275d2fb6"><td class="memItemLeft" align="right" valign="top">uint16_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a919d16adc8f9a2f10befdbeb275d2fb6">keep_alive_timer</a></td></tr>
+<tr class="separator:a919d16adc8f9a2f10befdbeb275d2fb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa66f3acccf3f236a5cbf8f9c8bcd5aad"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#aa66f3acccf3f236a5cbf8f9c8bcd5aad">protocol_name</a></td></tr>
+<tr class="separator:aa66f3acccf3f236a5cbf8f9c8bcd5aad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8aad2e5501cfeaa074c89c7645c6dfb"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#ac8aad2e5501cfeaa074c89c7645c6dfb">client_id</a></td></tr>
+<tr class="separator:ac8aad2e5501cfeaa074c89c7645c6dfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af77222a970fc6f4f24518a170ed0bffa"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#af77222a970fc6f4f24518a170ed0bffa">will_topic</a></td></tr>
+<tr class="separator:af77222a970fc6f4f24518a170ed0bffa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0751a4cbbd744b211525775ed6824126"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a0751a4cbbd744b211525775ed6824126">will_message</a></td></tr>
+<tr class="separator:a0751a4cbbd744b211525775ed6824126"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0053b49e567ab8f7d0c2295e66de098"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#ad0053b49e567ab8f7d0c2295e66de098">user_name</a></td></tr>
+<tr class="separator:ad0053b49e567ab8f7d0c2295e66de098"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18f9f89cb5c571263c463c47175f9443"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structmg__str.html">mg_str</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmg__mqtt__message.html#a18f9f89cb5c571263c463c47175f9443">password</a></td></tr>
+<tr class="separator:a18f9f89cb5c571263c463c47175f9443"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Поля</h2>
+<a id="ac8aad2e5501cfeaa074c89c7645c6dfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8aad2e5501cfeaa074c89c7645c6dfb">&#9670;&nbsp;</a></span>client_id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> client_id</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a85092d82ab6ea85dad51ba78cbda36a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85092d82ab6ea85dad51ba78cbda36a0">&#9670;&nbsp;</a></span>cmd</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int cmd</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9c2bae16602b5689cd4505092acee781"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c2bae16602b5689cd4505092acee781">&#9670;&nbsp;</a></span>connack_ret_code</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t connack_ret_code</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a16548771900c3e7c13b759795547ea00"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16548771900c3e7c13b759795547ea00">&#9670;&nbsp;</a></span>connect_flags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t connect_flags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a919d16adc8f9a2f10befdbeb275d2fb6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a919d16adc8f9a2f10befdbeb275d2fb6">&#9670;&nbsp;</a></span>keep_alive_timer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint16_t keep_alive_timer</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa9c217c6e58cdb2408e2ffbe9425289d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9c217c6e58cdb2408e2ffbe9425289d">&#9670;&nbsp;</a></span>message_id</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint16_t message_id</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a18f9f89cb5c571263c463c47175f9443"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18f9f89cb5c571263c463c47175f9443">&#9670;&nbsp;</a></span>password</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> password</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad9f5061130e6bd09d14f4e7bed95ad2e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9f5061130e6bd09d14f4e7bed95ad2e">&#9670;&nbsp;</a></span>payload</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> payload</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa66f3acccf3f236a5cbf8f9c8bcd5aad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa66f3acccf3f236a5cbf8f9c8bcd5aad">&#9670;&nbsp;</a></span>protocol_name</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> protocol_name</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0a6d2c5c950287a93ff47119397893c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a6d2c5c950287a93ff47119397893c9">&#9670;&nbsp;</a></span>protocol_version</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t protocol_version</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a35738099155a0e4f54050da474bab2e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35738099155a0e4f54050da474bab2e7">&#9670;&nbsp;</a></span>qos</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int qos</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7f9f577de10a7cf348d1d61da1a5398a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f9f577de10a7cf348d1d61da1a5398a">&#9670;&nbsp;</a></span>topic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> topic</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad0053b49e567ab8f7d0c2295e66de098"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0053b49e567ab8f7d0c2295e66de098">&#9670;&nbsp;</a></span>user_name</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> user_name</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0751a4cbbd744b211525775ed6824126"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0751a4cbbd744b211525775ed6824126">&#9670;&nbsp;</a></span>will_message</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> will_message</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af77222a970fc6f4f24518a170ed0bffa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af77222a970fc6f4f24518a170ed0bffa">&#9670;&nbsp;</a></span>will_topic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="structmg__str.html">mg_str</a> will_topic</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Объявления и описания членов структуры находятся в файле:<ul>
+<li>C:/Users/User/Documents/Visual Studio 2012/Projects/messenger_via_http_server/messenger_via_http_server/<a class="el" href="mongoose_8h_source.html">mongoose.h</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

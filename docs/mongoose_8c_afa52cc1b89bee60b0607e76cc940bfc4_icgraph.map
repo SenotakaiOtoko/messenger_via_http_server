@@ -1,0 +1,7 @@
+<map id="mg_send_mqtt_short_command" name="mg_send_mqtt_short_command">
+<area shape="rect" id="node2" href="$mongoose_8h.html#a8755d2c1c429a6e46a66661c8276c219" title="mg_mqtt_puback" alt="" coords="204,5,327,32"/>
+<area shape="rect" id="node3" href="$mongoose_8h.html#aac203b0b75c3c6e3cb8fcb8f56b984c7" title="mg_mqtt_pubrec" alt="" coords="206,56,325,83"/>
+<area shape="rect" id="node4" href="$mongoose_8h.html#af61196528db9402aae10ac9e2339b657" title="mg_mqtt_pubrel" alt="" coords="208,107,323,133"/>
+<area shape="rect" id="node5" href="$mongoose_8h.html#a2e0549498ee17cc8829e43301f3da235" title="mg_mqtt_pubcomp" alt="" coords="199,157,332,184"/>
+<area shape="rect" id="node6" href="$mongoose_8h.html#abd2b5b0874803614548d497856aa02a1" title="mg_mqtt_unsuback" alt="" coords="197,208,333,235"/>
+</map>

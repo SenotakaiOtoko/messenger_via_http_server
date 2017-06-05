@@ -1,0 +1,9 @@
+<map id="sqlite3_complete16" name="sqlite3_complete16">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab0c0ee2d5d4cf8b28e9572296a8861df" title="sqlite3_initialize" alt="" coords="196,5,311,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad40a378778daff2d574bec905e35828b" title="sqlite3ValueNew" alt="" coords="194,56,313,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a1fd40749f47941ee97ff6d798e2bc67e" title="sqlite3ValueSetStr" alt="" coords="188,107,319,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad567a94e52d1adf81f4857fdba00a59b" title="sqlite3ValueText" alt="" coords="194,157,313,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a9a7d40e747b5ba853756499b1e2d1198" title="sqlite3_complete" alt="" coords="193,208,313,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#afeed84c3f344a833d15c7209265dc520" title="sqlite3ValueFree" alt="" coords="194,259,313,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ae5a967ec6172298db98b6090bbd1dd9b" title="sqlite3ApiExit" alt="" coords="202,309,305,336"/>
+</map>

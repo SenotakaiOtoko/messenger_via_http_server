@@ -1,0 +1,8 @@
+<map id="sqlite3_errmsg16" name="sqlite3_errmsg16">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ac1fff729aec147d9825a4930042a626b" title="sqlite3SafetyCheckSickOrOk" alt="" coords="175,5,365,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="201,56,339,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a37fd04f58867fdca6f417272592de264" title="sqlite3_value_text16" alt="" coords="201,107,339,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1fd40749f47941ee97ff6d798e2bc67e" title="sqlite3ValueSetStr" alt="" coords="205,157,335,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#ab289afae24fa83e42f3d78b3b7e91793" title="sqlite3ErrStr" alt="" coords="223,208,317,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="201,259,339,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="writeJournalHdr" name="writeJournalHdr">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ade39a2ad6c5f6511b13e92c024e83888" title="journalHdrOffset" alt="" coords="208,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a251e030ce1bd2e552bc2dd66b1ac36d0" title="sqlite3OsDeviceCharacteristics" alt="" coords="164,56,367,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa452ad88657d4606e137b09c4e9315c7" title="sqlite3_randomness" alt="" coords="196,107,335,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a1eea7ec327af84c05b4dd4cc075a537f" title="sqlite3OsWrite" alt="" coords="211,157,319,184"/>
+</map>

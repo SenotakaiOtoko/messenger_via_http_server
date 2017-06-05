@@ -1,0 +1,8 @@
+<map id="sqlite3ParseUri" name="sqlite3ParseUri">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="165,5,273,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ac79dba55fc32b6a840cf5a9769bce7cd" title="sqlite3_malloc" alt="" coords="167,56,272,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a4ae85b8d9051570b833812ea1f7d632a" title="sqlite3_mprintf" alt="" coords="166,107,273,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ae3802c77b18399c03c8c9f973ff47239" title="sqlite3HexToInt" alt="" coords="164,157,275,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a009b28f3d275077f7bb7f3ef37de6095" title="sqlite3_vfs_find" alt="" coords="165,208,274,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="175,259,263,285"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="sqlite3Prepare16" name="sqlite3Prepare16">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab15308423296d719d75dca4c0ef182a7" title="sqlite3SafetyCheckOk" alt="" coords="376,5,527,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="382,81,521,108"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a2c2d4b96de83192463964b77bdc524ae" title="sqlite3Utf16to8" alt="" coords="196,195,304,221"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a5db1ec5589aa2b02c6d979211a8789bd" title="sqlite3LockAndPrepare" alt="" coords="172,93,328,120"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="382,132,521,159"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a066ef98fa63764bd64b8da19566270f8" title="sqlite3Utf8CharLen" alt="" coords="185,245,315,272"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a03361e986e6fc07dd0e5ae76e5f1bb5c" title="sqlite3Utf16ByteLen" alt="" coords="181,296,319,323"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="199,347,301,373"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ae5a967ec6172298db98b6090bbd1dd9b" title="sqlite3ApiExit" alt="" coords="199,397,301,424"/>
+</map>

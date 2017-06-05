@@ -1,0 +1,6 @@
+<map id="findTerm" name="findTerm">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a9d43a9db81f31f7473f7ca11fd823900" title="sqlite3IndexAffinityOk" alt="" coords="148,5,295,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ad736cef22bdf857cc89b9411ffca6af6" title="sqlite3BinaryCompareCollSeq" alt="" coords="124,56,319,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a91b59896d4e3534de7c33940dca8537c" title="sqlite3ExprSkipCollate" alt="" coords="367,132,520,159"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#acb10e48c9a4184a4edd9bfd5b14ad0b7" title="exprAnalyze" alt="" coords="174,157,269,184"/>
+</map>

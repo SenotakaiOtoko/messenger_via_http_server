@@ -1,0 +1,6 @@
+<map id="releaseAllSavepoints" name="releaseAllSavepoints">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#ab732400d8022b48df1b7b3ee41be045d" title="sqlite3BitvecDestroy" alt="" coords="196,5,336,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a6552349e36a8a691af5487999ab09519" title="sqlite3_free" alt="" coords="384,31,472,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a237bb8682b84ed24be164d4c57465182" title="sqlite3IsMemJournal" alt="" coords="196,107,336,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa5f0aeb27273a57c0523deaf48997533" title="sqlite3OsClose" alt="" coords="211,157,321,184"/>
+</map>

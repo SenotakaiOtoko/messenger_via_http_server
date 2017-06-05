@@ -1,0 +1,5 @@
+<map id="PCacheGlobal" name="PCacheGlobal">
+<area shape="rect" id="node2" href="$struct_p_group.html" title="{PGroup\n|+ nMaxPage\l+ nMinPage\l+ mxPinned\l+ nCurrentPage\l|}" alt="" coords="88,145,201,267"/>
+<area shape="rect" id="node3" href="$structsqlite3__mutex.html" title="{sqlite3_mutex\n|+ mutex\l|}" alt="" coords="5,5,108,83"/>
+<area shape="rect" id="node4" href="$struct_pg_freeslot.html" title="{PgFreeslot\n||}" alt="" coords="226,167,311,245"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IntegrityCk" name="IntegrityCk">
+<area shape="rect" id="node2" href="$struct_bt_shared.html" title="{BtShared\n|+ openFlags\l+ autoVacuum\l+ incrVacuum\l+ bDoTruncate\l+ inTransaction\l+ max1bytePayload\l+ btsFlags\l+ maxLocal\l+ minLocal\l+ maxLeaf\lи 9 больше...\l|}" alt="" coords="97,292,235,516"/>
+<area shape="rect" id="node3" href="$struct_pager.html" title="{Pager\n|+ exclusiveMode\l+ journalMode\l+ useJournal\l+ noSync\l+ fullSync\l+ ckptSyncFlags\l+ walSyncFlags\l+ syncFlags\l+ tempFile\l+ readOnly\lи 38 больше...\l|}" alt="" coords="5,5,127,229"/>
+<area shape="rect" id="node4" href="$struct_str_accum.html" title="{StrAccum\n|+ zBase\l+ zText\l+ nChar\l+ nAlloc\l+ mxAlloc\l+ mallocFailed\l+ useMalloc\l+ tooBig\l|}" alt="" coords="330,314,437,494"/>
+</map>

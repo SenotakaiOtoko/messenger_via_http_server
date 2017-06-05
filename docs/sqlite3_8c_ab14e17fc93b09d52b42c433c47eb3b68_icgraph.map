@@ -1,0 +1,11 @@
+<map id="sqlite3OsTruncate" name="sqlite3OsTruncate">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a6e1592949a5e668f43f0ff5f5d08fe10" title="zeroJournalHdr" alt="" coords="215,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a0814e2cfab386b1e3ba74528870339fe" title="pager_end_transaction" alt="" coords="405,56,559,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a6df09ec3e85ec74c6ee0bbbbe72a8cf3" title="writeMasterJournal" alt="" coords="203,107,334,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#aa0700caa408442673a3ede3bb04b1f0b" title="pager_truncate" alt="" coords="215,157,323,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a8b5f1920b6a8b564a47e243868f2c8d4" title="sqlite3PagerSavepoint" alt="" coords="193,208,344,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ab5245070ab67db40291c71c4991aa317" title="walCheckpoint" alt="" coords="215,259,322,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a7d814227c8fb4a3441c42e9f2fdade3b" title="walLimitSize" alt="" coords="221,309,316,336"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a140384ac4c9367f2ad64e52a7c62bc62" title="backupTruncateFile" alt="" coords="201,360,336,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#ab27c22e7c756912699880a12b4f262d3" title="sqlite3VdbeSorterCompare" alt="" coords="180,411,357,437"/>
+</map>

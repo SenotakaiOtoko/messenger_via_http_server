@@ -1,0 +1,11 @@
+<map id="sqlite3OsDeviceCharacteristics" name="sqlite3OsDeviceCharacteristics">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a667bdac69bf20203e45cd8e899790bcc" title="pagerLockDb" alt="" coords="264,5,363,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a875dc699b7a0e8ab6ba19170e5096d5e" title="hasHotJournal" alt="" coords="429,31,533,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0b0a4fa9c3fe997aaa565b1e438acca7" title="writeJournalHdr" alt="" coords="258,107,369,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a53f9f2b680d397f110a892f8931623c6" title="syncJournal" alt="" coords="436,132,527,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a5b54bd09bd76fa68eb6310fbf9bbaf20" title="pager_unlock" alt="" coords="264,208,363,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ae5c96f9f828df3cd795fe591b788ce35" title="setSectorSize" alt="" coords="261,259,365,285"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a5b4a74e8a1754922c482b7af19b30611" title="sqlite3PagerOpen" alt="" coords="419,284,544,311"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#adf4d97849e76f154717956aa9ea0e138" title="sqlite3WalOpen" alt="" coords="256,360,371,387"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a5d7f1e0625451b987728f600cfe1b92d" title="vdbeCommit" alt="" coords="267,411,360,437"/>
+</map>

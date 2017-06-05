@@ -1,0 +1,7 @@
+<map id="sqlite3VdbeGetOp" name="sqlite3VdbeGetOp">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a50d21decd8ebbdffa8c34308163ee6ba" title="readsTable" alt="" coords="199,5,285,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#ab0fbc70717e4729d54c4411152c4f335" title="sqlite3Insert" alt="" coords="353,31,445,57"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a28a19a72e49dbeaaed8a38c573d906ef" title="selectInnerLoop" alt="" coords="185,107,299,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a2465ee8c956209ba4b272477b7c21a45" title="sqlite3Select" alt="" coords="351,157,448,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#af95a57bac2421101d85440934cc5043e" title="sqlite3WhereEnd" alt="" coords="181,208,303,235"/>
+</map>

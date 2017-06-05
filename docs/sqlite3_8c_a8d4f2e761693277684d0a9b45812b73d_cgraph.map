@@ -1,0 +1,10 @@
+<map id="renameParentFunc" name="renameParentFunc">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a4b82e673c3dcc88c179e2bae5629fa60" title="sqlite3_context_db\l_handle" alt="" coords="185,5,316,47"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aef2ace3239e6dd59c74110faa70f8171" title="sqlite3_value_text" alt="" coords="188,71,313,98"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a3111c5f563140332fcc76d31fd028aaf" title="sqlite3GetToken" alt="" coords="193,122,309,149"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#ad68ab1bd16b9220b68734b069c6c8093" title="sqlite3DbStrNDup" alt="" coords="188,173,313,199"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a7b0ccb71d60de662cbb09755454dee5d" title="sqlite3Dequote" alt="" coords="197,223,305,250"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="200,274,301,301"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="199,325,302,351"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#a2c06bc83045bd7986b89e5e8bd689bdf" title="sqlite3_result_text" alt="" coords="187,375,315,402"/>
+</map>

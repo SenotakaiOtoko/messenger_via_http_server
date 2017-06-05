@@ -1,0 +1,11 @@
+<map id="sqlite3VdbeList" name="sqlite3VdbeList">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a321ef1ead88ab0c4c636971ae5cc9778" title="releaseMemArray" alt="" coords="180,5,304,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#aad368822484a1ceae010a829e27454ae" title="sqlite3SetString" alt="" coords="185,56,299,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab289afae24fa83e42f3d78b3b7e91793" title="sqlite3ErrStr" alt="" coords="195,107,289,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a19b314c1960c7fb6ef2038ed53a87aae" title="sqlite3OpcodeName" alt="" coords="173,157,311,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="389,323,497,349"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ad26fb054dcce926a1d2b8d981b630333" title="sqlite3VdbeMemGrow" alt="" coords="368,233,517,260"/>
+<area shape="rect" id="node8" href="$sqlite3_8c.html#a213d2242690998ca991f734ee4d4dce9" title="displayP4" alt="" coords="203,360,281,387"/>
+<area shape="rect" id="node9" href="$sqlite3_8c.html#aa2695a752e971577f5784122f2013c40" title="sqlite3_snprintf" alt="" coords="388,399,497,425"/>
+<area shape="rect" id="node10" href="$sqlite3_8c.html#a9697bec7c3b512483638ea3646191d7d" title="sqlite3VdbeMemSetStr" alt="" coords="164,259,320,285"/>
+</map>

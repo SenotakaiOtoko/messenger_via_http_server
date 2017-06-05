@@ -1,0 +1,8 @@
+<map id="selectColumnsFromExprList" name="selectColumnsFromExprList">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a37082da9938fd9dcebfa0d2fb7c540de" title="sqlite3DbMallocZero" alt="" coords="247,5,386,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a91b59896d4e3534de7c33940dca8537c" title="sqlite3ExprSkipCollate" alt="" coords="240,56,393,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#a0ec4772ee6de7316ecd1e6cabb1beeef" title="sqlite3DbStrDup" alt="" coords="259,107,375,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a3dcd80ba41f1a308193dee74857b62a7" title="sqlite3Strlen30" alt="" coords="441,132,549,159"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a208ef0df84e9778778804a19af03efea" title="sqlite3MPrintf" alt="" coords="266,208,367,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#ac70ab821a6607b4a1b909582dc37a069" title="sqlite3DbFree" alt="" coords="265,259,368,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="moveToParent" name="moveToParent">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#aa56f96564bee008046aa50f7f8455887" title="sqlite3BtreeNext" alt="" coords="168,5,287,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a1fc0a28b4147df5a1277a35da9a004df" title="sqlite3BtreePrevious" alt="" coords="157,56,297,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#ab162651b72ea609cf8e8fcd3d3320517" title="sqlite3BtreeCount" alt="" coords="165,107,290,133"/>
+</map>

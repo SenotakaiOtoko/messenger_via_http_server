@@ -1,0 +1,8 @@
+<map id="sqlite3_db_release_memory" name="sqlite3_db_release_memory">
+<area shape="rect" id="node2" href="$sqlite3_8c.html#a1c12cde690bd89f104de5cbad12a6bf5" title="sqlite3_mutex_enter" alt="" coords="184,5,323,32"/>
+<area shape="rect" id="node3" href="$sqlite3_8c.html#a7e8c5e623a61d322d3622c3e6202d735" title="sqlite3BtreeEnterAll" alt="" coords="185,56,322,83"/>
+<area shape="rect" id="node4" href="$sqlite3_8c.html#aa0b1925984c0d8606d760b8fa27a4d7c" title="sqlite3BtreePager" alt="" coords="191,107,316,133"/>
+<area shape="rect" id="node5" href="$sqlite3_8c.html#a28f065ffd59dc6b9660bd5622cfa1de8" title="sqlite3PagerShrink" alt="" coords="188,157,319,184"/>
+<area shape="rect" id="node6" href="$sqlite3_8c.html#a282e5f429eee8e0aebc7d18068ebccd2" title="sqlite3BtreeLeaveAll" alt="" coords="184,208,323,235"/>
+<area shape="rect" id="node7" href="$sqlite3_8c.html#a5838d235601dbd3c1fa993555c6bcc93" title="sqlite3_mutex_leave" alt="" coords="184,259,323,285"/>
+</map>
